@@ -6,5 +6,3 @@
   
   */index
   about
-
-.. _ゆる言語学ラジオ: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
