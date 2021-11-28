@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://yurugen.mtakagishi.com/sitemap.xml
+Sitemap: https://yurugengo.mtakagishi.com/sitemap.xml
