@@ -255,4 +255,4 @@
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
 .. _サポーターコミュニティ: https://yurugengo.com/support
 .. _うんちくエウレーカクイズ応募フォーム: https://forms.gle/cGpGjmstG5pNwVF16
-.. _選書リスト: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXRZalo0S2k0Q2Q4bWN3NzVzZTNTQ2FxamQ4Z3xBQ3Jtc0tuN2NfVTFBZDVlSGtJckZRTUN5d3ByS1dtVFdBNlVzb0huLWl3WGhvdnpOVUo4QUdOak5scDRnWW1GWUZKQlRHa2JSNUdBSUtrSzBrS0lkZE5OcklPMHFvUFREdThjZ0tXRTFPOUNMYWZyMFZHbHlSaw&q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ%2Fedit%3Fusp%3Dsharing
+.. _選書リスト: https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0
