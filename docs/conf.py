@@ -64,7 +64,7 @@ html_static_path = ['_static']
 html_theme_options = {
     "github_url": "https://github.com/mtakagishi/yurugengo",
     "twitter_url": "https://twitter.com/mtakagishi",
-    # "google_analytics_id": "UA-XXXXXXXXX-1",
+    "google_analytics_id": "UA-183061927-3",
     "navbar_end": ["navbar-icon-links.html", "search-field.html"],
     "footer_items": ["copyright"],
 }
