@@ -1,0 +1,16 @@
+ゆる言語学ラジオ
+==============================
+.. note:: 
+  * 堀元氏と水野氏がゆるく楽しく言語の面白さを語るラジオ
+  * アカデミズムの二次創作をコンセプトに、専門家ではない人間が言語学を面白がるコンテンツ
+
+.. rubric:: 関連リンク
+* :doc:`/videos/index` 
+* `チャンネルホーム`_
+* `再生リスト`_
+* `サポーターコミュニティ`_
+
+
+.. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
+.. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
+.. _サポーターコミュニティ: https://yurugengo.com/support

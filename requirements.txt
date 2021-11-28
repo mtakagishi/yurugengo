@@ -1,0 +1,4 @@
+sphinx
+pydata-sphinx-theme
+recommonmark
+sphinx-sitemap

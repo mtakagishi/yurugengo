@@ -1,0 +1,3 @@
+[build]
+  publish = "docs/_build"
+  command = "sphinx-build docs docs/_build"
