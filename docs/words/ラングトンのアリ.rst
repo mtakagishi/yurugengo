@@ -5,6 +5,7 @@
 
 .. rubric:: 関連リンク
 * `ラングトンのアリ(Wikipedia) <https://ja.wikipedia.org/wiki/ラングトンのアリ>`_ 
+* :doc:`創発` 
 * `言語の変化を説明する鍵は「ドリフト」【サピア2】#55`_
 
 .. _言語の変化を説明する鍵は「ドリフト」【サピア2】#55: https://www.youtube.com/watch?v=h6zyDXsuVh8
