@@ -4,3 +4,6 @@
   * 暗喩、隠喩
   * 比喩だとはっきり表現しない比喩技法
 
+.. rubric:: 関連リンク
+* `メタファー(Wikipedia) <https://ja.wikipedia.org/wiki/メタファー>`_ 
+
