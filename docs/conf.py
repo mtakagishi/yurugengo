@@ -68,7 +68,9 @@ html_theme_options = {
     "navbar_end": ["navbar-icon-links.html", "search-field.html"],
     "footer_items": ["copyright"],
 }
-
+html_sidebars = {
+    "words/*": ["search-field.html", "sidebar-ethical-ads.html"]
+}
 
 [extensions]
 todo_include_todos = True
