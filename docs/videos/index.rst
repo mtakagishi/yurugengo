@@ -7,7 +7,7 @@
 * `サポーターコミュニティ`_
 * `ゆる言語学ラジオおたよりフォーム`_
 * `ゆる言語学ラジオTwitter`_
-
+* `ゆる言語学ラジオPodcast`_
 
 企画リンク
 ------------------
@@ -15,7 +15,7 @@
 * `うんちくエウレーカクイズ応募フォーム`_
 * `ゆる言語学ラジオ流行語大賞2021投票フォーム`_
 * `ゆる言語学ラジオ流行語大賞_参考候補`_
-
+* `2021年度 JAPAN PODCAST AWARDS 投票ページ <https://japanpodcastawards.com/>`_ 
 
 全動画一覧
 --------------
@@ -282,3 +282,5 @@
 .. _ゆる言語学ラジオTwitter: https://twitter.com/yuru_gengo
 .. _ゆる言語学ラジオ流行語大賞2021投票フォーム: https://docs.google.com/forms/d/e/1FAIpQLSfWLAxgQwfEdKyov-v7Npi7SbDPYRpyfe84HZFSJu1a5Gcp3A/viewform
 .. _ゆる言語学ラジオ流行語大賞_参考候補: https://docs.google.com/spreadsheets/d/e/2PACX-1vTI3KKa1LA8HpdyAb_-QDrEG-tgaBDMwADNYXWYzSS7i38wLDMPLbglXZJqkULXXNjgLDyp33E5ARgg/pubhtml?gid=0&single=true
+
+.. _ゆる言語学ラジオPodcast: https://anchor.fm/yurugengo
