@@ -3,7 +3,7 @@ JAPAN PODCAST AWARDS
 .. note:: 
   * 毎年3月に発表される日本一のPodcastを決める賞
   * ゆる言語学ラジオ始めようぜ、という段階で堀元氏が掲げたチャンネル目標
-  * 水野氏に絵空事であると正気を疑われた目標の結果は果たして！？
+  * 水野氏からは何を絵空事を？と正気を疑われた目標の結果は果たして！？
 
 .. rubric:: 投票URL
 * `2021年度 JAPAN PODCAST AWARDS 投票ページ <https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener>`_ 
