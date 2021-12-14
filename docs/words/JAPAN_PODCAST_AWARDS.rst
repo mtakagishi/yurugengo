@@ -4,6 +4,7 @@ JAPAN PODCAST AWARDS
   * 毎年3月に発表される日本一のPodcastを決める賞
   * ゆる言語学ラジオ始めようぜ、という段階で堀元氏が掲げたチャンネル目標
   * 水野氏からは何を絵空事を？と正気を疑われた目標の結果は果たして！？
+  * 2022年3月17日（木）の勤め人には見れない時間にライブ配信で発表される見込み
 
 .. rubric:: 投票URL
 * `2021年度 JAPAN PODCAST AWARDS 投票ページ <https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener>`_ 
@@ -27,5 +28,6 @@ JAPAN PODCAST AWARDS
 
 
 .. rubric:: 関連リンク
+* `JAPAN PODCAST AWARDS(公式) <https://japanpodcastawards.com/>`_ 
 * :doc:`メタモン` 
 * :doc:`ゆる言語学ラジオ` 
