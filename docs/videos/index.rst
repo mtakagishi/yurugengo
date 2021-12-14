@@ -15,7 +15,7 @@
 * `うんちくエウレーカクイズ応募フォーム`_
 * `ゆる言語学ラジオ流行語大賞2021投票フォーム`_
 * `ゆる言語学ラジオ流行語大賞_参考候補`_
-* `2021年度 JAPAN PODCAST AWARDS 投票ページ <https://japanpodcastawards.com/>`_ 
+* :doc:`/words/JAPAN_PODCAST_AWARDS` 
 
 全動画一覧
 --------------

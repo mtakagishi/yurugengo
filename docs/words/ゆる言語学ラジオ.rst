@@ -11,13 +11,15 @@
 * `サポーターコミュニティ`_
 * `ゆる言語学ラジオおたよりフォーム`_
 * `ゆる言語学ラジオTwitter`_
+* `ゆる言語学ラジオPodcast`_
+
 
 .. rubric:: 企画リンク
 * `選書リスト`_
 * `うんちくエウレーカクイズ応募フォーム`_
 * `ゆる言語学ラジオ流行語大賞2021投票フォーム`_
 * `ゆる言語学ラジオ流行語大賞_参考候補`_
-
+* :doc:`JAPAN_PODCAST_AWARDS` 
 
 .. rubric:: 関連リンク
 * `言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
@@ -32,3 +34,4 @@
 .. _うんちくエウレーカクイズ応募フォーム: https://forms.gle/cGpGjmstG5pNwVF16
 .. _ゆる言語学ラジオ流行語大賞2021投票フォーム: https://docs.google.com/forms/d/e/1FAIpQLSfWLAxgQwfEdKyov-v7Npi7SbDPYRpyfe84HZFSJu1a5Gcp3A/viewform
 .. _ゆる言語学ラジオ流行語大賞_参考候補: https://docs.google.com/spreadsheets/d/e/2PACX-1vTI3KKa1LA8HpdyAb_-QDrEG-tgaBDMwADNYXWYzSS7i38wLDMPLbglXZJqkULXXNjgLDyp33E5ARgg/pubhtml?gid=0&single=true
+.. _ゆる言語学ラジオPodcast: https://anchor.fm/yurugengo
