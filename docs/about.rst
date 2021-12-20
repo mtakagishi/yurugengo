@@ -19,7 +19,7 @@ Google Analyticsでは「Cookie」を使用し、個人を特定する情報を�
 
 お問合せ
 -------------------
-* `お問合せ・ご意見・ご要望 <https://github.com/mtakagishi/yurugengo/issues/new?assignees=&labels=&template=------------.md&title=>`_
+* `お問合せ・ご意見・ご要望 <https://forms.gle/WJ3khhqqeNrEr8fv6>`_
 * `ツイッター <https://twitter.com/mtakagishi>`_  
 
 更新履歴
