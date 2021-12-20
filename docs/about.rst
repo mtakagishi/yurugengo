@@ -24,4 +24,4 @@ Google Analyticsでは「Cookie」を使用し、個人を特定する情報を�
 
 更新履歴
 ------------------
-このサイトはgithubで管理してます。更新履歴はこちらをご覧ください。⇒ `github <https://github.com/mtakagishi/yurugengo/commits/main>`_
+* `更新履歴 <https://github.com/mtakagishi/yurugengo/commits/main>`_
