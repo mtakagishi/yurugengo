@@ -7,9 +7,10 @@
 .. hint:: 
   * わからない！？母語話者なのに！？
 
-
 .. rubric:: 関連リンク
 * `母語(Wikipedia) <https://ja.wikipedia.org/wiki/%E6%AF%8D%E8%AA%9E>`_ 
+
+.. rubric:: 関連ラジオ
 * `米国を恐怖に陥れた「サメの夏」をミーム化【雑談コメント返し】 #59`_
 
 .. _米国を恐怖に陥れた「サメの夏」をミーム化【雑談コメント返し】 #59: https://www.youtube.com/watch?v=EtXBKIMqSUY

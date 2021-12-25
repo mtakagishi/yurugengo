@@ -5,9 +5,11 @@ NP困難
   * 後に水野氏はチョムスキーの著書で「NP困難」との再会を果たす。
 
 .. rubric:: 関連リンク
+* `NP困難(Wikipedia) <https://ja.wikipedia.org/wiki/NP困難>`_ 
+
+.. rubric:: 関連ラジオ
 * `春とバネ、なぜ両方springなのか-多義語パズルへの招待 #12`_
 * `【徹底討論】プログラミング言語は言語なの？【ゆるコンピュータ科学ラジオ4】#66`_
-* `NP困難(Wikipedia) <https://ja.wikipedia.org/wiki/NP困難>`_ 
 
 .. _【徹底討論】プログラミング言語は言語なの？【ゆるコンピュータ科学ラジオ4】#66: https://www.youtube.com/watch?v=ru1ZVmytMoo
 .. _春とバネ、なぜ両方springなのか-多義語パズルへの招待 #12: https://www.youtube.com/watch?v=xE91uqIpOMU

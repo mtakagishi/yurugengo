@@ -5,7 +5,7 @@
 アスペクト
   完了、継続など
 
-.. rubric:: 関連動画
+.. rubric:: 関連ラジオ
 * `人は無知の量を誇るべき【雑談回】#85`_
   
 .. _人は無知の量を誇るべき【雑談回】#85: https://www.youtube.com/watch?v=Z0KLBPiRrOY

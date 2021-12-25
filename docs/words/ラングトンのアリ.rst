@@ -3,9 +3,13 @@
 .. note:: 
   * サピアの提唱する「ドリフト」を説明のために用いられた高度過ぎる例え
 
-.. rubric:: 関連リンク
+.. rubric:: 関連ワード
 * :doc:`創発` 
+
+.. rubric:: 関連リンク
 * `ラングトンのアリ(Wikipedia) <https://ja.wikipedia.org/wiki/ラングトンのアリ>`_ 
+
+.. rubric:: 関連ラジオ
 * `言語の変化を説明する鍵は「ドリフト」【サピア2】#55`_
 
 .. _言語の変化を説明する鍵は「ドリフト」【サピア2】#55: https://www.youtube.com/watch?v=h6zyDXsuVh8

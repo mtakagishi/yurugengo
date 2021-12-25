@@ -26,12 +26,14 @@ JAPAN PODCAST AWARDS
 | PodcastのURL   | https://anchor.fm/yurugengo |      | 無記入可。書くなら固定値。youtubeのリンクとかダメ |
 +----------------+-----------------------------+------+---------------------------------------------------+
 
+.. rubric:: 関連ワード
+* :doc:`ゆる言語学ラジオ` 
+* :doc:`メタモン` 
 
 .. rubric:: 関連リンク
 * `JAPAN PODCAST AWARDS(公式) <https://japanpodcastawards.com/>`_ 
-* :doc:`メタモン` 
-* :doc:`ゆる言語学ラジオ` 
-* `【投票お願い】あなたの1票が我々の未来を変えます#82`_
 
+.. rubric:: 関連ラジオ
+* `【投票お願い】あなたの1票が我々の未来を変えます#82`_
 
 .. _【投票お願い】あなたの1票が我々の未来を変えます#82: https://www.youtube.com/watch?v=f4grx-2ngzE
