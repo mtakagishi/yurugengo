@@ -5,5 +5,7 @@
 
 .. rubric:: 関連ラジオ
 * `言語学の研究対象は、文字よりも音よりも○○【サピア1】#54`_
+* `人は無知の量を誇るべき【雑談回】#85`_
 
 .. _言語学の研究対象は、文字よりも音よりも○○【サピア1】#54: https://www.youtube.com/watch?v=purzZplAHpI
+.. _人は無知の量を誇るべき【雑談回】#85: https://www.youtube.com/watch?v=Z0KLBPiRrOY
