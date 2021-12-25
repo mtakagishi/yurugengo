@@ -3,9 +3,11 @@
 .. note:: 
   * 直接体験、目の前にあることを重視する文化
 
-.. rubric:: 関連リンク
+.. rubric:: 関連ブック
 * `ピダハン <https://amzn.to/31WfrDj>`_ 
-* `ピダハン族(Wikipedia) https://ja.wikipedia.org/wiki/ピダハン族>`_ 
+
+.. rubric:: 関連リンク
+* `ピダハン族(Wikipedia) <https://ja.wikipedia.org/wiki/ピダハン族>`_ 
 
 .. rubric:: 関連ラジオ
 * `異世界転生ものみたいな言語学者の本『ピダハン』に震える【ピダハン前編】#34`_
