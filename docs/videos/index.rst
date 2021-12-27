@@ -17,6 +17,14 @@
 * `ゆる言語学ラジオ流行語大賞_参考候補`_
 * :doc:`/words/JAPAN_PODCAST_AWARDS` 
 
+堀元氏関連リンク
+------------------
+* `Twitter <https://twitter.com/kenhori2>`_ 
+* `noteマガジン <https://note.com/kenhori2/m/m125fc4524aca>`_ 
+* `個人YouTube <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ 
+* `教養（インテリ）悪口本 堀元 見 (著) (Kindle) <https://amzn.to/32DleO2>`_ 
+* `教養（インテリ）悪口本 堀元 見 (著) (単行本) <https://amzn.to/3Jj42hL>`_ 
+
 全動画一覧
 --------------
 
