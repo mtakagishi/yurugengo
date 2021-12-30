@@ -7,4 +7,5 @@
   
   yurugengo
   yurugengo_radio_list
+  timeline
   horimotoken
