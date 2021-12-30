@@ -3,3 +3,4 @@ pydata-sphinx-theme
 recommonmark
 sphinx-sitemap
 sphinxnotes-strike
+sphinxcontrib-blockdiag

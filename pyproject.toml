@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.7"
 sphinx-sitemap = "^2.2.0"
 sphinxnotes-strike = "^1.0"
+sphinxcontrib-blockdiag = "^3.0.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.4"

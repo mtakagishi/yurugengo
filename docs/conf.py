@@ -35,6 +35,7 @@ extensions = [
     'recommonmark',
     'sphinx_sitemap',
     'sphinxnotes.strike',
+    'sphinxcontrib.blockdiag',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -83,3 +84,7 @@ source_suffix = {
 # sphinx-sitemap
 html_baseurl = 'https://yurugengo.mtakagishi.com/'
 html_extra_path = ['robots.txt']
+
+# blockdiag
+blockdiag_html_image_format = 'SVG'
+blockdiag_fontpath = 'docs/ipaexg.ttf'
