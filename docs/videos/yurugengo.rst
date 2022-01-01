@@ -6,7 +6,7 @@
 
 姉妹チャンネル
 ---------------------
-* ゆるコンピュータ科学ラジオ
+* `ゆるコンピュータ科学ラジオ <https://www.youtube.com/channel/UCpLu0KjNy616-E95gPx7LZg>`_ 
 
 共通リンク
 -----------------
@@ -27,6 +27,7 @@
 
 .. rubric:: 動画一覧
 * :doc:`yurugengo_radio_list` 
+* :doc:`yurucomputer_radio_list` 
 
 .. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
