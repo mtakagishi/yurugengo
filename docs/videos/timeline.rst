@@ -187,7 +187,8 @@
       group {
         orientation = portrait
         第16回 ->
-        82【投票お願い】 ;
+        82【投票お願い】 ->
+        86【新年雑談回】 ;
       }
       group {
         orientation = portrait
