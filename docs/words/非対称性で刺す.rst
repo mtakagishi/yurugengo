@@ -4,7 +4,7 @@
   * 水野氏が温めてきた堀元氏ハックの作戦
 
 .. rubric:: 関連リンク
-* `情報の非対称性(Wikipedia) https://ja.wikipedia.org/wiki/情報の非対称性>`_ 
+* `情報の非対称性(Wikipedia) <https://ja.wikipedia.org/wiki/情報の非対称性>`_ 
 
 .. rubric:: 関連ラジオ
 * `ゆる言語学ラジオ忘年会ライブ【流行語大賞決定】`_
