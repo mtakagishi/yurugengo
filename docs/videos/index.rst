@@ -8,5 +8,6 @@
   yurugengo
   yurugengo_radio_list
   yurucomputer_radio_list
+  collaboration
   timeline
   horimotoken
