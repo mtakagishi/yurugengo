@@ -15,5 +15,17 @@
   :maxdepth: 2
   :glob:
   
-  */index
+  videos/index
+
+.. toctree::
+  :maxdepth: 1
+  :glob:
+  
+  words/index
+  genindex
+
+.. toctree::
+  :maxdepth: 2
+  :glob:
+  
   about

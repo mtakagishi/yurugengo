@@ -1,7 +1,9 @@
 OED
 ================
-.. note:: 
-  :del:`Oxford 英語大辞典` Oxford English Dictionary の略
+.. glossary::
+  OED : A-Z
+
+:del:`Oxford 英語大辞典` Oxford English Dictionary の略
 
 .. rubric:: 関連ワード
 * :doc:`アドクソグラフィー` 

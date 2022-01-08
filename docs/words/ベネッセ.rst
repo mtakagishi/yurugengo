@@ -1,8 +1,10 @@
 ベネッセ
 ==========================================================
-.. note:: 
-  * Benesse（ベネッセ）
-  * eseがラテン語のBe動詞みたいな役割として、PresentやBenesseの語源の解説で登場
+.. glossary::
+  ベネッセ : へ
+
+* Benesse（ベネッセ）
+* eseがラテン語のBe動詞みたいな役割として、PresentやBenesseの語源の解説で登場
 
 .. rubric:: 関連リンク
 * Benesse（ベネッセ）社名由来 ` <https://www.benesse-hd.co.jp/ja/about/history.html#y1990>`_ 

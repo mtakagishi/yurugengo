@@ -25,3 +25,4 @@ Google Analyticsでは「Cookie」を使用し、個人を特定する情報を�
 更新履歴
 ------------------
 * `更新履歴 <https://github.com/mtakagishi/yurugengo/commits/main>`_
+
