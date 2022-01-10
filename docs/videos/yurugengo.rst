@@ -25,9 +25,18 @@
 * `ゆる言語学ラジオ流行語大賞_参考候補`_ (終了)
 * :doc:`/words/JAPAN_PODCAST_AWARDS` 
 
-.. rubric:: 動画一覧
+ゆる言語学ラジオを取り上げた記事
+----------------------------------
+* `朝日新聞主催の「私の折々のことばコンテスト」 <https://www.asahi.com/event/kotoba/2021/pdf/award/award_30.pdf>`_ 
+* `東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
+* `Podcast　ニッチでもファンが集まる！難しい学問を身近にする『ゆる言語学ラジオ』の戦い方 <https://spotifynewsroom.jp/2021-12-16/yuru-gengogaku-radio/>`_ 
+* `デイリーポータルZ　辞典を通読した人に「そんなことして何が面白いの？」かを聞く <https://dailyportalz.jp/kiji/reading-dictionary>`_ 
+
+動画一覧
+----------------
 * :doc:`yurugengo_radio_list` 
 * :doc:`yurucomputer_radio_list` 
+* :doc:`collaboration` 
 
 .. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
