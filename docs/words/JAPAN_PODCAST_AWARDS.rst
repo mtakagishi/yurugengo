@@ -10,12 +10,14 @@ JAPAN PODCAST AWARDS
 
 .. rubric:: 投票URL
 * `【投票終了】 2021年度 JAPAN PODCAST AWARDS 投票ページ <https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener>`_ 
-* https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener
 
 .. tip:: 
   `祝！2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞にノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
 
+.. rubric:: 大賞ノミネート
 .. image:: /_static/podcast_awards_of_the_year_nominations2021.png
+
+.. rubric:: ベストナレッジ賞ノミネート
 .. image:: /_static/podcast_awards_best_knowledge_nominations2021.png
 
 .. rubric:: 関連ワード
