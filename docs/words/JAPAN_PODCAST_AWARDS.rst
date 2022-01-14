@@ -30,7 +30,7 @@ JAPAN PODCAST AWARDS
 +----------------+-----------------------------+------+---------------------------------------------------+
 
 .. tip:: 
-  `2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞にノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
+  `祝！2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞にノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
 
 .. image:: /_static/podcast_awards_nominations_2021.png
 
@@ -42,6 +42,7 @@ JAPAN PODCAST AWARDS
 
 .. rubric:: 関連リンク
 * `JAPAN PODCAST AWARDS(公式) <https://japanpodcastawards.com/>`_ 
+* `祝！2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞の２部門ノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
 * .. [#t] `目標②「Podcastアワード2021を取る」： <https://www.youtube.com/watch?v=1THuADRBDTQ&t=525s>`_ 
 
 .. rubric:: 関連ラジオ
