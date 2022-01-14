@@ -3,13 +3,14 @@ JAPAN PODCAST AWARDS
 .. glossary::
   JAPAN_PODCAST_AWARDS : A-Z
 
-* ゆる言語学ラジオ始めようぜ、という段階で堀元氏が掲げたチャンネル目標
+* ゆる言語学ラジオ始めようぜ、という段階で堀元氏が掲げたチャンネル目標 [#t]_
 * 毎年3月に発表される日本一のPodcastを決める賞
 * 水野氏からは何を絵空事を？と正気を疑われた目標の結果は果たして！？
 * 2022年3月17日（木）の勤め人には見れない時間にライブ配信で発表される見込み
 
 .. rubric:: 投票URL
-* `2021年度 JAPAN PODCAST AWARDS 投票ページ <https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener>`_ 
+* `【応募締切：2022年1月14日(金)23時59分まで】 2021年度 JAPAN PODCAST AWARDS 投票ページ <https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener>`_ 
+* https://ssl.1242.com/aplform/form/aplform.php?fcode=jpa2021_listener
 
 .. rubric:: 記入内容
 +----------------+-----------------------------+------+---------------------------------------------------+
@@ -28,12 +29,20 @@ JAPAN PODCAST AWARDS
 | PodcastのURL   | https://anchor.fm/yurugengo |      | 無記入可。書くなら固定値。youtubeのリンクとかダメ |
 +----------------+-----------------------------+------+---------------------------------------------------+
 
+.. tip:: 
+  `2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞にノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
+
+.. image:: /_static/podcast_awards_nominations_2021.png
+
+
+
 .. rubric:: 関連ワード
 * :doc:`ゆる言語学ラジオ` 
 * :doc:`メタモン` 
 
 .. rubric:: 関連リンク
 * `JAPAN PODCAST AWARDS(公式) <https://japanpodcastawards.com/>`_ 
+* .. [#t] `目標②「Podcastアワード2021を取る」： <https://www.youtube.com/watch?v=1THuADRBDTQ&t=525s>`_ 
 
 .. rubric:: 関連ラジオ
 * `【投票お願い】あなたの1票が我々の未来を変えます#82`_
