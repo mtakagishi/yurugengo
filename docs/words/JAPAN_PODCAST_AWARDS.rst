@@ -32,9 +32,8 @@ JAPAN PODCAST AWARDS
 .. tip:: 
   `祝！2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞にノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
 
-.. image:: /_static/podcast_awards_nominations_2021.png
-
-
+.. image:: /_static/podcast_awards_of_the_year_nominations2021.png
+.. image:: /_static/podcast_awards_best_knowledge_nominations2021.png
 
 .. rubric:: 関連ワード
 * :doc:`ゆる言語学ラジオ` 
