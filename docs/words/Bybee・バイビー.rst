@@ -11,7 +11,8 @@ Bybee・バイビー
 
 .. rubric:: Bybee関連
 
-* Joan Bybee(Wikipedia) `Title https://en.wikipedia.org/wiki/Joan_Bybee>`_ 
+* `Joan Bybee(Wikipedia) <https://en.wikipedia.org/wiki/Joan_Bybee>`_ 
+
 .. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Joan_Bybee.jpg/220px-Joan_Bybee.jpg
 
 .. rubric:: 関連ラジオ
