@@ -22,6 +22,7 @@
   :glob:
   
   words/index
+  reference
   genindex
 
 .. toctree::
