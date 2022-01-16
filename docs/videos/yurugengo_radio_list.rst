@@ -191,7 +191,7 @@
 
 .. _【再UP高画質版】た【た1】#89: https://www.youtube.com/watch?v=x1C0FD1XmTk
 .. _「た」には6種類あるし、○○も□□も表せる【た2】#90: https://www.youtube.com/watch?v=P4FvgzaY2MA
-.. _た: https://www.youtube.com/watch?v=x1C0FD1XmTk
+.. _た: https://www.youtube.com/watch?v=iXlykljJ3kY
 .. _大嘘つきに使える悪口「神聖ローマ帝国じゃん」【インテリ悪口パビリオン】#88: https://www.youtube.com/watch?v=wlQrQVzdoVA
 .. _珍しい名字からは日本語の○○が分かる【うんちくエウレーカクイズ2】#87: https://www.youtube.com/watch?v=e4fDwDNc11Q
 .. _新年だから今後の構想をデカく語る【飛躍の年はクリシェ】【新年雑談回】#86: https://www.youtube.com/watch?v=hyHkEbZDWmo

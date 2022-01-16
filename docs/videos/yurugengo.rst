@@ -15,7 +15,8 @@
 * `ゆる言語学ラジオTwitter`_
 * `ゆる言語学ラジオPodcast`_
 * `編集スタッフたゐきさんのTwitter <https://twitter.com/yuruikeda>`_
-* `お仕事依頼メアド: yurugengo@gmail.com
+* お仕事依頼メアド: yurugengo@gmail.com
+
 
 企画リンク
 ------------------
