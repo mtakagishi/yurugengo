@@ -190,7 +190,9 @@
     group {
       orientation = portrait
       第16回 ->
-      コ1【アルゴリズム1】 ;
+      コ1【アルゴリズム1】 ->
+      コ2【アルゴリズム2】 ->
+      コ3【アルゴリズム3】 ;
     }
     group {
       orientation = portrait
