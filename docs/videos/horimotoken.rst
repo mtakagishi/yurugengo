@@ -1,5 +1,9 @@
 堀元氏関連リンク
 =========================
+wikipedia
+------------
+`堀元見（Wikipedia） <https://ja.wikipedia.org/wiki/堀元見>`_ 
+
 SNS
 ----------
 * `Twitter <https://twitter.com/kenhori2>`_ 
