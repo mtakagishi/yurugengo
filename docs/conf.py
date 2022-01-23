@@ -68,6 +68,9 @@ html_theme_options = {
     "google_analytics_id": "UA-183061927-3",
     "navbar_end": ["navbar-icon-links.html", "search-field.html"],
     "footer_items": ["copyright"],
+    "external_links": [
+        {"name": "問合せ", "url": "https://forms.gle/WJ3khhqqeNrEr8fv6"},
+    ],
 }
 html_sidebars = {
     "words/*": ["search-field.html", "sidebar-ethical-ads.html"]
