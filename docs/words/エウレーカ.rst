@@ -12,6 +12,10 @@
 .. rubric:: 関連ワード
 * :doc:`うんちくエウレーカクイズ` 
 
+.. rubric:: 関連リンク
+* `エウレーカ(Wikipedia) <https://ja.wikipedia.org/wiki/Eureka>`_ 
+
+
 .. rubric:: 関連ラジオ 
 * `人類が服を着始めた年代は、あの虫から分かる【うんちくエウレーカクイズ】 #53`_
 

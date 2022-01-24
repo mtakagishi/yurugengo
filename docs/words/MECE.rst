@@ -5,7 +5,6 @@ MECE
   ミーシー : み
 
 * ミーシー、漏れなく、ダブりなく
-* 解説なく利用されるためコモンセンスと思われる。
 
 .. rubric:: 関連リンク
 * `MECE(Wikipedia) <https://ja.wikipedia.org/wiki/MECE>`_ 
