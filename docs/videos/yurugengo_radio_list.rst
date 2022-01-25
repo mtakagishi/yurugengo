@@ -196,7 +196,7 @@
 +------+------------------------------------------------------------------------------------------------+------------+----------+
 
 .. _なぜ『11人いる！』は「11人いた！」ではダメなのか？【た5】#93: https://www.youtube.com/watch?v=fPY_7jbiTx8
-.. _「た」のルーツは室町時代【た4】#92: https://www.youtube.com/watch?v=
+.. _「た」のルーツは室町時代【た4】#92: https://www.youtube.com/watch?v=RVw1F-ttOfI
 .. _反省しているのは現在なのになぜ「た」を使うの？【た3】#91: https://www.youtube.com/watch?v=I0iFsy-QShY
 .. _【再UP高画質版】た【た1】#89: https://www.youtube.com/watch?v=x1C0FD1XmTk
 .. _「た」には6種類あるし、○○も□□も表せる【た2】#90: https://www.youtube.com/watch?v=P4FvgzaY2MA
