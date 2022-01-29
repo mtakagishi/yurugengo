@@ -43,6 +43,7 @@
 
 
 .. rubric:: ゆる言語学ラジオを取り上げた記事
+* `ゆる言語学ラジオ（Wikipedia) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
 * `朝日新聞主催の「私の折々のことばコンテスト」 <https://www.asahi.com/event/kotoba/2021/pdf/award/award_30.pdf>`_ 
 * `東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
 * `Podcast　ニッチでもファンが集まる！難しい学問を身近にする『ゆる言語学ラジオ』の戦い方 <https://spotifynewsroom.jp/2021-12-16/yuru-gengogaku-radio/>`_ 
