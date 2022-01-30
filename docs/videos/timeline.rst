@@ -200,18 +200,19 @@
     group {
       orientation = portrait
       第17回 ->
+      言79【忘年会ライブ告知】 ;
+    }
+    group {
+      orientation = portrait
+      第18回 ->
       言82【投票お願い】 ->
       言86【新年雑談回】 ->
       サポータ特典【公開収録】 ;
     }
     group {
       orientation = portrait
-      第18回 ->
-      言79【忘年会ライブ告知】 ;
-    }
-    group {
-      orientation = portrait
       第19回 ->
+      コ5【サイト製作物語1】 ->
       言88【インテリ悪口パビリオン】 ->
       忘年会ライブ【流行語大賞決定】 ;
     }
