@@ -7,6 +7,7 @@
 
 .. rubric:: 関連ワード
 * :doc:`高村光太郎システム` 
+* :doc:`リスナー名` 
 
 .. rubric:: 関連リンク
 * `ドリフト（Wikipedia） <https://en.wikipedia.org/wiki/Drift_(linguistics)>`_ 
