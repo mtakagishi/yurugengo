@@ -6,6 +6,10 @@ MECE
 
 * ミーシー、漏れなく、ダブりなく
 
+.. tip:: 
+  サポーター限定チャットに「猫 または 猫以外」という「かわいい生き物」の画像のチャネルがある。
+
+
 .. rubric:: 関連リンク
 * `MECE(Wikipedia) <https://ja.wikipedia.org/wiki/MECE>`_ 
 
