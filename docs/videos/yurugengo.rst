@@ -10,7 +10,7 @@
 
 共通リンク
 -----------------
-* `サポーターコミュニティ`_
+* `サポーターコミュニティ <https://yurugengo.com/support>`_ 
 * `ゆる言語学ラジオおたよりフォーム`_
 * `ゆる言語学ラジオTwitter`_
 * `ゆる言語学ラジオPodcast`_
@@ -41,7 +41,6 @@
 
 .. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
-.. _サポーターコミュニティ: https://yurugengo.com/support
 .. _うんちくエウレーカクイズ応募フォーム: https://forms.gle/cGpGjmstG5pNwVF16
 .. _選書リスト: https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0
 .. _ゆる言語学ラジオおたよりフォーム: https://docs.google.com/forms/d/e/1FAIpQLSdhWOGhQcrlyJW_wLNqGYC2p33IsZB-x9lKocu8v7IjmUuTgA/viewform
