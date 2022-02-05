@@ -200,7 +200,7 @@
     group {
       orientation = portrait
       第17回 ->
-      未公開 ->
+      言96【お便り雑談回】 ->
       言79【忘年会ライブ告知】 ;
     }
     group {
