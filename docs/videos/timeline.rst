@@ -250,6 +250,7 @@
       orientation = portrait
       "22/2/5\n撮影20" ->
       "未公開\n銀の盾" ->
+      "未公開\nPodcastWeekend" ->
       "未公開\nコンピュータ科学" ->
       "未公開\n乳幼児の言語習得" ;
     }
