@@ -1,0 +1,19 @@
+金釘流（かなくぎりゅう）
+==========================================
+.. glossary::
+    金釘流（かなくぎりゅう） : か
+
+字が汚いこと
+
+.. tip:: 
+  水野氏が堀元氏のサインを「金釘流」とカッコよい感じで評する情景に語彙コモンセンスのバグを感じる。
+
+
+.. rubric:: 関連ワード
+* :doc:`語彙コモンセンス` 
+* :doc:`Podcast_weekend_podcast` 
+
+.. rubric:: 関連ラジオ
+* `【売り子もやるよ】Podcasterの物販イベントに出店決定！【Podcast Weekend参加告知】#102`_
+
+.. _【売り子もやるよ】Podcasterの物販イベントに出店決定！【Podcast Weekend参加告知】#102: https://www.youtube.com/watch?v=q_MfYdFxgTc
