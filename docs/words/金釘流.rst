@@ -11,6 +11,9 @@
 
 .. rubric:: 関連ワード
 * :doc:`語彙コモンセンス` 
+* :doc:`Podcast_weekend_podcast` 
 
 .. rubric:: 関連ラジオ
-* 
+* `【売り子もやるよ】Podcasterの物販イベントに出店決定！【Podcast Weekend参加告知】#102`_
+
+.. _【売り子もやるよ】Podcasterの物販イベントに出店決定！【Podcast Weekend参加告知】#102: https://www.youtube.com/watch?v=q_MfYdFxgTc
