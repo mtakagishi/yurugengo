@@ -6,6 +6,11 @@
 心理学者で「フロー」の概念を提唱。「フロー」はスポーツ分野で「ゾーン」と呼ばれ、集中してのめり込んだ状態のこと。堀元氏・水野氏、両氏による、とある談話で『ミハイ・チクセントミハイ』が連呼される。
 
 .. rubric:: 関連リンク
+* :doc:`Podcast_weekend_podcast` 
 * `ミハイ・チクセントミハイ(wikipedia) <https://ja.wikipedia.org/wiki/ミハイ・チクセントミハイ>`_ 
 * `フロー (心理学)(wikipedia) <https://ja.wikipedia.org/wiki/フロー_(心理学)>`_ 
 * `バイク川崎バイク(wikipedia) <https://ja.wikipedia.org/wiki/バイク川崎バイク>`_ 
+
+.. rubric:: 関連ラジオ
+* `Podcast_weekend_podcast <https://open.spotify.com/episode/4YRl8LYNIVq7oxJZilRbrq?si=5TJ2n0dKRCKsEneRmA3qeA&context=spotify%3Ashow%3A0DSmn7gjSSCFLawmqNzLsv&t=1232>`_ 
+

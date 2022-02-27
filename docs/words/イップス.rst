@@ -11,11 +11,18 @@
 * マネ／モネ
 * 隔靴掻痒と麻姑掻痒
 * マレー／マイナー
+* エリクエリクソンと、ミルトンエリクソン
+
+.. rubric:: 関連ワード
+* :doc:`Podcast_weekend_podcast` 
+* :doc:`エリクソンイップス` 
 
 .. rubric:: 関連ラジオ
 * `一生憶えられない名前-うんちくおじさんのニッチ苦悩【酔っぱらい雑談回】#29`_
 * `妄想で人を撃ち、自分のアレを切り落とした狂人の皮肉【オックスフォード英語大辞典2】#51`_
 * `江戸時代の米はビットコインに似ている【雑談回】 #58`_
+* `Podcast_weekend_podcast <https://open.spotify.com/episode/4YRl8LYNIVq7oxJZilRbrq?si=5TJ2n0dKRCKsEneRmA3qeA&context=spotify%3Ashow%3A0DSmn7gjSSCFLawmqNzLsv&t=1232>`_ 
+
 
 .. _一生憶えられない名前-うんちくおじさんのニッチ苦悩【酔っぱらい雑談回】#29: https://www.youtube.com/watch?v=AupRSh21Smg
 .. _江戸時代の米はビットコインに似ている【雑談回】 #58: https://www.youtube.com/watch?v=T5cDcCKB19k

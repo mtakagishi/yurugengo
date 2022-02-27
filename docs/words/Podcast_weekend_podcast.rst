@@ -1,7 +1,7 @@
-Podcast_weekend_podcast
+Podcast_weekend
 ==========================================
 .. glossary::
-    Podcast_weekend_podcast : A-Z
+    Podcast_weekend : A-Z
 
 .. image:: https://podcastweekend.jp/wp-content/themes/pcwe/img/logo_7s.gif
   :width: 20%
