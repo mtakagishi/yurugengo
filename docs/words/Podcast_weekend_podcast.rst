@@ -21,4 +21,13 @@ Podcast_weekend
 * `【売り子もやるよ】Podcasterの物販イベントに出店決定！【Podcast Weekend参加告知】#102`_
 * `【Podcast_weekend_podcast】ゆる言語学ラジオの紹介 <https://open.spotify.com/episode/7q9k3Af64867evkJ8nXj9V?si=6CnNQSjEQkaB5LBn8IhJbw&context=spotify%3Ashow%3A0DSmn7gjSSCFLawmqNzLsv&t=1016>`_ 
 
+.. rubric:: トークイベント
+* `イベント詳細はこちら <https://t.co/P4LkLjgNyk>`_ 
+
+.. image:: https://pbs.twimg.com/media/FM_queFVIAIkESZ?format=jpg&name=small
+  :width: 60%
+
+.. rubric:: 関連ワード
+* :doc:`JAPAN_PODCAST_AWARDS` 
+
 .. _【売り子もやるよ】Podcasterの物販イベントに出店決定！【Podcast Weekend参加告知】#102: https://www.youtube.com/watch?v=q_MfYdFxgTc

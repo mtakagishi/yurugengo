@@ -21,6 +21,7 @@ JAPAN PODCAST AWARDS
 .. image:: /_static/podcast_awards_best_knowledge_nominations2021.png
 
 .. rubric:: 関連ワード
+* :doc:`Podcast_weekend` 
 * :doc:`ゆる言語学ラジオ` 
 * :doc:`メタモン` 
 
@@ -29,7 +30,6 @@ JAPAN PODCAST AWARDS
 * `祝！2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞の２部門ノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
 * .. [#t1] `Twitter「Podcastアワード2021を取る」： <https://twitter.com/kenhori2/status/1481855178592894976>`_ 
 * .. [#t2] `YouTube「Podcastアワード2021を取る」： <https://www.youtube.com/watch?v=1THuADRBDTQ&t=525s>`_ 
-
 
 .. rubric:: 関連ラジオ
 * `【投票お願い】あなたの1票が我々の未来を変えます#82`_
