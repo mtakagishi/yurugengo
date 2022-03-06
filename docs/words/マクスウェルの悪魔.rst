@@ -1,0 +1,24 @@
+マクスウェルの悪魔
+==========================================
+.. glossary::
+    マクスウェルの悪魔 : ま
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Torment_of_Saint_Anthony_%28Michelangelo%29.jpg/357px-The_Torment_of_Saint_Anthony_%28Michelangelo%29.jpg
+  :width: 20%
+
+* 熱力学を題材にしたエントロピーに関する思考実験
+* 理解しようとすると沼にハマる内容のため、今は語る資格のないテーマとされ、ゆるコンピュータ科学ラジオの528回目くらいにやる予定。
+
+.. rubric:: 関連ワード
+* :doc:`エントロピー` 
+
+.. rubric:: 関連リンク
+* `マクスウェルの悪魔(Wikipedia) <https://ja.wikipedia.org/wiki/マクスウェルの悪魔>`_ 
+* `「悪魔」との取り引き(日本物理学会誌vol.66,No3,2011) <https://www.gakushuin.ac.jp/~881791/pdf/GakkaishiDaemonPUB.pdf>`_ 
+
+.. rubric:: 関連ラジオ
+* `大嘘つきに使える悪口「神聖ローマ帝国じゃん」【インテリ悪口パビリオン】#88`_
+* `人が天気予報を見る理由は「エントロピー」で説明できる【情報理論2】#10`_
+
+.. _人が天気予報を見る理由は「エントロピー」で説明できる【情報理論2】#10: https://www.youtube.com/watch?v=KSC50jC_WlI
+.. _大嘘つきに使える悪口「神聖ローマ帝国じゃん」【インテリ悪口パビリオン】#88: https://www.youtube.com/watch?v=wlQrQVzdoVA
