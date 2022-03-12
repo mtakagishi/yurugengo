@@ -1,0 +1,23 @@
+計画的偶発性理論
+==========================================
+.. glossary::
+    計画的偶発性理論 : く
+
+サラリーマンのほとんどがキャリアが思い通りになっておらず、8割が本人の予想しない偶然の出来事によるものであるという調査結果に基づく心理学者クランボルツの提唱する理論
+
+.. tip:: 
+  * 2021年の忘年会お便りにきた「おすすめの本」に対し「`クランボルツに学ぶ夢のあきらめ方 <https://amzn.to/3I9FCFE>`_ 」を紹介
+  * ポッドキャストウィークエンドのトークセッション時には「セレピ起そうと思って生きている」というゆとたわへの後押しする考えとして紹介。
+
+.. rubric:: 関連ワード
+* :doc:`セレピ` 
+
+.. rubric:: 関連リンク
+* `計画的偶発性理論 <https://ja.wikipedia.org/wiki/計画的偶発性理論>`_ 
+
+.. rubric:: 関連ラジオ
+* `【チャンネル登録10万人突破】YouTuberクリシェ。【雜談回】#105`_
+* `YUTOTAWA <https://linktr.ee/yutotawa>`_ 
+* `Podcast Weekend TALK SESSION <https://podcastweekend.zaiko.io/e/talksession20220312>`_ 
+
+.. _【チャンネル登録10万人突破】YouTuberクリシェ。【雜談回】#105: https://www.youtube.com/watch?v=fFGSy60zKlw

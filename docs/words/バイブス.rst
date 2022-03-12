@@ -1,0 +1,17 @@
+バイブス
+==========================================
+.. glossary::
+    バイブス : Group
+
+雰囲気、ノリ、フィーリング、のようなもの。「バイブス上がってきた」(気分が高揚してきた)といったように使われる。
+
+.. tip:: 
+  「ゆとたわ：ゆとりっ娘たちのたわごと」がよく使う言葉に堀元氏も共感している。
+
+.. rubric:: 関連ラジオ
+* `#わたしとポッドキャスト 第2回ゲスト 「ゆとりっ娘たちのたわごと」 <https://www.youtube.com/watch?v=dGXU2kIJjDY&t=4200s>`_ 
+* `#わたしとポッドキャスト 第3回ゲスト「ゆる言語学ラジオ」 <https://youtu.be/goYHBS4Fa8k>`_ 
+* `YUTOTAWA <https://linktr.ee/yutotawa>`_ 
+* `Podcast Weekend TALK SESSION <https://podcastweekend.zaiko.io/e/talksession20220312>`_ 
+
+
