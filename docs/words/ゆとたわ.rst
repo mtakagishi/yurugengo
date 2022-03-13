@@ -1,0 +1,16 @@
+ゆとたわ
+==========================================
+.. glossary::
+    ゆとたわ : ゆ
+
+  ほのかさん、かりんさんによるポッドキャスト「ゆとりっ娘たちのたわごと」の愛称
+
+.. rubric:: 関連ワード
+* :doc:`インスタレーションアート` 
+* :doc:`セレピ` 
+* :doc:`どう逆技法` 
+
+.. rubric:: 関連ラジオ
+* `YUTOTAWA <https://linktr.ee/yutotawa>`_ 
+* `Podcast Weekend TALK SESSION <https://podcastweekend.zaiko.io/e/talksession20220312>`_ 
+

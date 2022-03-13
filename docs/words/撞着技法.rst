@@ -1,0 +1,18 @@
+撞着技法
+==========================================
+.. glossary::
+    撞着技法 : と
+
+矛盾した言葉を二つ並べるシェイクスピアがよく使ったとされる。「冷たい熱血」のような矛盾する表現をあえて取り入れる技法
+
+.. tip:: 
+  ゆとたわが頻出句「それじゃ、こんばんは、おやすみなさい」の話題で補足された。
+
+.. rubric:: 関連ワード
+* :doc:`ゆとたわ` 
+
+
+.. rubric:: 関連ラジオ
+* `YUTOTAWA <https://linktr.ee/yutotawa>`_ 
+* `Podcast Weekend TALK SESSION <https://podcastweekend.zaiko.io/e/talksession20220312>`_ 
+
