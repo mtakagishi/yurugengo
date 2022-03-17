@@ -30,8 +30,8 @@
 * 2022年01月01日 姉妹チャンネル『ゆるコンピュータ科学ラジオ』を開始
 * 2022年01月14日 第3回 JAPAN PODCAST AWARDS 大賞 及び ベストナレッジ賞にノミネート
 * 2022年02月27日 サポータコミュニティ1500名を突破
-* 2022年03月12日 Podcast weekend（予定）
-* 2022年03月17日 JAPAN PODCAST AWARDS（予定）
+* 2022年03月12日 Podcast weekend
+* 2022年03月17日 JAPAN PODCAST AWARDS（ベストナレッジ賞、リスナーズチョイス1位）
 
 .. rubric:: 動画一覧
 * :doc:`/videos/yurugengo_radio_list` 
