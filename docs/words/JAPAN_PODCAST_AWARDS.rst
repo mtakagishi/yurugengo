@@ -27,7 +27,7 @@ JAPAN PODCAST AWARDS
   :width: 40%
 
 .. rubric:: 関連ワード
-* :doc:`Podcast_weekend` 
+* :doc:`Podcast_weekend_podcast` 
 * :doc:`ゆる言語学ラジオ` 
 * :doc:`メタモン` 
 
