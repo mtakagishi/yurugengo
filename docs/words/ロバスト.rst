@@ -16,6 +16,7 @@
 
 
 .. rubric:: 関連ラジオ
+* `Robustの使い方がわからない(動画クリップ) <https://youtube.com/clip/UgkxcyPaZnM__gai1BHFMIICAMd38Bu6-lSR>`_ 
 * `論理的に解けない難問「ガヴァガイ問題」を赤ちゃんは解く【赤ちゃんの言語習得2】#108`_
 
 .. _論理的に解けない難問「ガヴァガイ問題」を赤ちゃんは解く【赤ちゃんの言語習得2】#108: https://www.youtube.com/watch?v=J7rAZ2tRoT0
