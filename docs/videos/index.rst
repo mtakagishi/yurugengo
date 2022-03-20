@@ -1,6 +1,8 @@
 ラジオ動画一覧
 ===============================
 
+.. rubric:: 関連リンク集
+
 .. toctree::
   :maxdepth: 1
   :glob:
@@ -11,7 +13,7 @@
   timeline
   horimotoken
 
-.. rubric:: リンク一覧
+.. rubric:: 動画リンク一覧
 
 .. raw:: html
 
