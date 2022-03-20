@@ -8,7 +8,7 @@
 .. rubric:: 関連ワード
 * :doc:`インスタレーションアート` 
 * :doc:`セレピ` 
-* :doc:`どう逆技法` 
+* :doc:`撞着技法` 
 
 .. rubric:: 関連ラジオ
 * `YUTOTAWA <https://linktr.ee/yutotawa>`_ 
