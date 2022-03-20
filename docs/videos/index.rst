@@ -1,9 +1,6 @@
 ラジオ動画一覧
 ===============================
 
-ゆる言語学ラジオ動画一覧
----------------------------------------------
-
 .. toctree::
   :maxdepth: 1
   :glob:
@@ -13,6 +10,8 @@
   collaboration
   timeline
   horimotoken
+
+.. rubric:: リンク一覧
 
 .. raw:: html
 
