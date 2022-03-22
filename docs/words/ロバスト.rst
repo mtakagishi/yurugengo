@@ -13,6 +13,7 @@
 .. rubric:: 関連リンク
 * `サポータコミュニティ <https://yurugengo.com/support>`_ 
 * `ロバストネス(wikipedia) <https://ja.wikipedia.org/wiki/ロバストネス>`_ 
+* `ゆる言語学ラジオというロバストなコンテンツ(骨しゃぶり) <https://honeshabri.hatenablog.com/entry/yuru_gengo>`_ 
 
 
 .. rubric:: 関連ラジオ
