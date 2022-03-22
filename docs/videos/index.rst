@@ -17,7 +17,7 @@
 
 .. raw:: html
 
-  <a href="https://yuru.bet-pottle-statistics.com/gengo-large.html" >　 大きく表示する</a>
+  <a href="https://yuru.bet-pottle-statistics.com/gengo-large.html" >大きく表示する</a>
   <iframe style="width:100%;height:500px;border:none;" src="https://yuru.bet-pottle-statistics.com/gengo-small.html" />
 
 ©BET pottle
