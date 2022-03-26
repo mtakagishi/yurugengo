@@ -4,6 +4,24 @@
 * ⇒『`つぼみん <https://www.tsumibon.tamari-b.com/>`_』が既に超絶まとまっててオススメ
 
 
+堀元見
+-----------------------------------------------
+.. raw:: html
+
+  <a href="https://www.amazon.co.jp/%E6%95%99%E9%A4%8A%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%EF%BC%89%E6%82%AA%E5%8F%A3%E6%9C%AC-%E5%A0%80%E5%85%83-%E8%A6%8B-ebook/dp/B09NBJBK11?qid=1648261298&s=books&sr=1-1&text=%E5%A0%80%E5%85%83%E8%A6%8B&linkCode=li1&tag=takaoutputblo-22&linkId=f95aa7b8ebbe3956b891a87f1a39bd24&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09NBJBK11&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B09NBJBK11" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <a href="https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%9B%B8%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC%E3%82%92100%E5%86%8A%E8%AA%AD%E3%82%93%E3%81%A7%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E6%88%90%E5%8A%9F%E3%81%AE%E9%BB%84%E9%87%91%E5%BE%8B-%E5%A0%80%E5%85%83%E8%A6%8B/dp/4198653887?qid=1648261298&s=books&sr=1-2&text=%E5%A0%80%E5%85%83%E8%A6%8B&linkCode=li1&tag=takaoutputblo-22&linkId=fdb6a79a5caeab50120286e8ec0bc807&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4198653887&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4198653887" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++------------------------------------------------------------+------+
+|                          タイトル                          | 解説 |
++============================================================+======+
++------------------------------------------------------------+------+
+| `ビジネス書ベストセラーを100冊読んで分かった成功の黄金律`_ |      |
++------------------------------------------------------------+------+
+| `教養（インテリ）悪口本`_                                  |      |
++------------------------------------------------------------+------+
+.. _教養（インテリ）悪口本: https://amzn.to/382Q5qd
+.. _ビジネス書ベストセラーを100冊読んで分かった成功の黄金律: https://amzn.to/36I2kYx
+
+
 映画
 -----------------------------------------------
 
@@ -42,10 +60,26 @@
 漫画
 -----------------------------------------------
 
+.. raw:: html
+
+  <!--たけし--><a href="https://www.amazon.co.jp/%E4%B8%96%E7%B4%80%E6%9C%AB%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E4%BC%9D%E3%81%9F%E3%81%91%E3%81%97%EF%BC%81-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E5%B3%B6%E8%A2%8B%E5%85%89%E5%B9%B4-ebook/dp/B00A47VO1S?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=L55LT08NBTQM&keywords=%E4%B8%96%E7%B4%80%E6%9C%AB%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E4%BC%9D%E3%81%9F%E3%81%91%E3%81%97&qid=1648261723&s=books&sprefix=%E4%B8%96%E7%B4%80%E6%9C%AB%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E4%BC%9D%E3%81%9F%E3%81%91%E3%81%97%2Cstripbooks%2C165&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=96257147ff119381aec0f5f3384c13c0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A47VO1S&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00A47VO1S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ミュージアム--><a href="https://www.amazon.co.jp/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B7%B4%E4%BA%AE%E4%BB%8B-ebook/dp/B00J22U25U?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1QYOJ6J0U3IUN&dchild=1&keywords=%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0&qid=1635553139&sprefix=%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0%2Caps%2C228&sr=8-7&linkCode=li1&tag=takaoutputblo-22&linkId=25d63dbd55f8e761d9b60f7a1dfa83ea&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J22U25U&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00J22U25U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--朝比奈くん--><a href="https://www.amazon.co.jp/%E5%90%89%E7%A5%A5%E5%AF%BA%E3%81%AE%E6%9C%9D%E6%97%A5%E5%A5%88%E3%81%8F%E3%82%93-%E7%A5%A5%E4%BC%9D%E7%A4%BE%E6%96%87%E5%BA%AB-%E4%B8%AD%E7%94%B0%E6%B0%B8%E4%B8%80-ebook/dp/B07D3JHD6K?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1B7KVGK4RPBUS&dchild=1&keywords=%E5%90%89%E7%A5%A5%E5%AF%BA%E3%81%AE%E6%9C%9D%E6%AF%94%E5%A5%88&qid=1635553180&sprefix=%E5%90%89%E7%A5%A5%E5%AF%BA%E3%81%AE%E6%9C%9D%E6%AF%94%E5%A5%88%2Caps%2C171&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=28b1c18b26bb3285e62f4267efd760c7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D3JHD6K&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07D3JHD6K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--沈黙の艦隊--><a href="https://www.amazon.co.jp/%E6%B2%88%E9%BB%99%E3%81%AE%E8%89%A6%E9%9A%8A%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%8B%E3%82%8F%E3%81%90%E3%81%A1%E3%81%8B%E3%81%84%E3%81%98-ebook/dp/B009KYAOMG?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=FWUII3QDJ4OB&dchild=1&keywords=%E6%B2%88%E9%BB%99%E3%81%AE%E8%89%A6%E9%9A%8A&qid=1635553253&sprefix=%E6%B2%88%E9%BB%99%E3%81%AE%E8%89%A6%E9%9A%8A%2Caps%2C197&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=53ebfb9149608adfc1fc0b8716eb727e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009KYAOMG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009KYAOMG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--シグルイ--><a href="https://www.amazon.co.jp/%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4-1-%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3RED%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B1%B1%E5%8F%A3%E8%B2%B4%E7%94%B1-ebook/dp/B00F3833WG?crid=3VPEWD41W3YJ7&keywords=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4+%E5%85%A8%E5%B7%BB&qid=1648261899&sprefix=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4%2Caps%2C180&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=172b04970245f4cdc4d5107d54b16c4b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F3833WG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00F3833WG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ブルーピリオド--><a href="https://www.amazon.co.jp/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%94%E3%83%AA%E3%82%AA%E3%83%89%EF%BC%88%EF%BC%91%EF%BC%89-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B1%B1%E5%8F%A3%E3%81%A4%E3%81%B0%E3%81%95-ebook/dp/B07873642C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1TN7PFJE7O1ZC&dchild=1&keywords=%E3%83%96%E3%83%AB%E3%83%BC%E3%83%94%E3%83%AA%E3%82%AA%E3%83%89&qid=1629116798&s=books&sprefix=%E3%83%96%E3%83%AB%E3%83%BC%E3%83%94%E3%83%AA%E3%82%AA%E3%83%89%2Cstripbooks%2C365&sr=1-2&linkCode=li1&tag=takaoutputblo-22&linkId=42aa1a5ab9a05742cb7c12cd23dff584&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07873642C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07873642C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ひゃくえむ--><a href="https://www.amazon.co.jp/%E3%81%B2%E3%82%83%E3%81%8F%E3%81%88%E3%82%80%E3%80%82%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%AD%9A%E8%B1%8A-ebook/dp/B07SGC91DF?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%B2%E3%82%83%E3%81%8F%E3%81%88%E3%82%80&qid=1629767609&s=books&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=cd309c16b7a24ab8eba00d28b1d67f01&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07SGC91DF&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07SGC91DF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ち。--><a href="https://www.amazon.co.jp/%E3%83%81%E3%80%82%E2%80%95%E5%9C%B0%E7%90%83%E3%81%AE%E9%81%8B%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%95%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%AD%9A%E8%B1%8A-ebook/dp/B08P5GG18C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%81%E3%80%82&qid=1629116758&s=books&sr=1-2&linkCode=li1&tag=takaoutputblo-22&linkId=b3f5dada52d8c755a3a3619435805292&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08P5GG18C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08P5GG18C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--空が灰色だから--><a href="https://www.amazon.co.jp/%E7%A9%BA%E3%81%8C%E7%81%B0%E8%89%B2%E3%81%A0%E3%81%8B%E3%82%89-%EF%BC%91-%E5%B0%91%E5%B9%B4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%98%BF%E9%83%A8%E5%85%B1%E5%AE%9F-ebook/dp/B00FR1KY9O?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E7%A9%BA%E3%81%8C%E7%81%B0%E8%89%B2%E3%81%A0%E3%81%8B%E3%82%89&qid=1629515821&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=c5a3591fffb2c834ce90ab5e688c46e4&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FR1KY9O&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00FR1KY9O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--兄ふんじゃった--><a href="https://www.amazon.co.jp/%E5%85%84%E3%81%B5%E3%82%93%E3%81%98%E3%82%83%E3%81%A3%E3%81%9F-1-%E5%B0%91%E5%B9%B4%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B0%8F%E7%AC%A0%E5%8E%9F-%E7%9C%9F/dp/4091273416?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%85%84%E3%81%B5%E3%82%93%E3%81%98%E3%82%83%E3%81%A3%E3%81%9F&qid=1628904165&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=b109f200307e1870bf01d334f2d6f345&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4091273416&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4091273416" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--DrStone--><a href="https://www.amazon.co.jp/Dr-STONE-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E7%A8%B2%E5%9E%A3%E7%90%86%E4%B8%80%E9%83%8E-ebook/dp/B071VV14SF?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=dr.stone+1&qid=1627615526&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=e28cc9af3158c2a0e05ebf45f260c600&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071VV14SF&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=DrStoneDrStoneputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B071VV14SF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--オナマス--><a href="https://www.amazon.co.jp/dp/B07FDD56JG?&linkCode=li1&tag=takaoutputblo-22&linkId=f3616357945d82e17f9e44c2d3941147&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07FDD56JG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07FDD56JG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--エレン--><a href="https://www.amazon.co.jp/gp/product/B07GWQT4JP?storeType=ebooks&linkCode=li1&tag=takaoutputblo-22&linkId=2b1e8bb34f0ede51fcce17eafc0bff99&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GWQT4JP&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07GWQT4JP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 +-----------------------------+-----------------------------------------------------------------------------------------------+
 |          タイトル           |                                             解説                                              |
 +=============================+===============================================================================================+
-| `世紀末リーダー伝たけし!`_  | #109【赤ちゃん３】生れたとき「りいだあああ」と産声をあげたらしい？                            |
+| `世紀末リーダー伝たけし!`_  | #109【赤ちゃん３】「りいだあああ」という奇妙な産声とともに生まれてきた                        |
 +-----------------------------+-----------------------------------------------------------------------------------------------+
 | `ミュージアム`_             | #69【OED単語2】手放すがもう一度所有したくなるもの物として紹介                                 |
 +-----------------------------+-----------------------------------------------------------------------------------------------+
@@ -53,7 +87,7 @@
 +-----------------------------+-----------------------------------------------------------------------------------------------+
 | `沈黙の艦隊`_               | #69【OED単語2】動くと不利になる情景、潜水艦同士の戦いで限界深度を超えて静かに沈むシーンを紹介 |
 +-----------------------------+-----------------------------------------------------------------------------------------------+
-| `シグルイ `_                | #57【サピア4】そんな日本語ないという独特なナレーション                                        |
+| `シグルイ`_                 | #57【サピア4】そんな日本語ないという独特なナレーション                                        |
 +-----------------------------+-----------------------------------------------------------------------------------------------+
 | `ブルーピリオド`_           | #49【書店コラボ告知】アーティストを目指す苦悩が描かれる。クリエイター共感する                 |
 +-----------------------------+-----------------------------------------------------------------------------------------------+
@@ -69,7 +103,10 @@
 +-----------------------------+-----------------------------------------------------------------------------------------------+
 | `オナマス`_                 | #29【雑談回】堀元氏イチオシのジュブナイルストーリ                                             |
 +-----------------------------+-----------------------------------------------------------------------------------------------+
+| `左ききのエレン`_           | あんたにもあっただろ真夜中に誰もいないオフィスで自分の仕事を眺めて笑ったことが                |
++-----------------------------+-----------------------------------------------------------------------------------------------+
 
+.. _左ききのエレン: https://amzn.to/3tFJwlK
 .. _世紀末リーダー伝たけし!: https://amzn.to/36ksIrD
 .. _Dr.Stone: https://amzn.to/35VTlCQ
 .. _兄ふんじゃった! : https://amzn.to/3sEQmr7
@@ -81,10 +118,14 @@
 .. _ミュージアム: https://amzn.to/3MArlFE
 .. _吉祥寺の朝日奈くん: https://amzn.to/3sHMmpM
 .. _沈黙の艦隊: https://amzn.to/3IRROMI
-.. _シグルイ : https://amzn.to/36y9TAM
+.. _シグルイ: https://amzn.to/36y9TAM
 
 アニメ
 -----------------------------------------------
+
+.. raw:: html
+
+  <!--メイドラゴン--><a href="https://www.amazon.co.jp/%E3%80%90Amazon-co-jp%E9%99%90%E5%AE%9A%E3%80%91%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3S-%E3%82%AB%E3%83%B3%E3%83%8A%E3%81%AE%E7%A8%B2%E5%A6%BB%E3%81%AE%E7%AE%B1-%E8%B1%AA%E8%8F%AF%E7%89%88Blu-ray-%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%96%E3%82%B1%E3%83%BC%E3%82%B9-%E3%82%AB%E3%83%B3%E3%83%8A%E7%B5%B5%E6%9F%84/dp/B098PQZD1P?crid=3MI8B20NXA480&keywords=%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3s&qid=1648262730&s=dvd&sprefix=%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3S%2Cdvd%2C155&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=1b78dfccbab954b801c16ab738033a92&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B098PQZD1P&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B098PQZD1P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 +------------------------------+--------------------------------------------------------------+
 |           タイトル           |                             解説                             |
@@ -464,6 +505,7 @@
 .. _翻訳できない世界のことば: https://amzn.to/3hKCsNK
 .. _売春島 「最後の桃源郷」渡鹿野島ルポ: https://amzn.to/379mgE5
 .. _: URL
+
 
 .. _動画音源:
 
