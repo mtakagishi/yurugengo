@@ -7,6 +7,7 @@
 
 .. rubric:: 関連ワード
 * :doc:`ブーバ・キキ` 
+* :doc:`濁音減価` 
 
 .. rubric:: 関連リンク
 * `音象徴(wikipedia) <https://ja.wikipedia.org/wiki/音象徴>`_ 
