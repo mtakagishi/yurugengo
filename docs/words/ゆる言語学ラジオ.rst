@@ -12,7 +12,7 @@
   * 堀本でなく堀元
   * 慶應義塾大学理工学部 情報工学出身
   * ネットコンテンツで収益を得る
-  * 誕生日は1992年4月2日（情報ソース:2022年4月2日時点のWikipedia）
+  * 誕生日は1992年4月2日（情報ソース: `Wikipedia <https://ja.wikipedia.org/wiki/堀元見>`_ ※2022年4月2日時点）
 
 * 水野太貴（みずのだいき）
 
@@ -24,7 +24,7 @@
 .. tip:: 
   堀元氏の誕生日について4月30日という説がある（本説の情報ソース：ご本人）
 
-.. rubric:: ラジオ時系列
+.. rubric:: ヒストリ
 * 2020年12月某日 撮影開始、`衒学チャンネル <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ から順次公開される
 * 2021年03月11日 ゆる言語学ラジオチャンネルとして独立
 * 2021年05月某日 チャンネル登録者数1万人
@@ -38,6 +38,7 @@
 * 2022年02月27日 サポータコミュニティ1500名を突破
 * 2022年03月12日 Podcast weekend
 * 2022年03月17日 :doc:`JAPAN_PODCAST_AWARDS` （ベストナレッジ賞、リスナーズチョイス1位）
+* 2022年03月31日 `Lineスタンプ公開 <https://store.line.me/stickershop/product/18955892/ja>`_ 
 
 .. rubric:: 動画一覧
 * :doc:`/videos/yurugengo_radio_list` 
@@ -47,10 +48,11 @@
 * `チャンネルホーム`_
 * `再生リスト`_
 * `サポーターコミュニティ`_
+* `Lineスタンプ <https://store.line.me/stickershop/product/18955892/ja>`_ 
 * `ゆる言語学ラジオおたよりフォーム`_
 * `ゆる言語学ラジオTwitter`_
 * `ゆる言語学ラジオPodcast`_
-* `Wikipedia解説 <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
+* `Wikipedia <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
 
 .. rubric:: 姉妹チャンネル
 * :doc:`/videos/yurucomputer_radio_list` 
