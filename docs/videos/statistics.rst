@@ -1,0 +1,8 @@
+統計情報グラフ-ゆる言語学ラジオ
+===============================
+* マウスホイールで拡大縮小
+* プロットにカーソル合わせると動画名表示
+
+.. raw:: html
+
+  <iframe style="width:100%;height:800px;border:none;" src="https://yuru.bet-pottle-statistics.com/graph.html"></iframe>

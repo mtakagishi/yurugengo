@@ -11,6 +11,7 @@
   yurucomputer_radio_list
   collaboration
   timeline
+  statistics
 
 .. rubric:: 動画リンク一覧
 
