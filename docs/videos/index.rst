@@ -11,7 +11,6 @@
   yurucomputer_radio_list
   collaboration
   timeline
-  horimotoken
 
 .. rubric:: 動画リンク一覧
 
