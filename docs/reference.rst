@@ -139,13 +139,16 @@
 .. raw:: html
 
   <!--メイドラゴン--><a href="https://www.amazon.co.jp/%E3%80%90Amazon-co-jp%E9%99%90%E5%AE%9A%E3%80%91%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3S-%E3%82%AB%E3%83%B3%E3%83%8A%E3%81%AE%E7%A8%B2%E5%A6%BB%E3%81%AE%E7%AE%B1-%E8%B1%AA%E8%8F%AF%E7%89%88Blu-ray-%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%96%E3%82%B1%E3%83%BC%E3%82%B9-%E3%82%AB%E3%83%B3%E3%83%8A%E7%B5%B5%E6%9F%84/dp/B098PQZD1P?crid=3MI8B20NXA480&keywords=%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3s&qid=1648262730&s=dvd&sprefix=%E5%B0%8F%E6%9E%97%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3S%2Cdvd%2C155&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=1b78dfccbab954b801c16ab738033a92&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B098PQZD1P&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B098PQZD1P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--響け! ユーフォニアム--><a href="https://www.amazon.co.jp/%E3%80%8C%E9%9F%BF%E3%81%91-%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0%E3%80%8DBlu-ray-BOX-%E9%BB%92%E6%B2%A2%E3%81%A8%E3%82%82%E3%82%88/dp/B07MX7Q59Y?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3UKRFH7KXXYZN&keywords=%E9%9F%BF%E3%81%91%21+%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0&qid=1650541088&sprefix=%E9%9F%BF%E3%81%91+%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0%2Caps%2C266&sr=8-7&linkCode=li1&tag=takaoutputblo-22&linkId=f1cf346441c251a128fd0e73eea2fa2b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07MX7Q59Y&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07MX7Q59Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-+------------------------------+--------------------------------------------------------------+
-|           タイトル           |                             解説                             |
-+==============================+==============================================================+
-| `小林さんちのメイドラゴンS`_ | インプット仮説は「10. カンナの夏休み（二か国語放送です!?）」 |
-+------------------------------+--------------------------------------------------------------+
-
++------------------------------+------------------------------------------------------------------------------------------------+
+|           タイトル           |                                              解説                                              |
++==============================+================================================================================================+
+| `小林さんちのメイドラゴンS`_ | インプット仮説は「10. カンナの夏休み（二か国語放送です!?）」                                   |
++------------------------------+------------------------------------------------------------------------------------------------+
+| `響け! ユーフォニアム`_      | 「罪と罰」を換骨奪胎した、理性主義への傾倒への警告を描いたチャレンジングな逸品（という深読み） |
++------------------------------+------------------------------------------------------------------------------------------------+
+.. _響け! ユーフォニアム: https://amzn.to/398F7Qz
 .. _小林さんちのメイドラゴンS: https://amzn.to/3iyimGV
 
 .. _赤ちゃん参考文献:
