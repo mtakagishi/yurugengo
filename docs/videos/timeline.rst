@@ -324,7 +324,8 @@
     group {
       orientation = portrait
       "22/4/3\n撮影25" ->
-      "22/4/17公開\nコ16【NW1】" ;
+      "22/4/17公開\nコ16【NW1】" ->
+      "22/4/24公開\nコ17【NW2】" ;
     }
     group {
       orientation = portrait
