@@ -1,0 +1,26 @@
+リポグラム
+==========================================
+.. glossary::
+    リポグラム : り
+
+* ある文字を一度も使わずに文章を書くこと。
+
+.. rubric:: ゆる言語学ラジオでよく紹介されるリポグラム
+* `煙滅`_ 
+* `残像に口紅を`_ 
+
+.. raw:: html
+
+  <!--煙滅 --><a href="https://www.amazon.co.jp/%E7%85%99%E6%BB%85-%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%BF-%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%83%A5-%E3%83%9A%E3%83%AC%E3%83%83%E3%82%AF/dp/4891767502?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=MPV3UX2W1TL3&keywords=%E7%85%99%E6%BB%85&qid=1651281595&sprefix=%E7%85%99%E6%BB%85%2Caps%2C170&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b02d3f79a25c6332e763d4337659d970&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4891767502&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4891767502" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--残像に口紅を--><a href="https://www.amazon.co.jp/%E6%AE%8B%E5%83%8F%E3%81%AB%E5%8F%A3%E7%B4%85%E3%82%92-%E4%B8%AD%E5%85%AC%E6%96%87%E5%BA%AB-%E7%AD%92%E4%BA%95-%E5%BA%B7%E9%9A%86/dp/4122022878?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=39S4N22VGXGH&keywords=%E6%AE%8B%E5%83%8F%E3%81%AB%E5%8F%A3%E7%B4%85%E3%82%92&qid=1651281750&sprefix=%2Caps%2C153&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=e99f1b2f6f713945e1374a75b7697b97&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4122022878&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4122022878" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+.. _残像に口紅を: https://amzn.to/39tD3CP
+.. _煙滅: https://amzn.to/3yjUwbp
+
+.. rubric:: 関連ワード
+* :doc:`7days_to_end_with_you` 
+
+.. rubric:: 関連ラジオ
+* `フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120`_
+
+.. _フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120: https://www.youtube.com/watch?v=vrBzSXN4MYI
