@@ -22,8 +22,8 @@
   :glob:
   
   words/index
-  reference
   genindex
+  reference/index
 
 .. toctree::
   :maxdepth: 2
