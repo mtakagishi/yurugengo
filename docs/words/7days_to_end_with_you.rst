@@ -12,7 +12,7 @@
 * `Android <https://play.google.com/store/apps/details?id=com.Lizardry.Youllbedeadin7days&hl=ja&gl=US>`_ 
 
 .. tip:: 
-  2022年2月発売、開発者は、日本人のLizardryさん、ゆる言語学ラジオ
+  2022年2月発売、開発者は、日本人のLizardryさん、ゆる言語学ラジオを見ているらしい。
 
 .. rubric:: 関連ワード
 * :doc:`リポグラム` 
