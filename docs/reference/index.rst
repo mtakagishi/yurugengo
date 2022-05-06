@@ -21,14 +21,6 @@
 
   コンピュータ科学シリーズ
 
-
-.. rubric:: 監修者補足シリーズ
-.. toctree::
-  :maxdepth: 2
-  :glob:
-
-  監修者補足シリーズ
-
 .. rubric:: 雑学・雑談シリーズ
 .. toctree::
   :maxdepth: 2
@@ -48,12 +40,20 @@
   :maxdepth: 2
   :glob:
 
-  パーソナリティ著書
+  堀元見著書
 
 .. rubric:: 動画音源
 .. toctree::
   :maxdepth: 2
   :glob:
+
+.. rubric:: 監修者補足シリーズ
+.. toctree::
+  :maxdepth: 2
+  :glob:
+
+  監修者補足シリーズ
+
 
   動画音源
 
