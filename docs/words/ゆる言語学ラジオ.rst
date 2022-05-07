@@ -1,4 +1,4 @@
-ゆる言語学ラジオ
+ゆる言語学ラジオについて
 ==============================
 .. glossary::
   ゆる言語学ラジオ : ゆ
@@ -11,18 +11,15 @@
   
   * 堀本でなく堀元
   * 慶應義塾大学理工学部 情報工学出身
-  * ネットコンテンツで収益を得る
-  * 誕生日は1992年4月2日（情報ソース: `Wikipedia <https://ja.wikipedia.org/wiki/堀元見>`_ ※2022年4月2日時点）
-
+  * ネットコンテンツで収益を得る。
+  * 誕生日は1992年4月30日
+  
 * 水野太貴（みずのだいき）
 
   * たいきでなくだいき
   * 名古屋大学文学部 言語学出身
   * 某大手出版社のサラリーマン
   * 誕生日は1995年8月
-
-.. tip:: 
-  堀元氏の誕生日について4月30日という説がある（本説の情報ソース：ご本人）
 
 .. rubric:: ヒストリ
 * 2020年12月某日 撮影開始、`衒学チャンネル <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ から順次公開される
@@ -36,9 +33,12 @@
 * 2022年01月01日 姉妹チャンネル『ゆるコンピュータ科学ラジオ』を開始
 * 2022年01月14日 第3回 JAPAN PODCAST AWARDS 大賞 及び ベストナレッジ賞にノミネート
 * 2022年02月27日 サポータコミュニティ1500名を突破
-* 2022年03月12日 Podcast weekend
+* 2022年03月12日 Podcast weekend 出店
 * 2022年03月17日 :doc:`JAPAN_PODCAST_AWARDS` （ベストナレッジ賞、リスナーズチョイス1位）
 * 2022年03月31日 `Lineスタンプ公開 <https://store.line.me/stickershop/product/18955892/ja>`_ 
+* 2022年03月31日 `noteコラボ出演 <https://store.line.me/stickershop/product/18955892/ja>`_ 
+* 2022年04月08日 `朝日新聞コラボ出演 <https://open.spotify.com/episode/4TwQ4R3PHXbTY6HAcPgcBm?si=F8TJxQ9oSBOu_Fjm04gDqA>`_ 
+* 2022年05月20日 `ゆる言語学ラジオ大好き芸人に出演(予定) <https://twitcasting.tv/asagayalofta/shopcart/154694>`_ 
 
 .. rubric:: 動画一覧
 * :doc:`/videos/yurugengo_radio_list` 
@@ -52,7 +52,8 @@
 * `ゆる言語学ラジオおたよりフォーム`_
 * `ゆる言語学ラジオTwitter`_
 * `ゆる言語学ラジオPodcast`_
-* `Wikipedia <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
+* `Wikipedia(ゆる言語学ラジオ) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
+* `Wikipedia(堀元見) <https://ja.wikipedia.org/wiki/堀元見>`_ 
 
 .. rubric:: 姉妹チャンネル
 * :doc:`/videos/yurucomputer_radio_list` 
