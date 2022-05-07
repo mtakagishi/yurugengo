@@ -5,7 +5,7 @@
 
 * 『`つぼみん <https://www.tsumibon.tamari-b.com/>`_』というサイトに参考文献がまとまっててオススメです。
 * `サポータコミュニティ <https://yurugengo.com/support>`_ にもまとめサイトがあるので課金もオススメ
-* ラジオで公開された選書リスト ⇒ `選書リスト(2021/10/04) <https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0>`_ 
+.. * ラジオで公開された選書リスト ⇒ `選書リスト(2021/10/04) <https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0>`_ 
 
 .. rubric:: 言語学ラジオ
 
