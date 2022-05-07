@@ -7,27 +7,23 @@
 * `サポータコミュニティ <https://yurugengo.com/support>`_ にもまとめサイトがあるので課金もオススメ
 * `選書リスト(2021/10/04) <https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0>`_ 
 
-.. rubric:: 言語学シリーズ
+.. rubric:: 言語学ラジオ
 
 .. toctree::
   :maxdepth: 2
   :glob:
 
   言語学シリーズ
-  
-.. rubric:: コンピュータ科学シリーズ
+  英語シリーズ
+  雑学・雑談シリーズ
+
+.. rubric:: コンピュータ科学ラジオ
 .. toctree::
   :maxdepth: 2
   :glob:
 
   コンピュータ科学シリーズ
 
-.. rubric:: 雑学・雑談シリーズ
-.. toctree::
-  :maxdepth: 2
-  :glob:
-
-  雑学・雑談シリーズ
   
 .. rubric:: 娯楽シリーズ
 .. toctree::

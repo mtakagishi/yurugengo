@@ -1,0 +1,73 @@
+.. _カタルシス英文法シリーズ参考文献:
+
+カタルシス英文法シリーズ
+=================================
+:doc:`/words/カタルシス英文法` の参考文献
+
+.. raw:: html
+
+  <!--Next Stage 英文法・語法問題--><a href="https://www.amazon.co.jp/Next-Stage%E8%8B%B1%E6%96%87%E6%B3%95%E3%83%BB%E8%AA%9E%E6%B3%95%E5%95%8F%E9%A1%8C%E2%80%95%E5%85%A5%E8%A9%A6%E8%8B%B1%E8%AA%9E%E9%A0%BB%E5%87%BA%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88218%E3%81%AE%E5%BE%81%E6%9C%8D-%E7%93%9C%E7%94%9F-%E8%B1%8A/dp/4342431203?keywords=%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8+%E8%8B%B1%E6%96%87%E6%B3%95&qid=1651924098&s=books&sprefix=%E3%81%AD%E3%81%8F%E3%81%99%2Cstripbooks%2C297&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=51af1cc045b29c404b8b1d9c67e9f802&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4342431203&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4342431203" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--まちがいだらけの日本語文法 --><a href="https://www.amazon.co.jp/dp/4061496182?&linkCode=li1&tag=takaoutputblo-22&linkId=fa009b98d2ae7848ef86fb476c94fcce&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4061496182&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4061496182" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--サバイバル英文法--><a href="https://www.amazon.co.jp/dp/414088472X?&linkCode=li1&tag=takaoutputblo-22&linkId=89709e7032a39ce2484d9efd991e1be9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=414088472X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=414088472X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英文法・語法の特別講座--><a href="https://www.amazon.co.jp/dp/404602545X?&linkCode=li1&tag=takaoutputblo-22&linkId=9f19afc3dd5149b7b0e14f44317e87ae&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=404602545X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=404602545X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英文法のカラクリがわかる--><a href="https://www.amazon.co.jp/dp/B007P0M42U?&linkCode=li1&tag=takaoutputblo-22&linkId=77ac40aea5d576bb9f01211d051ef1b8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007P0M42U&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B007P0M42U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--法助動詞の底力--><a href="https://www.amazon.co.jp/dp/490373840X?&linkCode=li1&tag=takaoutputblo-22&linkId=33b115480cc58a6a966e24dbab85e7c9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=490373840X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=490373840X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英語の法助動詞--><a href="https://www.amazon.co.jp/dp/4758925496?&linkCode=li1&tag=takaoutputblo-22&linkId=c588386467909e3aefb771c0a10d796c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4758925496&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4758925496" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英語は仮定法だ--><a href="https://www.amazon.co.jp/dp/475891303X?&linkCode=li1&tag=takaoutputblo-22&linkId=468d52f516bb331caebe1529e10dd789&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=475891303X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=475891303X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英語仮定法を洗い直す--><a href="https://www.amazon.co.jp/dp/475892564X?&linkCode=li1&tag=takaoutputblo-22&linkId=f7b5bd36d36f6300842d0f59fb56e205&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=475892564X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=475892564X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--町田教授の英語のしくみがわかる言語学講義--><a href="https://www.amazon.co.jp/dp/432737685X?&linkCode=li1&tag=takaoutputblo-22&linkId=81c4092bf345a78b9c9765405f55683f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=432737685X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=432737685X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英語の「なぜ?」に答える はじめての英語史--><a href="https://www.amazon.co.jp/dp/4327401684?&linkCode=li1&tag=takaoutputblo-22&linkId=d7780e7cba66c5dd7ac338b4ba9ae36f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4327401684&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4327401684" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--古典文法質問箱--><a href="https://www.amazon.co.jp/dp/4043260024?&linkCode=li1&tag=takaoutputblo-22&linkId=26bb8f29abf5074c0c2378d773e2471b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4043260024&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4043260024" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--五文型の底力--><a href="https://www.amazon.co.jp/dp/4903738310?&linkCode=li1&tag=takaoutputblo-22&linkId=91703ec12cd1bf1c9047f10d449a8f20&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4903738310&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4903738310" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英語の文型--><a href="https://www.amazon.co.jp/dp/4758925054?&linkCode=li1&tag=takaoutputblo-22&linkId=07bbc37f4e90632184970b14c91ffa5f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4758925054&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4758925054" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ハートで感じる英文法--><a href="https://www.amazon.co.jp/dp/4140394412?&linkCode=li1&tag=takaoutputblo-22&linkId=e9866156bdb935c16ca3c5e2f0659d32&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4140394412&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4140394412" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++---------------------------------------------+--------------------------------------------------------------------------+
+|                  タイトル                   |                                   解説                                   |
++=============================================+==========================================================================+
+| `Next Stage 英文法・語法問題`_              | 堀元氏のセンター英語198点、受験期ガチ攻略した参考書                      |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `まちがいだらけの日本語文法`_               | 語りかけるような口調で日本語文法の基礎的なお話をする本                   |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `サバイバル英文法`_                         | 英文法の本質が掴める本                                                   |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `英文法・語法の特別講座`_                   | 大学入試向け                                                             |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `英文法のカラクリがわかる`_                 | うんちく多めで面白い。                                                   |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `法助動詞の底力`_                           | 法助動詞をもっと知りたい方向け。                                         |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `英語の法助動詞`_                           | 法助動詞をもっと知りたい方向け。                                         |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `英語は仮定法だ`_                           | 仮定法は上級テクだ、という前提に立って、実用英語としての仮定法を説く本。 |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `英語仮定法を洗い直す`_                     | もっと知りたい方向け。仮定法過去完了で未来を指すケースがある、などの指摘 |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `町田教授の英語のしくみがわかる言語学講義`_ | 言語学者による、英文法本。                                               |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `英語の「なぜ?」に答える_はじめての英語史`_ | 「法（mood）って面白そうじゃん！」と思った方向け、英語史を深堀           |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `古典文法質問箱`_                           | 過去の助動詞「き」「けり」が詠嘆の意味を表す理由                         |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `五文型の底力`_                             | smellの5文型ジョークなど                                                 |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `英語の文型`_                               | 8文型を提唱                                                              |
++---------------------------------------------+--------------------------------------------------------------------------+
+| `ハートで感じる英文法`_                     | eelie という得体の知れない動詞 の話 はこちら                             |
++---------------------------------------------+--------------------------------------------------------------------------+
+
+.. _ハートで感じる英文法: https://amzn.to/3P78LWU
+.. _英語の文型: https://amzn.to/3sktRXR
+.. _五文型の底力: https://amzn.to/3sjHeYq
+.. _古典文法質問箱: https://amzn.to/3P7fmQU
+.. _英語の「なぜ?」に答える_はじめての英語史: https://amzn.to/3LStjjR
+.. _町田教授の英語のしくみがわかる言語学講義: https://amzn.to/3vTL64K
+.. _英語仮定法を洗い直す: https://amzn.to/3L0i5IY
+.. _英語は仮定法だ: https://amzn.to/3KMuLmw
+.. _英語の法助動詞: https://amzn.to/38ZA4BE
+.. _法助動詞の底力: https://amzn.to/3vSd4xJ
+.. _英文法のカラクリがわかる: https://amzn.to/3KUAFSq
+.. _英文法・語法の特別講座: https://amzn.to/38cosLM
+.. _サバイバル英文法: https://amzn.to/3FmPZWW
+.. _まちがいだらけの日本語文法: https://amzn.to/3LTh5Y5
+.. _Next Stage 英文法・語法問題: https://amzn.to/3FpuZyQ
