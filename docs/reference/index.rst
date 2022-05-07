@@ -3,7 +3,8 @@
 
 まとまってなくてすみません。マイペースにゆっくり整理する予定です。
 
-* すでに『`つぼみん <https://www.tsumibon.tamari-b.com/>`_』にて超絶まとまっててオススメ
+* 『`つぼみん <https://www.tsumibon.tamari-b.com/>`_』にて超絶まとまっててオススメ
+* `選書リスト(2021/10/04) <https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0>`_ 
 * `サポータコミュニティ <https://yurugengo.com/support>`_ にもまとめサイトがあるので課金もオススメ
 
 .. rubric:: 言語学シリーズ
