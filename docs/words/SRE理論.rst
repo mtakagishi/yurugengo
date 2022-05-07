@@ -1,17 +1,18 @@
 SRE理論
 ==========================================
 .. glossary::
-    SRE理論 : Group
+    SRE理論 : A-Z
 
-テンス・アスペクトを体系化するための方法論のひとつ。Speech、Refernece、Event の3つの参照点を用いる。
+ライヘンバッハ(Reichenbach)によるテンス・アスペクトを体系化するための方法論のひとつ。Speech、Refernece、Event の3つの参照点のこと。
 
 .. tip:: 
-  * 2022/5/20 阿佐ヶ谷ロフトAのリアルイベントの入場テストに出るかもしれない。
+  * `2022/5/20 阿佐ヶ谷ロフトAのリアルイベント <https://twitcasting.tv/asagayalofta/shopcart/154694>`_ の入場テストに出るかもしれない。
 
 .. rubric:: 関連ワード
 * :doc:`テンス・アスペクト` 
 * :doc:`TMA範疇` 
 * :doc:`パーフェクト` 
+* :doc:`SRM` 
 
 .. rubric:: 関連リンク
 * `堀田隆一先生のブログ（Reichenbach の時制・相の理論） <http://user.keio.ac.jp/~rhotta/hellog/2016-11-03-1.html>`_ 
