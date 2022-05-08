@@ -1,0 +1,48 @@
+.. _助数詞シリーズ参考文献:
+
+.. :ref:`助数詞シリーズ参考文献 <助数詞シリーズ参考文献>`
+
+(#37-#40)助数詞シリーズ
+=================================
+
+助数詞シリーズの参考文献まとめ
+
+.. raw:: html
+
+  <!--数え方の辞典--><a href="https://www.amazon.co.jp/dp/4095052015?&linkCode=li1&tag=takaoutputblo-22&linkId=ebb8777b33be7d8c4a60e7b515df48ee&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4095052015&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4095052015" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--絵で見る「もの」の数え方--><a href="https://www.amazon.co.jp/dp/4072467642?&linkCode=li1&tag=takaoutputblo-22&linkId=2faf377f2c9d7400284f9cd1f67eeb36&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4072467642&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4072467642" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--日本人なら知っておきたい! モノの数え方えほん--><a href="https://www.amazon.co.jp/dp/4284203282?&linkCode=li1&tag=takaoutputblo-22&linkId=4aaa03e73a9eff85ae595e3237cfefa8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4284203282&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4284203282" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--もし「右」や「左」がなかったら--><a href="https://www.amazon.co.jp/dp/4469212229?&linkCode=li1&tag=takaoutputblo-22&linkId=dad6aad2ea40a887e090f3bc383825a5&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4469212229&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4469212229" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--数え方でみがく日本語--><a href="https://www.amazon.co.jp/dp/4480687181?&linkCode=li1&tag=takaoutputblo-22&linkId=dd1bf421e6f7da198d3127d370dafc03&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480687181&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480687181" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--日本の助数詞に親しむ―数える言葉の奥深さ--><a href="https://www.amazon.co.jp/dp/4809414140?&linkCode=li1&tag=takaoutputblo-22&linkId=0cf23333b1c17df709f0276e206ef534&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4809414140&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4809414140" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--オカルト「超」入門--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%80%8C%E8%B6%85%E3%80%8D%E5%85%A5%E9%96%80-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%8E%9F%E7%94%B0-%E5%AE%9F/dp/4061385194?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E8%B6%85%E5%85%A5%E9%96%80&qid=1626769479&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=f047a8bbcdefdb1fd4d0a579e5c99ce0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4061385194&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4061385194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
++-------------------------------------------------+------------------------------------------------------------------------------+
+|                    タイトル                     |                                     解説                                     |
++=================================================+==============================================================================+
+| `数え方の辞典`_                                 | 助数詞シリーズのタネ本                                                       |
++-------------------------------------------------+------------------------------------------------------------------------------+
+| `日本の助数詞に親しむ―数える言葉の奥深さ`_      | 「数え方の辞典」を書いた助数詞の研究者・飯田朝子先生による単著               |
++-------------------------------------------------+------------------------------------------------------------------------------+
+| `数え方でみがく日本語`_                         | 「数え方の辞典」を書いた助数詞の研究者・飯田朝子先生による単著               |
++-------------------------------------------------+------------------------------------------------------------------------------+
+| `絵で見る「もの」の数え方`_                     | 1ページ1助数詞。うんちく多め。                                               |
++-------------------------------------------------+------------------------------------------------------------------------------+
+| `日本人なら知っておきたい! モノの数え方えほん`_ | 町田先生による絵本。お子さんに助数詞の面白さを伝えたい場合はこちらをどうぞ。 |
++-------------------------------------------------+------------------------------------------------------------------------------+
+| `もし「右」や「左」がなかったら`_               | ゆる言語学ラジオでは結構よく出てくるグーグ・イミディル語のお話               |
++-------------------------------------------------+------------------------------------------------------------------------------+
+| `『カバはカバと思っている奴』`_                 | 飼育員の話になったら想起されてしまうジャルジャルの名コント                   |
++-------------------------------------------------+------------------------------------------------------------------------------+
+| `オカルト「超」入門`_                           | オカルトは皆の深層心理が映し出される。助数詞の決まり方と似ている             |
++-------------------------------------------------+------------------------------------------------------------------------------+
+.. _オカルト「超」入門: https://amzn.to/3smB8GR
+.. _『カバはカバと思っている奴』: https://youtu.be/VvXYtEq4E8c
+.. _日本の助数詞に親しむ―数える言葉の奥深さ: https://amzn.to/3vPTQJ0
+.. _数え方でみがく日本語: https://amzn.to/3vVvu0B
+
+.. _もし「右」や「左」がなかったら: https://amzn.to/3M0BISj
+.. _日本人なら知っておきたい! モノの数え方えほん: https://amzn.to/3P5yTS4
+.. _絵で見る「もの」の数え方: https://amzn.to/3MXGv75
+.. _数え方の辞典: https://amzn.to/3N1RIDx
