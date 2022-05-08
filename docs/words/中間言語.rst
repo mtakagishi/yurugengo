@@ -1,0 +1,25 @@
+中間言語
+==========================================
+.. glossary::
+    中間言語 : ち
+
+セリンカーが提唱した概念。第二言語習得の過程で言語項目や規則について、（ある意味規則通りに）誤って習得した状況の言語体系を指す。
+
+.. tip:: 
+  ラジオで「規則通りに間違えた例」で用いられた例文
+  * I holded that.(held が正しい)
+  * I swimmed in this rever.（swamが正しい）
+
+
+.. rubric:: 関連ワード
+* :doc:`エスペラント` 
+
+.. rubric:: 関連リンク
+* `中間言語(Wikipedia) <https://ja.wikipedia.org/wiki/中間言語>`_ 
+* `中間言語・化石化とは何か <https://www.nihongo-appliedlinguistics.net/wp/archives/5704>`_ 
+* :ref:`第二言語習得論参考文献 <第二言語習得論参考文献>`
+
+.. rubric:: 関連ラジオ
+* `明日から全く役に立たない第二言語習得論【第二言語習得論1】#74`_
+
+.. _明日から全く役に立たない第二言語習得論【第二言語習得論1】#74: https://www.youtube.com/watch?v=o3Yy_pjpBO8

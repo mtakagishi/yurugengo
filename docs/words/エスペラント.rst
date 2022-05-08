@@ -7,6 +7,10 @@
 
 .. rubric:: 関連ワード
 * :doc:`バベらなかった世界線` 
+* :doc:`中間言語` 
+
+.. rubric:: 関連リンク
+* `エスペラント(Wikipedia) <https://ja.wikipedia.org/wiki/エスペラント>`_ 
 
 .. rubric:: 関連ラジオ
 * `2km先では言語が違う国があるらしい…【言語がたくさんある理由】#2`_
