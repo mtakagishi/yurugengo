@@ -12,6 +12,7 @@
   collaboration
   timeline
   statistics
+  /words/index
 
 .. rubric:: 動画リンク一覧
 
