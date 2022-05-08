@@ -46,13 +46,6 @@
 
   動画音源
 
-.. rubric:: 監修者補足シリーズ
-.. toctree::
-  :maxdepth: 2
-  :glob:
-
-  監修者補足シリーズ
-
 .. rubric:: その他
 .. toctree::
   :maxdepth: 2
