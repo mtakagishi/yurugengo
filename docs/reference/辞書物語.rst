@@ -1,0 +1,30 @@
+.. _辞書物語参考文献:
+
+:ref:`辞書物語参考文献 <辞書物語参考文献>`
+
+(#20-#21)辞書物語
+=================================
+見坊さんが登場する辞書物語シリーズの参考文献
+
+.. raw:: html
+
+  <!--辞書になった男--><a href="https://www.amazon.co.jp/%E8%BE%9E%E6%9B%B8%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E7%94%B7-%E3%82%B1%E3%83%B3%E3%83%9C%E3%83%BC%E5%85%88%E7%94%9F%E3%81%A8%E5%B1%B1%E7%94%B0%E5%85%88%E7%94%9F-%E6%96%87%E6%98%A5%E6%96%87%E5%BA%AB-%E4%BD%90%E3%80%85%E6%9C%A8%E5%81%A5%E4%B8%80-ebook/dp/B01JOPUHV8?_encoding=UTF8&qid=&sr=&linkCode=li1&tag=takaoutputblo-22&linkId=a1085d764922d9f1ee9b0eae41474563&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JOPUHV8&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01JOPUHV8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--辞典語辞典:--><a href="https://www.amazon.co.jp/dp/4416521138?&linkCode=li1&tag=takaoutputblo-22&linkId=8237960220fd63e236495ef0b4ec442a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4416521138&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4416521138" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--新解さんの謎--><a href="https://www.amazon.co.jp/%E6%96%B0%E8%A7%A3%E3%81%95%E3%82%93%E3%81%AE%E8%AC%8E-%E6%96%87%E6%98%A5%E6%96%87%E5%BA%AB-%E8%B5%A4%E7%80%AC%E5%B7%9D-%E5%8E%9F%E5%B9%B3-ebook/dp/B009DECWRI?_encoding=UTF8&qid=1620707945&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=4f5c474a204a62ff771abc29a8e3ba02&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009DECWRI&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009DECWRI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--舟を編む--><a href="https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93-ebook/dp/B00U8P4ZJ4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80&qid=1620707890&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=7fc878714f9d3be07ececfed88171cbc&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00U8P4ZJ4&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00U8P4ZJ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-------------------+----------------------------------------------+
+|     タイトル      |                     解説                     |
++===================+==============================================+
+| `辞書になった男`_ | 辞書物語の回の種本、見坊先生や山田先生の話。 |
++-------------------+----------------------------------------------+
+| `辞典語辞典:`_    | 辞典にまつわる語のみを集めた辞典             |
++-------------------+----------------------------------------------+
+| `新解さんの謎`_   | 新明解国語辞典を擬人化して分析した本         |
++-------------------+----------------------------------------------+
+| `舟を編む`_       | 辞書作りをテーマにした三浦しをんの小説       |
++-------------------+----------------------------------------------+
+.. _舟を編む: https://amzn.to/3L1XofK
+.. _新解さんの謎: https://amzn.to/3KUt5rb
+.. _辞典語辞典:: https://amzn.to/391Pk1d
+.. _辞書になった男: https://amzn.to/3yqBG27
