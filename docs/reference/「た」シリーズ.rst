@@ -1,5 +1,7 @@
 .. _た参考文献:
 
+:ref:`「た」シリーズの参考文献 <た参考文献>`
+
 「た」シリーズ
 -----------------------------------------------
 (#89-#94) :doc:`/words/た` の参考文献の一覧
@@ -66,3 +68,23 @@
 .. _ムードの「た」の過去性（定延利之）: http://www.lib.kobe-u.ac.jp/repository/81001271.pdf
 .. _タ形の意味を考える ──日本語学習者の運用能力に貢献する文法研究──（山本雅子）: https://aichiu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9457&item_no=1&page_id=13&block_id=17
 .. _11人いる！: https://amzn.to/34H2BtI
+
+
+.. rubric:: 関連動画
+* `#89【「た」1】`_
+* `#90【「た」2】`_
+* `#91【「た」3】`_
+* `#92【「た」4】`_
+* `#93【「た」5】`_
+* `#94【「た」6】`_
+* `#95【「た」疲れた】`_
+
+.. _#95【「た」疲れた】: https://www.youtube.com/watch?v=TLFxYRB0uBI
+.. _#94【「た」6】: https://www.youtube.com/watch?v=drXeWP6Smlc
+.. _#93【「た」5】: https://www.youtube.com/watch?v=fPY_7jbiTx8
+.. _#92【「た」4】: https://www.youtube.com/watch?v=RVw1F-ttOfI
+.. _#91【「た」3】: https://www.youtube.com/watch?v=I0iFsy-QShY
+.. _#90【「た」2】: https://www.youtube.com/watch?v=P4FvgzaY2MA
+.. _#89【「た」1】: https://www.youtube.com/watch?v=iXlykljJ3kY
+
+

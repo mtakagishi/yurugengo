@@ -15,3 +15,7 @@ Stiff Upper Lip
 
 .. _お互いの奇書を自慢したら最高にキショかった【キショ奇書自慢選手権】#101: https://www.youtube.com/watch?v=QW9v7Yneuq0
 .. _会話にキモインテリ慣用句を放り込め！【何こいつキモナイト】#45: https://www.youtube.com/watch?v=o9xAhJ2ZbRQ
+
+.. rubric:: 参考文献
+* :ref:`何こいつキモナイトに登場した文献 <何こいつキモナイト参考文献>`
+* :ref:`奇書一覧 <奇書一覧>`

@@ -23,3 +23,6 @@ SRE理論
 
 .. _「ゆる言語学ラジオ大好き芸人」イベント出ます【告知回】#122: https://www.youtube.com/watch?v=9UC6fpYL7mw
 .. _なぜ『11人いる！』は「11人いた！」ではダメなのか？【た5】#93: https://www.youtube.com/watch?v=fPY_7jbiTx8
+
+.. rubric:: 参考文献
+* :ref:`「た」シリーズの参考文献 <た参考文献>`
