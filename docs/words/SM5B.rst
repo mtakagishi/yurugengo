@@ -3,7 +3,13 @@ SM5B
 .. glossary::
     SM5B : A-Z
 
-ゆる言語学ラジオで使われるマイクとして触れられたSHURE製マイク。**SM5Bは存在しない** のでSM7BやSM58のことを指していると思われる。
+ゆる言語学ラジオの音声機材の話題にのぼった幻のマイク。もっとこだわるなら2個上のランクにSM5BというSHUREのマイクで5万2千円くらいのものがあると動画で発言。しかし、 **SM5Bは存在しない** ため、SM7BとSM58からの言い間違いと思われる。
+
+.. tip:: 
+  サポータコミュニティで繁盛すればマイクのランクが上がっているかもしれない。
+
+
+.. rubric:: `ゆる言語学ラジオのマイクはSHURE <https://amzn.to/3wBOP5M>`_ 
 
 .. raw:: html
 
@@ -18,6 +24,9 @@ SM5B
 .. _MV7: https://amzn.to/3yIyKOo
 .. _SM58: https://amzn.to/3lgAoiz
 .. _SM7B: https://amzn.to/3NBR14v
+
+.. rubric:: 
+* `サポーターコミュニティ <https://yurugengo.com/support>`_ 
 
 .. rubric:: 関連ラジオ
 * `サポーターコミュニティ始めます【課金で伝説のボツ回が見れる】 #73`_
