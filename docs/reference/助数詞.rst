@@ -1,11 +1,11 @@
 .. _助数詞シリーズ参考文献:
 
-.. :ref:`助数詞シリーズ参考文献 <助数詞シリーズ参考文献>`
+:ref:`助数詞シリーズ参考文献 <助数詞シリーズ参考文献>`
 
 助数詞シリーズ
 =================================
 
-(#37-#40)助数詞シリーズの参考文献まとめ
+(#37-#41)助数詞シリーズの参考文献まとめ。助数詞を知れば知るほど、:doc:`/words/助数詞ーズハイ` な気分になる。
 
 .. raw:: html
 
@@ -16,33 +16,72 @@
   <!--数え方でみがく日本語--><a href="https://www.amazon.co.jp/dp/4480687181?&linkCode=li1&tag=takaoutputblo-22&linkId=dd1bf421e6f7da198d3127d370dafc03&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480687181&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480687181" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--日本の助数詞に親しむ―数える言葉の奥深さ--><a href="https://www.amazon.co.jp/dp/4809414140?&linkCode=li1&tag=takaoutputblo-22&linkId=0cf23333b1c17df709f0276e206ef534&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4809414140&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4809414140" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--オカルト「超」入門--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%80%8C%E8%B6%85%E3%80%8D%E5%85%A5%E9%96%80-%E6%98%9F%E6%B5%B7%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%8E%9F%E7%94%B0-%E5%AE%9F/dp/4061385194?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E8%B6%85%E5%85%A5%E9%96%80&qid=1626769479&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=f047a8bbcdefdb1fd4d0a579e5c99ce0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4061385194&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4061385194" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ピダハン--><a href="https://www.amazon.co.jp/%E3%83%94%E3%83%80%E3%83%8F%E3%83%B3%E2%80%95%E2%80%95%E3%80%8C%E8%A8%80%E8%AA%9E%E6%9C%AC%E8%83%BD%E3%80%8D%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%E6%96%87%E5%8C%96%E3%81%A8%E4%B8%96%E7%95%8C%E8%A6%B3-%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%EF%BC%AC%E3%83%BB%E3%82%A8%E3%83%B4%E3%82%A7%E3%83%AC%E3%83%83%E3%83%88-ebook/dp/B01M0ZQ5F6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%94%E3%83%80%E3%83%8F%E3%83%B3&qid=1627345286&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=d2059119ab36d9fff1a799f88501a7d3&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M0ZQ5F6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01M0ZQ5F6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--宇宙兄弟--><a href="https://www.amazon.co.jp/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B0%8F%E5%B1%B1%E5%AE%99%E5%93%89-ebook/dp/B009KWUFNG?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2R02T0FFPYRFT&keywords=%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F&qid=1653129667&sprefix=%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F%2Caps%2C169&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=7d21eb57d88df159e20632e7b6779737&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009KWUFNG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009KWUFNG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--BLUE GIANT--><a href="https://www.amazon.co.jp/BLUE-GIANT%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E7%9F%B3%E5%A1%9A%E7%9C%9F%E4%B8%80-ebook/dp/B00GSMDY48?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=29J46K0ICZV3Z&keywords=blue+giant&qid=1653129888&sprefix=blue+giant%2Caps%2C153&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=f7cfc5d20922fad3038eb9270b757ba9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSMDY48&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00GSMDY48" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--失われた時を求めて--><a href="https://www.amazon.co.jp/%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E6%99%82%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6%EF%BC%881%EF%BC%89%E2%80%95%E2%80%95%E3%82%B9%E3%83%AF%E3%83%B3%E5%AE%B6%E3%81%AE%E3%81%BB%E3%81%86%E3%81%B8I-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-%E3%83%97%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%88/dp/4003751094?keywords=%E3%83%97%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%88&qid=1653130077&sprefix=%E3%83%97%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%88%2Caps%2C186&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=42c47bbce143f2c88cbadeebe9b549d3&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003751094&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003751094" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--喧嘩商売--><a href="https://www.amazon.co.jp/%E5%96%A7%E5%98%A9%E5%95%86%E5%A3%B2%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9C%A8%E5%A4%9A%E5%BA%B7%E6%98%AD-ebook/dp/B00A766056?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2WR9G1BSM7NT0&keywords=%E5%96%A7%E5%98%A9%E5%95%86%E5%A3%B2&qid=1653130581&sprefix=%E5%96%A7%E5%98%A9%E5%95%86%E5%A3%B2%2Caps%2C274&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=8db1e1f1da4eae422b8d58ac8c535acc&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A766056&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00A766056" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--アリアドネの糸--><a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%AA%E3%82%A2%E3%83%89%E3%83%8D%E3%81%AE%E7%B3%B8-%E3%83%8F%E3%83%93%E3%82%A8%E3%83%AB-%E3%82%BD%E3%83%96%E3%83%AA%E3%83%BC%E3%83%8E/dp/4895728293?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2BH0YK7PVEHWH&keywords=%E3%82%A2%E3%83%AA%E3%82%A2%E3%83%89%E3%83%8D%E3%81%AE%E7%B3%B8&qid=1653131855&s=books&sprefix=%E3%82%A2%E3%83%AA%E3%82%A2%E3%83%89%E3%83%8D%E3%81%AE%E7%B3%B8%2Cstripbooks%2C193&sr=1-6&linkCode=li1&tag=takaoutputblo-22&linkId=c365d53fe387e6fcddcadee4d800eebf&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4895728293&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4895728293" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--火車--><a href="https://www.amazon.co.jp/%E7%81%AB%E8%BB%8A-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E5%AE%AE%E9%83%A8-%E3%81%BF%E3%82%86%E3%81%8D/dp/4101369186?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=145Z95URT2UEE&keywords=%E7%81%AB%E8%BB%8A&qid=1653131731&s=books&sprefix=%E7%81%AB%E8%BB%8A%2Cstripbooks%2C214&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=66901f520dc3d7f9e2d047f914e20970&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4101369186&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4101369186" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-
-+-------------------------------------------------+------------------------------------------------------------------------------+
-|                    タイトル                     |                                     解説                                     |
-+=================================================+==============================================================================+
-| `数え方の辞典`_                                 | 助数詞シリーズのタネ本                                                       |
-+-------------------------------------------------+------------------------------------------------------------------------------+
-| `日本の助数詞に親しむ―数える言葉の奥深さ`_      | 「数え方の辞典」を書いた助数詞の研究者・飯田朝子先生による単著               |
-+-------------------------------------------------+------------------------------------------------------------------------------+
-| `数え方でみがく日本語`_                         | 「数え方の辞典」を書いた助数詞の研究者・飯田朝子先生による単著               |
-+-------------------------------------------------+------------------------------------------------------------------------------+
-| `絵で見る「もの」の数え方`_                     | 1ページ1助数詞。うんちく多め。                                               |
-+-------------------------------------------------+------------------------------------------------------------------------------+
-| `日本人なら知っておきたい! モノの数え方えほん`_ | 町田先生による絵本。お子さんに助数詞の面白さを伝えたい場合はこちらをどうぞ。 |
-+-------------------------------------------------+------------------------------------------------------------------------------+
-| `もし「右」や「左」がなかったら`_               | ゆる言語学ラジオでは結構よく出てくるグーグ・イミディル語のお話               |
-+-------------------------------------------------+------------------------------------------------------------------------------+
-| `『カバはカバと思っている奴』`_                 | 飼育員の話になったら想起されてしまうジャルジャルの名コント                   |
-+-------------------------------------------------+------------------------------------------------------------------------------+
-| `オカルト「超」入門`_                           | オカルトは皆の深層心理が映し出される。助数詞の決まり方と似ている             |
-+-------------------------------------------------+------------------------------------------------------------------------------+
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+|                    タイトル                     |                                          解説                                          |
++=================================================+========================================================================================+
+| `数え方の辞典`_                                 | 助数詞シリーズのタネ本                                                                 |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `日本の助数詞に親しむ―数える言葉の奥深さ`_      | 「数え方の辞典」を書いた助数詞の研究者・飯田朝子先生による単著                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `数え方でみがく日本語`_                         | 「数え方の辞典」を書いた助数詞の研究者・飯田朝子先生による単著                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `絵で見る「もの」の数え方`_                     | 1ページ1助数詞。うんちく多め。                                                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `日本人なら知っておきたい! モノの数え方えほん`_ | 町田先生による絵本。お子さんに助数詞の面白さを伝えたい場合はこちらをどうぞ。           |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `もし「右」や「左」がなかったら`_               | ゆる言語学ラジオでは結構よく出てくるグーグ・イミディル語のお話                         |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `『カバはカバと思っている奴』`_                 | 飼育員の話になったら想起されてしまうジャルジャルの名コント                             |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `オカルト「超」入門`_                           | オカルトは皆の深層心理が映し出される。助数詞の決まり方と似ている                       |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `ピダハン`_                                     | 助数詞と同一日に撮影されたエヴェレットの物語                                           |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `宇宙兄弟`_                                     | 助数詞シリーズを振り返り、長いストーリでありつつ各回が面白い点で宇宙兄弟を想起         |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `BLUE GIANT`_                                   | 長いストーリでありつつ各回が面白いという話題にて                                       |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `失われた時を求めて`_                           | 宇宙兄弟との対比で、プルースト「失われた時を求めて」。ヒキもなにもなしにダラダラと     |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `喧嘩商売`_                                     | エモすぎる「子孫が跡を継ぐ」フォーマット。エヴェレットの話と重なった                   |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `アリアドネの糸`_                               | センスの良い言葉で有名になった言葉(同一タイトルが複数あり水野さんの想起したものか不明) |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+| `火車`_                                         | センスの良い言葉で有名になった言葉                                                     |
++-------------------------------------------------+----------------------------------------------------------------------------------------+
+.. _アリアドネの糸: https://amzn.to/3sPadDM
+.. _火車: https://amzn.to/3G7r8GT
+.. _喧嘩商売: https://amzn.to/3LzBzEk
+.. _失われた時を求めて: https://amzn.to/3MzxUHP
+.. _BLUE GIANT: https://amzn.to/3G4qZUT
+.. _宇宙兄弟: https://amzn.to/3PDcjQL
+.. _ピダハン: https://amzn.to/3a3vOSg
 .. _オカルト「超」入門: https://amzn.to/3smB8GR
 .. _『カバはカバと思っている奴』: https://youtu.be/VvXYtEq4E8c
 .. _日本の助数詞に親しむ―数える言葉の奥深さ: https://amzn.to/3vPTQJ0
 .. _数え方でみがく日本語: https://amzn.to/3vVvu0B
-
 .. _もし「右」や「左」がなかったら: https://amzn.to/3M0BISj
 .. _日本人なら知っておきたい! モノの数え方えほん: https://amzn.to/3P5yTS4
 .. _絵で見る「もの」の数え方: https://amzn.to/3MXGv75
 .. _数え方の辞典: https://amzn.to/3N1RIDx
+
+.. rubric:: 関連動画
+* `#37【助数詞1】`_
+* `#38【助数詞2】`_
+* `#39【助数詞3】`_
+* `#40【助数詞4】`_
+* `#41【助数詞振り返り雑談回】`_
+
+.. _#41【助数詞振り返り雑談回】: https://www.youtube.com/watch?v=43bvI0smi7k
+.. _#40【助数詞4】: https://www.youtube.com/watch?v=9J7kyciQI3E
+.. _#39【助数詞3】: https://www.youtube.com/watch?v=NXpMF7qycDE
+.. _#38【助数詞2】: https://www.youtube.com/watch?v=K5_ktUB62G0
+.. _#37【助数詞1】: https://www.youtube.com/watch?v=dNNMueYZTms

@@ -2,8 +2,10 @@
 
 .. :ref:`雑談126参考文献 <雑談126参考文献>`
 
-(#126)雑談_PodcastWeekend振返り＆お便り
+(#126)PodcastWeekend振返り＆おたより雑談
 ======================================================
+
+:doc:`/words/助数詞ーズハイ` さんが登場する雑談回
 
 .. raw:: html
 
@@ -26,6 +28,7 @@
 .. _おっぱい先生(光文社): https://amzn.to/3MEeOjS
 
 .. rubric:: 関連動画
-`#126【PodcastWeekend振返り】`_
+* `#126【PodcastWeekend＋おたより雑談】`_
 
-.. _#126【PodcastWeekend振返り】: https://www.youtube.com/watch?v=VdVT4zYSH24
+.. _#126【PodcastWeekend＋おたより雑談】: https://www.youtube.com/watch?v=VdVT4zYSH24
+
