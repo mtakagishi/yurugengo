@@ -14,6 +14,7 @@
 .. rubric:: 関連ワード
 * :doc:`7days_to_end_with_you` 
 * :doc:`恣意性・線状性` 
+* :doc:`二重文節` 
 
 .. rubric:: 関連リンク
 * `シニフィアンとシニフィエ(Wikipedia) <https://ja.wikipedia.org/wiki/シニフィアンとシニフィエ>`_ 
