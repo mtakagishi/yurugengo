@@ -54,3 +54,15 @@
 .. _日本語に主語はいらない　百年の誤謬を正す: https://amzn.to/3MSnTFy
 .. _「ボクハウナギダ」の文法―ダとノ: https://amzn.to/3vMnGOt
 .. _象は鼻が長い: https://amzn.to/3w8iNOI
+
+.. rubric:: 動画
+* `#10【「象は鼻が長い」の謎】`_
+* `#11【「象は鼻が長い」の謎つづき】`_
+* `#99【三上章1】`_
+* `#100【三上章2】`_
+
+.. _#100【三上章2】: https://www.youtube.com/watch?v=r_Su4Awa6Dk
+.. _#99【三上章1】: https://www.youtube.com/watch?v=dqd4NLCQNIQ
+.. _#10【「象は鼻が長い」の謎】: https://www.youtube.com/watch?v=yzTqAU_kiKM
+.. _#9【カタルシス英文法_過去形】: https://www.youtube.com/watch?v=AgTDxlBwdV8
+

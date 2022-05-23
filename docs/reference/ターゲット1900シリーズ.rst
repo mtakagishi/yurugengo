@@ -33,3 +33,11 @@
 .. _受験脳の作り方: https://amzn.to/3P4cUuD
 .. _システム英単語Premium(語源編): https://amzn.to/3FnkSuu
 .. _英単語ターゲット1900: https://amzn.to/3P4c0OL
+
+.. rubric:: 動画
+* `#103【ターゲット1900①】`_
+* `#119【ターゲット1900②】`_
+
+.. _#103【ターゲット1900①】: https://www.youtube.com/watch?v=RERceQyeld0
+.. _#119【ターゲット1900②】: https://www.youtube.com/watch?v=AL_XHN39DOk
+

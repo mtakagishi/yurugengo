@@ -42,6 +42,8 @@
 
 .. rubric:: 関連動画
 * `【半導体1】`_
+* `【半導体2】`_
 
 .. _【半導体1】: https://youtu.be/ShgBk-SPFpo
+.. _【半導体2】: https://youtu.be/RUveCmXs3LU
 

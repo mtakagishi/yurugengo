@@ -3,7 +3,7 @@
 第二言語習得論
 =================================
 
-(#71-#81) 福田先生ゲスト回に登場した参考文献まとめ
+(#74-#81) 福田先生ゲスト回に登場した参考文献まとめ
 
 .. raw:: html
 
@@ -100,3 +100,20 @@
 .. _外国語学習に潜む意識と無意識: https://amzn.to/3kNIf75
 .. _はじめての第二言語習得論講義: https://amzn.to/3MXnUIf
 .. _英語習得の「常識」「非常識」―第二言語習得研究からの検証: https://amzn.to/3LVImcy
+
+.. rubric:: 動画
+* `#74【第二言語習得論1】`_
+* `#75【第二言語習得論2】`_
+* `#76【第二言語習得論3】`_
+* `#77【第二言語習得論4】`_
+* `#78【第二言語習得論5】`_
+* `#80【福田先生雑談回1】`_
+* `#81【福田先生雑談回2】`_
+
+.. _#81【福田先生雑談回2】: https://www.youtube.com/watch?v=75HsFDb3HLI
+.. _#80【福田先生雑談回1】: https://www.youtube.com/watch?v=sSvxP5cUASM
+.. _#78【第二言語習得論5】: https://www.youtube.com/watch?v=0nmVZ6Up__k
+.. _#77【第二言語習得論4】: https://www.youtube.com/watch?v=SmH9EbH0x0c
+.. _#76【第二言語習得論3】: https://www.youtube.com/watch?v=4oKTEuDgO3s
+.. _#75【第二言語習得論2】: https://www.youtube.com/watch?v=h2tt1bEU72g
+.. _#74【第二言語習得論1】: https://www.youtube.com/watch?v=o3Yy_pjpBO8

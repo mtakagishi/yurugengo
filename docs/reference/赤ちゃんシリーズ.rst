@@ -80,3 +80,21 @@
 .. _赤ちゃんはことばをどう学ぶのか: https://amzn.to/3Kpr7Qa
 .. _言葉をおぼえるしくみ: https://amzn.to/3xcKrfD
 
+.. rubric:: 動画
+* `#107【赤ちゃんの言語習得1】`_
+* `#108【赤ちゃんの言語習得2】`_
+* `#109【赤ちゃんの言語習得3】`_
+* `#110【赤ちゃんの言語習得4】`_
+* `#111【赤ちゃんの言語習得5】`_
+* `#112【赤ちゃんと創作1】`_
+* `#113【赤ちゃんと創作2】`_
+* `#114【赤ちゃんまとめ】`_
+
+.. _#114【赤ちゃんまとめ】: https://www.youtube.com/watch?v=iNAC58puA6w
+.. _#113【赤ちゃんと創作2】: https://www.youtube.com/watch?v=zeGChbd9RA0
+.. _#112【赤ちゃんと創作1】: https://www.youtube.com/watch?v=1xO-Lfs02c8
+.. _#111【赤ちゃんの言語習得5】: https://www.youtube.com/watch?v=I0BSrrCxy_c
+.. _#110【赤ちゃんの言語習得4】: https://www.youtube.com/watch?v=Gz3sGPBXXXQ
+.. _#109【赤ちゃんの言語習得3】: https://www.youtube.com/watch?v=aPnXMtrumzs
+.. _#108【赤ちゃんの言語習得2】: https://www.youtube.com/watch?v=J7rAZ2tRoT0
+.. _#107【赤ちゃんの言語習得1】: https://www.youtube.com/watch?v=AMIaheSRVew
