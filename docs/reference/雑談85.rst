@@ -6,6 +6,8 @@
 =================================
 `#85【雑談回】`_ で登場した文献を整理しました。
 
+`参考文献一覧へ戻る </reference/>`_ 
+
 .. raw:: html
 
   <!--数字とことばの不思議な話--><a href="https://www.amazon.co.jp/%E6%95%B0%E5%AD%97%E3%81%A8%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E8%A9%B1-%E5%B2%A9%E6%B3%A2%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E6%96%B0%E6%9B%B8-%E7%AA%AA%E8%96%97-%E6%99%B4%E5%A4%AB-ebook/dp/B09LHJRW33?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1MK5K46C4XC0T&keywords=%E6%95%B0%E5%AD%97%E3%81%A8%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE&qid=1640250316&s=books&sprefix=%E6%95%B0%E5%AD%97%E3%81%A8%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE%2Cstripbooks%2C160&sr=1-2&linkCode=li1&tag=takaoutputblo-22&linkId=ec3bf00712ddd9e6ef4736be0baf6e5f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LHJRW33&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B09LHJRW33" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

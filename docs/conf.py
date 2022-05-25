@@ -73,7 +73,8 @@ html_theme_options = {
     ],
 }
 html_sidebars = {
-    "words/*": ["search-field.html", "sidebar-ethical-ads.html"]
+    "words/*": ["search-field.html", "sidebar-ethical-ads.html"],
+    "reference/*": ["search-field.html", "sidebar-ethical-ads.html"],
 }
 
 [extensions]

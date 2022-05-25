@@ -6,6 +6,8 @@
 =================================
 :doc:`/words/カタルシス英文法` の参考文献
 
+`参考文献一覧へ戻る </reference/>`_ 
+
 .. raw:: html
 
   <!--Next Stage 英文法・語法問題--><a href="https://www.amazon.co.jp/Next-Stage%E8%8B%B1%E6%96%87%E6%B3%95%E3%83%BB%E8%AA%9E%E6%B3%95%E5%95%8F%E9%A1%8C%E2%80%95%E5%85%A5%E8%A9%A6%E8%8B%B1%E8%AA%9E%E9%A0%BB%E5%87%BA%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88218%E3%81%AE%E5%BE%81%E6%9C%8D-%E7%93%9C%E7%94%9F-%E8%B1%8A/dp/4342431203?keywords=%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8+%E8%8B%B1%E6%96%87%E6%B3%95&qid=1651924098&s=books&sprefix=%E3%81%AD%E3%81%8F%E3%81%99%2Cstripbooks%2C297&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=51af1cc045b29c404b8b1d9c67e9f802&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4342431203&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4342431203" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

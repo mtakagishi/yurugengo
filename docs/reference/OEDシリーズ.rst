@@ -5,6 +5,8 @@ OEDシリーズ
 
 :doc:`/words/OED` に関連する参考文献
 
+`参考文献一覧へ戻る </reference/>`_ 
+
 .. raw:: html
 
   <!--博士と狂人―世界最高の辞書OEDの誕生秘話--><a href="https://www.amazon.co.jp/dp/4150503060?&linkCode=li1&tag=takaoutputblo-22&linkId=1dbba8826221f25e4c32ba7bd674dbd3&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4150503060&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4150503060" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

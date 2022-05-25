@@ -7,6 +7,8 @@
 
 (#34-#35,#46-#48)ゆる言語学ラジオの影響で有名になった :doc:`/words/イビピーオ` （ピダハン語）など、エヴェレット親子の著書が種本のシリーズの参考文献をまとめました。
 
+`参考文献一覧へ戻る </reference/>`_ 
+
 .. raw:: html
 
   <!--ピダハン--><a href="https://www.amazon.co.jp/dp/4622076535?&linkCode=li1&tag=takaoutputblo-22&linkId=77b45ddeb7a94bf5c4b14576378f297f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4622076535&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4622076535" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -1,6 +1,8 @@
 アルゴリズム
 -----------------------------------------------
 
+`参考文献一覧へ戻る </reference/>`_ 
+
 .. raw:: html
 
   <!--アルゴリズムとデータ構造--><a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0-%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%A7%91%E5%AD%A6-3-%E7%9F%B3%E7%95%91/dp/4000103431?keywords=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0&qid=1640994275&sprefix=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%2Caps%2C185&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=f62e3627916ac8abb6f0bbf76c5847b0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000103431&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000103431" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

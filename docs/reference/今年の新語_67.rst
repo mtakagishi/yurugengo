@@ -5,6 +5,8 @@
 (#67)今年の新語
 =================================
 
+`参考文献一覧へ戻る </reference/>`_ 
+
 .. raw:: html
 
   <!--今年の新語2021--><a href="https://dictionary.sanseido-publ.co.jp/shingo/2021/" target="_blank"><img border="0" src="https://dictionary.sanseido-publ.co.jp/shingo/2021/img/thanks-ring01.png" width="100"></a>

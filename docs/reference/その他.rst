@@ -1,5 +1,8 @@
 その他
 ==========
+
+`参考文献一覧へ戻る </reference/>`_ 
+
 .. toctree::
   :maxdepth: 2
   :glob:
