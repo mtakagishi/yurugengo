@@ -1,0 +1,123 @@
+.. _無限語源トークシリーズ参考文献:
+
+.. :ref:`無限語源トークシリーズ参考文献 <無限語源トークシリーズ参考文献>`
+
+無限語源トーク
+=================================
+* 無限語源トークシリーズの参考文献のまとめです。
+* 多義語（#12、#15）、語源辞書から#26、#83、#84、語源クイズの#128
+* 初ライブ翌日の撮影(#83、#84)はパーソナリティお二人のトラウマ :doc:`/words/捲土重来` を期しての#128となってます。
+
+`参考文献一覧へ戻る </reference/>`_ 
+
+.. raw:: html
+
+  <!--受験脳の作り方--><a href="https://www.amazon.co.jp/dp/4101329222?&linkCode=li1&tag=takaoutputblo-22&linkId=0ba88d3c17033e1ed4476ccfc53c5f8a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4101329222&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4101329222" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英語に強くなる多義語二〇〇--><a href="https://www.amazon.co.jp/%E8%8B%B1%E8%AA%9E%E3%81%AB%E5%BC%B7%E3%81%8F%E3%81%AA%E3%82%8B%E5%A4%9A%E7%BE%A9%E8%AA%9E%E4%BA%8C%E3%80%87%E3%80%87-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%B0%E6%9B%B8-%E4%BD%90%E4%B9%85%E9%96%93%E6%B2%BB-ebook/dp/B00LQ5L0Q6?_encoding=UTF8&qid=&sr=&linkCode=li1&tag=takaoutputblo-22&linkId=662ff06085888047893154a92ef3aa01&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LQ5L0Q6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00LQ5L0Q6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--システム英単語Premium(語源編)--><a href="https://www.amazon.co.jp/dp/4796110984?&linkCode=li1&tag=takaoutputblo-22&linkId=28b46125aaee264d3ad4d11dcb35f222&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4796110984&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4796110984" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--新明解 語源辞典--><a href="https://www.amazon.co.jp/%E6%96%B0%E6%98%8E%E8%A7%A3-%E8%AA%9E%E6%BA%90%E8%BE%9E%E5%85%B8-%E5%B0%8F%E6%9D%BE-%E5%AF%BF%E9%9B%84/dp/4385139903?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2WQOJB97G3YLG&keywords=%E6%96%B0%E6%98%8E%E8%A7%A3%E8%AA%9E%E6%BA%90%E8%BE%9E%E5%85%B8&qid=1653565073&sprefix=%E6%96%B0%E6%98%8E%E8%A7%A3%E8%AA%9E%E6%BA%90%E8%BE%9E%E5%85%B8%2Caps%2C155&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=5c878c0c8b515f57c67eb209c0bd8f6b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4385139903&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4385139903" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--言語起源論--><a href="https://www.amazon.co.jp/dp/4003362373?&linkCode=li1&tag=takaoutputblo-22&linkId=ee07e05108910ef4c8291c0802e24aba&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003362373&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003362373" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--語源でたどる英単語まんだら--><a href="https://www.amazon.co.jp/dp/4095101318?&linkCode=li1&tag=takaoutputblo-22&linkId=5c37af40f90330532c57150c0c2c965d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4095101318&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4095101318" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--日本の言葉の由来を愛おしむ--><a href="https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%A8%80%E8%91%89%E3%81%AE%E7%94%B1%E6%9D%A5%E3%82%92%E6%84%9B%E3%81%8A%E3%81%97%E3%82%80%E2%80%95%E8%AA%9E%E6%BA%90%E3%81%8C%E4%BC%9D%E3%81%88%E3%82%8B%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E5%BF%83%E2%80%95-%E9%AB%98%E6%A9%8B%E3%81%93%E3%81%86%E3%81%98-ebook/dp/B07FCG2YVQ?_encoding=UTF8&qid=&sr=&linkCode=li1&tag=takaoutputblo-22&linkId=6c2c4dbf3b8c2194f3354f56c2b94bdb&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07FCG2YVQ&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07FCG2YVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--語源海--><a href="https://www.amazon.co.jp/dp/4487797438?&linkCode=li1&tag=takaoutputblo-22&linkId=29eedb93f179eeabfcfb9cb9620b9bf8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4487797438&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4487797438" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--オックスフォード 英単語由来大辞典--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89-%E8%8B%B1%E5%8D%98%E8%AA%9E%E7%94%B1%E6%9D%A5%E5%A4%A7%E8%BE%9E%E5%85%B8-%E3%82%B0%E3%83%AA%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3%E3%83%88%E3%83%AC%E3%83%AB/dp/4864980004?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=30STAZHQN8NWM&keywords=%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E8%8B%B1%E5%8D%98%E8%AA%9E%E7%94%B1%E6%9D%A5%E5%A4%A7%E8%BE%9E%E5%85%B8&qid=1653565117&sprefix=%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E8%8B%B1%E5%8D%98%E8%AA%9E%E7%94%B1%E6%9D%A5%E5%A4%A7%E8%BE%9E%E5%85%B8%2Caps%2C170&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b62d1a706f01dc1cbad2f9437d9a629a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4864980004&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4864980004" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--北斗の拳--><a href="https://www.amazon.co.jp/%E5%8C%97%E6%96%97%E3%81%AE%E6%8B%B3-%EF%BC%91%E5%B7%BB-%E6%AD%A6%E8%AB%96%E5%B0%8A-ebook/dp/B00YV3ZR3C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1HF1WF2JKVML0&keywords=%E5%8C%97%E6%96%97%E3%81%AE%E6%8B%B3&qid=1653706264&s=books&sprefix=%E5%8C%97%E6%96%97%E3%81%AE%E6%8B%B3%2Cstripbooks%2C174&sr=1-2&linkCode=li1&tag=takaoutputblo-22&linkId=2398c5fa0fd3dc8a735e2372b3f34931&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00YV3ZR3C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00YV3ZR3C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--グラップラー刃牙--><a href="https://www.amazon.co.jp/%E3%82%B0%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%83%BC%E5%88%83%E7%89%99-1-%E5%B0%91%E5%B9%B4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%BF%E5%9E%A3%E6%81%B5%E4%BB%8B-ebook/dp/B00AQY7IFK?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=12JNKJF7PBGTJ&keywords=%E3%82%B0%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%83%BC%E5%88%83%E7%89%99&qid=1653706496&s=books&sprefix=%E3%82%B0%E3%83%A9%E3%83%83%E3%83%97%E3%83%A9%E3%83%BC%E5%88%83%E7%89%99%2Cstripbooks%2C144&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=d39567d2b720aa193a3867fb73bafe7f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AQY7IFK&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00AQY7IFK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--BEASTARS--><a href="https://www.amazon.co.jp/BEASTARS-%EF%BC%91-%E5%B0%91%E5%B9%B4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%BF%E5%9E%A3%E5%B7%B4%E7%95%99-ebook/dp/B01N6EJJTC?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3DQKNHDMRG5DU&keywords=BEASTARS&qid=1653706430&s=books&sprefix=beastars%2Cstripbooks%2C148&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=1ef8f9bf2aaa7a0f1b8f1fb6cbabe181&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N6EJJTC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01N6EJJTC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--満月の夜なら--><a href="https://www.amazon.co.jp/%E6%BA%80%E6%9C%88%E3%81%AE%E5%A4%9C%E3%81%AA%E3%82%89-%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/dp/B07B51VL1H?crid=31CQ7V9C5T266&keywords=%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93+%E6%BA%80%E6%9C%88%E3%81%AE%E5%A4%9C%E3%81%AA%E3%82%89&qid=1653707037&sprefix=%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93%E3%80%80%E3%81%BE%E3%82%93%E3%81%92%E3%81%A4%E3%81%AE%2Caps%2C159&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=5bb8bd431e486dffbcf199a4b8f3fb82&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07B51VL1H&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07B51VL1H" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--王様の仕立て屋--><a href="https://www.amazon.co.jp/gp/product/B07KS2JYB5?storeType=ebooks&qid=1653707954&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=88663419afd481b3c65e11054e6678de&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KS2JYB5&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07KS2JYB5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--魔人探偵脳噛ネウロ--><a href="https://www.amazon.co.jp/%E9%AD%94%E4%BA%BA%E6%8E%A2%E5%81%B5%E8%84%B3%E5%99%9B%E3%83%8D%E3%82%A6%E3%83%AD-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%BE%E4%BA%95-%E5%84%AA%E5%BE%81/dp/4088738349?&linkCode=li1&tag=takaoutputblo-22&linkId=d5f8317968dd04511866d71c7ba76014&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4088738349&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4088738349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--究極のエンターテイメントとしての村作り--><a href="https://www.value-press.com/pressrelease/178849" target="_blank"><img border="0" src="https://files.value-press.com/czMjYXJ0aWNsZSM0Njc5OCMxNzg4NDkjNDY3OThfRFBiQkhEcWpiSS5qcGc.jpg?size=file_data" width="100"></a>
+  <!--大学なんて消滅させて徒弟制にしようぜ-先祖返りしていく教育--><a href="http://kojikiryokou.blog.jp/archives/1054252040.html" target="_blank"><img border="0" src="https://livedoor.blogimg.jp/kojiki_ryokou/imgs/2/f/2f32227f.jpg" width="100"></a>
+  <!--こじき的旅行記--><a href="http://kojikiryokou.blog.jp/archives/1030930578.html" target="_blank"><img border="0" src="https://livedoor.blogimg.jp/kojiki_ryokou/imgs/5/4/54029c46.jpg" width="100"></a>
+  <!--堀元見インタビュー動画--><a href="https://youtu.be/0Ktezd5NY2g" target="_blank"><img border="0" src="https://i.ytimg.com/vi/0Ktezd5NY2g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTK4skeWM72IZp01FIHV5CK6wdSw" width="100"></a>
+  <!--イノシシよけの電気柵に引っかかった時の話--><a href="https://youtu.be/q03tz6MKwF8" target="_blank"><img border="0" src="https://i.ytimg.com/an_webp/q03tz6MKwF8/mqdefault_6s.webp?du=3000&sqp=CO2AxpQG&rs=AOn4CLDVvApbXuZDGmtE-CM_7pnsZmrfKw" width="100"></a>
+  <!--風の歌を聴け (講談社文庫)--><a href="https://www.amazon.co.jp/%E9%A2%A8%E3%81%AE%E6%AD%8C%E3%82%92%E8%81%B4%E3%81%91-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E6%9D%91%E4%B8%8A-%E6%98%A5%E6%A8%B9/dp/4062748703?&linkCode=li1&tag=takaoutputblo-22&linkId=c06f20d5b6828fb6f8afb449239f7351&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4062748703&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4062748703" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--「ありがとうございます」--><a href="https://youtu.be/syhLTVCxMWg" target="_blank"><img border="0" src="https://i.ytimg.com/vi/syhLTVCxMWg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA83BV-Yx_xdUQr5lqdv86Mg0l8oQ" width="100"></a>
+
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| タイトル                                               | 解説                                                                                       |
++========================================================+============================================================================================+
+| `英語に強くなる多義語二〇〇`_                          | 英単語の語源の多義語シリーズの種本                                                         |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `受験脳の作り方`_                                      | 10桁の数字のくだりの種本                                                                   |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `システム英単語Premium(語源編)`_                       | 受験生向け、語源特化バージョン                                                             |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `新明解 語源辞典`_                                     | 座右の書、最高の本、通読完了                                                               |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `言語起源論`_                                          | ルソー著、ほとんどの言語の起源は擬音語                                                     |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `日本の言葉の由来を愛おしむ`_                          | 語源本の合い見積もり取っておかないと。                                                     |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `語源海`_                                              | 水野さんが、新明解の次に読み始めた語源本                                                   |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `オックスフォード 英単語由来大辞典`_                   | 語源は諸説あるので出典の説として                                                           |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `北斗の拳`_                                            | 意外なつながりシリーズ、北斗の拳で有名な原哲夫先生とふかわりょうは、いとこ                 |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `BEASTARS`_                                            | 意外なつながりシリーズ、著者、板垣巴留先生と、グラップラー刃牙の板垣恵介先生の娘           |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `グラップラー刃牙`_                                    | 意外なつながりシリーズ、著者、板垣恵介先生 は BEASTERSの板垣巴留先生と親子                 |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `満月の夜なら`_                                        | あいみょんは語源ヲタなのでは？という深読みオジサン                                         |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| 忠実!!うらぎり君                                       | 「うらぎり君は７度うらぎる」編も掲載される30巻以上続く **架空の漫画**                      |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `王様の仕立て屋`_                                      | チノパンは、中国パンツ？の話は4巻アジアの旅人                                              |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `魔人探偵脳噛ネウロ`_                                  | 作中に「忠実!!うらぎり君」が連載されている名作                                             |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `究極のエンターテイメントとしての村作り`_              | 堀元氏の過去コンテンツ： 夢は「娯楽界に革命を起こすこと」                                  |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `こじき的旅行記 大学なんて消滅させて徒弟制にしようぜ`_ | 堀元氏の過去コンテンツ：口癖のように言っているのが、「大学なんて消滅させる。徒弟制にしろ」 |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `こじき的旅行記 倫理の教科書に見る高校教育の醜悪さ`_   | 「これがすごいですよ説明義務」制度                                                         |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `堀元見インタビュー動画`_                              | セミのインタビューです。                                                                   |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `イノシシよけの電気柵に引っかかった時の話`_            | 風のインタビューです                                                                       |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `風の歌を聴け (講談社文庫)`_                           | 風のインタビューに対して、「村上春樹も言ってたじゃん」                                     |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `「ありがとうございます」`_                            | 無限語源トーク3の最後のメッセージ                                                          |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| `語源でたどる英単語まんだら`_                          | babyは、元々バブバブからのバビーで、軽蔑してバルバロイで、バルバロイが強かったのでブレイブ |
++--------------------------------------------------------+--------------------------------------------------------------------------------------------+
+.. _システム英単語Premium(語源編): https://amzn.to/38qcsGy
+.. _英語に強くなる多義語二〇〇: https://amzn.to/3t2Kxng
+.. _受験脳の作り方: https://amzn.to/38UXngu
+.. _王様の仕立て屋: https://amzn.to/3wTCpHQ
+.. _満月の夜なら: https://amzn.to/3a5XCWl
+.. _グラップラー刃牙: https://amzn.to/38O8qIs
+.. _BEASTARS: https://amzn.to/3wTwPoU
+.. _北斗の拳: https://amzn.to/3z0G88d
+.. _語源海: https://amzn.to/3NEVO4T
+.. _日本の言葉の由来を愛おしむ: https://amzn.to/3a1wDuS
+.. _語源でたどる英単語まんだら: https://amzn.to/38qaLZF
+.. _言語起源論: https://amzn.to/3LVAXcj
+.. _風の歌を聴け (講談社文庫): https://amzn.to/3wSl3eu
+.. _「ありがとうございます」: https://youtu.be/syhLTVCxMWg
+.. _イノシシよけの電気柵に引っかかった時の話: https://youtu.be/q03tz6MKwF8
+.. _堀元見インタビュー動画: https://youtu.be/0Ktezd5NY2g
+.. _こじき的旅行記 倫理の教科書に見る高校教育の醜悪さ: http://kojikiryokou.blog.jp/archives/1030930578.html
+.. _こじき的旅行記 大学なんて消滅させて徒弟制にしようぜ: http://kojikiryokou.blog.jp/archives/1054252040.html
+.. _究極のエンターテイメントとしての村作り: https://www.value-press.com/pressrelease/178849
+.. _魔人探偵脳噛ネウロ: https://amzn.to/3MZzpPO
+.. _オックスフォード 英単語由来大辞典: https://amzn.to/3GsMb7h
+.. _新明解 語源辞典: https://amzn.to/3NDBUHA
+
+.. rubric:: 関連動画
+* `#12【語源シリーズ1_多義語1】`_
+* `#15【語源シリーズ2_多義語2】`_
+* `#26【語源シリーズ3_語源辞典を読む】`_
+* `#83【語源シリーズ4_無限語源トーク1】`_
+* `#84【語源シリーズ5_無限語源トーク2】`_
+* `#128【語源シリーズ6_語源クイズ】`_
+
+.. _#128【語源シリーズ6_語源クイズ】: https://www.youtube.com/watch?v=Q5LF9bzYt_0
+.. _#84【語源シリーズ5_無限語源トーク2】: https://www.youtube.com/watch?v=4jcgyHsqBOs
+.. _#83【語源シリーズ4_無限語源トーク1】: https://www.youtube.com/watch?v=2UXylDl-HIY
+.. _#26【語源シリーズ3_語源辞典を読む】: https://www.youtube.com/watch?v=4e3ff1WbSxQ
+.. _#15【語源シリーズ2_多義語2】: https://www.youtube.com/watch?v=3XMITicq3Bc
+.. _#12【語源シリーズ1_多義語1】: https://www.youtube.com/watch?v=xE91uqIpOMU
