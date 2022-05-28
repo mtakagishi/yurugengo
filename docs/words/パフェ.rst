@@ -24,4 +24,4 @@
 .. rubric:: 関連リンク
 * `福岡太朗先生の連載 <https://shonenjumpplus.com/episode/10834108156652687570>`_ 
 * `パフェ（Wikipedia） <https://ja.wikipedia.org/wiki/パフェ>`_ 
-
+* :ref:`パフェ雑談回の参考文献 <雑談c19参考文献>`
