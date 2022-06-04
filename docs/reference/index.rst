@@ -46,9 +46,3 @@
 
   動画音源
 
-.. rubric:: その他
-.. toctree::
-  :maxdepth: 2
-  :glob:
-
-  その他
