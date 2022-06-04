@@ -1,7 +1,10 @@
 雑学・雑談シリーズ
 =========================
 
-`参考文献一覧へ戻る </reference/>`_ 
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
 
 .. rubric:: 雑学・雑談シリーズ
 .. toctree::
@@ -24,5 +27,5 @@
   雑談118
   雑談126
   雑談127
-  雑談129
-  
+  慶雲館129
+  官能小説130

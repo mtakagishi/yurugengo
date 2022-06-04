@@ -1,11 +1,14 @@
 .. _第二言語習得論参考文献:
 
-第二言語習得論
+(#74-#81)第二言語習得論
 =================================
 
 (#74-#81) 福田先生ゲスト回に登場した参考文献まとめ
 
-`参考文献一覧へ戻る </reference/>`_ 
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
 
 .. raw:: html
 

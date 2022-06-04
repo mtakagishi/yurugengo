@@ -2,12 +2,15 @@
 
 .. :ref:`OED参考文献 <OED参考文献>`
 
-OEDシリーズ
+(#50,#51,#68-#70)OEDシリーズ
 ====================
 
 :doc:`/words/OED` に関連する参考文献
 
-`参考文献一覧へ戻る </reference/>`_ 
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
 
 .. raw:: html
 

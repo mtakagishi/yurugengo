@@ -6,7 +6,10 @@
 =================================
 『 :doc:`/words/異本` 』や 『 :doc:`/words/おじさん・おじいさん格付けチェック` 』の話が登場する回の登場コンテンツ・ビール・参考文献一覧です
 
-`参考文献一覧へ戻る </reference/>`_ 
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
 
 .. raw:: html
 
