@@ -8,6 +8,7 @@
 
 .. rubric:: 関連リンク
 * `Benesse（ベネッセ）社名由来 <https://www.benesse-hd.co.jp/ja/about/history.html#y1990>`_ 
+* :ref:`無限語源トークシリーズ参考文献 <無限語源トークシリーズ参考文献>`
 
 .. rubric:: 関連ラジオ
 * `春とバネ、なぜ両方springなのか-多義語パズルへの招待 #12`_

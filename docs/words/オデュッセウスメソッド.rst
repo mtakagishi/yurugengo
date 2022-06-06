@@ -14,7 +14,7 @@
 .. rubric:: 関連リンク
 * `堀元氏の後悔のつぶやき <https://twitter.com/kenhori2/status/1481274366222815233>`_ 
 * `酒場の文化史 (講談社学術文庫) <https://amzn.to/3zRiBos>`_ 
-* :ref:`雑談52参考文献 <雑談52参考文献>`
+* :ref:`参考文献 <雑談52参考文献>`
 
 .. rubric:: 関連ラジオ
 * `オデュッセウスの話が出てくる回 <https://www.youtube.com/watch?v=FLq-XlEvxak&t=2015s>`_ 

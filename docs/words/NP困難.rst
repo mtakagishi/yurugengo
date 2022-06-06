@@ -8,6 +8,7 @@ NP困難
 
 .. rubric:: 関連リンク
 * `NP困難(Wikipedia) <https://ja.wikipedia.org/wiki/NP困難>`_ 
+* :ref:`無限語源トークシリーズ参考文献 <無限語源トークシリーズ参考文献>`
 
 .. rubric:: 関連ラジオ
 * `春とバネ、なぜ両方springなのか-多義語パズルへの招待 #12`_
