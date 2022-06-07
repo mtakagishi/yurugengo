@@ -52,6 +52,7 @@
 * 2022年05月15日 サポータコミュニティ2000名を突破
 * 2022年05月20日 `ゆる言語学ラジオ大好き芸人に出演 <https://twitcasting.tv/asagayalofta/shopcart/154694>`_ 
 * 2022年05月21日 `インディゲーム実況アワード <https://youtu.be/SRFoQrV_YlI>`_ にて「さっさと続きを遊んでほしいで賞」を受賞
+* 2022年06月07日 新企画チャンネル『ゆる学徒ハウス』を公式オープン
 
 .. rubric:: 動画一覧
 * :doc:`/videos/yurugengo_radio_list` 
@@ -70,6 +71,7 @@
 
 .. rubric:: 姉妹チャンネル
 * :doc:`/videos/yurucomputer_radio_list` 
+* :doc:`/videos/yurugackt_house_list` 
 
 .. rubric:: 企画リンク
 * `選書リスト`_

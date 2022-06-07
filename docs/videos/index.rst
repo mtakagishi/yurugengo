@@ -9,6 +9,7 @@
   
   yurugengo_radio_list
   yurucomputer_radio_list
+  yurugackt_house_list
   collaboration
   timeline
   statistics
