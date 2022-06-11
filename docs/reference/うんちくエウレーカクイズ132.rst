@@ -1,0 +1,69 @@
+.. _うんちくエウレーカクイズ音楽編参考文献:
+
+.. :ref:`うんちくエウレーカクイズ音楽編参考文献 <うんちくエウレーカクイズ音楽編参考文献>`
+
+(#132)うんちくエウレーカクイズ音楽編
+=============================================
+:doc:`/words/うんちくエウレーカクイズ` の音楽編の参考文献。
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--BLUE GIANT--><a href="https://www.amazon.co.jp/BLUE-GIANT%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E7%9F%B3%E5%A1%9A%E7%9C%9F%E4%B8%80-ebook/dp/B00GSMDY48?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=6TWM09IWL4KZ&keywords=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88&qid=1654915974&sprefix=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%2Caps%2C237&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=b4c42871aa49c3a60b431ff2f39aa957&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSMDY48&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00GSMDY48" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--モーツァルト: 歌劇(魔笛)--><a href="https://www.amazon.co.jp/%E3%83%A2%E3%83%BC%E3%83%84%E3%82%A1%E3%83%AB%E3%83%88-%E6%AD%8C%E5%8A%87%E3%80%8A%E9%AD%94%E7%AC%9B%E3%80%8B-DVD-%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%AC%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%B3/dp/B08CPB4V1S?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2FQGQWUGIQ428&keywords=%E9%AD%94%E7%AC%9B&qid=1654917940&sprefix=%E9%AD%94%E7%AC%9B%2Caps%2C214&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=95ec4dbcdb923be6cd6c7b564b4abde7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08CPB4V1S&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08CPB4V1S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--のだめカンタービレ--><a href="https://www.amazon.co.jp/%E3%81%AE%E3%81%A0%E3%82%81%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%EF%BC%88%EF%BC%91%EF%BC%89-%EF%BC%AB%EF%BD%89%EF%BD%93%EF%BD%93%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%BA%8C%E3%83%8E%E5%AE%AE%E7%9F%A5%E5%AD%90-ebook/dp/B009KWU90U?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1DT2841GW423A&keywords=%E3%81%AE%E3%81%A0%E3%82%81%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC&qid=1654916065&sprefix=%E3%81%AE%E3%81%A0%E3%82%81%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%AC%2Caps%2C167&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=f844beebecce2d92ae3397b4c2b08f34&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009KWU90U&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009KWU90U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--シンドラーのリスト--><a href="https://www.amazon.co.jp/%E3%82%B7%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BC%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3-DVD-%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%8B%E3%83%BC%E3%82%BD%E3%83%B3/dp/B006QJS77C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=IPU8JGHFJZXE&keywords=%E3%82%B7%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BC%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88&qid=1654916167&sprefix=%E3%82%B7%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BC%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%88%2Caps%2C159&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=2c141dfd825558db868f694d9a311005&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006QJS77C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B006QJS77C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--杉原千畝 スギハラチウネ--><a href="https://www.amazon.co.jp/%E6%9D%89%E5%8E%9F%E5%8D%83%E7%95%9D-%E3%82%B9%E3%82%AE%E3%83%8F%E3%83%A9%E3%83%81%E3%82%A6%E3%83%8D-DVD%E9%80%9A%E5%B8%B8%E7%89%88-%E5%94%90%E6%B2%A2%E5%AF%BF%E6%98%8E/dp/B01C826Q82?crid=1D44Y1OQLSZKT&keywords=%E6%9D%89%E5%8E%9F%E5%8D%83%E7%95%9D+%E3%82%B9%E3%82%AE%E3%83%8F%E3%83%A9%E3%83%81%E3%82%A6%E3%83%8D&qid=1654916444&s=dvd&sprefix=%E6%9D%89%E5%8E%9F%E5%8D%83%E7%95%9D%2Cdvd%2C160&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=3908690c5f4f2b48a78282bc2552b906&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01C826Q82&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01C826Q82" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ONE PIECE--><a href="https://www.amazon.co.jp/ONE-PIECE-%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E7%89%88-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-ebook/dp/B009GZK2YE?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=35FP5U928YHT&keywords=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9+1&qid=1654918616&sprefix=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9+1%2Caps%2C162&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=a0989589f935ef4b4f9ba3a3085e3a93&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009GZK2YE&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009GZK2YE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--えんとつ町のプペル--><a href="https://www.amazon.co.jp/%E3%81%88%E3%82%93%E3%81%A8%E3%81%A4%E7%94%BA%E3%81%AE%E3%83%97%E3%83%9A%E3%83%AB-%E3%81%AB%E3%81%97%E3%81%AE-%E3%81%82%E3%81%8D%E3%81%B2%E3%82%8D/dp/4344030168?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2T84HAYO91R83&keywords=%E3%83%97%E3%83%9A%E3%83%AB&qid=1654918656&sprefix=%E3%83%97%E3%83%9A%E3%83%AB%2Caps%2C167&sr=8-6&linkCode=li1&tag=takaoutputblo-22&linkId=ad163a0fca25264fba5c5828e6d165b6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4344030168&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4344030168" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ベートーヴェン捏造--><a href="https://www.amazon.co.jp/%E3%83%99%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%B3%E6%8D%8F%E9%80%A0-%E5%90%8D%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AF%E5%98%98%E3%82%92%E3%81%A4%E3%81%8F-%E3%81%8B%E3%81%92%E3%81%AF%E3%82%89-%E5%8F%B2%E5%B8%86/dp/4760150234?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=A5GOH6UZ84I4&keywords=%E3%83%99%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%B3%E6%8D%8F%E9%80%A0+%E5%90%8D%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AF%E5%98%98%E3%82%92%E3%81%A4%E3%81%8F&qid=1654432193&sprefix=%E3%83%99%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B4%E3%82%A7%E3%83%B3%E6%8D%8F%E9%80%A0+%E5%90%8D%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AF%E5%98%98%E3%82%92%E3%81%A4%E3%81%8F%2Caps%2C502&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=276d750876cc552407d999e6fe9d1180&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4760150234&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4760150234" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------------------+-------------------------------------------------------------------------------------------+
+|             タイトル              |                                           解説                                            |
++===================================+===========================================================================================+
+| `月の光`_                         | 月の光、、が、ドビュッシーっで？                                                          |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `月光`_                           | 月光が、、、ショ、ショパン？（正解はベートーヴェン）                                      |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `BLUE GIANT`_                     | 宮本大(サックス）は、こうやってない？                                                     |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `モーツァルト_歌劇_魔笛`_         | 魔笛？笛だろ？                                                                            |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `のだめカンタービレ`_             | のだめカンタービレの24,25巻のテーマが魔笛                                                 |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `シンドラーのリスト`_             | 「パパゲーノ」の問題で見たこともないシンドラーのリスト（映画）のWikipedia知識で盛り上がる |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `杉原千畝 スギハラチウネ`_        | 杉原千畝（すぎはらちうね）は、日本版シンドラーという文脈で出てくる、愛知県立瑞陵高校出身  |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `ONE PIECE`_                      | ワンピース歌舞伎とかメディアミックスしやすい                                              |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `えんとつ町のプペル`_             | プペルもあるからね、、、って、なんでみんなソワソワ？                                      |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `バッハの名による幻想曲とフーガ`_ | バッハへの敬意                                                                            |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `ベートーヴェン捏造`_             | 「パパゲーノ」の問題の出典                                                                |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+| `ショパンプレリュード7番`_        | 太田胃散のCM曲。A-dur(イ長調)と胃腸を掛けたダジャレ                                       |
++-----------------------------------+-------------------------------------------------------------------------------------------+
+.. _えんとつ町のプペル: https://amzn.to/3zyfvI4
+.. _ONE PIECE: https://amzn.to/3xeQ5w0
+.. _モーツァルト_歌劇_魔笛: https://amzn.to/3tuWTVs
+.. _バッハの名による幻想曲とフーガ: https://youtu.be/rrxSrBh88Cs
+.. _月光: https://youtu.be/W0UrRWyIZ74
+.. _月の光: https://youtu.be/otnAini4vmQ
+.. _ショパンプレリュード7番: https://www.youtube.com/watch?v=NzDkiXpAbGs&t=1283s
+.. _ベートーヴェン捏造: https://amzn.to/3xH6nQ3
+.. _杉原千畝 スギハラチウネ: https://amzn.to/3xloCJk
+.. _シンドラーのリスト: https://amzn.to/3HbtLYM
+.. _のだめカンタービレ: https://amzn.to/3QfPF1d
+.. _BLUE GIANT: https://amzn.to/3aLfshx
+
+.. rubric:: 関連動画
+* `#132【うんちくエウレーカクイズ5】`_
+
+.. _#132【うんちくエウレーカクイズ5】: https://www.youtube.com/watch?v=OsN8H6u3Vs4
+
