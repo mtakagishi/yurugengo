@@ -13,7 +13,8 @@
 * :doc:`リカージョン` 
 
 .. rubric:: 関連リンク
-  * `インデント（Wikipedia） <https://ja.wikipedia.org/wiki/字下げ>`_ 
+* `インデント（Wikipedia） <https://ja.wikipedia.org/wiki/字下げ>`_ 
+* :ref:`参考文献:プログラミング言語シリーズ <プログラミング言語シリーズ参考文献>`
 
 .. rubric:: 関連ラジオ
 * `プログラミング言語には思想が宿る。だから戦争が起きる。【ゆるコンピュータ科学ラジオ3】#65`_

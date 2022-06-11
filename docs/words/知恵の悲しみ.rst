@@ -12,3 +12,5 @@
 .. _脳にUSBを挿したらYouTube再生できる？【ゆるコンピュータ科学ラジオ1】#63: https://www.youtube.com/watch?v=dkP8Uf7PveE
 .. _珍しい名字からは日本語の○○が分かる【うんちくエウレーカクイズ2】#87: https://www.youtube.com/watch?v=e4fDwDNc11Q
 
+.. rubric:: 関連リンク
+* :ref:`参考文献:プログラミング言語シリーズ <プログラミング言語シリーズ参考文献>`
