@@ -1,8 +1,8 @@
 .. _赤ちゃん参考文献:
 
-(#107-#114)赤ちゃんシリーズ
------------------------------------------------
-(#107-#114) :doc:`/words/赤ちゃん` の参考文献の一覧
+(#107-#114,#133)赤ちゃんシリーズ
+----------------------------------------------------------------------------------------------
+ :doc:`/words/赤ちゃん` の参考文献の一覧
 
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
@@ -94,6 +94,7 @@
 * `#112【赤ちゃんと創作1】`_
 * `#113【赤ちゃんと創作2】`_
 * `#114【赤ちゃんまとめ】`_
+* `#133【赤ちゃんと動詞1】`_
 
 .. _#114【赤ちゃんまとめ】: https://www.youtube.com/watch?v=iNAC58puA6w
 .. _#113【赤ちゃんと創作2】: https://www.youtube.com/watch?v=zeGChbd9RA0
@@ -103,3 +104,4 @@
 .. _#109【赤ちゃんの言語習得3】: https://www.youtube.com/watch?v=aPnXMtrumzs
 .. _#108【赤ちゃんの言語習得2】: https://www.youtube.com/watch?v=J7rAZ2tRoT0
 .. _#107【赤ちゃんの言語習得1】: https://www.youtube.com/watch?v=AMIaheSRVew
+.. _#133【赤ちゃんと動詞1】: https://www.youtube.com/watch?v=n70ldRw4n0E
