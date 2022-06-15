@@ -106,10 +106,11 @@
 
 .. rubric:: ゆる言語学ラジオを取り上げた記事
 * `ゆる言語学ラジオ（Wikipedia) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
-* `朝日新聞主催の「私の折々のことばコンテスト」 <https://www.asahi.com/event/kotoba/2021/pdf/award/award_30.pdf>`_ 
-* `東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
-* `Podcast　ニッチでもファンが集まる！難しい学問を身近にする『ゆる言語学ラジオ』の戦い方 <https://spotifynewsroom.jp/2021-12-16/yuru-gengogaku-radio/>`_ 
-* `デイリーポータルZ　辞典を通読した人に「そんなことして何が面白いの？」かを聞く <https://dailyportalz.jp/kiji/reading-dictionary>`_ 
+* `(2021年11月23日)東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
+* `(2021年12月9日)デイリーポータルZ　辞典を通読した人に「そんなことして何が面白いの？」かを聞く <https://dailyportalz.jp/kiji/reading-dictionary>`_ 
+* `(2021年12月16日)Podcast　ニッチでもファンが集まる！難しい学問を身近にする『ゆる言語学ラジオ』の戦い方 <https://spotifynewsroom.jp/2021-12-16/yuru-gengogaku-radio/>`_ 
+* `(2022年1月10日)朝日新聞主催の「私の折々のことばコンテスト」佳作 <https://www.asahi.com/event/kotoba/2021/pdf/award/award_30.pdf>`_ 
+* `(2022年06月15日)Real Sound 声とテクノロジーで変革する”メディアの未来” <https://realsound.jp/tech/2022/06/post-1051392.html>`_ 
 
 .. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
