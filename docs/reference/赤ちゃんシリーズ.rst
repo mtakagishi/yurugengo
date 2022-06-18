@@ -1,6 +1,6 @@
 .. _赤ちゃん参考文献:
 
-(#107-#114,#133)赤ちゃんシリーズ
+(#107-#114,#133-#134)赤ちゃんシリーズ
 ----------------------------------------------------------------------------------------------
  :doc:`/words/赤ちゃん` の参考文献の一覧
 
@@ -18,6 +18,7 @@
   <!--なるほど!赤ちゃん学--><a href="https://www.amazon.co.jp/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9-%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E5%AD%A6-%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E7%8E%89%E5%B7%9D%E5%A4%A7%E5%AD%A6%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%83%A9%E3%83%9C/dp/4101264910?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=BPMUGCBAVXD3&keywords=%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E5%AD%A6&qid=1649419686&sprefix=%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E5%AD%A6%2Caps%2C161&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=edd7b4a1fc642850c163d124f6c5ac70&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4101264910&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4101264910" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--ことばの学習のパラドックス--><a href="https://www.amazon.co.jp/%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE%E5%AD%A6%E7%BF%92%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9-%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%A6%E3%83%A2%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4320028554?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=14PY75UMIZ2V1&keywords=%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE%E5%AD%A6%E7%BF%92%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9&qid=1649419833&sprefix=%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE%E5%AD%A6%E7%BF%92%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%2Caps%2C156&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=d358daee669aca9da14da95bbc691000&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4320028554&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4320028554" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--0歳児がことばを獲得するとき--><a href="https://www.amazon.co.jp/0%E6%AD%B3%E5%85%90%E3%81%8C%E3%81%93%E3%81%A8%E3%81%B0%E3%82%92%E7%8D%B2%E5%BE%97%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E2%80%95%E8%A1%8C%E5%8B%95%E5%AD%A6%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81-%E4%B8%AD%E5%85%AC%E6%96%B0%E6%9B%B8-%E6%AD%A3%E9%AB%98-%E4%BF%A1%E7%94%B7/dp/4121011368?keywords=0%E6%AD%B3%E5%85%90%E3%81%8C%E3%81%93%E3%81%A8%E3%81%B0%E3%82%92%E7%8D%B2%E5%BE%97%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D&qid=1649419990&sprefix=0%E6%AD%B3%E5%85%90%E3%81%8C%2Caps%2C142&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=27be2fc81d461d616603d360b64851dc&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4121011368&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4121011368" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ちいさな言葉 --><a href="https://www.amazon.co.jp/%E3%81%A1%E3%81%84%E3%81%95%E3%81%AA%E8%A8%80%E8%91%89-%E5%B2%A9%E6%B3%A2%E7%8F%BE%E4%BB%A3%E6%96%87%E5%BA%AB-%E4%BF%B5-%E4%B8%87%E6%99%BA/dp/4006022212?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=J2CZ7E6C5K5D&keywords=%E3%81%A1%E3%81%84%E3%81%95%E3%81%AA%E3%81%93%E3%81%A8%E3%81%B0&qid=1655452081&sprefix=%E3%81%A1%E3%81%84%E3%81%95%E3%81%AA%E3%81%93%E3%81%A8%E3%81%B0%2Caps%2C171&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=193ad52dec5798f3fcbcd171f3d7c386&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4006022212&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4006022212" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--ちいさい言語学者の冒険--><a href="https://www.amazon.co.jp/%E3%81%A1%E3%81%84%E3%81%95%E3%81%84%E8%A8%80%E8%AA%9E%E5%AD%A6%E8%80%85%E3%81%AE%E5%86%92%E9%99%BA%E2%80%95%E2%80%95%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E5%AD%A6%E3%81%B6%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE%E7%A7%98%E5%AF%86-%E5%B2%A9%E6%B3%A2%E7%A7%91%E5%AD%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC-%E5%BA%83%E7%80%AC-%E5%8F%8B%E7%B4%80/dp/4000296590?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2LGFL3T9WW76L&keywords=%E3%81%A1%E3%81%84%E3%81%95%E3%81%84%E8%A8%80%E8%AA%9E%E5%AD%A6%E8%80%85%E3%81%AE%E5%86%92%E9%99%BA&qid=1649420064&sprefix=%E3%81%A1%E3%81%84%E3%81%95%E3%81%84%E8%A8%80%E8%AA%9E%E5%AD%A6%E8%80%85%E3%81%AE%E5%86%92%E9%99%BA%2Caps%2C155&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=732537b9615893cbb80a76948852ff7d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000296590&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000296590" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--言語を生みだす本能--><a href="https://www.amazon.co.jp/%E8%A8%80%E8%AA%9E%E3%82%92%E7%94%9F%E3%81%BF%E3%81%A0%E3%81%99%E6%9C%AC%E8%83%BD-%E4%B8%8A-NHK%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9-%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3-%E3%83%94%E3%83%B3%E3%82%AB%E3%83%BC/dp/4140017406?crid=2B7XI2761U75&keywords=%E8%A8%80%E8%AA%9E%E3%82%92%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E6%9C%AC%E8%83%BD&qid=1649420512&sprefix=%E3%81%92%E3%82%93%E3%81%94%E3%82%92%E3%81%86%2Caps%2C244&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b0045a63c20ef735b57b9946aa7c5c0c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4140017406&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4140017406" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--ことばをつくる--><a href="https://www.amazon.co.jp/%E3%81%93%E3%81%A8%E3%81%B0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E2%80%95%E8%A8%80%E8%AA%9E%E7%BF%92%E5%BE%97%E3%81%AE%E8%AA%8D%E7%9F%A5%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%9A%84%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81-%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%88%E3%83%9E%E3%82%BB%E3%83%AD/dp/4766415337?keywords=%E3%81%93%E3%81%A8%E3%81%B0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B&qid=1649420627&sprefix=%E3%81%93%E3%81%A8%E3%81%B0%E3%82%92%E3%81%A4%E3%81%8F%2Caps%2C160&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=31eb70c86dbc2b6b4086971c7569415a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4766415337&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4766415337" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -28,45 +29,67 @@
   <!--ママ、あのね。子どものつぶやき--><a href="https://www.amazon.co.jp/%E3%83%9E%E3%83%9E%E3%80%81%E3%81%82%E3%81%AE%E3%81%AD%E3%80%82%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8D-%E6%9C%9D%E6%97%A5%E6%96%87%E5%BA%AB-%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E%E5%87%BA%E7%89%88-%E7%B7%A8/dp/4022616431?crid=25GMQ8OYFFVRI&keywords=%E3%81%82%E3%81%AE%E3%81%AD+%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8D&qid=1649421295&sprefix=%E3%81%82%E3%81%AE%E3%81%AD+%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%2Caps%2C207&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=e0f4c5fcd2e5e9bea3bae94c8ef3cd8f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4022616431&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4022616431" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--宇宙創成--><a href="https://www.amazon.co.jp/%E5%AE%87%E5%AE%99%E5%89%B5%E6%88%90%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%88%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB%EF%BC%89-%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%B3-ebook/dp/B01N7KP0F5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=15T59ZJRSBC8Y&keywords=%E5%AE%87%E5%AE%99%E5%89%B5%E6%88%90&qid=1649419108&sprefix=%E5%AE%87%E5%AE%99%E5%89%B5%E6%88%90%2Caps%2C188&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=8f50cee85ece3dde4fa8c50a3d3d3f41&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N7KP0F5&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01N7KP0F5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--実力も運のうち　能力主義は正義か？--><a href="https://www.amazon.co.jp/%E5%AE%9F%E5%8A%9B%E3%82%82%E9%81%8B%E3%81%AE%E3%81%86%E3%81%A1-%E8%83%BD%E5%8A%9B%E4%B8%BB%E7%BE%A9%E3%81%AF%E6%AD%A3%E7%BE%A9%E3%81%8B%EF%BC%9F-%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB-%E3%82%B5%E3%83%B3%E3%83%87%E3%83%AB-ebook/dp/B0922GS8SL?keywords=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%87%E3%83%AB+%E5%AE%9F%E5%8A%9B%E3%82%82%E9%81%8B%E3%81%AE%E3%81%86%E3%81%A1&qid=1649470843&s=books&sprefix=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%82%B5%E3%83%B3%E3%83%87%E3%83%AB%E3%80%80%2Cstripbooks%2C220&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=ce129417549813c6c9e16bca4f5846f2&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0922GS8SL&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0922GS8SL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ことばの発達心理学(講義動画)--><a href="https://ocw.u-tokyo.ac.jp/lecture_609/" target="_blank"><img border="0" src="https://ocw.u-tokyo.ac.jp/course_images/11308/200px.jpg?1350900263" width="100"></a>
+  <!--HUNTER×HUNTER--><a href="https://www.amazon.co.jp/HUNTER%C3%97HUNTER-%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E7%89%88-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E5%86%A8%E6%A8%AB%E7%BE%A9%E5%8D%9A-ebook/dp/B00AENH12S?keywords=%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC&qid=1655514350&sprefix=%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%2Caps%2C180&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=9c2d2e5c42a74594eeab5997a309f795&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AENH12S&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00AENH12S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--日本語のシンタクスと意味Ⅱ--><a href="https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%BF%E3%82%AF%E3%82%B9%E3%81%A8%E6%84%8F%E5%91%B3-%E7%AC%AC2%E5%B7%BB-%E5%AF%BA%E6%9D%91-%E7%A7%80%E5%A4%AB/dp/4874240038?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%82%B7%E3%83%B3%E3%82%BF%E3%82%AF%E3%82%B9%E3%81%A8%E6%84%8F%E5%91%B3%E2%85%A1&qid=1655124949&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=c9e568e65fca084a84871150d504d02f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4874240038&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4874240038" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--あるある探険隊--><a href="https://www.amazon.co.jp/%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E6%8E%A2%E9%99%BA%E9%9A%8A-%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC/dp/481242156X?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=26C4NTT0TWHGF&keywords=%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E6%8E%A2%E6%A4%9C%E9%9A%8A&qid=1655125116&sprefix=%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B%E6%8E%A2%E6%A4%9C%E9%9A%8A%2Caps%2C175&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=86891a6881c2b380057e2f32e5ed13ab&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=481242156X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=481242156X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-+---------------------------------------+-------------------------------------------------------------------------------+
-|               タイトル                |                                     解説                                      |
-+=======================================+===============================================================================+
-| `ことばの発達の謎を解く`_             | 言葉を失う、面白すぎて！今井先生の本は最高、神！                              |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `赤ちゃんはことばをどう学ぶのか`_     | ちょっと歳いった赤ちゃん                                                      |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `言葉をおぼえるしくみ`_               | 研究者のウミガメのスープを追体験、名付けて「VR本」、上記2冊を読んでおくとよい |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `子どもとことば`_                     | ちょっと古い                                                                  |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `なるほど!赤ちゃん学`_                | 衝撃の事実がたくさん載ってる。                                                |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `ことばの学習のパラドックス`_         | 今井先生の本                                                                  |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `0歳児がことばを獲得するとき`_        | 「ケータイを持ったサル」の著者                                                |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `ちいさい言語学者の冒険`_             | これオススメ。取っつきやすい。読書が苦手な方も読み切れる量                    |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `言語を生みだす本能`_                 | ゆる言語学ラジオやってるとチョイチョイ出てくる「スティーブン・ピンカー」の本  |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `ことばをつくる`_                     | トマセロ、心の理論の人。やり取りが言語習得に重要なのではないかという立場      |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `新・子どもたちの言語獲得`_           | 表紙にパックマン見たいのが並んでるかわいい本                                  |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `ヘレン・ケラーの言語習得`_           | 見えない、聞こえない、ヘレンケラーの言語習得の過程検証                        |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `よくわかる言語発達`_                 | 教科書のような。全体を抑えるのに役立つ                                        |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `あのね 子どものつぶやき`_            | 朝日新聞の投稿欄に寄せられたもの。クイズの種本だが、単純に面白い              |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `ママ、あのね。子どものつぶやき`_     | 朝日新聞の投稿欄に寄せられたもの。クイズの種本だが、単純に面白い              |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `宇宙創成`_                           | 科学の研究史は、寄り道登山本という話題で紹介                                  |
-+---------------------------------------+-------------------------------------------------------------------------------+
-| `実力も運のうち　能力主義は正義か？`_ | 自己責任論に陥る因果の誤謬の引用にて                                          |
-+---------------------------------------+-------------------------------------------------------------------------------+
++---------------------------------------+------------------------------------------------------------------------------------------------+
+|               タイトル                |                                              解説                                              |
++=======================================+================================================================================================+
+| `ことばの発達の謎を解く`_             | 言葉を失う、面白すぎて！今井先生の本は最高、神！                                               |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `赤ちゃんはことばをどう学ぶのか`_     | ちょっと歳いった赤ちゃん                                                                       |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `言葉をおぼえるしくみ`_               | 研究者のウミガメのスープを追体験、名付けて「VR本」、上記2冊を読んでおくとよい                  |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `子どもとことば`_                     | ちょっと古い                                                                                   |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `なるほど!赤ちゃん学`_                | 衝撃の事実がたくさん載ってる。最も多かった赤ちゃんの反応は寝ちゃう、赤ちゃんすぐ眠くなっちゃう |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ことばの学習のパラドックス`_         | 今井先生の本                                                                                   |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `0歳児がことばを獲得するとき`_        | 「ケータイを持ったサル」の著者                                                                 |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ちいさな言葉`_                       | 幼い子どもが一つひとつ言葉を覚え、使うようになる道のり                                         |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ちいさい言語学者の冒険`_             | 読みやすい本。「しむ」「畳まっちゃう」「去う」などの出典                                       |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `言語を生みだす本能`_                 | ゆる言語学ラジオやってるとチョイチョイ出てくる「スティーブン・ピンカー」の本                   |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ことばをつくる`_                     | トマセロ、心の理論の人。やり取りが言語習得に重要なのではないかという立場                       |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `新・子どもたちの言語獲得`_           | 表紙にパックマン見たいのが並んでるかわいい本                                                   |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ヘレン・ケラーの言語習得`_           | 見えない、聞こえない、ヘレンケラーの言語習得の過程検証                                         |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `よくわかる言語発達`_                 | 教科書のような。全体を抑えるのに役立つ                                                         |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `あのね 子どものつぶやき`_            | 朝日新聞の投稿欄に寄せられたもの。クイズの種本だが、単純に面白い                               |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ママ、あのね。子どものつぶやき`_     | 朝日新聞の投稿欄に寄せられたもの。クイズの種本だが、単純に面白い                               |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `宇宙創成`_                           | 科学の研究史は、寄り道登山本という話題で紹介                                                   |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `実力も運のうち　能力主義は正義か？`_ | 自己責任論に陥る因果の誤謬の引用にて                                                           |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ことばの発達心理学(講義動画)`_       | 針生悦子先生の「ネケってる」など紹介された講義動画                                             |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `ことばの発達心理学(資料)`_           | 針生悦子先生の講義資料、動詞編の「ネケってる」様子の画像イメージなど                           |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `HUNTER×HUNTER`_                      | ハンター×ハンターにおける念という自分自身のオーラ「纏（テン）」を纏うこともWear                |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `日本語のシンタクスと意味Ⅱ`_          | ボーっと母語話者やってた。言語化してないルールだから、日本母文法の基礎な勉強～（ry             |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+| `あるある探険隊`_                     | 「ワロてるババアを口はめる」からの過学習の結果生まれた堀元さんの猟奇的な例文とは？             |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+.. _ことばの発達心理学(講義動画): https://ocw.u-tokyo.ac.jp/lecture_609/
+.. _ことばの発達心理学(資料): https://ocw.u-tokyo.ac.jp/lecture_files/gf_09/10/notes/ja/10haryu.pdf
+.. _ちいさな言葉: https://amzn.to/3tL9J1P
+.. _あるある探険隊: https://amzn.to/3MVMR6E
+.. _日本語のシンタクスと意味Ⅱ: https://amzn.to/3zTf3nA
+.. _HUNTER×HUNTER: https://amzn.to/39D9zD2
 .. _実力も運のうち　能力主義は正義か？: https://amzn.to/3JsuUL4
 .. _ママ、あのね。子どものつぶやき: https://amzn.to/3NW4ZPt
 .. _あのね 子どものつぶやき: https://amzn.to/38BHATj
@@ -95,6 +118,8 @@
 * `#113【赤ちゃんと創作2】`_
 * `#114【赤ちゃんまとめ】`_
 * `#133【赤ちゃんと動詞1】`_
+* `#134【赤ちゃんと動詞2】`_
+
 
 .. _#114【赤ちゃんまとめ】: https://www.youtube.com/watch?v=iNAC58puA6w
 .. _#113【赤ちゃんと創作2】: https://www.youtube.com/watch?v=zeGChbd9RA0
@@ -105,3 +130,4 @@
 .. _#108【赤ちゃんの言語習得2】: https://www.youtube.com/watch?v=J7rAZ2tRoT0
 .. _#107【赤ちゃんの言語習得1】: https://www.youtube.com/watch?v=AMIaheSRVew
 .. _#133【赤ちゃんと動詞1】: https://www.youtube.com/watch?v=n70ldRw4n0E
+.. _#134【赤ちゃんと動詞2】: https://www.youtube.com/watch?v=3r74Mup30xI
