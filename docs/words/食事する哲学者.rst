@@ -1,0 +1,23 @@
+食事する哲学者
+==========================================
+.. glossary::
+    食事する哲学者 : し
+
+* コンピュータ科学に登場するたとえ話
+* 哲学者の設定にツッコミ満載なのだが、50年以上の歴史の風化に耐え、今も現役で登場する。
+
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/An_illustration_of_the_dining_philosophers_problem.png/200px-An_illustration_of_the_dining_philosophers_problem.png
+  :width: 40%
+
+.. rubric:: 関連ワード
+* :doc:`失敗たとえの森` 
+
+.. rubric:: 関連リンク
+* `食事する哲学者の問題（Wikipedia） <https://ja.wikipedia.org/wiki/食事する哲学者の問題>`_ 
+* :ref:`参考文献:失敗たとえの森 <失敗たとえの森参考文献>`
+
+.. rubric:: 関連ラジオ
+* `謎の状況に爆笑しちゃう「食事する哲学者の問題」【失敗たとえの森】 #25`_
+
+.. _謎の状況に爆笑しちゃう「食事する哲学者の問題」【失敗たとえの森】 #25: https://www.youtube.com/watch?v=K9UrIxj4qMA
