@@ -11,6 +11,7 @@
 .. rubric:: 関連ワード
 * :doc:`象鼻回` 
 * :doc:`コモンセンス` 
+* :doc:`過学習` 
 
 .. rubric:: 関連リンク
 * `オッカムの剃刀(Wikipedia) <https://ja.wikipedia.org/wiki/オッカムの剃刀>`_ 
