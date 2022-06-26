@@ -1,0 +1,53 @@
+.. _プリンシプルオブライフシリーズ参考文献:
+
+.. :ref:`参考文献:プリンシプルオブライフシリーズ <プリンシプルオブライフシリーズ参考文献>`
+
+(コンピュータ#26)プリンシプルオブライフシリーズ
+==================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--プリンシプル オブ プログラミング--><a href="https://www.amazon.co.jp/dp/B071V7MY82?_encoding=UTF8&btkr=1&linkCode=li1&tag=takaoutputblo-22&linkId=675af40e2c9c4cf304da0e60389ee952&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071V7MY82&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B071V7MY82" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--最速の仕事術はプログラマーが知っている--><a href="https://www.amazon.co.jp/%E6%9C%80%E9%80%9F%E3%81%AE%E4%BB%95%E4%BA%8B%E8%A1%93%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%8C%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-%E6%B8%85%E6%B0%B4-%E4%BA%AE-ebook/dp/B011UFDIZM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=314D4PN9YEFBH&keywords=%E6%9C%80%E9%80%9F%E3%81%AE%E4%BB%95%E4%BA%8B%E8%A1%93%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%8C%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B&qid=1656205989&sprefix=%E6%9C%80%E9%80%9F%E3%81%AE%E4%BB%95%E4%BA%8B%E8%A1%93%E3%81%AF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%8C%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%2Caps%2C146&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b2910e73a376ac160245c9d542d5ec32&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B011UFDIZM&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B011UFDIZM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--人月の神話--><a href="https://www.amazon.co.jp/%E4%BA%BA%E6%9C%88%E3%81%AE%E7%A5%9E%E8%A9%B1-%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BBP%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%8CJr-ebook/dp/B0998ZTVTD?adgrpid=82618413117&gclid=CjwKCAjw5NqVBhAjEiwAeCa97fGkTRD6V-FEo3JX0XqbQiNLBEJBRp45k-gmxQRRHvdwL2-I2B6lqhoCgOoQAvD_BwE&hvadid=553838351688&hvdev=c&hvlocphy=1009343&hvnetw=g&hvqmt=e&hvrand=15369287972297954223&hvtargid=kwd-809177866278&hydadcr=26042_13459685&jp-ad-ap=0&keywords=%E4%BA%BA+%E6%9C%88+%E3%81%AE+%E7%A5%9E%E8%A9%B1&qid=1656208393&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=27e29baff98f94c578eb56d38546f378&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0998ZTVTD&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0998ZTVTD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--Code Complete--><a href="https://www.amazon.co.jp/%E3%80%90%E9%9B%BB%E5%AD%90%E5%90%88%E6%9C%AC%E7%89%88%E3%80%91Code-Complete-%E7%AC%AC2%E7%89%88-%E5%AE%8C%E5%85%A8%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6-Steve-McConnell-ebook/dp/B01E5DYK1C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=7Y6W1N64R751&keywords=Code+Complete&qid=1656208513&sprefix=code+complete%2Caps%2C150&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=4087130ffa0b37fdad27af3dc7371c5b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01E5DYK1C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01E5DYK1C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--マンガ進研ゼミ高校講座--><a href="https://kou.benesse.co.jp/kou_news/comic/" target="_blank"><img border="0" src="https://kou.benesse.co.jp/kou_news/_assets/img/comic/img_comic03.png" width="100"></a>
+  <!--サカナとヤクザ--><a href="https://www.amazon.co.jp/%E3%82%B5%E3%82%AB%E3%83%8A%E3%81%A8%E3%83%A4%E3%82%AF%E3%82%B6-%EF%BD%9E%E6%9A%B4%E5%8A%9B%E5%9B%A3%E3%81%AE%E5%B7%A8%E5%A4%A7%E8%B3%87%E9%87%91%E6%BA%90%E3%80%8C%E5%AF%86%E6%BC%81%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%80%8D%E3%82%92%E8%BF%BD%E3%81%86%EF%BD%9E-%E5%B0%8F%E5%AD%A6%E9%A4%A8%E6%96%87%E5%BA%AB-%E9%88%B4%E6%9C%A8%E6%99%BA%E5%BD%A6-ebook/dp/B09BR55WDM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3G2WIG51DUKQ2&keywords=%E3%82%B5%E3%82%AB%E3%83%8A%E3%81%A8%E3%83%A4%E3%82%AF%E3%82%B6&qid=1656206130&sprefix=%E3%82%B5%E3%82%AB%E3%83%8A%E3%81%A8%E3%83%A4%E3%82%AF%E3%82%B6%2Caps%2C138&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=d72d20be92f8a5db237880864dcd1c8e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09BR55WDM&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B09BR55WDM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--瀉血--><a href="https://ja.wikipedia.org/wiki/瀉血" target="_blank"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blood_letting.jpg/250px-Blood_letting.jpg" width="100"></a>
+
+
++-------------------------------------------+----------------------------------------------------------------------------------+
+|                 タイトル                  |                                       解説                                       |
++===========================================+==================================================================================+
+| `プリンシプル オブ プログラミング`_       | メイン種本。おもしろいし読みやすいしためになる。                                 |
++-------------------------------------------+----------------------------------------------------------------------------------+
+| `最速の仕事術はプログラマーが知っている`_ | 非プログラマーでも全然読める。                                                   |
++-------------------------------------------+----------------------------------------------------------------------------------+
+| `人月の神話`_                             | 『銀の弾などない』など収録。キンタマではなくギン。『人月の神話』も超有名な論文。 |
++-------------------------------------------+----------------------------------------------------------------------------------+
+| `Code Complete`_                          | 有名なプログラミング方法論本。骨太で本質的。プログラマ向け                       |
++-------------------------------------------+----------------------------------------------------------------------------------+
+| `ベネッセ マンガ`_                        | 銀の弾はない！？インクリメンタルにやれよ！？案件お待ちしてます！？               |
++-------------------------------------------+----------------------------------------------------------------------------------+
+| `サカナとヤクザ`_                         | コンピュータの作り方はドキュメンタリーと一緒 という抽象化                        |
++-------------------------------------------+----------------------------------------------------------------------------------+
+| `瀉血(Wikipedia)`_                        | 過去に信じられていた医療における銀の弾。                                         |
++-------------------------------------------+----------------------------------------------------------------------------------+
+.. _ベネッセ マンガ: https://kou.benesse.co.jp/kou_news/comic/
+.. _瀉血(Wikipedia): https://ja.wikipedia.org/wiki/瀉血
+
+.. _サカナとヤクザ: https://amzn.to/3nenZg2
+.. _Code Complete: https://amzn.to/3OLCB2d
+.. _人月の神話: https://amzn.to/3u515LP
+.. _最速の仕事術はプログラマーが知っている: https://amzn.to/3bsfwmG
+.. _プリンシプル オブ プログラミング: https://amzn.to/3btYsfX
+
+.. rubric:: 関連動画
+* `【プリンシプルオブライフ1】`_
+
+.. _【プリンシプルオブライフ1】: https://youtu.be/wQ4hwFo6EeM
