@@ -100,4 +100,4 @@
 .. _インディゲーム実況アワード: https://www.youtube.com/watch?v=SRFoQrV_YlI&t=3056s
 .. _『ゆる異種族言語学ライブ』: https://www.loft-prj.co.jp/schedule/plusone/217968
 .. _”伝わる話し方”のコツ。スペシャリストから、ゆる〜く学べます！: https://youtu.be/-c0-kZz9UwU
-.. _【クイズ】ファッションオタクに、言語オタクがクイズで挑んだら予想外の展開に！【ゆる言語学ラジオ】: https://youtu.be/-c0-kZz9UwU
+.. _【クイズ】ファッションオタクに、言語オタクがクイズで挑んだら予想外の展開に！【ゆる言語学ラジオ】: https://youtu.be/GwpDnnqkny0
