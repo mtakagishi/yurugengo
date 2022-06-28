@@ -1,6 +1,6 @@
 .. _赤ちゃん参考文献:
 
-(#107-#114,#133-#136)赤ちゃんシリーズ
+(#107-#114,#133-#137)赤ちゃんシリーズ
 ----------------------------------------------------------------------------------------------
  :doc:`/words/赤ちゃん` の参考文献の一覧
 
@@ -39,6 +39,8 @@
   <!--オノマトペ研究の射程--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A%E7%A0%94%E7%A9%B6%E3%81%AE%E5%B0%84%E7%A8%8B%E3%83%BC%E8%BF%91%E3%81%A5%E3%81%8F%E9%9F%B3%E3%81%A8%E6%84%8F%E5%91%B3-%E7%AF%A0%E5%8E%9F-%E5%92%8C%E5%AD%90/dp/4894765969?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=15K1TRCUACP4K&keywords=%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A%E7%A0%94%E7%A9%B6%E3%81%AE%E5%B0%84%E7%A8%8B&qid=1654865678&sprefix=%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A%E7%A0%94%E7%A9%B6%E3%81%AE%E5%B0%84%E7%A8%8B%2Caps%2C147&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=01d178e7083e30e0cc545587bc74f0dc&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4894765969&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4894765969" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--ペイ・フォワード--><a href="https://amzn.to/3OmpCnP" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71TOCrJqevL._AC_UL320_.jpg" width="100"></a>
   <!--算数文章題が解けない子どもたち--><a href="https://www.amazon.co.jp/dp/4000054155?&linkCode=li1&tag=takaoutputblo-22&linkId=35aa5454e17b1971ed77e1d92399a134&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000054155&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000054155" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--深海(ミスチル)--><a href="https://www.amazon.co.jp/%E6%B7%B1%E6%B5%B7-Mr-Children/dp/B00005H020?keywords=mrchildren+%E6%B7%B1%E6%B5%B7&qid=1656169731&sprefix=Mr%E6%B7%B1%E6%B5%B7%2Caps%2C177&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=38c8f6c9625bc18f4195f140c01c707a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00005H020&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00005H020" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 +---------------------------------------+------------------------------------------------------------------------------------------------+
 |               タイトル                |                                              解説                                              |
 +=======================================+================================================================================================+
@@ -100,6 +102,9 @@
 +---------------------------------------+------------------------------------------------------------------------------------------------+
 | `算数文章題が解けない子どもたち`_     | 今井むつみ先生のファンの皆様、お待たせしました。待望の最新刊です！                             |
 +---------------------------------------+------------------------------------------------------------------------------------------------+
+| `深海(ミスチル)`_                     | 今までと違うパターンだ、え？暗っ！というミスチルの深海ばりに、今井先生の最新本は方向転換？     |
++---------------------------------------+------------------------------------------------------------------------------------------------+
+.. _深海(ミスチル): https://amzn.to/3ORL2ZX
 .. _算数文章題が解けない子どもたち: https://amzn.to/39RbvYF
 .. _ペイ・フォワード: https://amzn.to/3OmpCnP
 .. _オノマトペ研究の射程: https://amzn.to/3A1Pd0U
@@ -143,6 +148,7 @@
 * `#134【赤ちゃんと動詞2】`_
 * `#135【赤ちゃんと形容詞】`_
 * `#136【赤ちゃんとオノマトペ】`_
+* `#137【今井先生ゲスト1】`_
 
 .. _#114【赤ちゃんまとめ】: https://www.youtube.com/watch?v=iNAC58puA6w
 .. _#113【赤ちゃんと創作2】: https://www.youtube.com/watch?v=zeGChbd9RA0
@@ -156,3 +162,4 @@
 .. _#134【赤ちゃんと動詞2】: https://www.youtube.com/watch?v=3r74Mup30xI
 .. _#135【赤ちゃんと形容詞】: https://www.youtube.com/watch?v=GNLazvO8AVQ
 .. _#136【赤ちゃんとオノマトペ】: https://www.youtube.com/watch?v=Q03h9vopd4s
+.. _#137【今井先生ゲスト1】: https://www.youtube.com/watch?v=NinaUFNul8E
