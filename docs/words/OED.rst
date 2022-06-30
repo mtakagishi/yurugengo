@@ -30,7 +30,7 @@ OED
 :Tableity: テーブルがテーブルである状態
 :Cellarhood: 地下室が地下室である状態
 :Countercozen: お返しに騙す/ダマされたから騙し返す
-:Debag: 罰として、もしくは、上段でズボンを引きずり下ろす。
+:Debag: 罰として、もしくは、冗談でズボンを引きずり下ろす。
 :Empleomania: 公的役職に就きたいと思う躁病的衝動
 :Frauendienst: 女性に対して誇張された騎士道
 :Gymnologize: インドの哲学者のように裸で議論する
