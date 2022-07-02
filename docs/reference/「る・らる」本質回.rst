@@ -4,7 +4,6 @@
 
 (#14)「る・らる」本質回
 =================================
-:doc:`/words/どうしようもないマインド` や :doc:`/words/シコリティ・シコラビリティ` が語られた回 
 
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
@@ -15,6 +14,9 @@
 
   <!--日本人の発想、日本語の表現--><a href="https://www.amazon.co.jp/dp/4121014162?&linkCode=li1&tag=takaoutputblo-22&linkId=9bfa80015d2198fcafdba8d949733e8f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4121014162&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4121014162" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--日本語文法の謎を解く--><a href="https://www.amazon.co.jp/dp/4480059830?&linkCode=li1&tag=takaoutputblo-22&linkId=33353e814558ba399dd99056c092eee4&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480059830&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480059830" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+:doc:`/words/どうしようもないマインド` や :doc:`/words/シコリティ・シコラビリティ` が語られた回 の参考文献
 
 +-------------------------------+----------------------------------------------------------+
 |           タイトル            |                           解説                           |
