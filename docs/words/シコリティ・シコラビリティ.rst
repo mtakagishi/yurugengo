@@ -21,7 +21,7 @@
 * 「シコラビリティ」は使いやすさのニュアンス
 
 .. tip:: 
-  `シコラビリティがTwitterでバズる <https://twitter.com/ADDIE_DeckBrush/status/1542823664647049216>`_ 。撮影（2021年初）から実に1年半近く経過している。
+  2022年7月、 `@ADDIE_DeckBrushさんTwitter <https://twitter.com/ADDIE_DeckBrush/status/1542823664647049216>`_ でバズる 。撮影（2021年初）から1年半近く経過。⇒ :doc:`/videos/timeline` 
 
 .. rubric:: 関連ワード
 * :doc:`どうしようもないマインド` 
