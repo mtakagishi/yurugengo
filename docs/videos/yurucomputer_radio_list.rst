@@ -83,6 +83,7 @@
 .. _コンピュータはなぜ動くのか、2時間で原理を理解する【半導体1】#20: https://www.youtube.com/watch?v=ShgBk-SPFpo
 .. _トランジスタを巨大プリンにたとえて説明する【半導体2】#21: https://www.youtube.com/watch?v=RUveCmXs3LU
 .. _豆電球のつなぎ方が分かれば、コンピュータは作れる【半導体3】: https://www.youtube.com/watch?v=VG1_Mm8d4aY
+.. _二進数の筆算、あなたはできる？機械にやらせるには？【半導体4】#23: https://www.youtube.com/watch?v=cfn0xkIFceY
 .. _しめじから布団乾燥機ができる。ブラックボックスっていうヤツがブラックボックス【雑談回】#24: https://www.youtube.com/watch?v=e227TnB3hNg
 .. _謎の状況に爆笑しちゃう「食事する哲学者の問題」【失敗たとえの森】 #25: https://www.youtube.com/watch?v=K9UrIxj4qMA
 .. _進研ゼミのマンガに使える気の利いた感想「人生に、銀の弾丸はないよ」【プリンシプルオブライフ1】 #26: https://www.youtube.com/watch?v=wQ4hwFo6EeM
