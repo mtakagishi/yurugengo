@@ -3,7 +3,7 @@
 .. glossary::
     頻度錯誤 : ひ
 
-相関がないデータに相関があると思い込んでしまう現象。
+「一旦気にし始めると、急にそれを頻繁に目にするようになる」という認知バイアス。結果として「起こる頻度が上がった」と錯覚する。これと確証バイアスによって錯誤相関につながる。
 
 .. tip:: 
   「カラーバス効果」なる造語は、意味としては頻度錯誤のこと。
@@ -12,7 +12,9 @@
 * :doc:`カラーバス効果` 
 
 .. rubric:: 関連リンク
-* `頻度錯誤(Wikipedia) <https://ja.wikipedia.org/wiki/頻度錯誤>`_ 
+* `頻度錯誤：Frequency illusion (Wikipedia)(英語) <https://en.wikipedia.org/wiki/Frequency_illusion>`_ 
+* `「カラーバス効果」とは、認知バイアスの「頻度錯誤」 <https://note.com/suzuki_akira86/n/n68f612dbbd4b#21bVP>`_ 
+* `錯誤相関(Wikipedia) <https://ja.wikipedia.org/wiki/錯誤相関>`_ 
 * :ref:`慶雲館雑談参考文献 <慶雲館参考文献>`
 
 .. rubric:: 関連ラジオ
