@@ -1,7 +1,5 @@
-ラジオ動画一覧
+関連リンク集
 ===============================
-
-.. rubric:: 関連リンク集
 
 .. toctree::
   :maxdepth: 1
@@ -14,6 +12,7 @@
   timeline
   statistics
   /words/index
+  /reference/index
 
 .. rubric:: 動画リンク一覧
 
