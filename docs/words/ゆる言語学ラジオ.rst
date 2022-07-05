@@ -9,27 +9,143 @@
 .. rubric:: パーソナリティ
 * 堀元見（ほりもとけん）
   
-  * 堀本でなく堀元
   * 慶應義塾大学理工学部 情報工学出身
   * ネットコンテンツで収益を得る。
   * 1992年4月30日生まれ
+  * 堀本でなく堀元
   
 * 水野太貴（みずのだいき）
 
-  * たいきでなくだいき
   * 名古屋大学文学部 言語学出身
   * 某大手出版社のサラリーマン
   * 1995年8月生まれ
-  * 学生時代のあだ名はナナフシ
+  * たいきでなくだいき
 
 .. rubric:: ゲスト
 
-* `福田純也（ふくたじゅんや） <https://jfukuta24.wixsite.com/home>`_ 
+* 福田純也（ふくたじゅんや）
 
-  * ふくだでなくふくた
   * 名古屋大学大学院国際開発研究科博士課程修了
   * 中央大学 理工学部 准教授、ゆる言語学ラジオ監修者の一人
   * 1988年生まれ
+  * 出演回 `#76 <https://youtu.be/4oKTEuDgO3s>`_ `#77 <https://youtu.be/SmH9EbH0x0c>`_ `#78 <https://youtu.be/0nmVZ6Up__k>`_ `#80 <https://youtu.be/sSvxP5cUASM>`_ `#81 <https://youtu.be/75HsFDb3HLI>`_ 
+  * `Fukuta's Lab <https://jfukuta24.wixsite.com/home>`_ 
+  * ふくだでなくふくた
+
+* 今井むつみ（いまいむつみ） 
+
+  * 慶應義塾大学大学院社会学研究科博士課程修了
+  * ノースウェスタン大学心理学部博士課程修了
+  * 慶應義塾大学環境情報学部教授、ゆる言語学ラジオの種本を多数執筆
+  * 1958年生まれ
+  * 出演回 `#137 <https://youtu.be/NinaUFNul8E>`_ `#138 <https://youtu.be/Jp2MfGQZ7F0>`_
+  * `今井むつみ研究室 <https://cogpsy.sfc.keio.ac.jp/imailab/>`_ ／ `Wikipedia <https://ja.wikipedia.org/wiki/今井むつみ>`_ 
+  * けいおうぎじゅつでなくけいおうぎじゅく
+
+.. rubric:: 公式
+* `チャンネルホーム`_
+* `再生リスト`_
+* `サポーターコミュニティ`_
+* `オリジナルグッズ <https://www.valuebooks.jp/shelf-items/folder/4362babbae09d77>`_ 
+* `Lineスタンプ <https://store.line.me/stickershop/product/18955892/ja>`_ 
+* `ゆる言語学ラジオおたよりフォーム`_
+* `ゆる言語学ラジオTwitter`_
+* `ゆる言語学ラジオPodcast`_
+* `姉妹チャネル：ゆるコンピュータ科学ラジオ <https://www.youtube.com/channel/UCpLu0KjNy616-E95gPx7LZg>`_ 
+* `姉妹チャネル：ゆる学徒ハウス <https://www.youtube.com/channel/UCayn-KD-Qjwa8ppQJ50bEAw>`_ 
+.. rubric:: 姉妹チャンネル
+* :doc:`/videos/yurucomputer_radio_list` 
+* :doc:`/videos/yurugackt_house_list` 
+
+.. rubric:: 企画リンク
+* `AKACHAN’S MISTAKE AWARDS 投稿フォーム <https://forms.gle/j9nXn13Ahr3juUV36>`_ 
+* `うんちくエウレーカクイズ応募フォーム`_
+* `選書リスト`_
+* :doc:`JAPAN_PODCAST_AWARDS`  (2021年度終了)
+* :doc:`Podcast_weekend_podcast` (終了)
+* `ゆる言語学ラジオ流行語大賞2021投票フォーム`_ (終了)
+* `ゆる言語学ラジオ流行語大賞_参考候補`_ (終了)
+
+.. rubric:: エンディングナレーション
+このラジオは、一介の言語オタクがゆるく楽しく言語の面白さを語るラジオです。自由気ままな言語トークですので、厳密な考証は行っておりません。内容には諸説あります。ご了承の上お聞きください
+
+.. rubric:: 音源
+* :ref:`動画音源 <動画音源>`
+
+.. rubric:: 堀元氏関連リンク
+* `Twitter <https://twitter.com/kenhori2>`_ 
+* `noteマガジン <https://note.com/kenhori2/m/m125fc4524aca>`_ 
+* `個人YouTube <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ 
+
+.. rubric:: パーソナリティ・ゲスト著書
+
+.. raw:: html
+
+  <!--教養悪口--><a href="https://www.amazon.co.jp/%E6%95%99%E9%A4%8A%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%EF%BC%89%E6%82%AA%E5%8F%A3%E6%9C%AC-%E5%A0%80%E5%85%83-%E8%A6%8B-ebook/dp/B09NBJBK11?qid=1648261298&s=books&sr=1-1&text=%E5%A0%80%E5%85%83%E8%A6%8B&linkCode=li1&tag=takaoutputblo-22&linkId=f95aa7b8ebbe3956b891a87f1a39bd24&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09NBJBK11&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B09NBJBK11" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ビジネス書100--><a href="https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%9B%B8%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC%E3%82%92100%E5%86%8A%E8%AA%AD%E3%82%93%E3%81%A7%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E6%88%90%E5%8A%9F%E3%81%AE%E9%BB%84%E9%87%91%E5%BE%8B-%E5%A0%80%E5%85%83%E8%A6%8B/dp/4198653887?qid=1648261298&s=books&sr=1-2&text=%E5%A0%80%E5%85%83%E8%A6%8B&linkCode=li1&tag=takaoutputblo-22&linkId=fdb6a79a5caeab50120286e8ec0bc807&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4198653887&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4198653887" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </br>
+  <!--外国語学習に潜む意識と無意識--><a href="https://www.amazon.co.jp/%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92%E3%81%AB%E6%BD%9C%E3%82%80%E6%84%8F%E8%AD%98%E3%81%A8%E7%84%A1%E6%84%8F%E8%AD%98-%E9%96%8B%E6%8B%93%E7%A4%BE-%E8%A8%80%E8%AA%9E%E3%83%BB%E6%96%87%E5%8C%96%E9%81%B8%E6%9B%B877-%E7%A6%8F%E7%94%B0-%E7%B4%94%E4%B9%9F/dp/4758925771?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=14240HDYWNWLI&keywords=%E7%A6%8F%E7%94%B0%E7%B4%94%E4%B9%9F&qid=1657027284&sprefix=%E7%A6%8F%E7%94%B0%E7%B4%94%E4%B9%9F%2Caps%2C377&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=aa06fb85ba71c53b4f19c2384a7fafed&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4758925771&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4758925771" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </br>
+  <!--算数文章題が解けない子どもたち--><a href="https://www.amazon.co.jp/%E7%AE%97%E6%95%B0%E6%96%87%E7%AB%A0%E9%A1%8C%E3%81%8C%E8%A7%A3%E3%81%91%E3%81%AA%E3%81%84%E5%AD%90%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1-%E3%81%93%E3%81%A8%E3%81%B0%E3%83%BB%E6%80%9D%E8%80%83%E3%81%AE%E5%8A%9B%E3%81%A8%E5%AD%A6%E5%8A%9B%E4%B8%8D%E6%8C%AF-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4000054155?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CFJX6EGAONUQ&keywords=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF&qid=1657027395&sprefix=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF%2Caps%2C211&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=823e6fd1d6d2eff6a5087995e9d8896f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000054155&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000054155" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--言葉をおぼえるしくみ--><a href="https://www.amazon.co.jp/%E8%A8%80%E8%91%89%E3%82%92%E3%81%8A%E3%81%BC%E3%81%88%E3%82%8B%E3%81%97%E3%81%8F%E3%81%BF-%E2%80%95%E2%80%95%E6%AF%8D%E8%AA%9E%E3%81%8B%E3%82%89%E5%A4%96%E5%9B%BD%E8%AA%9E%E3%81%BE%E3%81%A7-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF-ebook/dp/B014FI1C36?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CFJX6EGAONUQ&keywords=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF&qid=1657027395&sprefix=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF%2Caps%2C211&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=83d3638b8be26125c0f2a784fb2225de&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014FI1C36&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B014FI1C36" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ことばの発達の謎を解く--><a href="https://www.amazon.co.jp/%E3%81%93%E3%81%A8%E3%81%B0%E3%81%AE%E7%99%BA%E9%81%94%E3%81%AE%E8%AC%8E%E3%82%92%E8%A7%A3%E3%81%8F-%E3%81%A1%E3%81%8F%E3%81%BE%E3%83%97%E3%83%AA%E3%83%9E%E3%83%BC%E6%96%B0%E6%9B%B8-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4480688935?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CFJX6EGAONUQ&keywords=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF&qid=1657027395&sprefix=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF%2Caps%2C211&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=e6ec213eb921724213c3a90f7767d4d7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480688935&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480688935" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--言語が違えば、世界も違って見えるわけ--><a href="https://www.amazon.co.jp/%E8%A8%80%E8%AA%9E%E3%81%8C%E9%81%95%E3%81%88%E3%81%B0%E3%80%81%E4%B8%96%E7%95%8C%E3%82%82%E9%81%95%E3%81%A3%E3%81%A6%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%8F%E3%81%91-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABNF-%E3%82%AC%E3%82%A4%E3%83%BB%E3%83%89%E3%82%A4%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC/dp/4150505861?qid=1657028123&s=books&sr=1-4&text=%E4%BB%8A%E4%BA%95+%E3%82%80%E3%81%A4%E3%81%BF&linkCode=li1&tag=takaoutputblo-22&linkId=e520ba48421a2f590173c2f1a3dc187b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4150505861&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4150505861" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--学びとは何か--><a href="https://www.amazon.co.jp/%E5%AD%A6%E3%81%B3%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%95%E2%80%95%E3%80%88%E6%8E%A2%E7%A9%B6%E4%BA%BA%E3%80%89%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4004315964?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CFJX6EGAONUQ&keywords=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF&qid=1657027395&sprefix=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF%2Caps%2C211&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=826151ef77354c82ce251a9590740d3b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4004315964&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4004315964" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--英語独習法--><a href="https://www.amazon.co.jp/%E8%8B%B1%E8%AA%9E%E7%8B%AC%E7%BF%92%E6%B3%95-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF-ebook/dp/B08WC9CKQY?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CFJX6EGAONUQ&keywords=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF&qid=1657027395&sprefix=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF%2Caps%2C211&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=23dd4f9290a0444fe29085b889570c6f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08WC9CKQY&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08WC9CKQY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ことばと思考--><a href="https://www.amazon.co.jp/%E3%81%93%E3%81%A8%E3%81%B0%E3%81%A8%E6%80%9D%E8%80%83-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF-ebook/dp/B01GF9HOJ4?qid=1657028123&s=books&sr=1-7&text=%E4%BB%8A%E4%BA%95+%E3%82%80%E3%81%A4%E3%81%BF&linkCode=li1&tag=takaoutputblo-22&linkId=281ac7ae640c317b1f76718cb1949118&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GF9HOJ4&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01GF9HOJ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--クリエイティブ・ラーニング--><a href="https://www.amazon.co.jp/%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E5%89%B5%E9%80%A0%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%AD%A6%E3%81%B3%E3%81%A8%E6%95%99%E8%82%B2-%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B9-%E4%BA%95%E5%BA%AD-%E5%B4%87/dp/4766425723?qid=1657028123&s=books&sr=1-8&text=%E4%BB%8A%E4%BA%95+%E3%82%80%E3%81%A4%E3%81%BF&linkCode=li1&tag=takaoutputblo-22&linkId=1fa935c2e0707470bf00426fa0877ec8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4766425723&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4766425723" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--親子で育てる　ことば力と思考力--><a href="https://www.amazon.co.jp/%E8%A6%AA%E5%AD%90%E3%81%A7%E8%82%B2%E3%81%A6%E3%82%8B-%E3%81%93%E3%81%A8%E3%81%B0%E5%8A%9B%E3%81%A8%E6%80%9D%E8%80%83%E5%8A%9B-%E5%8D%98%E8%A1%8C%E6%9C%AC-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4480847499?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CFJX6EGAONUQ&keywords=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF&qid=1657027395&sprefix=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF%2Caps%2C211&sr=8-6&linkCode=li1&tag=takaoutputblo-22&linkId=711ec6983466c7240728257b85317c75&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480847499&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480847499" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ようすのことば--><a href="https://www.amazon.co.jp/%E3%82%88%E3%81%86%E3%81%99%E3%81%AE%E3%81%93%E3%81%A8%E3%81%B0-%E3%81%8F%E3%82%8D%E3%81%8F%E3%81%BE%E3%81%8F%E3%82%93%E3%81%AE%E3%81%93%E3%81%A8%E3%81%B0%E3%81%88%E3%81%BB%E3%82%93-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4774322040?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CFJX6EGAONUQ&keywords=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF&qid=1657027395&sprefix=%E4%BB%8A%E4%BA%95%E3%82%80%E3%81%A4%E3%81%BF%2Caps%2C211&sr=8-8&linkCode=li1&tag=takaoutputblo-22&linkId=391a595dc949dd94a3ea250bc2903d20&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4774322040&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4774322040" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+* `教養（インテリ）悪口本 (Kindle) <https://amzn.to/32DleO2>`_ 堀元 見 (著)
+* `教養（インテリ）悪口本 (単行本) <https://amzn.to/3Jj42hL>`_ 堀元 見 (著)
+* `ビジネス書ベストセラーを100冊読んで分かった成功の黄金律 <https://amzn.to/3LgcM8v>`_ 堀元 見 (著)
+* `外国語学習に潜む意識と無意識`_ 福田 純也 (著)
+* `算数文章題が解けない子どもたち`_ 今井 むつみ (著)
+* `言葉をおぼえるしくみ`_ 今井 むつみ (著)、針生悦子 (著) 
+* `ことばの発達の謎を解く`_  今井 むつみ (著)
+* `学びとは何か`_  今井 むつみ (著)
+* `英語独習法`_  今井 むつみ (著)
+* `ことばと思考`_ 今井 むつみ (著)
+* `親子で育てる　ことば力と思考力`_ 今井 むつみ (著)
+
+`今井先生関連の書籍はこちら <https://amzn.to/3P6hI1G>`_ 
+
+.. _クリエイティブ・ラーニング: https://amzn.to/3un7wdu
+.. _ことばと思考: https://amzn.to/3R5dsS5
+.. _言語が違えば、世界も違って見えるわけ: https://amzn.to/3ykVbrc
+.. _ようすのことば: https://amzn.to/3OE1MnD
+.. _ことばと思考: https://amzn.to/3ajyOKT
+.. _親子で育てる　ことば力と思考力: https://amzn.to/3Rbh8le
+.. _英語独習法: https://amzn.to/3bQNoKh
+.. _学びとは何か: https://amzn.to/3aeYk3Z
+.. _言葉をおぼえるしくみ: https://amzn.to/3yEPXYO
+.. _ことばの発達の謎を解く: https://amzn.to/3NJ0bf1
+.. _算数文章題が解けない子どもたち: https://amzn.to/3bMK0Qy
+.. _外国語学習に潜む意識と無意識: https://amzn.to/3nHtp3a
+
+.. rubric:: ゆる言語学ラジオを取り上げた記事
+* `Wikipedia(ゆる言語学ラジオ) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
+* `Wikipedia(堀元見) <https://ja.wikipedia.org/wiki/堀元見>`_ 
+* `ゆる言語学ラジオ（Wikipedia) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
+* `(2021年11月23日)東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
+* `(2021年12月9日)デイリーポータルZ　辞典を通読した人に「そんなことして何が面白いの？」かを聞く <https://dailyportalz.jp/kiji/reading-dictionary>`_ 
+* `(2021年12月16日)Podcast　ニッチでもファンが集まる！難しい学問を身近にする『ゆる言語学ラジオ』の戦い方 <https://spotifynewsroom.jp/2021-12-16/yuru-gengogaku-radio/>`_ 
+* `(2022年1月10日)朝日新聞主催の「私の折々のことばコンテスト」佳作 <https://www.asahi.com/event/kotoba/2021/pdf/award/award_30.pdf>`_ 
+* `(2022年6月15日)Real Sound 声とテクノロジーで変革する”メディアの未来” <https://realsound.jp/tech/2022/06/post-1051392.html>`_ 
+* `(2022年6月19日)SPUR8月号にて「ゆるモード言語学」をお届けします <https://spur.hpplus.jp/magazine/topics/202206/19/FomTUFk/>`_ 
+
+.. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
+.. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
+.. _サポーターコミュニティ: https://yurugengo.com/support
+.. _ゆる言語学ラジオおたよりフォーム: https://docs.google.com/forms/d/e/1FAIpQLSdhWOGhQcrlyJW_wLNqGYC2p33IsZB-x9lKocu8v7IjmUuTgA/viewform
+.. _ゆる言語学ラジオTwitter: https://twitter.com/yuru_gengo
+
+.. _選書リスト: https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0
+.. _うんちくエウレーカクイズ応募フォーム: https://forms.gle/cGpGjmstG5pNwVF16
+.. _ゆる言語学ラジオ流行語大賞2021投票フォーム: https://docs.google.com/forms/d/e/1FAIpQLSfWLAxgQwfEdKyov-v7Npi7SbDPYRpyfe84HZFSJu1a5Gcp3A/viewform
+.. _ゆる言語学ラジオ流行語大賞_参考候補: https://docs.google.com/spreadsheets/d/e/2PACX-1vTI3KKa1LA8HpdyAb_-QDrEG-tgaBDMwADNYXWYzSS7i38wLDMPLbglXZJqkULXXNjgLDyp33E5ARgg/pubhtml?gid=0&single=true
+.. _ゆる言語学ラジオPodcast: https://anchor.fm/yurugengo
 
 .. rubric:: ヒストリ
 * 2020年12月某日 撮影開始、`衒学チャンネル <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ から順次公開される
@@ -58,74 +174,3 @@
 .. * 2022年07月08日 `noteにてシリーズ番組を開始 <https://youtu.be/-c0-kZz9UwU>`_ 
 .. * 2022年07月29日 `『ゆる異種族言語学ライブ』を開催 <https://www.loft-prj.co.jp/schedule/plusone/217968>`_ 
 
-.. rubric:: 動画一覧
-* :doc:`/videos/yurugengo_radio_list` 
-* :doc:`/videos/yurucomputer_radio_list` 
-
-.. rubric:: 公式
-* `チャンネルホーム`_
-* `再生リスト`_
-* `サポーターコミュニティ`_
-* `オリジナルグッズ <https://www.valuebooks.jp/shelf-items/folder/4362babbae09d77>`_ 
-* `Lineスタンプ <https://store.line.me/stickershop/product/18955892/ja>`_ 
-* `ゆる言語学ラジオおたよりフォーム`_
-* `ゆる言語学ラジオTwitter`_
-* `ゆる言語学ラジオPodcast`_
-* `Wikipedia(ゆる言語学ラジオ) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
-* `Wikipedia(堀元見) <https://ja.wikipedia.org/wiki/堀元見>`_ 
-
-.. rubric:: 姉妹チャンネル
-* :doc:`/videos/yurucomputer_radio_list` 
-* :doc:`/videos/yurugackt_house_list` 
-
-.. rubric:: 企画リンク
-* `選書リスト`_
-* `うんちくエウレーカクイズ応募フォーム`_
-* :doc:`JAPAN_PODCAST_AWARDS` 
-* :doc:`Podcast_weekend_podcast` 
-* `ゆる言語学ラジオ流行語大賞2021投票フォーム`_ (終了)
-* `ゆる言語学ラジオ流行語大賞_参考候補`_ (終了)
-
-.. rubric:: 音源
-* :ref:`動画音源 <動画音源>`
-
-.. rubric:: エンディングナレーション
-このラジオは、一介の言語オタクがゆるく楽しく言語の面白さを語るラジオです。自由気ままな言語トークですので、厳密な考証は行っておりません。内容には諸説あります。ご了承の上お聞きください
-
-.. rubric:: 堀元氏関連リンク
-* `Twitter <https://twitter.com/kenhori2>`_ 
-* `noteマガジン <https://note.com/kenhori2/m/m125fc4524aca>`_ 
-* `個人YouTube <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ 
-
-.. rubric:: 堀元氏著書
-
-.. raw:: html
-
-  <!--教養悪口--><a href="https://www.amazon.co.jp/%E6%95%99%E9%A4%8A%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%EF%BC%89%E6%82%AA%E5%8F%A3%E6%9C%AC-%E5%A0%80%E5%85%83-%E8%A6%8B-ebook/dp/B09NBJBK11?qid=1648261298&s=books&sr=1-1&text=%E5%A0%80%E5%85%83%E8%A6%8B&linkCode=li1&tag=takaoutputblo-22&linkId=f95aa7b8ebbe3956b891a87f1a39bd24&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09NBJBK11&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B09NBJBK11" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  <!--ビジネス書100--><a href="https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%9B%B8%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC%E3%82%92100%E5%86%8A%E8%AA%AD%E3%82%93%E3%81%A7%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E6%88%90%E5%8A%9F%E3%81%AE%E9%BB%84%E9%87%91%E5%BE%8B-%E5%A0%80%E5%85%83%E8%A6%8B/dp/4198653887?qid=1648261298&s=books&sr=1-2&text=%E5%A0%80%E5%85%83%E8%A6%8B&linkCode=li1&tag=takaoutputblo-22&linkId=fdb6a79a5caeab50120286e8ec0bc807&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4198653887&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4198653887" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-* `教養（インテリ）悪口本 堀元 見 (著) (Kindle) <https://amzn.to/32DleO2>`_ 
-* `教養（インテリ）悪口本 堀元 見 (著) (単行本) <https://amzn.to/3Jj42hL>`_ 
-* `ビジネス書ベストセラーを100冊読んで分かった成功の黄金律 <https://amzn.to/3LgcM8v>`_ 
-
-
-.. rubric:: ゆる言語学ラジオを取り上げた記事
-* `ゆる言語学ラジオ（Wikipedia) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
-* `(2021年11月23日)東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
-* `(2021年12月9日)デイリーポータルZ　辞典を通読した人に「そんなことして何が面白いの？」かを聞く <https://dailyportalz.jp/kiji/reading-dictionary>`_ 
-* `(2021年12月16日)Podcast　ニッチでもファンが集まる！難しい学問を身近にする『ゆる言語学ラジオ』の戦い方 <https://spotifynewsroom.jp/2021-12-16/yuru-gengogaku-radio/>`_ 
-* `(2022年1月10日)朝日新聞主催の「私の折々のことばコンテスト」佳作 <https://www.asahi.com/event/kotoba/2021/pdf/award/award_30.pdf>`_ 
-* `(2022年6月15日)Real Sound 声とテクノロジーで変革する”メディアの未来” <https://realsound.jp/tech/2022/06/post-1051392.html>`_ 
-* `(2022年6月19日)SPUR8月号にて「ゆるモード言語学」をお届けします <https://spur.hpplus.jp/magazine/topics/202206/19/FomTUFk/>`_ 
-
-.. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
-.. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
-.. _サポーターコミュニティ: https://yurugengo.com/support
-.. _ゆる言語学ラジオおたよりフォーム: https://docs.google.com/forms/d/e/1FAIpQLSdhWOGhQcrlyJW_wLNqGYC2p33IsZB-x9lKocu8v7IjmUuTgA/viewform
-.. _ゆる言語学ラジオTwitter: https://twitter.com/yuru_gengo
-
-.. _選書リスト: https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0
-.. _うんちくエウレーカクイズ応募フォーム: https://forms.gle/cGpGjmstG5pNwVF16
-.. _ゆる言語学ラジオ流行語大賞2021投票フォーム: https://docs.google.com/forms/d/e/1FAIpQLSfWLAxgQwfEdKyov-v7Npi7SbDPYRpyfe84HZFSJu1a5Gcp3A/viewform
-.. _ゆる言語学ラジオ流行語大賞_参考候補: https://docs.google.com/spreadsheets/d/e/2PACX-1vTI3KKa1LA8HpdyAb_-QDrEG-tgaBDMwADNYXWYzSS7i38wLDMPLbglXZJqkULXXNjgLDyp33E5ARgg/pubhtml?gid=0&single=true
-.. _ゆる言語学ラジオPodcast: https://anchor.fm/yurugengo
