@@ -1,0 +1,36 @@
+.. _公開収録2参考文献:
+
+.. :ref:`参考文献:公開収録2 <公開収録2参考文献>`
+
+(#141)公開収録2
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--ドラえもん（２９）--><a href="https://www.amazon.co.jp/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%EF%BC%88%EF%BC%92%EF%BC%99%EF%BC%89-%E3%81%A6%E3%82%93%E3%81%A8%E3%81%86%E8%99%AB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E8%97%A4%E5%AD%90%E3%83%BB%EF%BC%A6%E3%83%BB%E4%B8%8D%E4%BA%8C%E9%9B%84-ebook/dp/B0114L5QBG?_encoding=UTF8&qid=1657452943&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=6f97b8158b93fb79adf40c513ae030df&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0114L5QBG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0114L5QBG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ドラえもん（３０） --><a href="https://www.amazon.co.jp/gp/product/B0114L5QIY?notRedirectToSDP=1&storeType=ebooks&linkCode=li1&tag=takaoutputblo-22&linkId=f87307ff9dbea37c1e0a1950b5a856f6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0114L5QIY&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0114L5QIY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ファスト＆スロー--><a href="https://www.amazon.co.jp/%E3%83%95%E3%82%A1%E3%82%B9%E3%83%88%EF%BC%86%E3%82%B9%E3%83%AD%E3%83%BC-%EF%BC%88%E4%B8%8A%EF%BC%89-%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB-%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%9E%E3%83%B3-ebook/dp/B00ARDNMEQ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2XSDBPVPEPR3C&keywords=%E3%83%95%E3%82%A1%E3%82%B9%E3%83%88%E3%82%A2%E3%83%B3%E3%83%89%E3%82%B9%E3%83%AD%E3%83%BC&qid=1657453043&sprefix=%E3%83%95%E3%82%A1%E3%82%B9%E3%83%88%E3%82%A2%E3%83%B3%E3%83%89%E3%82%B9%E3%83%AD%E3%83%BC%2Caps%2C172&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=f050337a76be38c121d1130ef7427de6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ARDNMEQ&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00ARDNMEQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------+------------------------------------------------------------------------------------+
+|       タイトル        |                                        解説                                        |
++=======================+====================================================================================+
+| `ドラえもん（２９）`_ | ドラえもんファンサイトのachiさんが本気で欲しい「自動買取器」はこちら               |
++-----------------------+------------------------------------------------------------------------------------+
+| `ドラえもん（３０）`_ | ドラえもんファンサイトのachiさんが二番目に欲しい「フエール銀行」を掲載             |
++-----------------------+------------------------------------------------------------------------------------+
+| `ファスト＆スロー`_   | 自分にとって、解像度の高い質問を受けたら、システム２で考えがち、システム１でよい。 |
++-----------------------+------------------------------------------------------------------------------------+
+.. _ファスト＆スロー: https://amzn.to/3IxGSV0
+.. _ドラえもん（３０）: https://amzn.to/3yz7C2X
+.. _ドラえもん（２９）: https://amzn.to/3uGlK98
+
+.. rubric:: 関連動画
+* `#141【公開収録2】`_
+
+.. _#141【公開収録2】: https://www.youtube.com/watch?v=2A8uNtJFEi8
+

@@ -336,7 +336,7 @@
     group {
       orientation = portrait
       "22/4/2\n撮影24" ->
-      "22/4/2未公開\nサポータ公開収録" ;
+      "22/7/12公開\n言141【公開収録2】" ;
     }
     group {
       orientation = portrait
