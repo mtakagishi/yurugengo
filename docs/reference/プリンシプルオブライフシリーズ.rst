@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:プリンシプルオブライフシリーズ <プリンシプルオブライフシリーズ参考文献>`
 
-(コンピュータ#26-#27)プリンシプルオブライフシリーズ
+(コンピュータ#26-#29)プリンシプルオブライフシリーズ
 ==================================================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -22,6 +22,8 @@
   <!--浦沢直樹の漫勉--><a href="https://amzn.to/3OV3h0Y" target="_blank"><img border="0" src="https://images-na.ssl-images-amazon.com/images/I/412oNAh-fuL._SX300_.jpg" width="100"></a>
   <!--東京タラレバ娘--><a href="https://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%A9%E3%83%AC%E3%83%90%E5%A8%98%EF%BC%88%EF%BC%91%EF%BC%89-%EF%BC%AB%EF%BD%89%EF%BD%93%EF%BD%93%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%B1%E6%9D%91%E3%82%A2%E3%82%AD%E3%82%B3-ebook/dp/B00NOTKFBS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=132WK91TGGCKH&keywords=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%A9%E3%83%AC%E3%83%90%E5%A8%98&qid=1657194823&sprefix=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%A9%E3%83%AC%E3%83%90%E5%A8%98%2Caps%2C245&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=baad0c34b9ba869cc3226bc9ae470864&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NOTKFBS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00NOTKFBS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--かくかくしかじか--><a href="https://www.amazon.co.jp/%E3%81%8B%E3%81%8F%E3%81%8B%E3%81%8F%E3%81%97%E3%81%8B%E3%81%98%E3%81%8B-1-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E6%9D%B1%E6%9D%91%E3%82%A2%E3%82%AD%E3%82%B3-ebook/dp/B00JIFUCE2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1217JQ0ETZ96H&keywords=%E3%81%8B%E3%81%8F%E3%81%8B%E3%81%8F%E3%81%97%E3%81%8B%E3%81%98%E3%81%8B&qid=1657194840&sprefix=%E3%81%8B%E3%81%8F%E3%81%8B%E3%81%8F%E3%81%97%E3%81%8B%E3%81%98%E3%81%8B%2Caps%2C149&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=7eca480fd51dd342362a78a927c2df1c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JIFUCE2&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00JIFUCE2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--奇書の世界史--><a href="https://www.amazon.co.jp/%E5%A5%87%E6%9B%B8%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2-%E6%AD%B4%E5%8F%B2%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99%E2%80%9C%E3%83%A4%E3%83%90%E3%81%84%E6%9B%B8%E7%89%A9%E2%80%9D%E3%81%AE%E7%89%A9%E8%AA%9E-%E4%B8%89%E5%B4%8E-%E5%BE%8B%E6%97%A5-ebook/dp/B07WSM9RWZ?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=36OSFC106PYSN&keywords=%E5%A5%87%E6%9B%B8%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2&qid=1657948056&sprefix=%E5%A5%87%E6%9B%B8%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2%2Caps%2C195&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=7c2cc909e93a0c77e3fffbbe3879dcac&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WSM9RWZ&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07WSM9RWZ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ヘロドトス 歴史--><a href="https://www.amazon.co.jp/%E3%83%98%E3%83%AD%E3%83%89%E3%83%88%E3%82%B9-%E6%AD%B4%E5%8F%B2-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-%E6%9D%BE%E5%B9%B3-%E5%8D%83%E7%A7%8B-ebook/dp/B00QT9X9GS?keywords=%E3%83%98%E3%83%AD%E3%83%89%E3%83%88%E3%82%B9+%E6%AD%B4%E5%8F%B2&qid=1658048244&sprefix=%E3%83%98%E3%83%AD%E3%83%89%E3%83%88%E3%82%B9%E3%80%80%2Caps%2C179&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=058a3c99c0aad61ebf868b7b048bce8a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QT9X9GS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00QT9X9GS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 +-------------------------------------------+------------------------------------------------------------------------------------------------+
 |                 タイトル                  |                                              解説                                              |
@@ -46,6 +48,13 @@
 +-------------------------------------------+------------------------------------------------------------------------------------------------+
 | `かくかくしかじか`_                       | 浦澤直樹の漫勉の初回ゲスト東村アキコ先生の名作                                                 |
 +-------------------------------------------+------------------------------------------------------------------------------------------------+
+| `奇書の世界史`_                           | 武器軟膏を拭い去るためのスポンジ話が載った本                                                   |
++-------------------------------------------+------------------------------------------------------------------------------------------------+
+| `ヘロドトス 歴史`_                        | 酒を飲んで会議し、シラフで再確認する話                                                         |
++-------------------------------------------+------------------------------------------------------------------------------------------------+
+.. _ヘロドトス 歴史: https://amzn.to/3aHZ5me
+.. _奇書の世界史: https://amzn.to/3o7m8Kb
+
 .. _かくかくしかじか: https://amzn.to/3uBQlVw
 .. _東京タラレバ娘: https://amzn.to/3Iowpex
 .. _浦沢直樹の漫勉: https://amzn.to/3OV3h0Y
@@ -62,7 +71,10 @@
 * `【プリンシプルオブライフ1】`_
 * `【プリンシプルオブライフ2】`_
 * `【プリンシプルオブライフ3】`_
+* `【プリンシプルオブライフ収録後】`_
+
 
 .. _【プリンシプルオブライフ1】: https://youtu.be/wQ4hwFo6EeM
 .. _【プリンシプルオブライフ2】: https://youtu.be/AsO4SYDjZ54
 .. _【プリンシプルオブライフ3】: https://youtu.be/nPRGFa_kz04
+.. _【プリンシプルオブライフ収録後】: https://youtu.be/TnXD0CbKmpw
