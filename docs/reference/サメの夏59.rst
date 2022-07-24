@@ -1,8 +1,8 @@
 .. _サメの夏参考文献:
 
-.. :ref:`サメの夏参考文献 <サメの夏参考文献>`
+.. :ref:`参考文献:サメの夏1 <サメの夏参考文献>`
 
-(#59)サメの夏
+(#59)サメの夏1
 =================================
 
 :doc:`/words/サメの夏` というミームが決まった雑談回の参考文献まとめ
@@ -91,3 +91,12 @@
 .. _本の雑誌457号2021年7月号: https://amzn.to/3MVbNvq
 .. _オモコロチャンネル: https://youtu.be/HH7FwnD1RR0
 .. _"パンダが亡くなりました"はおかしいですか？: https://www.nhk.or.jp/bunken/research/kotoba/20160601_5.html
+
+.. rubric:: 関連動画
+* `【サメの夏1】`_
+* `【サメの夏2】`_
+
+.. _【サメの夏1】: https://www.youtube.com/watch?v=EtXBKIMqSUY
+.. _【サメの夏2】: https://youtu.be/G3EXCaYUX8Q
+
+

@@ -1,0 +1,48 @@
+.. _サメの夏コン30参考文献:
+
+.. :ref:`参考文献:サメの夏2 <サメの夏コン30参考文献>`
+
+(コンピュータ#30)サメの夏2
+==================================================
+ゆるコンピュータ科学の　:doc:`/words/サメの夏` の参考文献まとめ、:doc:`/words/チューバッカ弁論` でもりあがる。 
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--まず牛を球とします。--><a href="https://www.amazon.co.jp/%E3%81%BE%E3%81%9A%E7%89%9B%E3%82%92%E7%90%83%E3%81%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82-%E6%9F%9E%E5%88%88-%E6%B9%AF%E8%91%89/dp/4309030564?qid=1657886070&s=books&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=db1d0ab009cf3c62e6a40ac72a9eb695&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4309030564&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4309030564" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--球形の牛--><a href="https://ja.wikipedia.org/wiki/球形の牛" target="_blank"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Spot_the_cow.gif/220px-Spot_the_cow.gif" width="100"></a>
+  <!--ビコリム戦争--><a href="https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%93%E3%82%B3%E3%83%AA%E3%83%A0%E6%88%A6%E4%BA%89" target="_blank"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wikipedia-logo-v2-ja.svg/1200px-Wikipedia-logo-v2-ja.svg.png" width="100"></a>
+  <!--ボストンでは禁止--><a href="https://ja.wikipedia.org/wiki/ボストンでは禁止" target="_blank"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wikipedia-logo-v2-ja.svg/1200px-Wikipedia-logo-v2-ja.svg.png" width="100"></a>
+  <!--英語の成句--><a href="https://ja.wikipedia.org/wiki/Category:%E8%8B%B1%E8%AA%9E%E3%81%AE%E6%88%90%E5%8F%A5" target="_blank"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Wikipedia-logo-v2-ja.svg/1200px-Wikipedia-logo-v2-ja.svg.png" width="100"></a>
+
++-------------------------+--------------------------------------------------------------------------------------+
+|        タイトル         |                                         解説                                         |
++=========================+======================================================================================+
+| `まず牛を球とします。`_ | 2022年7月21日発売 柞刈湯葉先生の最新作！                                             |
++-------------------------+--------------------------------------------------------------------------------------+
+| `球形の牛(Wikipedia)`_  | サメの夏：物理学者を揶揄したジョーク、柞刈湯葉先生の著作「まず牛を球とします。」     |
++-------------------------+--------------------------------------------------------------------------------------+
+| `ビコリム戦争`_         | サメの夏：だから、Wikipediaを出典にしてはいけない。                                  |
++-------------------------+--------------------------------------------------------------------------------------+
+| `ボストンでは禁止`_     | サメの夏：「いかがわしい」内容をもつ作品は禁止                                       |
++-------------------------+--------------------------------------------------------------------------------------+
+| `英語の成句`_           | ボストンでは禁止、など面白い英語表現が多くついつい読みふける。クリエイティブの源泉。 |
++-------------------------+--------------------------------------------------------------------------------------+
+.. _英語の成句: https://ja.wikipedia.org/wiki/Category:%E8%8B%B1%E8%AA%9E%E3%81%AE%E6%88%90%E5%8F%A5
+.. _ボストンでは禁止: https://ja.wikipedia.org/wiki/ボストンでは禁止
+.. _ビコリム戦争: https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%93%E3%82%B3%E3%83%AA%E3%83%A0%E6%88%A6%E4%BA%89
+.. _まず牛を球とします。: https://amzn.to/3zuCYcL
+.. _球形の牛(Wikipedia): https://ja.wikipedia.org/wiki/球形の牛
+
+.. rubric:: 関連動画
+* `【サメの夏1】`_
+* `【サメの夏2】`_
+
+.. _【サメの夏1】: https://www.youtube.com/watch?v=EtXBKIMqSUY
+.. _【サメの夏2】: https://youtu.be/G3EXCaYUX8Q
+
+
