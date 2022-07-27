@@ -126,8 +126,8 @@
 
 .. rubric:: ゆる言語学ラジオを取り上げた記事
 * `Wikipedia(ゆる言語学ラジオ) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
+* `weblio(ゆる言語学ラジオ) <https://www.weblio.jp/wkpja/content/ゆる言語学ラジオ>`_ 
 * `Wikipedia(堀元見) <https://ja.wikipedia.org/wiki/堀元見>`_ 
-* `ゆる言語学ラジオ（Wikipedia) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
 * `(2021年11月23日)東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
 * `(2021年12月9日)デイリーポータルZ　辞典を通読した人に「そんなことして何が面白いの？」かを聞く <https://dailyportalz.jp/kiji/reading-dictionary>`_ 
 * `(2021年12月16日)Podcast　ニッチでもファンが集まる！難しい学問を身近にする『ゆる言語学ラジオ』の戦い方 <https://spotifynewsroom.jp/2021-12-16/yuru-gengogaku-radio/>`_ 
