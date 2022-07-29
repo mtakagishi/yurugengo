@@ -64,3 +64,9 @@
 
 .. _#145【食の話】: https://www.youtube.com/watch?v=r8lqZO7hRtE
 
+.. rubric:: 関連ツイート
+* `音川真澄さん(@tsubura_ji) のかわいいコミカライズ <https://twitter.com/tsubura_ji/status/1552259543220256768>`_  
+
+.. raw:: html
+
+  <a href="https://twitter.com/tsubura_ji/status/1552259543220256768" target="_blank"><img border="0" src="https://pbs.twimg.com/media/FYq70tuagAEokQi?format=jpg&name=large" width="50%"></a>
