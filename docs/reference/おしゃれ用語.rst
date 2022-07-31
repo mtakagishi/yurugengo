@@ -1,0 +1,42 @@
+.. _おしゃれ用語参考文献:
+
+.. :ref:`参考文献:おしゃれ用語 <おしゃれ用語参考文献>`
+
+(コンピュータ#14,#31)おしゃれ用語
+=================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--走れメロス--><a href="https://www.amazon.co.jp/%E8%B5%B0%E3%82%8C%E3%83%A1%E3%83%AD%E3%82%B9-%E3%83%8F%E3%83%AB%E3%82%AD%E6%96%87%E5%BA%AB-%E3%81%9F-21-2-280%E5%86%86%E6%96%87%E5%BA%AB/dp/4758436525?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=MT02HTGZ7VCE&keywords=%E8%B5%B0%E3%82%8C%E3%83%A1%E3%83%AD%E3%82%B9&qid=1659235366&sprefix=%E8%B5%B0%E3%82%8C%E3%83%A1%E3%83%AD%E3%82%B9%2Caps%2C393&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=eed423b7428221ac6ec542e0346dc6b1&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4758436525&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4758436525" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--グリム兄弟 グリム童話作品集１--><a href="https://www.amazon.co.jp/%E3%82%B0%E3%83%AA%E3%83%A0%E5%85%84%E5%BC%9F-%E3%82%B0%E3%83%AA%E3%83%A0%E7%AB%A5%E8%A9%B1%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%91-%E6%A5%A0%E5%B1%B1%E6%AD%A3%E9%9B%84%E8%A8%B3-%E8%B5%A4%E3%81%9A%E3%81%8D%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%E3%80%81%E3%83%98%E3%83%B3%E3%83%87%E3%83%AB%E3%81%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%86%E3%83%AB%E3%80%81%E3%81%8B%E3%81%88%E3%82%8B%E3%81%AE%E7%8E%8B%E6%A7%98%E3%81%AA%E3%81%A9%EF%BC%98%E4%BD%9C%E5%93%81-ebook/dp/B00H579AHU?keywords=%E3%83%98%E3%83%B3%E3%83%87%E3%83%AB%E3%81%A8%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%86%E3%83%AB&qid=1659234769&sprefix=%E3%83%98%E3%83%B3%E3%83%87%E3%83%AB%E3%81%A8%2Caps%2C176&sr=8-22&linkCode=li1&tag=takaoutputblo-22&linkId=0c9dde4e042d82c26bc4e16933eaa880&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H579AHU&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00H579AHU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--魁！！男塾--><a href="https://www.amazon.co.jp/%E9%AD%81%EF%BC%81%EF%BC%81%E7%94%B7%E5%A1%BE-%E7%AC%AC1%E5%B7%BB-%E5%AE%AE%E4%B8%8B%E3%81%82%E3%81%8D%E3%82%89-ebook/dp/B009SJQVO8?keywords=%E9%AD%81%E7%94%B7%E5%A1%BE&qid=1659235778&sprefix=%E9%AD%81%2Caps%2C194&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=b948dbb9573bb5aa9f05fe7adfa43555&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009SJQVO8&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009SJQVO8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--銀河ヒッチハイク・ガイド--><a href="https://www.amazon.co.jp/%E9%8A%80%E6%B2%B3%E3%83%92%E3%83%83%E3%83%81%E3%83%8F%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%AC%E3%82%A4%E3%83%89-%E9%8A%80%E6%B2%B3%E3%83%92%E3%83%83%E3%83%81%E3%83%8F%E3%82%A4%E3%82%AF%E3%82%AC%E3%82%A4%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E6%B2%B3%E5%87%BA%E6%96%87%E5%BA%AB-%E3%83%80%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%B9-ebook/dp/B00N0XOP4G?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1XIDG411Z3VOJ&keywords=%E9%8A%80%E6%B2%B3%E3%83%92%E3%83%83%E3%83%81%E3%83%8F%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%AC%E3%82%A4%E3%83%89&qid=1658543696&sprefix=%E9%9B%86%E8%8B%B1%E7%A4%BE%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8%2Caps%2C623&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=3d62d3e8606c2c55cc17d130226c5eac&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00N0XOP4G&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00N0XOP4G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+|             タイトル             |                                                                  解説                                                                   |
++==================================+=========================================================================================================================================+
+| `走れメロス`_                    | 「大いなる力には大いなる責任が伴う」の出典がダモクレスの剣、モデルはシラクサの王デュオニソス2世。実はかの邪知暴虐の～ディオニスのモデル |
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| `グリム兄弟 グリム童話作品集１`_ | パンくずリストはヘンゼルとグレーテル。実は口減らしのために子捨てをする話                                                                |
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| `魁！！男塾`_                    | 『魁！！男塾』で参考文献としておなじみ、民明書房。（漫画内の架空の出版元）                                                              |
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| `銀河ヒッチハイク・ガイド`_      | 42は、「生命、宇宙そして万物についての究極の答え」                                                                                      |
++----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+.. _銀河ヒッチハイク・ガイド: https://amzn.to/3zhJW3u
+.. _グリム兄弟 グリム童話作品集１: https://amzn.to/3POVP82
+.. _魁！！男塾: https://amzn.to/3oJ0tbO
+.. _走れメロス: https://amzn.to/3oIpxQ6
+
+.. rubric:: 関連動画
+* `【おしゃれコンピュータ用語】`_
+* `【おしゃれコンピュータ用語2】`_
+
+.. _【おしゃれコンピュータ用語】: https://youtu.be/GwONM6dveO0
+.. _【おしゃれコンピュータ用語2】: https://youtu.be/9ugTBypc2aI
+
