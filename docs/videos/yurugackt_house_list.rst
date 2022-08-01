@@ -59,7 +59,7 @@
 | `リップグリップ`_ 岩永さん | `ゆる変な法律学ラジオ-「女性はズボンを履いてはならない」に込められた想い`_       | 2022/05/16 | 00:05:00 |
 +----------------------------+----------------------------------------------------------------------------------+------------+----------+
 
-.. _グラン亭栄酒蔵さん: https://twitter.com/GrandTEchezeaux
+.. _グラン亭栄酒蔵さん: https://www.youtube.com/channel/UCwmmhfC_rnkF8mriWCxD7tg
 .. _スミノコウヤさん: https://twitter.com/smnky_
 .. _越山嘉祈さん: https://twitter.com/tabehoJ
 .. _ゆきさん: https://www.youtube.com/channel/UCGq8bcrClALo_SRIvaqxdNg
