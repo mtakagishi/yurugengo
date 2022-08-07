@@ -1,0 +1,44 @@
+.. _チューリング参考文献:
+
+.. :ref:`参考文献:チューリングシリーズ <チューリング参考文献>`
+
+(コンピュータ#32)チューリングシリーズ
+==================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--通信の数学的理論--><a href="https://www.amazon.co.jp/%E9%80%9A%E4%BF%A1%E3%81%AE%E6%95%B0%E5%AD%A6%E7%9A%84%E7%90%86%E8%AB%96-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB-%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3/dp/4480092226?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%80%9A%E4%BF%A1%E3%81%AE%E6%95%B0%E5%AD%A6%E7%9A%84%E7%90%86%E8%AB%96&qid=1659236832&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=4492d79b4a6d6efda4ba2919adf19ce5&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480092226&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480092226" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--指人形！--><a href="https://philosophersguild.com/collections/plush-finger-puppets" target="_blank"><img border="0" src="https://pbs.twimg.com/media/FP4emT8XsAQNeCi?format=jpg&name=small" width="100"></a>
+  <!--イミテーションゲーム--><a href="https://amzn.to/3P6cvXx" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/91yKoggwCbL._AC_UL320_.jpg" width="100"></a>
+  <!--エニグマ アラン・チューリング伝--><a href="https://www.amazon.co.jp/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E-%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E4%BC%9D-%E4%B8%8A-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%83%E3%82%B8%E3%82%B9-ebook/dp/B093BF8LY6?_encoding=UTF8&qid=1659237859&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=38b2ca842e44e9f34c7f83f54468ec61&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B093BF8LY6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B093BF8LY6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ジュラシックパーク--><a href="https://amzn.to/3zDtFpx" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/91gFnngAtcL._AC_UL320_.jpg" width="100"></a>
+
++------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+|              タイトル              |                                                          解説                                                          |
++====================================+========================================================================================================================+
+| `通信の数学的理論`_                | :doc:`/reference/情報理論シリーズ` でコンピュータの父の筆頭候補としてチューリングを紹介                                |
++------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+| `指人形！`_                        | 「パブロフのワンワン」と「シュレディンガーのニャンニャン」                                                             |
++------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+| `イミテーションゲーム`_            | :doc:`/words/グラスに辞書を入れる` 見ていたかもしれない！？                                                            |
++------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+| `エニグマ アラン・チューリング伝`_ | 私たちが現在ナチスの支配下にないという事実は、その多くをアラン・チューリングに負っていると言って良い（と書かれている） |
++------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+| `ジュラシックパーク`_              | ティラノサウルスの「手の向き」のうんちくで、映画の感想を通ぶれる。                                                     |
++------------------------------------+------------------------------------------------------------------------------------------------------------------------+
+.. _ジュラシックパーク: https://amzn.to/3zDtFpx
+.. _エニグマ アラン・チューリング伝: https://amzn.to/3SpE5BI
+.. _イミテーションゲーム: https://amzn.to/3P6cvXx
+.. _指人形！: https://philosophersguild.com/collections/plush-finger-puppets
+.. _通信の数学的理論: https://amzn.to/3vMsQtk
+
+.. rubric:: 関連動画
+* `【チューリング1】`_
+
+.. _【チューリング1】: https://youtu.be/NCdI_HZd6xQ
+
