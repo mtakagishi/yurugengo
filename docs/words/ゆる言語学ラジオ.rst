@@ -21,6 +21,9 @@
   * 1995年8月31日生まれ
   * たいきでなくだいき
 
+.. tip:: 
+  お二人の身長には諸説ありここでマジ身長を書くのも野暮というもの。皆様のご想像にお任せいたします。
+
 .. rubric:: ゲスト
 
 * 福田純也（ふくたじゅんや）
@@ -41,6 +44,7 @@
   * 出演回 `#137 <https://youtu.be/NinaUFNul8E>`_ `#138 <https://youtu.be/Jp2MfGQZ7F0>`_ `#148 <https://youtu.be/nh6Ru3TQMzo>`_ `#149 <https://youtu.be/6AO_a9H5gTY>`_ 
   * `今井むつみ研究室 <https://cogpsy.sfc.keio.ac.jp/imailab/>`_ ／ `Wikipedia <https://ja.wikipedia.org/wiki/今井むつみ>`_ 
   * けいおうぎじゅつでなくけいおうぎじゅく
+
 
 .. rubric:: 公式
 * `チャンネルホーム`_
