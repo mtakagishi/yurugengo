@@ -2,7 +2,7 @@
 
 .. :ref:`「赤ちゃん」シリーズの参考文献 <赤ちゃん参考文献>`
 
-(#107-#114,#133-#138,#140,#147-#149)赤ちゃんシリーズ
+(#107-#114,#133-#138,#140,#147-#150)赤ちゃんシリーズ
 ----------------------------------------------------------------------------------------------
  :doc:`/words/赤ちゃん` の参考文献の一覧
 
@@ -69,6 +69,8 @@
   <!--オノマトペの謎--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A%E3%81%AE%E8%AC%8E-%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6%E3%81%8B%E3%82%89%E3%83%A2%E3%83%95%E3%83%A2%E3%83%95%E3%81%BE%E3%81%A7-%E5%B2%A9%E6%B3%A2%E7%A7%91%E5%AD%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC-%E7%AA%AA%E8%96%97-%E6%99%B4%E5%A4%AB-ebook/dp/B08FC1VBT4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2PCPQJD6OZBVB&keywords=%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A%E3%81%AE%E8%AC%8E&qid=1659783405&sprefix=%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A%E3%81%AE%E8%AC%8E%2Caps%2C216&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=64d5d373a015a0e7027718daf6de8edb&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FC1VBT4&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08FC1VBT4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--「あ」は「い」より大きい!?--><a href="https://www.amazon.co.jp/%E3%80%8C%E3%81%82%E3%80%8D%E3%81%AF%E3%80%8C%E3%81%84%E3%80%8D%E3%82%88%E3%82%8A%E5%A4%A7%E3%81%8D%E3%81%84-%E2%80%94%E9%9F%B3%E8%B1%A1%E5%BE%B4%E3%81%A7%E5%AD%A6%E3%81%B6%E9%9F%B3%E5%A3%B0%E5%AD%A6%E5%85%A5%E9%96%80-%E5%B7%9D%E5%8E%9F%E7%B9%81%E4%BA%BA/dp/4894768860?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3NON2R6COONXM&keywords=%E3%80%8C%E3%81%82%E3%80%8D%E3%81%AF%E3%80%8C%E3%81%84%E3%80%8D%E3%82%88%E3%82%8A%E5%A4%A7%E3%81%8D%E3%81%84%E2%81%89&qid=1659783456&sprefix=%E3%81%82+%E3%81%AF+%E3%81%84+%E3%82%88%E3%82%8A%E5%A4%A7%E3%81%8D%E3%81%84+%2Caps%2C182&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=c417bb85369b5287421a03ff409b11f7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4894768860&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4894768860" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--日本語のオノマトペ-音象徴と構造--><a href="https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A-%E9%9F%B3%E8%B1%A1%E5%BE%B4%E3%81%A8%E6%A7%8B%E9%80%A0-%E6%B5%9C%E9%87%8E-%E7%A5%A5%E5%AD%90/dp/4874246230?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2ES90ZLH0AT5Y&keywords=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A-%E9%9F%B3%E8%B1%A1%E5%BE%B4%E3%81%A8%E6%A7%8B%E9%80%A0&qid=1659783517&sprefix=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%88%E3%83%9A-%E9%9F%B3%E8%B1%A1%E5%BE%B4%E3%81%A8%E6%A7%8B%E9%80%A0%2Caps%2C174&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b2669f62e35e4e115c4130c7205e0453&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4874246230&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4874246230" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--黒執事--><a href="https://www.amazon.co.jp/%E9%BB%92%E5%9F%B7%E4%BA%8B-1%E5%B7%BB-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E7%89%88G%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9E%A2%E3%82%84%E3%81%AA-ebook/dp/B08PP2GSNP?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=AFQ3879KSBNS&keywords=%E9%BB%92%E5%9F%B7%E4%BA%8B&qid=1659011267&sprefix=%E9%BB%92%E5%9F%B7%E4%BA%8B%2Caps%2C161&sr=8-9&linkCode=li1&tag=takaoutputblo-22&linkId=501b3033f1efd11d44691d93fcbf81de&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08PP2GSNP&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08PP2GSNP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--だから僕は音楽を辞めた--><a href="https://amzn.to/3JPrW5l" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/516pn2yojWL._UX250_FMwebp_QL85_.jpg" width="100"></a>
 
 +-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
 |                   タイトル                    |                                                              解説                                                              |
@@ -187,6 +189,12 @@
 +-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
 | `日本語のオノマトペ-音象徴と構造`_            | 日本語のオノマトペが持つ法則性を知りたいならこちら。やや専門的                                                                 |
 +-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `黒執事`_                                     | 「あくまで執事ですから」（主人公が執事でもあり悪魔でもある）                                                                   |
++-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `だから僕は音楽を辞めた`_                     | 「やめた」ではなく「とめた」と言ってる、と思うと「とめた」と言ってるように聞こえる。:doc:`/words/マガーク効果` のような感じ？  |
++-----------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+.. _だから僕は音楽を辞めた: https://amzn.to/3JPrW5l
+.. _黒執事: https://amzn.to/3drpTrU
 .. _日本語のオノマトペ-音象徴と構造: https://amzn.to/3St7b37
 .. _「あ」は「い」より大きい!?: https://amzn.to/3oZrjMM
 .. _オノマトペの謎: https://amzn.to/3dcOnVB
@@ -267,6 +275,8 @@
 * `#147【赤ちゃんの言語以外】`_
 * `#148【SFC】`_
 * `#149【今井先生雑談】`_
+* `#150【赤ちゃんミステイクアワードwith今井先生】`_
+
 
 .. _#114【赤ちゃんまとめ】: https://www.youtube.com/watch?v=iNAC58puA6w
 .. _#113【赤ちゃんと創作2】: https://www.youtube.com/watch?v=zeGChbd9RA0
@@ -286,3 +296,4 @@
 .. _#147【赤ちゃんの言語以外】: https://www.youtube.com/watch?v=gPeqJGMSB2A
 .. _#148【SFC】: https://www.youtube.com/watch?v=nh6Ru3TQMzo
 .. _#149【今井先生雑談】: https://www.youtube.com/watch?v=6AO_a9H5gTY
+.. _#150【赤ちゃんミステイクアワードwith今井先生】: https://www.youtube.com/watch?v=ivG_fbmuV5M
