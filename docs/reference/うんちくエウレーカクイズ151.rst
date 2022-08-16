@@ -12,6 +12,7 @@
 * `用語索引へ </genindex.html>`_ 
 
 .. raw:: html
+  
   <!--ちはやふる--><a href="https://www.amazon.co.jp/%E3%81%A1%E3%81%AF%E3%82%84%E3%81%B5%E3%82%8B%EF%BC%88%EF%BC%91%EF%BC%89-BE%E3%83%BBLOVE%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9C%AB%E6%AC%A1%E7%94%B1%E7%B4%80-ebook/dp/B009KYC3B6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=SJP4MYL8JEER&keywords=%E3%81%A1%E3%81%AF%E3%82%84%E3%81%B5%E3%82%8B&qid=1660653631&sprefix=%E3%82%A4%E3%82%B5%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2Caps%2C546&sr=8-7&linkCode=li1&tag=takaoutputblo-22&linkId=659c0db3ea8d02fe4dbaa1917061584e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009KYC3B6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009KYC3B6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--あいみょん「満月の夜なら」--><a href="https://youtu.be/OVKKtwDReEA" target="_blank"><img border="0" src="https://i.ytimg.com/vi/OVKKtwDReEA/hqdefault.jpg" width="100"></a>
 
