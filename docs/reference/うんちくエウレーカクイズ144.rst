@@ -52,6 +52,7 @@
 .. _馬鹿が戦車でやってくる: https://amzn.to/3cAqU0e
 
 .. rubric:: 関連動画
+* `#151【うんちくエウレーカクイズ7ことば編】`_
 * `#144【うんちくエウレーカクイズ6語源編】`_
 * `#132【うんちくエウレーカクイズ5音楽編】`_
 * `#121【うんちくエウレーカクイズ4良問編】`_
@@ -61,6 +62,7 @@
 * `#53【うんちくエウレーカクイズ】`_
 
 
+.. _#151【うんちくエウレーカクイズ7ことば編】: https://www.youtube.com/watch?v=in8p_9XIi24
 .. _#144【うんちくエウレーカクイズ6語源編】: https://www.youtube.com/watch?v=hc5EuJ4A4t4
 .. _#132【うんちくエウレーカクイズ5音楽編】: https://www.youtube.com/watch?v=OsN8H6u3Vs4
 .. _#121【うんちくエウレーカクイズ4良問編】: https://www.youtube.com/watch?v=GOlmrYFZQ4c
@@ -68,4 +70,3 @@
 .. _#97【うんちくエウレーカクイズ3超良問編】: https://www.youtube.com/watch?v=FSmLfHsVjSo
 .. _#87【うんちくエウレーカクイズ2】: https://www.youtube.com/watch?v=e4fDwDNc11Q
 .. _#53【うんちくエウレーカクイズ】: https://www.youtube.com/watch?v=LteliiwAFe4
-s

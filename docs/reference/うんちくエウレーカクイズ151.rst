@@ -1,0 +1,47 @@
+.. _うんちくエウレーカクイズことば編参考文献:
+
+.. :ref:`参考文献:うんちくエウレーカクイズことば編 <うんちくエウレーカクイズことば編参考文献>`
+
+(#151)うんちくエウレーカクイズことば編
+=============================================
+:ref:`うんちくエウレーカクイズことば編 <うんちくエウレーカクイズことば編問題>` の参考文献。
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+  <!--ちはやふる--><a href="https://www.amazon.co.jp/%E3%81%A1%E3%81%AF%E3%82%84%E3%81%B5%E3%82%8B%EF%BC%88%EF%BC%91%EF%BC%89-BE%E3%83%BBLOVE%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9C%AB%E6%AC%A1%E7%94%B1%E7%B4%80-ebook/dp/B009KYC3B6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=SJP4MYL8JEER&keywords=%E3%81%A1%E3%81%AF%E3%82%84%E3%81%B5%E3%82%8B&qid=1660653631&sprefix=%E3%82%A4%E3%82%B5%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%2Caps%2C546&sr=8-7&linkCode=li1&tag=takaoutputblo-22&linkId=659c0db3ea8d02fe4dbaa1917061584e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009KYC3B6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009KYC3B6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--あいみょん「満月の夜なら」--><a href="https://youtu.be/OVKKtwDReEA" target="_blank"><img border="0" src="https://i.ytimg.com/vi/OVKKtwDReEA/hqdefault.jpg" width="100"></a>
+
+
++-------------------------------+--------------------------------------------------------------------+
+|           タイトル            |                                解説                                |
++===============================+====================================================================+
+| `ちはやふる`_                 | 百人一首に関するクイズに対し、「ちはやふる」は読んだ、と意気込む。 |
++-------------------------------+--------------------------------------------------------------------+
+| `あいみょん「満月の夜なら」`_ | fence関連を語源を語った回のメインテーマ                            |
++-------------------------------+--------------------------------------------------------------------+
+.. _あいみょん「満月の夜なら」: https://youtu.be/OVKKtwDReEA
+.. _ちはやふる: https://amzn.to/3QJ8tp6
+
+.. rubric:: 関連動画
+* `#151【うんちくエウレーカクイズ7ことば編】`_
+* `#144【うんちくエウレーカクイズ6語源編】`_
+* `#132【うんちくエウレーカクイズ5音楽編】`_
+* `#121【うんちくエウレーカクイズ4良問編】`_
+* `#115【うんちくエウレーカウミガメのスープ】`_
+* `#97【うんちくエウレーカクイズ3超良問編】`_
+* `#87【うんちくエウレーカクイズ2】`_
+* `#53【うんちくエウレーカクイズ】`_
+
+
+.. _#151【うんちくエウレーカクイズ7ことば編】: https://www.youtube.com/watch?v=in8p_9XIi24
+.. _#144【うんちくエウレーカクイズ6語源編】: https://www.youtube.com/watch?v=hc5EuJ4A4t4
+.. _#132【うんちくエウレーカクイズ5音楽編】: https://www.youtube.com/watch?v=OsN8H6u3Vs4
+.. _#121【うんちくエウレーカクイズ4良問編】: https://www.youtube.com/watch?v=GOlmrYFZQ4c
+.. _#115【うんちくエウレーカウミガメのスープ】: https://www.youtube.com/watch?v=9kFL26oCKVs
+.. _#97【うんちくエウレーカクイズ3超良問編】: https://www.youtube.com/watch?v=FSmLfHsVjSo
+.. _#87【うんちくエウレーカクイズ2】: https://www.youtube.com/watch?v=e4fDwDNc11Q
+.. _#53【うんちくエウレーカクイズ】: https://www.youtube.com/watch?v=LteliiwAFe4
