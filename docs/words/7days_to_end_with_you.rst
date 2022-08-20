@@ -26,8 +26,11 @@
 * `INDIE Live Expo 2022 <https://prtimes.jp/main/html/rd/p/000000028.000056760.html>`_ 
 * `作者Lizardryさんのツイート <https://twitter.com/Lizardry_dev/status/1528374648248750080>`_ 
 * `ゆる言語学ラジオ公式のツイート <https://twitter.com/yuru_gengo/status/1527985918795141125>`_ 
+* :ref:`参考文献:7days_to_end_with_you <7days_to_end_with_you参考文献>`
 
 .. rubric:: 関連ラジオ
+* `未知の言語の辞書を作るゲーム【7days to end with you 実況プレイ】#152`_
 * `フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120`_
 
 .. _フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120: https://www.youtube.com/watch?v=vrBzSXN4MYI
+.. _未知の言語の辞書を作るゲーム【7days to end with you 実況プレイ】#152: https://www.youtube.com/watch?v=XerPfJTGL2Y
