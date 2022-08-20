@@ -138,10 +138,12 @@
 * `(2022年1月10日)朝日新聞主催の「私の折々のことばコンテスト」佳作 <https://www.asahi.com/event/kotoba/2021/pdf/award/award_30.pdf>`_ 
 * `(2022年6月15日)Real Sound 声とテクノロジーで変革する”メディアの未来” <https://realsound.jp/tech/2022/06/post-1051392.html>`_ 
 * `(2022年6月19日)SPUR8月号にて「ゆるモード言語学」をお届けします <https://spur.hpplus.jp/magazine/topics/202206/19/FomTUFk/>`_ 
+* `(2022年7月30日)バリューブックスアンバサダー <https://www.valuebooks.jp/endpaper/11097/>`_ 
+* `(2022年8月20日)バリューブックスインタビュー記事 <https://www.valuebooks.jp/endpaper/11097/>`_ 
 
 .. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
-.. _サポーターコミュニティ: https://yurugengo.com/support
+.. _サポーターコミュニティ: https://yurugengo.com/support 
 .. _ゆる言語学ラジオおたよりフォーム: https://docs.google.com/forms/d/e/1FAIpQLSdhWOGhQcrlyJW_wLNqGYC2p33IsZB-x9lKocu8v7IjmUuTgA/viewform
 .. _ゆる言語学ラジオTwitter: https://twitter.com/yuru_gengo
 
@@ -179,4 +181,5 @@
 * 2022年07月24日 `にじさんじ黛灰コラボ <https://youtu.be/eeyaMUrWOog>`_ 
 * 2022年07月24日 チャンネル登録者数15万人突破
 * 2022年07月29日 `『ゆる異種族言語学ライブ』を開催 <https://www.loft-prj.co.jp/schedule/plusone/217968>`_ 
+* 2022年07月30日 `バリューブックスとアンバサダー契約を締結 <https://www.valuebooks.jp/endpaper/11097/>`_ 
 
