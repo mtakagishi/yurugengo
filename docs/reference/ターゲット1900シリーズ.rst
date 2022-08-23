@@ -1,7 +1,7 @@
 .. _ターゲット1900シリーズ参考文献:
 
-(#103,#119,#142)ターゲット1900シリーズ
-===================================================
+(#103,#119,#142,#153)ターゲット1900シリーズ
+======================================================================================================
 
 :doc:`/words/ターゲット1900` の参考文献まとめ
 
@@ -16,38 +16,67 @@
   <!--システム英単語Premium(語源編)--><a href="https://www.amazon.co.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%8B%B1%E5%8D%98%E8%AA%9E-Premium-%E8%AA%9E%E6%BA%90%E7%B7%A8-%E9%9C%9C-%E5%BA%B7%E5%8F%B8/dp/4796110984?crid=2UEE6O3DAAEU&keywords=%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%8B%B1%E5%8D%98%E8%AA%9Epremium+%E8%AA%9E%E6%BA%90%E7%B7%A8&qid=1646123436&sprefix=%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%8B%B1%E5%8D%98%E8%AA%9Ep%2Caps%2C196&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=c5cfd7712995394be39184d42f7d68b7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4796110984&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4796110984" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--受験脳の作り方--><a href="https://www.amazon.co.jp/dp/4101329222?&linkCode=li1&tag=takaoutputblo-22&linkId=e2f8bc8879faba9d5c26dc90cc158c4c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4101329222&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4101329222" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--英語に強くなる多義語二〇〇--><a href="https://www.amazon.co.jp/%E8%8B%B1%E8%AA%9E%E3%81%AB%E5%BC%B7%E3%81%8F%E3%81%AA%E3%82%8B%E5%A4%9A%E7%BE%A9%E8%AA%9E%E4%BA%8C%E3%80%87%E3%80%87-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%B0%E6%9B%B8-%E4%BD%90%E4%B9%85%E9%96%93%E6%B2%BB-ebook/dp/B00LQ5L0Q6?_encoding=UTF8&qid=&sr=&linkCode=li1&tag=takaoutputblo-22&linkId=f6de42bd113662462fe83818b6e340ad&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LQ5L0Q6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00LQ5L0Q6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  <a href="https://note.com/natsuno_ao/n/n2bb3a18df9d3" target="_blank"><img border="0" src="https://assets.st-note.com/production/uploads/images/75763292/rectangle_large_type_2_b76ef86c2b616211169833f4e9ce0e11.png?width=100" ></a>
   <!--蜘蛛の糸--><a href="https://amzn.to/3ckPQZJ" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/610owFTnEsL._AC_UL320_.jpg" width="100"></a>
   <!--ぼくたちと駐在さんの700日戦争--><a href="https://www.amazon.co.jp/%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%A8%E9%A7%90%E5%9C%A8%E3%81%95%E3%82%93%E3%81%AE700%E6%97%A5%E6%88%A6%E4%BA%891-%E5%B0%8F%E5%AD%A6%E9%A4%A8%E6%96%87%E5%BA%AB-%E3%83%9E%E3%83%9E%E3%83%81%E3%83%A3%E3%83%AA-ebook/dp/B009QJJRRS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3AQHX8P36JC0&keywords=%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%A8%E9%A7%90%E5%9C%A8%E3%81%95%E3%82%93%E3%81%AE700%E6%97%A5%E6%88%A6%E4%BA%89&qid=1656683279&s=books&sprefix=%E3%81%BC%E3%81%8F%E3%81%9F%E3%81%A1%E3%81%A8%E9%A7%90%E5%9C%A8%E3%81%95%E3%82%93%E3%81%AE700%E6%97%A5%E6%88%A6%E4%BA%89%2Cstripbooks%2C464&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=d59cc0de2cde7ec6d29c90871d08bdf9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009QJJRRS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009QJJRRS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--サピエンス全史--><a href="https://www.amazon.co.jp/%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2%EF%BC%88%E4%B8%8A%EF%BC%89-%E6%96%87%E6%98%8E%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E4%BA%BA%E9%A1%9E%E3%81%AE%E5%B9%B8%E7%A6%8F-%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2-%E6%96%87%E6%98%8E%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E4%BA%BA%E9%A1%9E%E3%81%AE%E5%B9%B8%E7%A6%8F-%E3%83%A6%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BB%E3%83%8E%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%A9%E3%83%AA-ebook/dp/B01LW7JZLC?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=219Y6K6219QSV&keywords=%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2&qid=1656683676&s=books&sprefix=%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2%2Cstripbooks%2C185&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=997d37174e7ba82b654186374f60ee46&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LW7JZLC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01LW7JZLC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--銃・病原菌・鉄--><a href="https://www.amazon.co.jp/%E9%8A%83%E3%83%BB%E7%97%85%E5%8E%9F%E8%8F%8C%E3%83%BB%E9%89%84-%E4%B8%8A%E5%B7%BB-%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%89-%E3%83%80%E3%82%A4%E3%82%A2%E3%83%A2%E3%83%B3%E3%83%89-ebook/dp/B00DNMG8Q2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3SYLDNB5A613K&keywords=%E9%8A%83%E3%83%BB%E7%97%85%E5%8E%9F%E8%8F%8C%E3%83%BB%E9%89%84&qid=1656683771&s=books&sprefix=%E9%8A%83+%E7%97%85%E5%8E%9F%E8%8F%8C+%E9%89%84%2Cstripbooks%2C151&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=aeb9d7b08d0917f8084491341407a20f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNMG8Q2&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00DNMG8Q2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  <!--【用例編】 ターゲット1900 ③ ゆる補習 note--><a href="https://note.com/natsuno_ao/n/n88df1e208c4a" target="_blank"><img border="0" src="https://assets.st-note.com/img/1656926213895-nWYKas2WBz.png" width="100"></a>
+  <!--風来のシレン4--><a href="https://www.amazon.co.jp/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%AF-%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3-%E9%A2%A8%E6%9D%A5%E3%81%AE%E3%82%B7%E3%83%AC%E3%83%B34-%E7%A5%9E%E3%81%AE%E7%9C%BC%E3%81%A8%E6%82%AA%E9%AD%94%E3%81%AE%E3%83%98%E3%82%BD/dp/B002R8KR9C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2LPGM7N2H7AK5&keywords=%E9%A2%A8%E6%9D%A5%E3%81%AE%E3%82%B7%E3%83%AC%E3%83%B3%EF%BC%94&qid=1661270448&sprefix=%E9%A2%A8%E6%9D%A5%E3%81%AE%E3%82%B7%E3%83%AC%E3%83%B34%2Caps%2C135&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=423d61149133de483fc622a599452b2b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002R8KR9C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B002R8KR9C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--オックスフォード英単語由来大辞典--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89-%E8%8B%B1%E5%8D%98%E8%AA%9E%E7%94%B1%E6%9D%A5%E5%A4%A7%E8%BE%9E%E5%85%B8-%E3%82%B0%E3%83%AA%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%81%E3%83%A3%E3%83%B3%E3%83%88%E3%83%AC%E3%83%AB/dp/4864980004?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=CP0T9DK6329H&keywords=%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E8%8B%B1%E5%8D%98%E8%AA%9E%E7%94%B1%E6%9D%A5%E5%A4%A7%E8%BE%9E%E5%85%B8&qid=1660978324&sprefix=%2Caps%2C350&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=4c94824f83db224a8f547bf9af03aca5&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4864980004&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4864980004" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--あるいは酒でいっぱいの海--><a href="https://www.amazon.co.jp/%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E9%85%92%E3%81%A7%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84%E3%81%AE%E6%B5%B7-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%87%E5%BA%AB-%E7%AD%92%E4%BA%95-%E5%BA%B7%E9%9A%86/dp/4087502236?&linkCode=li1&tag=takaoutputblo-22&linkId=c612f7660065f09f24a47e5d19f4ce85&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4087502236&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4087502236" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-|                   タイトル                   |                                                             解説                                                             |
-+==============================================+==============================================================================================================================+
-| `英単語ターゲット1900`_                      | 水野さんが受験期に使ってた単語帳                                                                                             |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `システム英単語Premium(語源編)`_             | 大学受験向け語源をまとめた単語帳。コラムが面白い。                                                                           |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `受験脳の作り方`_                            | 10桁の数字を憶えられるかという話。脳科学からの正しい勉強法                                                                   |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `英語に強くなる多義語二〇〇`_                | 蘊蓄をかじりたい人にはぴったりな多義語の本。                                                                                 |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `【用例編】 ターゲット1900 ② ゆる補習 note`_ | 夏野真碧(Natsuno AO)さんによる補習note                                                                                       |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `たんなるファンレターだった。`_              | 夏野真碧(Natsuno AO)さんがゆる言語学ラジオに送ったファンレターの話                                                           |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `蜘蛛の糸`_                                  | クモの糸のカンダタは神様の垂らした糸にdependしている                                                                         |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `ぼくたちと駐在さんの700日戦争`_             | クロワッサンは、三日月からできたパン。にて 投稿者の名前が「くろわっ」。コメントで「くろわっさん」と呼ばれたいんだな          |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `サピエンス全史`_                            | ダイジェストは、みんなに運ばれやすい、細かい内容覚えてる人はいない。虚構の物語を信じることができる。人間は栽培に奴隷化された |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `銃・病原菌・鉄`_                            | ダイジェストは、みんなに運ばれやすい、ユーラシア大陸は東西に長かったからアメリカ大陸より栄えた話はこっちだった。             |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
-| `【用例編】 ターゲット1900 ③ ゆる補習 note`_ | 夏野真碧(Natsuno AO)さんによる補習note                                                                                       |
-+----------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|              タイトル               |                                                             解説                                                             |
++=====================================+==============================================================================================================================+
+| `英単語ターゲット1900`_             | 水野さんが受験期に使ってた単語帳                                                                                             |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `システム英単語Premium(語源編)`_    | 大学受験向け語源をまとめた単語帳。コラムが面白い。                                                                           |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `受験脳の作り方`_                   | 10桁の数字を憶えられるかという話。脳科学からの正しい勉強法                                                                   |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `英語に強くなる多義語二〇〇`_       | 蘊蓄をかじりたい人にはぴったりな多義語の本。                                                                                 |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `たんなるファンレターだった。`_     | 夏野真碧(Natsuno AO)さんがゆる言語学ラジオに送ったファンレターの話                                                           |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `蜘蛛の糸`_                         | クモの糸のカンダタは神様の垂らした糸にdependしている                                                                         |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `ぼくたちと駐在さんの700日戦争`_    | クロワッサンは、三日月からできたパン。にて 投稿者の名前が「くろわっ」。コメントで「くろわっさん」と呼ばれたいんだな          |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `サピエンス全史`_                   | ダイジェストは、みんなに運ばれやすい、細かい内容覚えてる人はいない。虚構の物語を信じることができる。人間は栽培に奴隷化された |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `銃・病原菌・鉄`_                   | ダイジェストは、みんなに運ばれやすい、ユーラシア大陸は東西に長かったからアメリカ大陸より栄えた話はこっちだった。             |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `オックスフォード英単語由来大辞典`_ | 英単語の語源と言えばこれ。shirtは、shortの語源と同じ、など                                                                   |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `あるいは酒でいっぱいの海`_         | 短いスカートの人には、筒井康隆の初期作とか読んでる？って問いかけよう！                                                       |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `風来のシレン4`_                    | 登場するバナナ王国は、外貨の支配下におかれている？                                                                           |
++-------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+.. _あるいは酒でいっぱいの海: https://amzn.to/3cd4D94
+.. _オックスフォード英単語由来大辞典: https://amzn.to/3Cp7x5c
+.. _風来のシレン4: https://amzn.to/3T60Tad
+
+英単語シリーズの監修、夏野真碧(Natsuno AO)さんによる補習note 
+----------------------------------------------------------------------------------------------------
+.. raw:: html
+
+  <!--たんなるファンレターだった。--><a href="https://note.com/natsuno_ao/n/n5c1f3ebe4a86" target="_blank"><img border="0" src="https://assets.st-note.com/img/1650558710299-pWkC2PLYTU.png?width=800" width="100"></a>
+  <a href="https://note.com/natsuno_ao/n/n2bb3a18df9d3" target="_blank"><img border="0" src="https://assets.st-note.com/img/1650031910161-Rqa9AXoHWq.png?width=2000&height=2000&fit=bounds&format=jpg&quality=85" width="100"></a>
+  <!--【用例編】 ターゲット1900 ③ ゆる補習 note--><a href="https://note.com/natsuno_ao/n/n88df1e208c4a" target="_blank"><img border="0" src="https://assets.st-note.com/img/1656926213895-nWYKas2WBz.png" width="100"></a>
+  <!--【用例編】 ターゲット1900 ④ ゆる補習 note--><a href="https://note.com/natsuno_ao/n/n2c1919a582d2" target="_blank"><img border="0" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Parliamentary_archives.jpg" width="100"></a>
+
++----------------------------------------------+------------------------------------------------------------------+
+|                   タイトル                   |                               解説                               |
++==============================================+==================================================================+
+| `たんなるファンレターだった。`_              | 語源ネタが嬉しすぎて、とても長文になってしまい、ごめんなさい……。 |
++----------------------------------------------+------------------------------------------------------------------+
+| `【用例編】 ターゲット1900 ② ゆる補習 note`_ | produce,allow,require,appear,tend,agree,describe,add             |
++----------------------------------------------+------------------------------------------------------------------+
+| `【用例編】 ターゲット1900 ③ ゆる補習 note`_ | depend,encourage,exist,reduce,adapt,compare,increase,suggest     |
++----------------------------------------------+------------------------------------------------------------------+
+| `【用例編】 ターゲット1900 ④ ゆる補習 note`_ | share,wonder,argue,realize,control,find,cost,affect              |
++----------------------------------------------+------------------------------------------------------------------+
+.. _たんなるファンレターだった。: https://note.com/natsuno_ao/n/n5c1f3ebe4a86
+.. _【用例編】 ターゲット1900 ④ ゆる補習 note: https://note.com/natsuno_ao/n/n2c1919a582d2
 .. _【用例編】 ターゲット1900 ③ ゆる補習 note: https://note.com/natsuno_ao/n/n88df1e208c4a
 .. _銃・病原菌・鉄: https://amzn.to/3OhagQp
 .. _サピエンス全史: https://amzn.to/3aEwgHy
@@ -64,8 +93,9 @@
 * `#103【ターゲット1900①】`_
 * `#119【ターゲット1900②】`_
 * `#142【ターゲット1900③】`_
+* `#153【ターゲット1900④】`_
 
 .. _#103【ターゲット1900①】: https://www.youtube.com/watch?v=RERceQyeld0
 .. _#119【ターゲット1900②】: https://www.youtube.com/watch?v=AL_XHN39DOk
 .. _#142【ターゲット1900③】: https://www.youtube.com/watch?v=bV058jE8RVw
-
+.. _#153【ターゲット1900④】: https://www.youtube.com/watch?v=1nTQkqhZQgI
