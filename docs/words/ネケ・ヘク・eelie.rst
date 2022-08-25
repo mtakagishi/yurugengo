@@ -16,6 +16,8 @@
 
 .. rubric:: 関連リンク
 * `ことばの発達心理学(講義資料) <https://ocw.u-tokyo.ac.jp/lecture_files/gf_09/10/notes/ja/10haryu.pdf>`_ 
+* `レキシコンの構築 子どもはどのように語と概念を学んでいくのか <https://amzn.to/3RcadYk>`_ 
+* `ハートで感じる英文法 Lesson 12 p.198 <https://amzn.to/3pKYq7q>`_ 
 * :ref:`「赤ちゃん」シリーズの参考文献 <赤ちゃん参考文献>`
 * :ref:`カタルシス英文法シリーズ参考文献 <カタルシス英文法シリーズ参考文献>`
 
