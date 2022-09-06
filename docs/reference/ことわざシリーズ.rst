@@ -1,0 +1,48 @@
+.. _ことわざシリーズ参考文献:
+
+.. :ref:`参考文献:ことわざシリーズ <ことわざシリーズ参考文献>`
+
+(#157)ことわざシリーズ
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--誰も知らない世界のことわざ--><a href="https://www.amazon.co.jp/%E8%AA%B0%E3%82%82%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96-%E3%82%A8%E3%83%A9%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9/dp/4422701053?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=15650UB09X65C&keywords=%E8%AA%B0%E3%82%82%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96&qid=1658152857&sprefix=%2Caps%2C164&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=9a975c357b9cff0b9d4191f0dca70b0e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4422701053&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4422701053" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--たぶん一生使わない? 異国のことわざ111--><a href="https://www.amazon.co.jp/%E3%81%9F%E3%81%B6%E3%82%93%E4%B8%80%E7%94%9F%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84-%E7%95%B0%E5%9B%BD%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96111-%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E6%96%B0%E6%9B%B8Q-%E6%99%82%E7%94%B0-%E6%98%8C%E7%91%9E/dp/4781680739?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3FBH894RC0IYJ&keywords=%E3%81%9F%E3%81%B6%E3%82%93%E4%B8%80%E7%94%9F%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84%EF%BC%9F%E7%95%B0%E5%9B%BD%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96111&qid=1661948626&sprefix=%E3%81%9F%E3%81%B6%E3%82%93%E4%B8%80%E7%94%9F%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%84+%E7%95%B0%E5%9B%BD%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96111%2Caps%2C152&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=f4aca9031bb34781f836e83b2b3579c8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4781680739&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4781680739" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ものの見方が変わる! 世界のことわざ--><a href="https://www.amazon.co.jp/%E3%82%82%E3%81%AE%E3%81%AE%E8%A6%8B%E6%96%B9%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B-%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96-%E6%99%82%E7%94%B0-%E6%98%8C%E7%91%9E/dp/4816370722?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=SYO6VFEIPQXP&keywords=%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96&qid=1660199207&sprefix=%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96%2Caps%2C379&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=3d6c62cfabfe01175b3f0d7555b65c09&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4816370722&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4816370722" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--世界ことわざ比較辞典--><a href="https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96%E6%AF%94%E8%BC%83%E8%BE%9E%E5%85%B8-%E6%99%82%E7%94%B0-%E6%98%8C%E7%91%9E/dp/4000803212?qid=1660199630&s=books&sr=1-4&linkCode=li1&tag=takaoutputblo-22&linkId=993fe46734bf1177e40cec079938a55f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000803212&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000803212" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--故事成語を知る辞典--><a href="https://www.amazon.co.jp/%E5%B0%8F%E5%AD%A6%E9%A4%A8-%E6%95%85%E4%BA%8B%E6%88%90%E8%AA%9E%E3%82%92%E7%9F%A5%E3%82%8B%E8%BE%9E%E5%85%B8-%E5%86%86%E6%BA%80%E5%AD%97%E4%BA%8C%E9%83%8E-ebook/dp/B08GS9XHGT?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1RJNP1NEDY5AI&keywords=%E5%B0%8F%E5%AD%A6%E9%A4%A8+%E6%95%85%E4%BA%8B%E6%88%90%E8%AA%9E%E3%82%92%E7%9F%A5%E3%82%8B%E8%BE%9E%E5%85%B8&qid=1661948700&s=books&sprefix=%E5%B0%8F%E5%AD%A6%E9%A4%A8+%E6%95%85%E4%BA%8B%E6%88%90%E8%AA%9E%E3%82%92%E7%9F%A5%E3%82%8B%E8%BE%9E%E5%85%B8%2Cstripbooks%2C147&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=49fb57ba8b95e8815ecf8f9af018036e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08GS9XHGT&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08GS9XHGT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--なんと! でんぢゃらすじーさん--><a href="https://www.amazon.co.jp/%E3%81%AA%E3%82%93%E3%81%A8-%E3%81%A7%E3%82%93%E3%81%A2%E3%82%83%E3%82%89%E3%81%99%E3%81%98%E3%83%BC%E3%81%95%E3%82%93-1-%E3%81%A6%E3%82%93%E3%81%A8%E3%81%86%E8%99%AB%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/dp/4091426204?crid=3HMBDEAVW03MD&keywords=%E3%81%A7%E3%82%93%E3%81%98%E3%82%83%E3%82%89%E3%81%99%E3%81%98%E3%83%BC%E3%81%95%E3%82%93+%E5%85%A8%E5%B7%BB&qid=1662463059&sprefix=%E3%81%A7%E3%82%93%E3%81%98%E3%82%83%E3%82%89%E3%81%99%2Caps%2C227&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=f0991b78ffdca0d4dcc451dc08083699&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4091426204&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4091426204" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++------------------------------------------+------------------------------------------------------------------------------------------+
+|                 タイトル                 |                                           解説                                           |
++==========================================+==========================================================================================+
+| `誰も知らない世界のことわざ`_            | ことわざシリーズの種本。エビサンドのことわざはこちらから                                 |
++------------------------------------------+------------------------------------------------------------------------------------------+
+| `たぶん一生使わない? 異国のことわざ111`_ | ことわざシリーズの種本。日本ことわざ文化学会会長の時田氏によるおもしろことわざ紹介本     |
++------------------------------------------+------------------------------------------------------------------------------------------+
+| `ものの見方が変わる! 世界のことわざ`_    | 日本ことわざ文化学会会長の時田氏による世界のことわざを取り上げた児童書                   |
++------------------------------------------+------------------------------------------------------------------------------------------+
+| `世界ことわざ比較辞典`_                  | 日本ことわざ文化学会会長の時田氏による世界中のことわざのバリエーションが一気に覗ける辞書 |
++------------------------------------------+------------------------------------------------------------------------------------------+
+| `故事成語を知る辞典`_                    | 故事成語に特化した辞典。                                                                 |
++------------------------------------------+------------------------------------------------------------------------------------------+
+| `なんと! でんぢゃらすじーさん`_          | ウンコしたやつは逃げオナラしたやつだけ捕まるのは、コロコロコミックの世界観？             |
++------------------------------------------+------------------------------------------------------------------------------------------+
+.. _なんと! でんぢゃらすじーさん: https://amzn.to/3wVtBkj
+.. _故事成語を知る辞典: https://amzn.to/3TDWOtU
+.. _世界ことわざ比較辞典: https://amzn.to/3D0IaXH
+.. _ものの見方が変わる! 世界のことわざ: https://amzn.to/3x3cjBZ
+.. _たぶん一生使わない? 異国のことわざ111: https://amzn.to/3euafwg
+.. _誰も知らない世界のことわざ: https://amzn.to/3RgqRpY
+
+.. rubric:: 関連動画
+* `#157【ことわざ1】`_
+
+.. _#157【ことわざ1】: https://www.youtube.com/watch?v=8tQNnCnumKM
+
