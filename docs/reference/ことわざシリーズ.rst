@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:ことわざシリーズ <ことわざシリーズ参考文献>`
 
-(#157)ことわざシリーズ
+(#157-#158)ことわざシリーズ
 =================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -18,22 +18,46 @@
   <!--世界ことわざ比較辞典--><a href="https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%93%E3%81%A8%E3%82%8F%E3%81%96%E6%AF%94%E8%BC%83%E8%BE%9E%E5%85%B8-%E6%99%82%E7%94%B0-%E6%98%8C%E7%91%9E/dp/4000803212?qid=1660199630&s=books&sr=1-4&linkCode=li1&tag=takaoutputblo-22&linkId=993fe46734bf1177e40cec079938a55f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000803212&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000803212" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--故事成語を知る辞典--><a href="https://www.amazon.co.jp/%E5%B0%8F%E5%AD%A6%E9%A4%A8-%E6%95%85%E4%BA%8B%E6%88%90%E8%AA%9E%E3%82%92%E7%9F%A5%E3%82%8B%E8%BE%9E%E5%85%B8-%E5%86%86%E6%BA%80%E5%AD%97%E4%BA%8C%E9%83%8E-ebook/dp/B08GS9XHGT?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1RJNP1NEDY5AI&keywords=%E5%B0%8F%E5%AD%A6%E9%A4%A8+%E6%95%85%E4%BA%8B%E6%88%90%E8%AA%9E%E3%82%92%E7%9F%A5%E3%82%8B%E8%BE%9E%E5%85%B8&qid=1661948700&s=books&sprefix=%E5%B0%8F%E5%AD%A6%E9%A4%A8+%E6%95%85%E4%BA%8B%E6%88%90%E8%AA%9E%E3%82%92%E7%9F%A5%E3%82%8B%E8%BE%9E%E5%85%B8%2Cstripbooks%2C147&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=49fb57ba8b95e8815ecf8f9af018036e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08GS9XHGT&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08GS9XHGT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--なんと! でんぢゃらすじーさん--><a href="https://www.amazon.co.jp/%E3%81%AA%E3%82%93%E3%81%A8-%E3%81%A7%E3%82%93%E3%81%A2%E3%82%83%E3%82%89%E3%81%99%E3%81%98%E3%83%BC%E3%81%95%E3%82%93-1-%E3%81%A6%E3%82%93%E3%81%A8%E3%81%86%E8%99%AB%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%AD%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/dp/4091426204?crid=3HMBDEAVW03MD&keywords=%E3%81%A7%E3%82%93%E3%81%98%E3%82%83%E3%82%89%E3%81%99%E3%81%98%E3%83%BC%E3%81%95%E3%82%93+%E5%85%A8%E5%B7%BB&qid=1662463059&sprefix=%E3%81%A7%E3%82%93%E3%81%98%E3%82%83%E3%82%89%E3%81%99%2Caps%2C227&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=f0991b78ffdca0d4dcc451dc08083699&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4091426204&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4091426204" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--春秋左氏伝--><a href="https://www.amazon.co.jp/%E6%98%A5%E7%A7%8B%E5%B7%A6%E6%B0%8F%E4%BC%9D%E3%80%88%E4%B8%8A%E3%80%89-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-%E5%B0%8F%E5%80%89-%E8%8A%B3%E5%BD%A6/dp/4003321618?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%98%A5%E7%A7%8B%E5%B7%A6%E6%B0%8F%E4%BC%9D&qid=1660355307&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=09909f4574f702de7d0e974cd80cd28e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003321618&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003321618" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--説苑--><a href="https://www.amazon.co.jp/%E8%AA%AC%E8%8B%91-%E8%AC%9B%E8%AB%87%E7%A4%BE%E5%AD%A6%E8%A1%93%E6%96%87%E5%BA%AB-%E5%8A%89%E5%90%91/dp/4065179173?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=5MC4J7O9RWY5&keywords=%E8%AA%AC%E8%8B%91&qid=1660355560&sprefix=%E8%AA%AC%E8%8B%91%2Caps%2C155&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=be10afdc1a00c91ff062334df32d63fc&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4065179173&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4065179173" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--正統とは何か--><a href="https://www.amazon.co.jp/%E6%AD%A3%E7%B5%B1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E3%82%AE%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%88%E3%83%B3/dp/4393416139?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=8J7GQOII40SX&keywords=%E6%AD%A3%E7%B5%B1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B&qid=1660355988&sprefix=%E6%AD%A3%E7%B5%B1%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%2Caps%2C164&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=a000f165ec4298029e93fa5b2722cb69&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4393416139&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4393416139" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--となりのトトロ--><a href="https://www.amazon.co.jp/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD-DVD-%E5%AE%AE%E5%B4%8E%E9%A7%BF/dp/B00K72Q1VI?crid=1HY74SH49RM8H&keywords=%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD&qid=1660356323&s=dvd&sprefix=%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD%2Cdvd%2C189&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=ea9823ff73a57348789d673a3e1292da&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00K72Q1VI&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00K72Q1VI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--BEASTARS--><a href="https://www.amazon.co.jp/BEASTARS-%EF%BC%91-%E5%B0%91%E5%B9%B4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%BF%E5%9E%A3%E5%B7%B4%E7%95%99-ebook/dp/B01N6EJJTC?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=7IJ54Z21OVC0&keywords=beastars&qid=1660356449&sprefix=beastarts%2Caps%2C179&sr=8-6&linkCode=li1&tag=takaoutputblo-22&linkId=aa3dbc8cbf54f09666a4b801bb850b96&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N6EJJTC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01N6EJJTC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--韓非子--><a href="https://www.amazon.co.jp/%E9%9F%93%E9%9D%9E%E5%AD%90-%E7%AC%AC1%E5%86%8A-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-%E9%9F%93-%E9%9D%9E/dp/4003321014?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2BZSGDKPB0WF6&keywords=%E9%9F%93%E9%9D%9E%E5%AD%90&qid=1660357764&sprefix=%E9%9F%93%E9%9D%9E%E5%AD%90%E3%82%88%2Caps%2C323&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=092cdff53f116036c8d40303c00ae424&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003321014&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003321014" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-+------------------------------------------+------------------------------------------------------------------------------------------+
-|                 タイトル                 |                                           解説                                           |
-+==========================================+==========================================================================================+
-| `誰も知らない世界のことわざ`_            | ことわざシリーズの種本。エビサンドのことわざはこちらから                                 |
-+------------------------------------------+------------------------------------------------------------------------------------------+
-| `たぶん一生使わない? 異国のことわざ111`_ | ことわざシリーズの種本。日本ことわざ文化学会会長の時田氏によるおもしろことわざ紹介本     |
-+------------------------------------------+------------------------------------------------------------------------------------------+
-| `ものの見方が変わる! 世界のことわざ`_    | 日本ことわざ文化学会会長の時田氏による世界のことわざを取り上げた児童書                   |
-+------------------------------------------+------------------------------------------------------------------------------------------+
-| `世界ことわざ比較辞典`_                  | 日本ことわざ文化学会会長の時田氏による世界中のことわざのバリエーションが一気に覗ける辞書 |
-+------------------------------------------+------------------------------------------------------------------------------------------+
-| `故事成語を知る辞典`_                    | 故事成語に特化した辞典。                                                                 |
-+------------------------------------------+------------------------------------------------------------------------------------------+
-| `なんと! でんぢゃらすじーさん`_          | ウンコしたやつは逃げオナラしたやつだけ捕まるのは、コロコロコミックの世界観？             |
-+------------------------------------------+------------------------------------------------------------------------------------------+
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                 タイトル                 |                                                                            解説                                                                            |
++==========================================+============================================================================================================================================================+
+| `誰も知らない世界のことわざ`_            | ことわざシリーズの種本。エビサンドのことわざはこちらから                                                                                                   |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `たぶん一生使わない? 異国のことわざ111`_ | ことわざシリーズの種本。日本ことわざ文化学会会長の時田氏によるおもしろことわざ紹介本                                                                       |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `ものの見方が変わる! 世界のことわざ`_    | 日本ことわざ文化学会会長の時田氏による世界のことわざを取り上げた児童書                                                                                     |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `世界ことわざ比較辞典`_                  | 日本ことわざ文化学会会長の時田氏による世界中のことわざのバリエーションが一気に覗ける辞書                                                                   |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `故事成語を知る辞典`_                    | 故事成語に特化した辞典。                                                                                                                                   |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `なんと! でんぢゃらすじーさん`_          | ウンコしたやつは逃げオナラしたやつだけ捕まるのは、コロコロコミックの世界観？                                                                               |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `春秋左氏伝`_                            | 「唇滅びて歯寒し」の出典                                                                                                                                   |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `説苑`_                                  | 「歯滅び舌存す」の出典                                                                                                                                     |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `正統とは何か`_                          | 詩人は狂わない。狂うのはいつもチェスの名人だ、数学者だ、それに出納(すいとう)係だ。何故なら、想像は狂気を生みはしない。狂気を生むのは実は理性なのである。。 |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `となりのトトロ`_                        | そんな感じを表しているのでしょう。たぶん・・・　これ、「この不思議な生き物はあなたの待ちにもいるのです、たぶん」というトトロの終わり方と一緒               |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `BEASTARS`_                              | この漫画の主人公はオオカミ、ヒロインがウサギ。「オオカミに告白する羊は愚か者」ということわざへのアンチテーゼ？                                             |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `韓非子`_                                | 「球の盃底なきが如し」ということわざの出典                                                                                                                 |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. _韓非子: https://amzn.to/3qq0n9J
+.. _BEASTARS: https://amzn.to/3B8tBii
+.. _となりのトトロ: https://amzn.to/3UbvQdF
+.. _正統とは何か: https://amzn.to/3cZNb8D
+.. _説苑: https://amzn.to/3RSU3TT
+.. _春秋左氏伝: https://amzn.to/3RQsaf3
 .. _なんと! でんぢゃらすじーさん: https://amzn.to/3wVtBkj
 .. _故事成語を知る辞典: https://amzn.to/3TDWOtU
 .. _世界ことわざ比較辞典: https://amzn.to/3D0IaXH
@@ -43,6 +67,8 @@
 
 .. rubric:: 関連動画
 * `#157【ことわざ1】`_
+* `#158【ことわざ2】`_
 
 .. _#157【ことわざ1】: https://www.youtube.com/watch?v=8tQNnCnumKM
+.. _#158【ことわざ2】: https://www.youtube.com/watch?v=m2u6qWGOWQo
 
