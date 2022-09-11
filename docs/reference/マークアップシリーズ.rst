@@ -1,0 +1,48 @@
+.. _マークアップシリーズ参考文献:
+
+.. :ref:`参考文献:マークアップシリーズ <マークアップシリーズ参考文献>`
+
+(コンピュータ#37)マークアップシリーズ
+===================================================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--ENIACからXMLへ--><a href="https://www.amazon.co.jp/ENIAC%E3%81%8B%E3%82%89XML%E3%81%B8-%E5%85%83XML%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E4%BC%9A%E9%95%B7%E3%81%8C%E8%AA%9E%E3%82%8B%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E8%A8%80%E8%AA%9E%E3%81%A8%E3%83%A1%E3%82%BF%E8%A8%80%E8%AA%9E%E3%81%AE%E6%AD%B4%E5%8F%B2-%E5%B7%9D%E4%BF%A3-%E6%99%B6-ebook/dp/B08MJ7L9D7?&linkCode=li1&tag=takaoutputblo-22&linkId=f428f9d89a3ec81b1c01a955e96830ae&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08MJ7L9D7&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08MJ7L9D7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--作りながら学ぶ HTML/CSSデザインの教科書--><a href="https://www.amazon.co.jp/%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6-HTML-CSS%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E9%AB%98%E6%A9%8B-%E6%9C%8B%E4%BB%A3-ebook/dp/B00IP549C2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3LXOCKAGQNV3K&keywords=%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6+HTML%2FCSS%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1662858310&s=digital-text&sprefix=%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6+html%2Fcss%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%2Cdigital-text%2C142&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=fac0f1d7655f1bb2707d13567b077c29&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IP549C2&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00IP549C2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--全部わかるWeb技術の基本--><a href="https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F-%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC-%E5%B0%8F%E6%9E%97-%E6%81%AD%E5%B9%B3-ebook/dp/B06XNMMC9S?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2BWI936ZOBBTL&keywords=WEB+%E4%BB%95%E7%B5%84%E3%81%BF&qid=1662790262&sprefix=web+%E4%BB%95%E7%B5%84%E3%81%BF%2Caps%2C186&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=78724a9eeafd5b822fb3d97ad9d64da4&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XNMMC9S&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B06XNMMC9S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ドラゴン桜--><a href="https://www.amazon.co.jp/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%A1%9C-%E5%85%A821%E5%B7%BB%E5%AE%8C%E7%B5%90%E3%82%BB%E3%83%83%E3%83%88-%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0KC-%E4%B8%89%E7%94%B0%E7%B4%80%E6%88%BF/dp/B002DEKF88?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3D5YVXDD4BKLR&keywords=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%A1%9C&qid=1662037809&sprefix=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%A1%9C%2Caps%2C294&sr=8-6&linkCode=li1&tag=takaoutputblo-22&linkId=eac2aaa1c8b42fb087e0266bc7e903c2&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002DEKF88&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B002DEKF88" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--こころザワつく放哉 コトバと俳句--><a href="https://www.amazon.co.jp/%E3%81%93%E3%81%93%E3%82%8D%E3%82%B6%E3%83%AF%E3%81%A4%E3%81%8F%E6%94%BE%E5%93%89-%E3%82%B3%E3%83%88%E3%83%90%E3%81%A8%E4%BF%B3%E5%8F%A5-%E5%B0%BE%E5%B4%8E-%E6%94%BE%E5%93%89/dp/4394903254?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2CV7FRKJJB687&keywords=%E5%B0%BE%E5%B4%8E%E6%94%BE%E5%93%89+%E5%92%B3%E3%82%92%E3%81%97%E3%81%A6%E3%82%82%E3%81%B2%E3%81%A8%E3%82%8A&qid=1662858647&sprefix=%E5%B0%BE%E5%B4%8E%E6%94%BE%E5%93%89+%E5%92%B3%E3%82%92%E3%81%97%E3%81%A6%E3%82%82%E3%81%B2%E3%81%A8%E3%82%8A%2Caps%2C165&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=eb80ecdceb9b5ca37210520797912136&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4394903254&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4394903254" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--賭博堕天録カイジ--><a href="https://www.amazon.co.jp/%E8%B3%AD%E5%8D%9A%E5%A0%95%E5%A4%A9%E9%8C%B2%E3%82%AB%E3%82%A4%E3%82%B8-%E5%9C%B0%E9%9B%B7%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8C17%E6%AD%A9%E3%80%8D1%E8%A6%9A%E9%86%92%E8%A8%8E%E4%BC%90%E7%B7%A8-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%88%8A%E8%A1%8C-%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E7%A6%8F%E6%9C%AC/dp/4063749851?&linkCode=li1&tag=takaoutputblo-22&linkId=70823041d74db1d9b0b1a016e21953c0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4063749851&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4063749851" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+|                  タイトル                  |                                                              解説                                                              |
++============================================+================================================================================================================================+
+| `ENIACからXMLへ`_                          | マークアップ言語とメタ言語の始まりを確認しようと調査を始め……泥沼にはまった。                                                   |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `作りながら学ぶ HTML/CSSデザインの教科書`_ | 定番のHTML/CSS入門書。初めてちゃんとHTML/CSSを学ぶ人にオススメ。                                                               |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `全部わかるWeb技術の基本`_                 | ブラウザの基本的な仕組みについて知りたい人はこちら                                                                             |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `ドラゴン桜`_                              | 東大を目指す漫画。「蛍光ペンなんて今すぐ全部捨てろ！」に大笑いした                                                             |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `こころザワつく放哉 コトバと俳句`_         | 某コンサルに行った女性の先輩、にっこりしながら「髪を洗う暇もない」が悲しすぎる。尾崎放哉「咳をしてもひとり」みたい。           |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `賭博堕天録カイジ`_                        | 「見えざるものを見よ」と書かれている。これをヒントにカイジは勝つ、というネタバレ。「どうせカイジは勝つからネタバレじゃない！」 |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+.. _賭博堕天録カイジ: https://amzn.to/3qz2qrW
+.. _こころザワつく放哉 コトバと俳句: https://amzn.to/3d4DHJ7
+.. _ドラゴン桜: https://amzn.to/3B6FBRp
+.. _作りながら学ぶ HTML/CSSデザインの教科書: https://amzn.to/3eIcBYQ
+.. _ENIACからXMLへ: https://amzn.to/3RSLetb
+.. _全部わかるWeb技術の基本: https://amzn.to/3B3Zzfz
+
+.. rubric:: 関連動画
+* `【マークアップ言語1】`_
+
+.. _【マークアップ言語1】: https://youtu.be/yQU_GBvgGQU
+
