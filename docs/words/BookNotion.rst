@@ -5,7 +5,7 @@ BookNotion
 
 Kindleアプリで読書をしているときに気になったフレーズや覚えておきたい情報をワンタッチで、本のタイトル、著者名、タグ、コメントと一緒にNotionに保存することができるアプリ。
 
-ダウンロードは`こちら <https://apps.apple.com/jp/app/booknotion/id1619994087>`_ から（App Store）
+ダウンロードは `こちら <https://apps.apple.com/jp/app/booknotion/id1619994087>`_ から（App Store）
 
 .. tip:: 
   アプリ作成者曰く『超相対性理論と **ゆる言語学ラジオ** 、これらのパーソナリティーのインテリっぷりが、僕にBookNotionを開発させた。』

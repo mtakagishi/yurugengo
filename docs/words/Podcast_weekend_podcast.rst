@@ -3,7 +3,7 @@ Podcast_weekend
 .. glossary::
     Podcast_weekend : A-Z
 
-.. image:: https://podcastweekend.jp/wp-content/themes/pcwe/img/logo_7s.gif
+.. image:: https://podcastweekend.jp/wp-content/themes/pcwe/img/22autumn_logo_pc.gif
   :width: 20%
 .. image:: https://podcastweekend.jp/wp-content/themes/pcwe/img/main_h1.png
   :width: 40%
