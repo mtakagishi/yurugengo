@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:ことわざシリーズ <ことわざシリーズ参考文献>`
 
-(#157-#158)ことわざシリーズ
+(#157-#159)ことわざシリーズ
 =================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -24,6 +24,7 @@
   <!--となりのトトロ--><a href="https://www.amazon.co.jp/%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD-DVD-%E5%AE%AE%E5%B4%8E%E9%A7%BF/dp/B00K72Q1VI?crid=1HY74SH49RM8H&keywords=%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD&qid=1660356323&s=dvd&sprefix=%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%AE%E3%83%88%E3%83%88%E3%83%AD%2Cdvd%2C189&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=ea9823ff73a57348789d673a3e1292da&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00K72Q1VI&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00K72Q1VI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--BEASTARS--><a href="https://www.amazon.co.jp/BEASTARS-%EF%BC%91-%E5%B0%91%E5%B9%B4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%BF%E5%9E%A3%E5%B7%B4%E7%95%99-ebook/dp/B01N6EJJTC?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=7IJ54Z21OVC0&keywords=beastars&qid=1660356449&sprefix=beastarts%2Caps%2C179&sr=8-6&linkCode=li1&tag=takaoutputblo-22&linkId=aa3dbc8cbf54f09666a4b801bb850b96&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N6EJJTC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01N6EJJTC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--韓非子--><a href="https://www.amazon.co.jp/%E9%9F%93%E9%9D%9E%E5%AD%90-%E7%AC%AC1%E5%86%8A-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-%E9%9F%93-%E9%9D%9E/dp/4003321014?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2BZSGDKPB0WF6&keywords=%E9%9F%93%E9%9D%9E%E5%AD%90&qid=1660357764&sprefix=%E9%9F%93%E9%9D%9E%E5%AD%90%E3%82%88%2Caps%2C323&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=092cdff53f116036c8d40303c00ae424&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003321014&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003321014" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--シグルイ--><a href="https://www.amazon.co.jp/%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4-1-%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3RED%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B1%B1%E5%8F%A3%E8%B2%B4%E7%94%B1-ebook/dp/B00F3833WG?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2WSK99STNSNVV&keywords=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4&qid=1663073860&sprefix=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4%2Caps%2C705&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=edb2ef19f214fc05078f701a210afb9a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F3833WG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00F3833WG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 +------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                 タイトル                 |                                                                            解説                                                                            |
@@ -52,6 +53,9 @@
 +------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | `韓非子`_                                | 「球の盃底なきが如し」ということわざの出典                                                                                                                 |
 +------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `シグルイ`_                              | デンマークのことわざ「ペリカンを半分に吹き飛ばしている」、きっとその後「頭から白きうどん玉の如き大脳がこぼれ出る」に違いない                               |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. _シグルイ: https://amzn.to/3QFjRC1
 .. _韓非子: https://amzn.to/3qq0n9J
 .. _BEASTARS: https://amzn.to/3B8tBii
 .. _となりのトトロ: https://amzn.to/3UbvQdF
@@ -68,7 +72,9 @@
 .. rubric:: 関連動画
 * `#157【ことわざ1】`_
 * `#158【ことわざ2】`_
+* `#159【ことわざ3】`_
 
 .. _#157【ことわざ1】: https://www.youtube.com/watch?v=8tQNnCnumKM
 .. _#158【ことわざ2】: https://www.youtube.com/watch?v=m2u6qWGOWQo
+.. _#159【ことわざ3】: https://www.youtube.com/watch?v=0I8SC5N5ddA
 
