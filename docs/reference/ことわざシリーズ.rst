@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:ことわざシリーズ <ことわざシリーズ参考文献>`
 
-(#157-#159)ことわざシリーズ
+(#157-#160)ことわざシリーズ
 =================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -25,6 +25,8 @@
   <!--BEASTARS--><a href="https://www.amazon.co.jp/BEASTARS-%EF%BC%91-%E5%B0%91%E5%B9%B4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%BF%E5%9E%A3%E5%B7%B4%E7%95%99-ebook/dp/B01N6EJJTC?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=7IJ54Z21OVC0&keywords=beastars&qid=1660356449&sprefix=beastarts%2Caps%2C179&sr=8-6&linkCode=li1&tag=takaoutputblo-22&linkId=aa3dbc8cbf54f09666a4b801bb850b96&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N6EJJTC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01N6EJJTC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--韓非子--><a href="https://www.amazon.co.jp/%E9%9F%93%E9%9D%9E%E5%AD%90-%E7%AC%AC1%E5%86%8A-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-%E9%9F%93-%E9%9D%9E/dp/4003321014?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2BZSGDKPB0WF6&keywords=%E9%9F%93%E9%9D%9E%E5%AD%90&qid=1660357764&sprefix=%E9%9F%93%E9%9D%9E%E5%AD%90%E3%82%88%2Caps%2C323&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=092cdff53f116036c8d40303c00ae424&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003321014&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003321014" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--シグルイ--><a href="https://www.amazon.co.jp/%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4-1-%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3RED%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B1%B1%E5%8F%A3%E8%B2%B4%E7%94%B1-ebook/dp/B00F3833WG?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2WSK99STNSNVV&keywords=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4&qid=1663073860&sprefix=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4%2Caps%2C705&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=edb2ef19f214fc05078f701a210afb9a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F3833WG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00F3833WG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--3月のライオン--><a href="https://www.amazon.co.jp/3%E6%9C%88%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3-1-%E3%82%B8%E3%82%A7%E3%83%83%E3%83%84%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E7%BE%BD%E6%B5%B7%E9%87%8E%E3%83%81%E3%82%AB-ebook/dp/B00GYLEVRW?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=3%E6%9C%88%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3&qid=1662465026&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=1876084212f828f89fc62966555ee9e1&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GYLEVRW&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00GYLEVRW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--女人創造--><a href="https://www.amazon.co.jp/%E5%A5%B3%E4%BA%BA%E5%89%B5%E9%80%A0-%E5%A4%AA%E5%AE%B0-%E6%B2%BB-ebook/dp/B009AZFHX6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=34ANH2JNV2VHR&keywords=%E5%A5%B3%E4%BA%BA%E5%89%B5%E9%80%A0&qid=1662465199&sprefix=%E5%A5%B3%E4%BA%BA%E5%89%B5%E9%80%A0%2Caps%2C219&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=50940172e0c14f2bd2bb29d17be9fa57&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009AZFHX6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009AZFHX6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 +------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                 タイトル                 |                                                                            解説                                                                            |
@@ -55,6 +57,13 @@
 +------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | `シグルイ`_                              | デンマークのことわざ「ペリカンを半分に吹き飛ばしている」、きっとその後「頭から白きうどん玉の如き大脳がこぼれ出る」に違いない                               |
 +------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `3月のライオン`_                         | 有名漫画の由来、イギリスのことわざ「3月はライオンのようにやってきて子羊のように去っていく」                                                                |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `女人創造`_                              | 「男と女はちがうものである。それこそ、馬と火鉢ほど、ちがう」という例え                                                                                     |
++------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+.. _女人創造: https://amzn.to/3RWYZYj
+.. _3月のライオン: https://amzn.to/3xvwrNu
 .. _シグルイ: https://amzn.to/3QFjRC1
 .. _韓非子: https://amzn.to/3qq0n9J
 .. _BEASTARS: https://amzn.to/3B8tBii
@@ -73,8 +82,10 @@
 * `#157【ことわざ1】`_
 * `#158【ことわざ2】`_
 * `#159【ことわざ3】`_
+* `#160【ことわざ4】`_
 
 .. _#157【ことわざ1】: https://www.youtube.com/watch?v=8tQNnCnumKM
 .. _#158【ことわざ2】: https://www.youtube.com/watch?v=m2u6qWGOWQo
 .. _#159【ことわざ3】: https://www.youtube.com/watch?v=0I8SC5N5ddA
+.. _#160【ことわざ4】: https://www.youtube.com/watch?v=k5RHoWWjk-s
 
