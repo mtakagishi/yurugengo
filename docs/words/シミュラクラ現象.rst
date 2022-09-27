@@ -13,7 +13,7 @@
 
 .. rubric:: 関連ワード
 * :doc:`エポニム` 
-* :doc:`7days to end with you` 
+* :doc:`7days_to_end_with_you` 
 
 .. rubric:: 関連リンク
 * `シミュラクラ現象 <https://ja.wikipedia.org/wiki/シミュラクラ現象>`_ 
