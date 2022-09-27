@@ -2,8 +2,10 @@
 
 .. :ref:`参考文献:7days_to_end_with_you <7days_to_end_with_you参考文献>`
 
-(#120,#152)7days_to_end_with_you
-========================================================
+(#120,#152,#163)7days_to_end_with_you
+=================================================================================================
+
+:doc:`/words/7days_to_end_with_you` ゲーム実況に関する参考文献リンク集
 
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
@@ -49,9 +51,11 @@
 
 
 .. rubric:: 関連動画
+* `#163【7days to end with you 実況プレイ3】`_
 * `#152【7days to end with you 実況プレイ2】`_
 * `#120【7days to end with you 実況プレイ】`_
 
+.. _#163【7days to end with you 実況プレイ3】: https://www.youtube.com/watch?v=RTO89LjFUKw
 .. _#152【7days to end with you 実況プレイ2】: https://www.youtube.com/watch?v=XerPfJTGL2Y
 .. _#120【7days to end with you 実況プレイ】: https://www.youtube.com/watch?v=vrBzSXN4MYI
 
