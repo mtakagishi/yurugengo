@@ -11,6 +11,8 @@
 .. rubric:: 関連ワード
 * :doc:`アニマシー` 
 * :doc:`サーフシャークばり` 
+* :doc:`みちょぱ` 
+* :doc:`プリン` 
 
 .. rubric:: 関連リンク
 * `大泉洋(Wikipedia) <https://ja.wikipedia.org/wiki/大泉洋>`_ 
