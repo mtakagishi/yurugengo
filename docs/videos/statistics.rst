@@ -5,4 +5,4 @@
 
 .. raw:: html
 
-  <iframe style="width:100%;height:800px;border:none;" src="https://yuru.bet-pottle-statistics.com/graph.html"></iframe>
+  <iframe style="width:100%;height:800px;border:none;" src="https://yurugen-graphs.bet-pottle.com/graph.html"></iframe>
