@@ -4,7 +4,7 @@
 
 (#146)積み本鐘楼流し参考文献
 =================================
-`いいかねPalette <https://palette.jp.net/>`_ で収録された回、:doc:`/words/バリューブックス`  さん広告案件回
+`いいかねPalette <https://palette.jp.net/>`_ で収録された回、:doc:`/words/バリューブックス`  さん広告案件。
 
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
