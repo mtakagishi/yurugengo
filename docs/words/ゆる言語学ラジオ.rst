@@ -131,6 +131,7 @@
 .. rubric:: ゆる言語学ラジオを取り上げた記事
 * `Wikipedia(ゆる言語学ラジオ) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
 * `weblio(ゆる言語学ラジオ) <https://www.weblio.jp/wkpja/content/ゆる言語学ラジオ>`_ 
+* `ピクシブ百科事典(ゆる言語学ラジオ) <https://dic.pixiv.net/a/%E3%82%86%E3%82%8B%E8%A8%80%E8%AA%9E%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA>`_ 
 * `Wikipedia(堀元見) <https://ja.wikipedia.org/wiki/堀元見>`_ 
 * `(2021年11月23日)東洋経済　言語学で集客しまくるYouTubeチャンネルの正体 <https://toyokeizai.net/articles/-/467852>`_ 
 * `(2021年12月9日)デイリーポータルZ　辞典を通読した人に「そんなことして何が面白いの？」かを聞く <https://dailyportalz.jp/kiji/reading-dictionary>`_ 
@@ -189,6 +190,7 @@
 * 2022年07月29日 `『ゆる異種族言語学ライブ』を開催 <https://www.loft-prj.co.jp/schedule/plusone/217968>`_ 
 * 2022年07月30日 `バリューブックスとアンバサダー契約を締結 <https://www.valuebooks.jp/endpaper/11097/>`_ 
 * 2022年09月02日 Spotify協賛で2泊3日の『ゆる学徒ハウス』を「オーシャンステート鴨川」で開催
+* 2022年10月04日 ゆる言語学ラジオのコミカライズ「`ゆるグイ <https://www.pixiv.net/artworks/101681307>`_ 」連載開始
 * 2022年10月27日 `note番組の第二弾 <https://peatix.com/event/3354945>`_ 
 * 2022年12月28日 700名規模の大忘年会を実施予定 `⇒ 大忘年会2022 <https://yurugengo2022.peatix.com/>`_
 
