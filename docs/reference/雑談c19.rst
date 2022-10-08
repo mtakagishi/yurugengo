@@ -33,7 +33,7 @@ https://youtu.be/5CEvUcfAXQw
   <!--「シグルイ」(堀元さんの記事）--><a href="https://ken-horimoto.com/20190909193143/" target="_blank"><img border="0" src="https://ken-horimoto.com/wp/wp-content/uploads/2019/09/4122c846ccc634708851a313d7f6569a.jpg" width="100"></a>
   <!--駿河城御前試合--><a href="https://www.amazon.co.jp/dp/B07R3R7PVV?_encoding=UTF8&btkr=1&linkCode=li1&tag=takaoutputblo-22&linkId=9939351ad0f098f1d37ec4c555e3c7ed&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07R3R7PVV&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07R3R7PVV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--漫画化したら、口を斬られるかもしれない--><a href="https://twitter.com/mimizication/status/1526491366150139904" target="_blank"><img border="0" src="https://pbs.twimg.com/media/FS8sX8tacAASTtA?format=jpg&name=large" width="100"></a>
-
+  <!--ゆるグイ--><a href="https://www.pixiv.net/artworks/101681307" target="_blank"><img border="0" src="https://pbs.twimg.com/media/FeNSR0FakAAqOmE?format=jpg&name=medium" width="100"></a>
 
 +-------------------------------------------+------------------------------------------------------------------------+
 |                 タイトル                  |                                  解説                                  |
@@ -54,6 +54,9 @@ https://youtu.be/5CEvUcfAXQw
 +-------------------------------------------+------------------------------------------------------------------------+
 | `漫画化したら、口を斬られるかもしれない`_ | 動画タイトルをど真ん中ストレートに表現してきたツイート                 |
 +-------------------------------------------+------------------------------------------------------------------------+
+| `ゆるグイ`_                               | ついに公式コミカライズ化、必見！                                       |
++-------------------------------------------+------------------------------------------------------------------------+
+.. _ゆるグイ: https://www.pixiv.net/artworks/101681307
 
 .. _漫画化したら、口を斬られるかもしれない: https://twitter.com/mimizication/status/1526491366150139904
 .. _駿河城御前試合: https://amzn.to/3FunaIm
