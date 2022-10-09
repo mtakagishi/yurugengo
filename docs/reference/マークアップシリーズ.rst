@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:マークアップシリーズ <マークアップシリーズ参考文献>`
 
-(コンピュータ#37-#40)マークアップシリーズ
+(コンピュータ#37-#41)マークアップシリーズ
 ===================================================================================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -23,7 +23,8 @@
   <!--オセロー--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%82%BB%E3%83%AD%E3%83%BC-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2/dp/4102020020?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2FZD33CS79GIA&keywords=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2+%E3%82%AA%E3%82%BB%E3%83%AD&qid=1662989951&sprefix=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2+%E3%82%AA%E3%82%BB%E3%83%AD%2Caps%2C207&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=bdf90f758841c539b221b1b138886b67&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4102020020&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4102020020" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--リア王--><a href="https://www.amazon.co.jp/%E3%83%AA%E3%82%A2%E7%8E%8B-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0-%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2/dp/4102020055?keywords=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2+%E3%83%AA%E3%82%A2%E7%8E%8B&qid=1662989933&sprefix=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E3%80%80%2Caps%2C240&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=487eed1dc33b3855b38a8c27323f76b9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4102020055&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4102020055" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--マクベス--><a href="https://www.amazon.co.jp/%E3%83%9E%E3%82%AF%E3%83%99%E3%82%B9%EF%BC%88%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB%EF%BC%89-%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2-ebook/dp/B01AL4HQDS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1808PAI4FXT9H&keywords=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2+%E3%83%9E%E3%82%AF%E3%83%99%E3%82%B9&qid=1662989966&sprefix=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2+%E3%83%9E%E3%82%AF%E3%83%99%E3%82%B9%2Caps%2C162&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=58f99141e41b9fd1c2307e2fe54147d0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AL4HQDS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01AL4HQDS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  
+  <!--ヴェニスの商人の資本論--><a href="https://www.amazon.co.jp/%E3%83%B4%E3%82%A7%E3%83%8B%E3%82%B9%E3%81%AE%E5%95%86%E4%BA%BA%E3%81%AE%E8%B3%87%E6%9C%AC%E8%AB%96-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E5%B2%A9%E4%BA%95-%E5%85%8B%E4%BA%BA/dp/448008004X?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1F4QV7D698WUR&keywords=%E3%83%B4%E3%82%A7%E3%83%8B%E3%82%B9%E3%81%AE%E5%95%86%E4%BA%BA%E3%81%AE%E8%B3%87%E6%9C%AC%E8%AB%96&qid=1664675429&qu=eyJxc2MiOiIxLjYzIiwicXNhIjoiMS40MiIsInFzcCI6IjEuMzEifQ%3D%3D&sprefix=%E3%83%B4%E3%82%A7%E3%83%8B%E3%82%B9%E3%81%AE%E5%95%86%E4%BA%BA%E3%81%AE%E8%B3%87%E6%9C%AC%E8%AB%96%2Caps%2C444&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=0a7505a3df76ba161d3450a1691fc04b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=448008004X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=448008004X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 +--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
 |                  タイトル                  |                                                              解説                                                              |
 +============================================+================================================================================================================================+
@@ -49,6 +50,10 @@
 +--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
 | `マクベス`_                                | シェークスピアの4大悲劇、、、のひとつはマークアップ言語？もしや、マクベスのマクはマークアップのマク？                          |
 +--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| `ヴェニスの商人の資本論`_                  | 80年代に売れた本、貨幣はパンダの親指と同じである                                                                               |
++--------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
+
+.. _ヴェニスの商人の資本論: https://amzn.to/3SPWOGk
 .. _ハムレット: https://amzn.to/3y4eS7d
 .. _マクベス: https://amzn.to/3UTe4vM
 .. _オセロー: https://amzn.to/3E4Gnl8
@@ -66,9 +71,11 @@
 * `【マークアップ言語2】`_
 * `【マークアップ言語3】`_
 * `【マークアップ言語4】`_
+* `【マークアップ言語5】`_
 
 .. _【マークアップ言語1】: https://youtu.be/yQU_GBvgGQU
 .. _【マークアップ言語2】: https://youtu.be/vWx8pFWvhik
 .. _【マークアップ言語3】: https://youtu.be/r1dxBMZJqN8
 .. _【マークアップ言語4】: https://youtu.be/oED9qE-dgmk
+.. _【マークアップ言語5】: https://youtu.be/woqyAl_h3Fo
 
