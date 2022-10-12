@@ -5,6 +5,12 @@
 
 水野氏が受験シーズンに受験勉強せずに語源を調べるのに使っていた受験用単語集。
 
+.. rubric:: ターゲット1900語源ネットワーク
+
+.. raw:: html
+
+  <iframe style="width:100%;height:800px;border:none;" src="https://yurugen-target1900.bet-pottle.com/"></iframe>
+
 .. rubric:: 関連ワード
 * :doc:`カタルシス英文法` 
 
