@@ -20,9 +20,9 @@ Spotify協賛、ゆる言語学ラジオのフランチャイズ企画。「知�
 
 .. rubric:: ゆる学徒ハウス関連リンク
 * :doc:`/videos/yurugackt_house_list` 
-* `ゆる学徒ハウステーマ曲 <https://youtu.be/mDnPop7_6QM>`_ 
+* `ゆる学徒ハウステーマ曲 <https://linkco.re/mR6DXrEZ>`_ 
 
-.. admonition:: `テーマ曲 <https://youtu.be/mDnPop7_6QM>`_ の歌詞（解読者：アンジオ点心さん）
+.. admonition:: `テーマ曲 <https://linkco.re/mR6DXrEZ>`_ の歌詞（解読者：アンジオ点心さん）
 
   | （前奏　87秒）
   | ておー、はっはえあおー(ｧ)あぁあ
