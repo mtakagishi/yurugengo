@@ -5,6 +5,12 @@
 * `ゆる学徒ハウス <https://www.youtube.com/channel/UCayn-KD-Qjwa8ppQJ50bEAw/videos>`_ 
 * `ゆる学徒ハウス別館 <https://www.youtube.com/channel/UCpIKXghW7Z1vwyBmWXgrcBQ>`_ 
 
+.. image:: https://pbs.twimg.com/media/Fe46ocJUcAEdl35?format=jpg&name=small
+  :width: 40%
+
+.. image:: https://pbs.twimg.com/media/FfDPtsfaAAAJ-HH?format=jpg&name=small
+  :width: 40%
+
 本編
 -----------------------------------
 +-----+-----------------------------------------------------------------------+------------+----------+
