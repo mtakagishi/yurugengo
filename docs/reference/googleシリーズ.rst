@@ -1,0 +1,56 @@
+.. _googleシリーズ参考文献:
+
+.. :ref:`参考文献:googleシリーズ <googleシリーズ参考文献>`
+
+(コンピュータ#42)googleシリーズ
+==================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--タネ論文--><a href="https://www.youtube.com/watch?v=tig2SuYcTS4" target="_blank"><img border="0" src="https://snap.stanford.edu/images/snap_logo.png" width="100"></a>
+  <!--世界でもっとも強力な9のアルゴリズム--><a href="https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%A7%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82%E5%BC%B7%E5%8A%9B%E3%81%AA9%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0-%E3%82%B8%E3%83%A7%E3%83%B3-%E3%83%9E%E3%82%B3%E3%83%BC%E3%83%9F%E3%83%83%E3%82%AF-ebook/dp/B00FR78X64?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=17B5GWPYMJ1MR&keywords=%E4%B8%96%E7%95%8C%E3%81%A7+9%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0&qid=1665791036&qu=eyJxc2MiOiIwLjc1IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%E4%B8%96%E7%95%8C%E3%81%A7+9%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%2Caps%2C174&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=8676e43845bc74f3019802c74a92da52&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FR78X64&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00FR78X64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--世界でもっとも美しい10の科学実験--><a href="https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E3%81%A7%E3%82%82%E3%81%A3%E3%81%A8%E3%82%82%E7%BE%8E%E3%81%97%E3%81%8410%E3%81%AE%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93-%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88-P-%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%B9-ebook/dp/B00F0FQ8EM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E4%B8%96%E7%95%8C%E3%81%A7%E6%9C%80%E3%82%82%E7%BE%8E%E3%81%97%E3%81%8410%E3%81%AE%E7%A7%91%E5%AD%A6%E5%AE%9F%E9%A8%93&qid=1665575800&qu=eyJxc2MiOiIwLjU0IiwicXNhIjoiMC40NCIsInFzcCI6IjAuODEifQ%3D%3D&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=5ba751fda45622d102a86ad7a9d092ef&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0FQ8EM&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00F0FQ8EM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ヘンな論文 --><a href="https://www.amazon.co.jp/gp/product/B0783MSX62?&linkCode=li1&tag=takaoutputblo-22&linkId=bf9e30f4841051c5cea2d15734f473f0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0783MSX62&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0783MSX62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--もっとヘンな論文--><a href="https://www.amazon.co.jp/gp/product/B08C7BYCG5?&linkCode=li1&tag=takaoutputblo-22&linkId=08c4b14a3574b8449930b0400623d399&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08C7BYCG5&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08C7BYCG5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--奇跡の論文図鑑--><a href="https://www.amazon.co.jp/%E5%A5%87%E8%B7%A1%E3%81%AE%E8%AB%96%E6%96%87%E5%9B%B3%E9%91%91-%E3%81%82%E3%82%8A%E3%81%88%E3%81%AA%E3%81%84%E3%83%8D%E3%82%BF%E3%82%92%E3%80%81%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%81%AB-NHK%E3%80%8C%E3%82%8D%E3%82%93%E3%81%B6-%E3%82%93%E3%80%8D%E5%88%B6%E4%BD%9C%E7%8F%AD/dp/4140818069?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3BYUWMSHR8WMI&keywords=%E5%A5%87%E8%B7%A1%E3%81%AE%E8%AB%96%E6%96%87%E5%9B%B3%E9%91%91&qid=1665575898&qu=eyJxc2MiOiIwLjU5IiwicXNhIjoiMC43NCIsInFzcCI6IjAuNzYifQ%3D%3D&sprefix=%E5%A5%87%E8%B7%A1%E3%81%AE%E8%AB%96%E6%96%87%E5%9B%B3%E9%91%91%2Caps%2C170&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=ea1bae1bb7643385d2b7f4810132a203&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4140818069&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4140818069" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--アルゴリズムとデータ構造--><a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0-%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%A7%91%E5%AD%A6-3-%E7%9F%B3%E7%95%91/dp/4000103431?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3KQY7AT3DCRBY&keywords=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0&qid=1665576068&qu=eyJxc2MiOiI0LjA4IiwicXNhIjoiMy40MCIsInFzcCI6IjMuNDcifQ%3D%3D&sprefix=%E4%B8%96%E7%95%8C%E3%81%A7%E6%9C%80%E3%82%82%E5%BC%B7%E5%8A%9B%E3%81%AA9%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%2Caps%2C179&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=9bf38e2ef984d3cecac8ade67e5e853f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000103431&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000103431" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--こじき的旅行記--><a href="http://kojikiryokou.blog.jp/" target="_blank"><img border="0" src="https://resize.blogsys.jp/0e00052ab7cad4c7f277caa9141199111b2d0496/crop1/474x260/http://livedoor.blogimg.jp/kojiki_ryokou/imgs/8/f/8fda19af-s.jpg" width="100"></a>
+
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+|                タイトル                |                                                       解説                                                       |
++========================================+==================================================================================================================+
+| `タネ論文`_                            | フルバージョンでなく簡易版。数式はほとんど出てこず、割と楽しんで読めてすごい。                                   |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| `世界でもっとも強力な9のアルゴリズム`_ | 参考文献に挙げているおもろ本。巧妙なトリックに快い驚きを感じたい方むけ。                                         |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| `世界でもっとも美しい10の科学実験`_    | この本と同じような着想で、論文のすごさが分かる10本の論文をまとめたような書籍が欲しいと盛り上がる                 |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| `ヘンな論文 `_                         | サンキュータツオさん、一見無駄な研究に費やしている研究者たちの大まじめな珍論文を、芸人の嗅覚で突っ込みながら解説 |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| `もっとヘンな論文`_                    | サンキュータツオさん、一見無駄な研究に費やしている研究者たちの大まじめな珍論文を、芸人の嗅覚で突っ込みながら解説 |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| `奇跡の論文図鑑`_                      | NHK Eテレ、異色の知的エンタメ番組「ろんぶ~ん」の出版化。                                                         |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| `アルゴリズムとデータ構造`_            | これは聖書だというのは過言ですよね？といってたらコメント欄から「過言ではないです、これは聖書です」               |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| `こじき的旅行記`_                      | 「人の黒歴史を掘り返すのはやめて！」（堀元氏）                                                                   |
++----------------------------------------+------------------------------------------------------------------------------------------------------------------+
+.. _もっとヘンな論文: https://amzn.to/3CXNBX8
+.. _ヘンな論文 : https://amzn.to/3D07JHZ
+.. _こじき的旅行記: http://kojikiryokou.blog.jp/  
+.. _アルゴリズムとデータ構造: https://amzn.to/3TbcVhZ
+.. _奇跡の論文図鑑: https://amzn.to/3S5HLHz
+.. _世界でもっとも美しい10の科学実験: https://amzn.to/3SdvOje
+.. _世界でもっとも強力な9のアルゴリズム: https://amzn.to/3T5BrBf
+.. _タネ論文: https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf
+
+.. rubric:: 関連動画
+* `【Google1】`_
+
+.. _【Google1】: https://youtu.be/tig2SuYcTS4
+
