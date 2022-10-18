@@ -6,10 +6,13 @@
 * `ゆる学徒ハウス別館 <https://www.youtube.com/channel/UCpIKXghW7Z1vwyBmWXgrcBQ>`_ 
 
 .. image:: https://pbs.twimg.com/media/Fe46ocJUcAEdl35?format=jpg&name=small
-  :width: 40%
+  :width: 30%
 
 .. image:: https://pbs.twimg.com/media/FfDPtsfaAAAJ-HH?format=jpg&name=small
-  :width: 40%
+  :width: 30%
+
+.. image:: https://pbs.twimg.com/media/FfSST23aMAAAlLg?format=jpg&name=small
+  :width: 30%
 
 本編
 -----------------------------------
