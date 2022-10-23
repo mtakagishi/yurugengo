@@ -79,6 +79,8 @@
 
 .. rubric:: 関連動画
 * `【Google1】`_
+* `【Google2】`_
 
 .. _【Google1】: https://youtu.be/tig2SuYcTS4
+.. _【Google2】: https://youtu.be/3zc2-aWmLL0
 
