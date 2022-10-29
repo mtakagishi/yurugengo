@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:生成文法シリーズ <生成文法シリーズ参考文献>`
 
-(#143,#167-#171)生成文法シリーズ
+(#143,#167-#172)生成文法シリーズ
 =================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -45,6 +45,7 @@
   <!--雪は天からの手紙--><a href="https://www.amazon.co.jp/%E9%9B%AA%E3%81%AF%E5%A4%A9%E3%81%8B%E3%82%89%E3%81%AE%E6%89%8B%E7%B4%99%E2%80%95%E4%B8%AD%E8%B0%B7%E5%AE%87%E5%90%89%E9%83%8E%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E9%9B%86-%E5%B2%A9%E6%B3%A2%E5%B0%91%E5%B9%B4%E6%96%87%E5%BA%AB-%E4%B8%AD%E8%B0%B7-%E5%AE%87%E5%90%89%E9%83%8E/dp/4001145553?&linkCode=li1&tag=takaoutputblo-22&linkId=8b0bda91164ede99f6429c8beb6d73d3&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4001145553&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4001145553" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--Radiohead--><a href="https://www.amazon.co.jp/s?k=radiohead&sprefix=Radio%2Caps%2C211&linkCode=sl2&tag=takaoutputblo-22&linkId=1b6de8ea6281ef88b7c1c89d3367f29f&language=ja_JP&ref_=as_li_ss_tl" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71AYaUaqQBL._AC_UL320_.jpg" width="100"></a>
   <!--rage against the machine--><a href="https://www.amazon.co.jp/s?k=rage+against+the+machine&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2QAHKXKE0NEEL&sprefix=rage+against+the+machine%2Caps%2C178&linkCode=sl2&tag=takaoutputblo-22&linkId=109b7c831371bc6526a47f23cb34e685&language=ja_JP&ref_=as_li_ss_tl" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/516cIMfRdNL._AC_UL320_.jpg" width="100"></a>
+  <!--与格交替におけるCAUSE-HAVEについて--><a href="https://www.ls-japan.org/modules/documents/LSJpapers/meeting/164/handouts/c/C-4_164.pdf" target="_blank"><img border="0" src="https://yt3.ggpht.com/ytc/AMLnZu92ECml9gnzSt_ElTwt_NpIkDjPjqgkR48fejXd=s900-c-k-c0x00ffffff-no-rj" width="100"></a>
 
 +---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                     タイトル                      |                                                                                                                                                   解説                                                                                                                                                   |
@@ -117,6 +118,9 @@
 +---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | `rage against the machine`_                       | 嶋村先生が大学時代に好んだ音楽、アメリカのロックバンド                                                                                                                                                                                                                                                   |
 +---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `与格交替におけるCAUSE-HAVEについて`_             | ゆる言語学ラジオ監修者、福田先生と嶋村先生の共同論文                                                                                                                                                                                                                                                     |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. _与格交替におけるCAUSE-HAVEについて: https://www.ls-japan.org/modules/documents/LSJpapers/meeting/164/handouts/c/C-4_164.pdf
 
 .. _金沢大学在籍の嶋村先生の『私のおすすめの本』: https://www.kanazawa-gu.ac.jp/aboutus/teacher/literature-shimamura/
 .. _教養悪口本: https://www.amazon.co.jp/%E6%95%99%E9%A4%8A%E6%82%AA%E5%8F%A3%E6%9C%AC-%E5%A0%80%E5%85%83-%E8%A6%8B/dp/4334952828?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3SYS8UNESA3XA&keywords=%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E6%82%AA%E5%8F%A3%E6%9C%AC&qid=1665236238&qu=eyJxc2MiOiIxLjE2IiwicXNhIjoiMS4xMyIsInFzcCI6IjEuMDcifQ%3D%3D&sprefix=%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E6%82%AA%E5%8F%A3%E6%9C%AC%2Caps%2C231&sr=8-1&linkCode=sl1&tag=takaoutputblo-22&linkId=d9688a80eb6e36a5f6c797377661b117&language=ja_JP&ref_=as_li_ss_tl
@@ -167,6 +171,7 @@
 * `#169【生成文法3】`_
 * `#170【生成文法4】`_
 * `#171【生成文法雑談回】`_
+* `#172【ガチ言語学ラジオ】`_
 
 
 .. _#143【生成文法チャレンジ】: https://www.youtube.com/watch?v=OAhG061_1Nc
@@ -175,3 +180,4 @@
 .. _#169【生成文法3】: https://www.youtube.com/watch?v=CYxGKxBZApE
 .. _#170【生成文法4】: https://www.youtube.com/watch?v=5Y-nTXVT9hk
 .. _#171【生成文法雑談回】: https://www.youtube.com/watch?v=OK-a6R0wa0o
+.. _#172【ガチ言語学ラジオ】: https://www.youtube.com/watch?v=fLcTo6Kstao
