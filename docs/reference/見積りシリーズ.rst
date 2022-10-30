@@ -1,0 +1,51 @@
+.. _見積りシリーズ参考文献:
+
+.. :ref:`参考文献:見積りシリーズ <見積りシリーズ参考文献>`
+
+(コンピュータ#44)見積りシリーズ
+====================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--ソフトウェア見積り--><a href="https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%8A-%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96-%E3%83%9E%E3%82%B3%E3%83%8D%E3%83%AB/dp/489100522X?&linkCode=li1&tag=takaoutputblo-22&linkId=13a4b894952e04eba7839a5fc0f10c48&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=489100522X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=489100522X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--失敗の本質--><a href="https://www.amazon.co.jp/%E5%A4%B1%E6%95%97%E3%81%AE%E6%9C%AC%E8%B3%AA%E2%80%95%E6%97%A5%E6%9C%AC%E8%BB%8D%E3%81%AE%E7%B5%84%E7%B9%94%E8%AB%96%E7%9A%84%E7%A0%94%E7%A9%B6-%E4%B8%AD%E5%85%AC%E6%96%87%E5%BA%AB-%E6%88%B8%E9%83%A8-%E8%89%AF%E4%B8%80/dp/4122018331?&linkCode=li1&tag=takaoutputblo-22&linkId=000ceecdb472bfde3f175199e4dd46d8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4122018331&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4122018331" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--失敗の科学--><a href="https://www.amazon.co.jp/%E5%A4%B1%E6%95%97%E3%81%AE%E7%A7%91%E5%AD%A6-%E5%A4%B1%E6%95%97%E3%81%8B%E3%82%89%E5%AD%A6%E7%BF%92%E3%81%99%E3%82%8B%E7%B5%84%E7%B9%94%E3%80%81%E5%AD%A6%E7%BF%92%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E7%B5%84%E7%B9%94-%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%A4%E3%83%89-ebook/dp/B01MU364ID?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2L4YPECDI2P9I&keywords=%E5%A4%B1%E6%95%97%E3%81%AE%E7%A7%91%E5%AD%A6&qid=1665814718&qu=eyJxc2MiOiIxLjg4IiwicXNhIjoiMS42MiIsInFzcCI6IjEuNTgifQ%3D%3D&s=books&sprefix=%E5%A4%B1%E6%95%97%E3%81%AE%E7%A7%91%E5%AD%A6%2Cstripbooks%2C179&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=96d2ac85b35319dcf47005c3a5d1d89b&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MU364ID&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01MU364ID" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--アルゴリズムとデータ構造--><a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0-%E5%B2%A9%E6%B3%A2%E8%AC%9B%E5%BA%A7-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%A7%91%E5%AD%A6-3-%E7%9F%B3%E7%95%91/dp/4000103431?keywords=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0&qid=1640994275&sprefix=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%2Caps%2C185&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=d52c21fc2f40a11ad7b9d71c13aee989&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000103431&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000103431" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--マスタリングTCP/IP--><a href="https://www.amazon.co.jp/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0TCP-IP%E2%80%95%E5%85%A5%E9%96%80%E7%B7%A8%E2%80%95-%E7%AC%AC6%E7%89%88-%E4%BA%95%E4%B8%8A-%E7%9B%B4%E4%B9%9F/dp/4274224473?&linkCode=li1&tag=takaoutputblo-22&linkId=12929cf6ca398640dcf0918231fe8150&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4274224473&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4274224473" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--人は、なぜ約束の時間に遅れるのか--><a href="https://www.amazon.co.jp/%E4%BA%BA%E3%81%AF%E3%80%81%E3%81%AA%E3%81%9C%E7%B4%84%E6%9D%9F%E3%81%AE%E6%99%82%E9%96%93%E3%81%AB%E9%81%85%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B-%E7%B4%A0%E6%9C%B4%E3%81%AA%E7%96%91%E5%95%8F%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%E3%80%8C%E8%A1%8C%E5%8B%95%E3%81%AE%E5%8E%9F%E5%9B%A0%E3%80%8D-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%B3%B6%E5%AE%97-%E7%90%86/dp/4334035795?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=21G8GVKUNFQBD&keywords=%E4%BA%BA%E3%81%AF%E3%81%AA%E3%81%9C%E7%B4%84%E6%9D%9F%E3%81%AE%E6%99%82%E9%96%93%E3%81%AB%E9%81%85%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B&qid=1665815441&qu=eyJxc2MiOiIwLjYyIiwicXNhIjoiMC42MSIsInFzcCI6IjAuNjgifQ%3D%3D&s=books&sprefix=%E4%BA%BA%E3%81%AF%E3%81%AA%E3%81%9C%E7%B4%84%E6%9D%9F%E3%81%AE%E6%99%82%E9%96%93%E3%81%AB%E9%81%85%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B%2Cstripbooks%2C501&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=cbd2df79a9f289ce07904ad3bd085ad0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4334035795&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4334035795" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ヒトはなぜ先延ばしをしてしまうのか--><a href="https://www.amazon.co.jp/%E3%83%92%E3%83%88%E3%81%AF%E3%81%AA%E3%81%9C%E5%85%88%E5%BB%B6%E3%81%B0%E3%81%97%E3%82%92%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%8B-%E3%83%94%E3%82%A2%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB-ebook/dp/B01I55SZJE?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1FGJ5VGWBGCPW&keywords=%E3%83%92%E3%83%88%E3%81%AF%E3%81%AA%E3%81%9C%E5%85%88%E5%BB%B6%E3%81%B0%E3%81%97%E3%81%AB%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%8B&qid=1665815461&qu=eyJxc2MiOiIwLjAxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=%E3%83%92%E3%83%88%E3%81%AF%E3%81%AA%E3%81%9C%E5%85%88%E5%BB%B6%E3%81%B0%E3%81%97%E3%81%AB%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%AE%E3%81%8B%2Cstripbooks%2C184&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=3f5630690ea355aa639f34eea17481f5&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01I55SZJE&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01I55SZJE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+|               タイトル                |                                                  解説                                                  |
++=======================================+========================================================================================================+
+| `ソフトウェア見積り`_                 | メイン種本。面白さ偏差値52。見積り専門家の著者が軽妙な筆致で書いていて楽しい。非エンジニアでも読める。 |
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `失敗の本質`_                         | 歴史的名著とされる。前半長い、後半のアナリシスから面白い                                               |
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `失敗の科学`_                         | 失敗に関する本は多く出ているとして触れられた本                                                         |
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `アルゴリズムとデータ構造`_           | 面白さ偏差値32、コンピュータ科学界隈では、聖書と言っても過言ではない本                                 |
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `マスタリングTCP/IP`_                 | 面白さ偏差値、測定不能。門外漢には何も面白くなさそうな                                                 |
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `人は、なぜ約束の時間に遅れるのか`_   | ヒトは見積りを誤るようなインセンティブの中で生きている。                                               |
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `ヒトはなぜ先延ばしをしてしまうのか`_ | ヒトは見積りを誤るようなインセンティブの中で生きている。                                               |
++---------------------------------------+--------------------------------------------------------------------------------------------------------+
+.. _アルゴリズムとデータ構造: https://amzn.to/3TOH5YL
+.. _ヒトはなぜ先延ばしをしてしまうのか: https://amzn.to/3SQodaz
+.. _人は、なぜ約束の時間に遅れるのか: https://amzn.to/3sJuJVM
+.. _マスタリングTCP/IP: https://amzn.to/3DsD2dQ
+.. _失敗の科学: https://amzn.to/3sOhsex
+.. _失敗の本質: https://amzn.to/3sGr4If
+.. _ソフトウェア見積り: https://amzn.to/3Wd6HjF
+
+.. rubric:: 関連動画
+* `【見積り1】`_
+
+.. _【見積り1】: https://youtu.be/agWiOY-aocs
