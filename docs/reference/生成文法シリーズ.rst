@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:生成文法シリーズ <生成文法シリーズ参考文献>`
 
-(#143,#167-#172)生成文法シリーズ
+(#143,#167-#173)生成文法シリーズ
 =================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -172,6 +172,7 @@
 * `#170【生成文法4】`_
 * `#171【生成文法雑談回】`_
 * `#172【ガチ言語学ラジオ】`_
+* `#173【言語学者あるある】`_
 
 
 .. _#143【生成文法チャレンジ】: https://www.youtube.com/watch?v=OAhG061_1Nc
@@ -181,3 +182,4 @@
 .. _#170【生成文法4】: https://www.youtube.com/watch?v=5Y-nTXVT9hk
 .. _#171【生成文法雑談回】: https://www.youtube.com/watch?v=OK-a6R0wa0o
 .. _#172【ガチ言語学ラジオ】: https://www.youtube.com/watch?v=fLcTo6Kstao
+.. _#173【言語学者あるある】: https://www.youtube.com/watch?v=cQIJCLKIh18
