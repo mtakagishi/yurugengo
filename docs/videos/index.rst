@@ -14,6 +14,8 @@
   /words/index
   /reference/index
 
+* `ゆる言語学ラジオ非公式 Advent Calendar 2022 <https://adventar.org/calendars/7611>`_ 
+
 .. rubric:: 動画リンク一覧
 
 .. raw:: html
