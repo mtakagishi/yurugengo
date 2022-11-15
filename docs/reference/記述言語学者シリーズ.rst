@@ -1,0 +1,28 @@
+.. _記述言語学者シリーズ参考文献:
+
+.. :ref:`参考文献:記述言語学者シリーズ <記述言語学者シリーズ参考文献>`
+
+(#177)記述言語学者シリーズ
+=============================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--Sabbatica （サバティカ）--><a href="https://www.amazon.co.jp/Sabbatica-%EF%BC%88%E3%82%B5%E3%83%90%E3%83%86%E3%82%A3%E3%82%AB%EF%BC%892018%E5%B9%B47%E6%9C%88%E5%8F%B7-%E9%BB%92%E5%B3%B6%E8%A6%8F%E5%8F%B2-ebook/dp/B07FDLZGDC?qid=1668528779&s=digital-text&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=45ede2aa48cf910c9442bb59ee7fe69a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07FDLZGDC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07FDLZGDC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------------+----------------------------------------+
+|          タイトル           |                  解説                  |
++=============================+========================================+
+| `Sabbatica （サバティカ）`_ | ゲストの黒島先生のエッセイが載ってる本 |
++-----------------------------+----------------------------------------+
+.. _Sabbatica （サバティカ）: https://amzn.to/3E7mlER
+
+.. rubric:: 関連動画
+* `#177【記述言語学から見た言語１】`_
+
+.. _#177【記述言語学から見た言語１】: https://www.youtube.com/watch?v=IR0iK5D1xlE
+

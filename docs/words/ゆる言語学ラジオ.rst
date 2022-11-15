@@ -53,6 +53,15 @@
   * `嶋村先生のHP <https://kojilinguist.com/>`_
   * `金沢大学の教員紹介にておすすめの本は？ <https://www.kanazawa-gu.ac.jp/aboutus/teacher/literature-shimamura/>`_ 
 
+* 黒島 規史（くろしまのりふみ）
+
+  * 東京外国語大学博士
+  * 熊本学園大学 外国語学部 東アジア学科 講師
+  * 出演回 `#177 <https://youtu.be/IR0iK5D1xlE>`_ 
+  * `黒島先生のresearchmap <https://researchmap.jp/kuroshima>`_ `J-GLOBAL <https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201401028613554823>`_  
+  * `ある言語研究者の4月 <https://amzn.to/3Gf16DS>`_ 
+  * あまのじゃくくろしま
+
 .. rubric:: 公式
 * `チャンネルホーム`_
 * `再生リスト`_
@@ -200,5 +209,6 @@
 * 2022年10月04日 ゆる言語学ラジオのコミカライズ「`ゆるグイ <https://www.pixiv.net/artworks/101681307>`_ 」連載開始
 * 2022年10月27日 `note番組の第二弾 <https://peatix.com/event/3354945>`_ 
 * 2022年10月28日 `イベント・ワテラスブックフェス <https://waterrasbookfes.com/>`_ にて「出張版！ゆる言語学ラジオ」
+* 2022年11月15日 `BSよしもとさんの番組「ジュニア、伺う」 <https://bsy.co.jp/programs/by0000016004>`_ に水野さんが出演
 * 2022年12月28日 700名規模の大忘年会を実施予定 `⇒ 大忘年会2022（公式公認の非公式の有志による） <https://yurugengo2022.yurugengo.com/>`_
 
