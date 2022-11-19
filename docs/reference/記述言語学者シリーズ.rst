@@ -22,7 +22,9 @@
 .. _Sabbatica （サバティカ）: https://amzn.to/3E7mlER
 
 .. rubric:: 関連動画
-* `#177【記述言語学から見た言語１】`_
+* `#178【記述言語学から見た言語2】`_
+* `#177【記述言語学から見た言語1】`_
 
-.. _#177【記述言語学から見た言語１】: https://www.youtube.com/watch?v=IR0iK5D1xlE
+.. _#178【記述言語学から見た言語2】: https://www.youtube.com/watch?v=_Mis8HokuhQ
+.. _#177【記述言語学から見た言語1】: https://www.youtube.com/watch?v=IR0iK5D1xlE
 
