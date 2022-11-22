@@ -1,0 +1,40 @@
+.. _雑談179参考文献:
+
+.. :ref:`参考文献:高野秀行さん雑談 <雑談179参考文献>`
+
+(#179)高野秀行さん雑談
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--語学の天才まで1億光年--><a href="https://www.amazon.co.jp/%E8%AA%9E%E5%AD%A6%E3%81%AE%E5%A4%A9%E6%89%8D%E3%81%BE%E3%81%A71%E5%84%84%E5%85%89%E5%B9%B4-%E9%AB%98%E9%87%8E-%E7%A7%80%E8%A1%8C/dp/4797674148?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=7X5E9JXMUJKK&keywords=%E8%AA%9E%E5%AD%A6%E3%81%AE%E5%A4%A9%E6%89%8D%E3%81%BE%E3%81%A71%E5%84%84%E5%85%89%E5%B9%B4&qid=1667724264&qu=eyJxc2MiOiIwLjI2IiwicXNhIjoiMC4xNCIsInFzcCI6IjAuMTYifQ%3D%3D&sprefix=%E8%AA%9E%E5%AD%A6%E3%81%AE%E5%A4%A9%E6%89%8D%E3%81%BE%E3%81%A71%E5%84%84%E5%85%89%E5%B9%B4%2Caps%2C307&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=2ed2c15910e1244e515555afeba1c4eb&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4797674148&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4797674148" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--謎の独立国家ソマリランド--><a href="https://www.amazon.co.jp/%E8%AC%8E%E3%81%AE%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6%E3%82%BD%E3%83%9E%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%89-%E9%AB%98%E9%87%8E%E7%A7%80%E8%A1%8C-ebook/dp/B00P27YOM6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2VLJAX9XLYZVM&keywords=%E8%AC%8E%E3%81%AE%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6%E3%82%BD%E3%83%9E%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%89&qid=1667724769&qu=eyJxc2MiOiIxLjY3IiwicXNhIjoiMS4xMiIsInFzcCI6IjAuOTUifQ%3D%3D&sprefix=%E8%AA%9E%E5%AD%A6%E3%81%AE%E5%A4%A9%E6%89%8D%E3%81%BE%E3%81%A71%E5%84%84%E5%85%89%E5%B9%B4%2Caps%2C786&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=0f7b3fb72f15a8cbbd873bcc9478e308&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00P27YOM6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00P27YOM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--kotoba　2022年秋号--><a href="https://www.amazon.co.jp/kotoba-2022%E5%B9%B4%E7%A7%8B%E5%8F%B7-%E9%9B%91%E8%AA%8C-%E3%82%B3%E3%83%88%E3%83%90%E7%B7%A8%E9%9B%86%E5%AE%A4-ebook/dp/B0BJ4MJZ8C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=25HXU8KH5K6B3&keywords=kotoba+2022%E5%B9%B4%E7%A7%8B%E5%8F%B7&qid=1667726705&qu=eyJxc2MiOiIwLjcyIiwicXNhIjoiMS4wMCIsInFzcCI6IjEuMDAifQ%3D%3D&sprefix=%E8%AC%8E%E3%81%AE%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6%E3%82%BD%E3%83%9E%E3%83%AA%E3%83%A9%E3%83%B3%E3%83%89%2Caps%2C630&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=c8326160e469401805187222146d4913&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BJ4MJZ8C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0BJ4MJZ8C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--銀と金--><a href="https://www.amazon.co.jp/%E9%8A%80%E3%81%A8%E9%87%91-%EF%BC%91-%E7%A6%8F%E6%9C%AC-%E4%BC%B8%E8%A1%8C-ebook/dp/B00E0DMA38?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2IP343H3FWC6H&keywords=%E9%8A%80%E3%81%A8%E9%87%91&qid=1667728493&qu=eyJxc2MiOiIzLjQ0IiwicXNhIjoiMy4zMSIsInFzcCI6IjIuOTgifQ%3D%3D&sprefix=%E9%8A%80%E3%81%A8%E9%87%91%2Caps%2C389&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=8158539fbf582b162584ecffc78a7782&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E0DMA38&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00E0DMA38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------------+------------------------------------------------------------------------------------------------------------------------------+
+|          タイトル           |                                                             解説                                                             |
++=============================+==============================================================================================================================+
+| `語学の天才まで1億光年`_    | ゲスト高野氏の新書。水野氏の周囲の記述言語学者を騒がす面白すぎるズルい本。女子大生に囲まれてタイ語、麻薬王のアジトでビルマ語 |
++-----------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `謎の独立国家ソマリランド`_ | ゲスト高野氏の著書。ソマリランドに入るまでが大変                                                                             |
++-----------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `kotoba　2022年秋号`_       | ゲスト高野氏の文章も掲載されている                                                                                           |
++-----------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| `銀と金`_                   | 金が絡めば命がけ、こりゃあたりまえのこっちゃ                                                                                 |
++-----------------------------+------------------------------------------------------------------------------------------------------------------------------+
+.. _銀と金: https://amzn.to/3Azs71i
+.. _kotoba　2022年秋号: https://amzn.to/3gmaCL2
+.. _謎の独立国家ソマリランド: https://amzn.to/3OrvblE
+.. _語学の天才まで1億光年: https://amzn.to/3TYookC
+
+.. rubric:: 関連動画
+* `#179【高野秀行さん雑談】`_
+
+.. _#179【高野秀行さん雑談】: https://www.youtube.com/watch?v=QYJgtpVVu-I
+
