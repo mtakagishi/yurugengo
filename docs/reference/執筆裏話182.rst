@@ -1,0 +1,34 @@
+.. _執筆裏話182参考文献:
+
+.. :ref:`参考文献:執筆裏話 <執筆裏話182参考文献>`
+
+(#182)執筆裏話
+=================================
+
+黒島先生のコメント :doc:`/words/肛門両唇破裂音` がさく裂した執筆裏話回の参考コンテンツ
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--言語オタクが友だちに700日間語り続けて引きずり込んだ言語沼--><a href="https://onl.bz/iiUG6tz" target="_blank"><img border="0" src="https://wcdn.valuebooks.jp/endpaper/upload/1669085404380-scaled.jpg" width="75"></a>
+  <!--サピエンス全史--><a href="https://www.amazon.co.jp/%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2%EF%BC%88%E4%B8%8A%EF%BC%89-%E6%96%87%E6%98%8E%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E4%BA%BA%E9%A1%9E%E3%81%AE%E5%B9%B8%E7%A6%8F-%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2-%E6%96%87%E6%98%8E%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E4%BA%BA%E9%A1%9E%E3%81%AE%E5%B9%B8%E7%A6%8F-%E3%83%A6%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BB%E3%83%8E%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%A9%E3%83%AA-ebook/dp/B01LW7JZLC?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=34BARYERQVS3F&keywords=%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2&qid=1670033385&sprefix=%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2%2Caps%2C380&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=e06db84d7292e679de14ef25cb5e78e0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LW7JZLC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01LW7JZLC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++--------------------------------------------------------------+------------------------------------------------------------------+
+|                           タイトル                           |                               解説                               |
++==============================================================+==================================================================+
+| `言語オタクが友だちに700日間語り続けて引きずり込んだ言語沼`_ | ゆる言語学ラジオ初の著書                                         |
++--------------------------------------------------------------+------------------------------------------------------------------+
+| `サピエンス全史`_                                            | 表紙で引き合いに出されたサピエンス全史。ポップに仕上がりました。 |
++--------------------------------------------------------------+------------------------------------------------------------------+
+.. _サピエンス全史: https://amzn.to/3EV5tSl
+.. _言語オタクが友だちに700日間語り続けて引きずり込んだ言語沼: https://onl.bz/iiUG6tz
+
+.. rubric:: 関連動画
+`#182【執筆裏話】`_
+
+.. _#182【執筆裏話】: https://www.youtube.com/watch?v=qY2RrfwTqXg
+
