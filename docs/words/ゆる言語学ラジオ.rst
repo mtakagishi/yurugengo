@@ -107,6 +107,8 @@
 * `noteマガジン <https://note.com/kenhori2/m/m125fc4524aca>`_ 
 * `個人YouTube <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ 
 
+.. _パーソナリティ・ゲスト著書:
+
 .. rubric:: パーソナリティ・ゲスト著書
 
 .. raw:: html

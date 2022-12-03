@@ -7,6 +7,7 @@
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
 * `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
 * `用語索引へ </genindex.html>`_ 
+* 『:ref:`パーソナリティ(著) <パーソナリティ・ゲスト著書>` 』
 * 『`バリューブックス！ <https://www.valuebooks.jp/shelf-items/list/RFZjN2ZJWHV0cFJLTDFLblo4dGtkUT09>`_ 』にてゆる言語学ラジオ書店やグッズ販売！
 * 『`つみぼん <https://www.tsumibon.tamari-b.com/>`_』というサイトにポッドキャスト系の参考文献がまとまっててオススメ。
 * `サポータコミュニティ <https://yurugengo.com/support>`_ にもまとめサイトがあるので課金もオススメ
