@@ -1,0 +1,29 @@
+(#183).. _公開収録4参考文献:
+
+(#183).. :ref:`参考文献:公開収録4 <公開収録4参考文献>`
+
+(#183)公開収録4
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--ジーニアス英和辞典--><a href="https://www.amazon.co.jp/%E3%82%B8%E3%83%BC%E3%83%8B%E3%82%A2%E3%82%B9%E8%8B%B1%E5%92%8C%E8%BE%9E%E5%85%B8-%E7%AC%AC6%E7%89%88-%E5%8D%97%E5%87%BA%E5%BA%B7%E4%B8%96/dp/4469041874?keywords=genius+%E8%8B%B1%E5%92%8C%E8%BE%9E%E5%85%B8&qid=1668227386&qu=eyJxc2MiOiIyLjA3IiwicXNhIjoiMS4zMSIsInFzcCI6IjEuNTAifQ%3D%3D&sprefix=Geni%2Caps%2C243&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=14f415a8b1dc35d38bb3b684be033bb6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4469041874&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4469041874" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+|       タイトル        |                                                                           解説                                                                           |
++=======================+==========================================================================================================================================================+
+| `ジーニアス英和辞典`_ | 「辞書を読むのって面白い！」大修館の英和辞典が2022/11/8、8年ぶりの全面改訂、ゆる言語学ラジオへ案件をもたらし堀元氏に辞書を読む楽しさを気付かせるに至る。 |
++-----------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+.. _ジーニアス英和辞典: https://amzn.to/3FubGWI
+
+.. rubric:: 関連動画
+* `#183【公開収録4】`_
+
+.. _#183【公開収録4】: https://www.youtube.com/watch?v=Ohoo0cjmAUI
+
