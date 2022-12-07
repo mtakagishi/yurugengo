@@ -12,7 +12,10 @@
 
 
 .. rubric:: 関連リンク
-* `「言語沼」問い合わせ用特設メールアドレス <mailto:gengonuma@gmail.com>`_ 
+* 「言語沼」問い合わせ用特設メールアドレス 
+
+  * `gengonuma@gmail.com <mailto:gengonuma@gmail.com>`_ 
+
 * :ref:`参考文献:執筆裏話 <執筆裏話182参考文献>`
 
 .. rubric:: 関連ワード
