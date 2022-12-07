@@ -6,12 +6,26 @@
 2021年
 -----------
 * 2021年12月28に開催。2021年度の流行語ベストファイブが決定した。
+* 2022年も実施予定
+
+.. tip:: 
+  | 2021年ベスト5
+  | 5位 :doc:`n=1` 
+  | 4位 :doc:`途方もなく` 
+  | 3位 :doc:`メタモン` 
+  | 2位 :doc:`イビピーオ` 
+  | 1位 :doc:`母語話者なのに？` 
+
 
 .. rubric:: 関連リンク
+* `ゆる言語学ラジオ流行語大賞_参考候補2022`_ 
 * `ゆる言語学ラジオ流行語大賞_参考候補2021`_ (終了)
 
 .. rubric:: 関連ラジオ
 * `ゆる言語学ラジオ忘年会ライブ【流行語大賞決定】`_
 
 .. _ゆる言語学ラジオ忘年会ライブ【流行語大賞決定】: https://www.youtube.com/watch?v=poT4BzX7e_Q
-.. _ゆる言語学ラジオ流行語大賞_参考候補: https://docs.google.com/spreadsheets/d/e/2PACX-1vTI3KKa1LA8HpdyAb_-QDrEG-tgaBDMwADNYXWYzSS7i38wLDMPLbglXZJqkULXXNjgLDyp33E5ARgg/pubhtml?gid=0&single=true
+
+.. _ゆる言語学ラジオ流行語大賞_参考候補2021: https://docs.google.com/spreadsheets/d/e/2PACX-1vTI3KKa1LA8HpdyAb_-QDrEG-tgaBDMwADNYXWYzSS7i38wLDMPLbglXZJqkULXXNjgLDyp33E5ARgg/pubhtml?gid=0&single=true
+
+.. _ゆる言語学ラジオ流行語大賞_参考候補2022: https://docs.google.com/spreadsheets/d/1v7RhkruFm3Fzh1TFtcpzIMMzQ7N0geRLnvkLxeBDr4U/edit#gid=0
