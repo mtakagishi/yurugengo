@@ -6,7 +6,8 @@
 * 堀元氏と水野氏がゆるく楽しく言語の面白さを語るラジオ
 * アカデミズムの二次創作をコンセプトに、専門家ではない人間が言語学を面白がるコンテンツ
 
-.. rubric:: パーソナリティ
+パーソナリティ
+------------------------------------------
 * 堀元見（ほりもとけん）
   
   * 慶應義塾大学理工学部 情報工学出身
@@ -24,7 +25,8 @@
 .. tip:: 
   お二人の身長の出典：`コンピュータ#49 データ構造2 <https://youtu.be/3CQCBQRq0FA&t=686s>`_
 
-.. rubric:: ゲスト
+ゲスト
+------------------------------------------
 
 * 福田純也（ふくたじゅんや）
 
@@ -72,22 +74,27 @@
   * `語学の天才まで1億光年 <https://amzn.to/3gpjIGS>`_ `謎の独立国家ソマリランド <https://amzn.to/3gsU4AU>`_ 
   * 女子大生に囲まれてタイ語、麻薬王のアジトでビルマ語
 
-.. rubric:: 公式
-* `チャンネルホーム`_
-* `再生リスト`_
-* `サポーターコミュニティ`_
-* `オリジナルグッズ <https://www.valuebooks.jp/shelf-items/folder/4362babbae09d77>`_ 
-* `Lineスタンプ <https://store.line.me/stickershop/product/18955892/ja>`_ 
-* `ゆる言語学ラジオおたよりフォーム`_
-* `ゆる言語学ラジオTwitter`_
+公式サイト
+------------------------------------------
+* `ゆる言語学ラジオ <https://yurugengo.com/>`_ 
+* `ゆる言語学ラジオYoutubeホーム`_
 * `ゆる言語学ラジオPodcast`_
+* `ゆる言語学ラジオサポーター会員登録`_
 * `姉妹チャネル：ゆるコンピュータ科学ラジオ <https://www.youtube.com/channel/UCpLu0KjNy616-E95gPx7LZg>`_ 
 * `姉妹チャネル：ゆる学徒ハウス <https://www.youtube.com/channel/UCayn-KD-Qjwa8ppQJ50bEAw>`_ 
-.. rubric:: 姉妹チャンネル
-* :doc:`/videos/yurucomputer_radio_list` 
-* :doc:`/videos/yurugackt_house_list` 
+* `姉妹チャネル：ゆる学徒ハウス別館 <https://www.youtube.com/@YuruGakutoHouseAnnex/featured>`_ 
+* `ゆる言語学ラジオおたよりフォーム`_
+* `ゆる言語学ラジオTwitter`_
+* `バリューブックス <https://www.valuebooks.jp/shelf-items/list/RFZjN2ZJWHV0cFJLTDFLblo4dGtkUT09>`_ 
+* `Lineスタンプ <https://store.line.me/stickershop/product/18955892/ja>`_ 
 
-.. rubric:: 企画リンク
+非公式コンテンツ
+------------------------------------------
+* `ゆる言語学ラジオ非公式 Advent Calendar 2022 <https://adventar.org/calendars/7611>`_
+* `ゆる言語学ラジオ用語集タイピング練習 <https://typing.twi1.me/game/212897>`_ 
+
+企画リンク
+------------------------------------------
 * `AKACHAN’S MISTAKE AWARDS 投稿フォーム <https://forms.gle/j9nXn13Ahr3juUV36>`_ 
 * `うんちくエウレーカクイズ応募フォーム`_
 * `選書リスト`_
@@ -96,13 +103,16 @@
 * `ゆる言語学ラジオ流行語大賞2021投票フォーム`_ (終了)
 * `ゆる言語学ラジオ流行語大賞_参考候補`_ (終了)
 
-.. rubric:: エンディングナレーション
+エンディングナレーション文字起こし
+------------------------------------------
 このラジオは、一介の言語オタクがゆるく楽しく言語の面白さを語るラジオです。自由気ままな言語トークですので、厳密な考証は行っておりません。内容には諸説あります。ご了承の上お聞きください
 
-.. rubric:: 音源
+音源
+------------------------------------------
 * :ref:`動画音源 <動画音源>`
 
-.. rubric:: 堀元氏関連リンク
+堀元氏関連リンク
+------------------------------------------
 * `Twitter <https://twitter.com/kenhori2>`_ 
 * `noteマガジン <https://note.com/kenhori2/m/m125fc4524aca>`_ 
 * `個人YouTube <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ 
@@ -152,7 +162,8 @@
 .. _算数文章題が解けない子どもたち: https://amzn.to/3bMK0Qy
 .. _外国語学習に潜む意識と無意識: https://amzn.to/3nHtp3a
 
-.. rubric:: ゆる言語学ラジオを取り上げた記事
+ゆる言語学ラジオを取り上げた記事
+------------------------------------------
 * `Wikipedia(ゆる言語学ラジオ) <https://ja.wikipedia.org/wiki/ゆる言語学ラジオ>`_ 
 * `weblio(ゆる言語学ラジオ) <https://www.weblio.jp/wkpja/content/ゆる言語学ラジオ>`_ 
 * `ピクシブ百科事典(ゆる言語学ラジオ) <https://dic.pixiv.net/a/%E3%82%86%E3%82%8B%E8%A8%80%E8%AA%9E%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA>`_ 
@@ -166,9 +177,9 @@
 * `(2022年7月30日)バリューブックスアンバサダー <https://www.valuebooks.jp/endpaper/11097/>`_ 
 * `(2022年8月20日)バリューブックスインタビュー記事 <https://www.valuebooks.jp/endpaper/11097/>`_ 
 
-.. _チャンネルホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
+.. _ゆる言語学ラジオYoutubeホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
-.. _サポーターコミュニティ: https://yurugengo.com/support 
+.. _ゆる言語学ラジオサポーター会員登録: https://yurugengo.com/support 
 .. _ゆる言語学ラジオおたよりフォーム: https://docs.google.com/forms/d/e/1FAIpQLSdhWOGhQcrlyJW_wLNqGYC2p33IsZB-x9lKocu8v7IjmUuTgA/viewform
 .. _ゆる言語学ラジオTwitter: https://twitter.com/yuru_gengo
 
@@ -178,10 +189,8 @@
 .. _ゆる言語学ラジオ流行語大賞_参考候補: https://docs.google.com/spreadsheets/d/e/2PACX-1vTI3KKa1LA8HpdyAb_-QDrEG-tgaBDMwADNYXWYzSS7i38wLDMPLbglXZJqkULXXNjgLDyp33E5ARgg/pubhtml?gid=0&single=true
 .. _ゆる言語学ラジオPodcast: https://anchor.fm/yurugengo
 
-.. rubric:: ゆる言語学ラジオ関連コンテンツ
-* `ゆる言語学ラジオ用語集タイピング練習 <https://typing.twi1.me/game/212897>`_ 
-
-.. rubric:: ヒストリ
+ヒストリ
+------------------------------------------
 * 2020年12月某日 撮影開始、`衒学チャンネル <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ から順次公開される
 * 2021年03月11日 ゆる言語学ラジオチャンネルとして独立
 * 2021年05月某日 チャンネル登録者数1万人

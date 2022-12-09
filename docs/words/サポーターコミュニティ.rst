@@ -3,7 +3,10 @@
 .. glossary::
     サポーターコミュニティ : さ
 
-課金で入れるゆる言語学ラジオのコミュニティ [#1]_
+課金で入れるゆる言語学ラジオのコミュニティ [#1]_ 
+
+.. tip:: 
+  ゆる言語学ラジオサポーター限定チャットコミュニティがDiscordサーバーで運営されている。膨大なチャネルの詳細が `ken-ichiさんのnote <https://note.com/ken_ichi_1/n/n9761990591fa>`_ で紹介された。
 
 .. rubric:: 関連ワード
 * :doc:`ゆる○○ラジオ` 
@@ -12,6 +15,8 @@
 
 .. rubric:: 関連リンク
 * .. [#1] `サポーターコミュニティ <https://yurugengo.com/support>`_ 
+* `ゆる言語学ラジオ非公式 Advent Calendar 2022 <https://adventar.org/calendars/7611>`_
+* `ゆる言語学ラジオサポーターコミュニティDiscordサーバー全チャンネル紹介 <https://note.com/ken_ichi_1/n/n9761990591fa>`_
 
 .. rubric:: 関連ラジオ
 * `サポーターコミュニティ始めます【課金で伝説のボツ回が見れる】 #73`_
