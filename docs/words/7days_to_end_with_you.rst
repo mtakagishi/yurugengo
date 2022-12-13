@@ -30,10 +30,12 @@
 * :ref:`参考文献:7days_to_end_with_you <7days_to_end_with_you参考文献>`
 
 .. rubric:: 関連ラジオ
+* `【ゲーム実況④】記述言語学者と未知の言語解読ゲーム【7days to end with you】#185`_
 * `単語の解読が困難すぎて苦悩するゲーム【7days to end with you 実況プレイ】#163`_
 * `未知の言語の辞書を作るゲーム【7days to end with you 実況プレイ】#152`_
 * `フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120`_
 
+.. _【ゲーム実況④】記述言語学者と未知の言語解読ゲーム【7days to end with you】#185: https://www.youtube.com/watch?v=pUiOJFc19pg
 .. _フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120: https://www.youtube.com/watch?v=vrBzSXN4MYI
 .. _未知の言語の辞書を作るゲーム【7days to end with you 実況プレイ】#152: https://www.youtube.com/watch?v=XerPfJTGL2Y
 .. _単語の解読が困難すぎて苦悩するゲーム【7days to end with you 実況プレイ】#163: https://www.youtube.com/watch?v=RTO89LjFUKw
