@@ -1,0 +1,92 @@
+言語沼誤植事件
+==========================================
+.. glossary::
+    言語沼誤植事件 : け
+
+2022/12/23 ゆる言語学ラジオ初の書籍、『:doc:`言語沼`』の 初回出荷分で大量の誤植が発覚した事件。
+`緊急謝罪動画 <https://youtu.be/q2cIYSTbULY>`_ を出すに至る。
+
+誤植の内容は、一部のルビが意味不明な文字の羅列に化ける現象。大いに落ち込む堀元氏・水野氏から :doc:`ゆサＤ` に情報提供された画像は思わぬ方向に進み、朝起きたら世界が一転していた。
+
+:doc:`ゆサＤ` では、一晩で本現象の解読成功させるだけにどどまらず、文字化け再現ツールまでが登場。
+
+『言語沼のルビ』スレッドで制限付きコミュニケーションが盛り上がっているという事態に。
+
+  * 「ニアツァピとよそあ」（ネイティブなりたい）
+  * 「ぽゑと、せぬ才能ね別ぬてゖるど活ぉせいず…」 (みんな、その才能は別のところに活かそうぜ…)
+
+など新たなカルチャーを生み出した。
+
+.. rubric:: Script By `アンジオ点心 <https://twitter.com/angiodianxin>`_ 
+* `解読の詳細＝Night to Laugh with Horimoto RTA記録 <https://yurugengo-adcal-2022-24.s3.ap-northeast-1.amazonaws.com/index.html>`_ 
+
+.. raw:: html
+
+      <script>
+          function shiftCodePoint(text, d) {
+              return [...text].map((c) => {
+                  var point = c!=='ー'?c.codePointAt(0):0xFF70;
+                  return String.fromCodePoint(point + d)
+              }).join('');
+          }
+  
+          function miss() {
+              var text = document.getElementById("tarea").value;
+              var missed = shiftCodePoint(text, -2)
+              document.getElementById("farea").value = missed;
+          }
+  
+          function correct() {
+              var text = document.getElementById("farea").value;
+              var corrected = shiftCodePoint(text, 2)
+              document.getElementById("tarea").value = corrected;
+          }
+      </script>
+      <style>
+          .container {
+              display: grid;
+              max-width: 800px;
+              height: 20rem;
+              grid-template-rows: 1fr 1fr;
+              grid-template-columns: 1fr 8rem 1fr;
+          }
+          .container * {
+              font-size: 1.5rem;
+          }
+          #tarea{
+              grid-row: 1/3;
+              grid-column: 1;
+          }
+          #mbutton {
+              grid-row: 1;
+              grid-column: 2;
+          }
+          #cbutton {
+              grid-row: 2;
+              grid-column: 2;
+          }
+          #farea {
+              grid-row: 1/3;
+              grid-column: 3;
+          }
+      </style>
+      <div class="container">
+          <textarea name="tarea" id="tarea" cols="30" rows="10">ゆるげんごがくラジオ</textarea>
+          <input type="button" id="mbutton" value="誤植化 ▶" onclick="miss()">
+          <input type="button" id="cbutton" value="◀ 修正" onclick="correct()">
+          <textarea name="farea" id="farea" cols="30" rows="10"></textarea>
+      </div>
+
+.. rubric:: 関連ワード
+* :doc:`言語沼` 
+* :doc:`ゆサＤ` 
+
+.. rubric:: 関連リンク
+* :ref:`参考文献:執筆裏話 <執筆裏話182参考文献>`
+
+.. rubric:: 関連ラジオ
+* `【緊急報告】『言語沼』の大量の誤字について。たいへん申し訳ありません。`_
+* `【言語沼】ゆる言語学ラジオの本が出ました！【執筆裏話】#182`_
+
+.. _【緊急報告】『言語沼』の大量の誤字について。たいへん申し訳ありません。: https://www.youtube.com/watch?v=q2cIYSTbULY
+.. _【言語沼】ゆる言語学ラジオの本が出ました！【執筆裏話】#182: https://www.youtube.com/watch?v=qY2RrfwTqXg
