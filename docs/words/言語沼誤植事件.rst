@@ -23,22 +23,31 @@
 .. raw:: html
 
       <script>
-          function shiftCodePoint(text, d) {
+          trueSet =
+              ' !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~  　０１２３４５６７８９ぁあぃいぅうぇえぉおかゕがきぎくぐけゖげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔぁぃぅぇぉゕゖっゃゅょゎァアィイゥウェエォオカヵガキギクグケヶゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴｧｨｩｪｫヵヶｯｬｭｮヮー';
+          falseSet =
+              '   !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~　　　０１２３４５６７８９ぁあぃいぅうぇえぉおかゕがきぎくぐけゖげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔぁぃぅぇぉゕゖっゃゅょゎァアィイゥウェエォオカヵガキギクグケヶゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴｧｨｩｪｫヵヶｯｬｭｮ';
+
+          function translateBySet(text, fromSet, toSet) {
               return [...text].map((c) => {
-                  var point = c!=='ー'?c.codePointAt(0):0xFF70;
-                  return String.fromCodePoint(point + d)
+                  idx = fromSet.indexOf(c);
+                  if (idx >= 0) {
+                      return toSet[idx];
+                  } else {
+                      return c;
+                  }
               }).join('');
           }
-  
+
           function miss() {
               var text = document.getElementById("tarea").value;
-              var missed = shiftCodePoint(text, -2)
+              var missed = translateBySet(text, trueSet, falseSet);
               document.getElementById("farea").value = missed;
           }
-  
+
           function correct() {
               var text = document.getElementById("farea").value;
-              var corrected = shiftCodePoint(text, 2)
+              var corrected = translateBySet(text, falseSet, trueSet);
               document.getElementById("tarea").value = corrected;
           }
       </script>
