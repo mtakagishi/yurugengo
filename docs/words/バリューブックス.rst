@@ -8,6 +8,7 @@
 
 .. rubric:: 関連ツイート
 * `バリューブックス担当者のつぶやき <https://twitter.com/alpino_kou2/status/1553199890846871552>`_ 
+* `バリューブックスご担当のお部屋 <https://onthehill.work/>`_ 
 
 .. rubric:: 関連ワード
 * :doc:`積本精霊流し` 
@@ -15,7 +16,6 @@
 .. rubric:: 関連リンク
 * `積み本を売って「ゆる言語学ラジオ」グッズを手に入れよう！ <https://www.valuebooks.jp/endpaper/11102/>`_ 
 * `「ゆる言語学ラジオ」がバリューブックスのアンバサダーになりました！ <https://www.valuebooks.jp/endpaper/11097/>`_ 
-* `バリューブックスご担当の飯田さん <https://onthehill.work/>`_ 
 
 
 .. rubric:: 関連ラジオ
