@@ -158,7 +158,7 @@
 .. _見積りは1点で出すな。確率で出せ。【見積り2】#45: https://www.youtube.com/watch?v=NbFbM_nfaQU
 .. _正しく見積もる方法「何でもいいから数える」「神の声を聞く」。【見積り3】#46: https://www.youtube.com/watch?v=kLWpN_Kx2Y0
 .. _リスナーのあるあるが高度すぎて共感できない【おたより読む回】#47: https://www.youtube.com/watch?v=yNK58rgDS9E
-`データ構造はトレードオフの芸術。最強のデータ記録法とは？【データ構造1】#48`_
+.. _データ構造はトレードオフの芸術。最強のデータ記録法とは？【データ構造1】#48: https://www.youtube.com/watch?v=Yu6tLYQw9h8
 .. _巧妙なアイデア「ふたまたニョキニョキ」がすべてを解決する【データ構造2】#49: https://www.youtube.com/watch?v=3CQCBQRq0FA
 .. _ネット回線の歴史は半沢直樹。接続を巡る大人の戦い【ピアリング戦記1】#50: https://www.youtube.com/watch?v=uFdqLBkuR_c
 .. _【隣のビルから電気引いてた】昭和のネット技術者の泣ける努力3選【ピアリング戦記2】#51: https://www.youtube.com/watch?v=50kmumK8JE0
