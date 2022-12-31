@@ -1,0 +1,33 @@
+.. _雑談190参考文献:
+
+.. :ref:`参考文献:2022年大晦日雑談 <雑談190参考文献>`
+
+(#190)2022年大晦日雑談
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--ファスト教養--><a href="https://www.amazon.co.jp/%E3%83%95%E3%82%A1%E3%82%B9%E3%83%88%E6%95%99%E9%A4%8A-10%E5%88%86%E3%81%A7%E7%AD%94%E3%81%88%E3%81%8C%E6%AC%B2%E3%81%97%E3%81%84%E4%BA%BA%E3%81%9F%E3%81%A1-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%B0%E6%9B%B8-%E3%83%AC%E3%82%B8%E3%83%BC-ebook/dp/B0BG4PFKL6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=15CSFICM28LS0&keywords=%E3%83%95%E3%82%A1%E3%82%B9%E3%83%88%E6%95%99%E9%A4%8A&qid=1672410426&sprefix=%E3%83%95%E3%82%A1%E3%82%B9%E3%83%88%E6%95%99%E9%A4%8A%2Caps%2C170&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=0b97232a6a709ab7657db3c73a4c2b44&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BG4PFKL6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0BG4PFKL6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--実力も運のうち--><a href="https://www.amazon.co.jp/%E5%AE%9F%E5%8A%9B%E3%82%82%E9%81%8B%E3%81%AE%E3%81%86%E3%81%A1-%E8%83%BD%E5%8A%9B%E4%B8%BB%E7%BE%A9%E3%81%AF%E6%AD%A3%E7%BE%A9%E3%81%8B%EF%BC%9F-%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB-%E3%82%B5%E3%83%B3%E3%83%87%E3%83%AB-ebook/dp/B0922GS8SL?crid=3CQK0JXGBLVRV&keywords=%E5%AE%9F%E5%8A%9B%E3%82%82%E9%81%8B%E3%81%AE%E3%81%86%E3%81%A1&qid=1672410467&sprefix=%E5%AE%9F%E5%8A%9B%E3%82%82%2Caps%2C193&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=0f691c7e13cca28c84d555df9a269408&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0922GS8SL&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0922GS8SL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
++-------------------+--------------------------------------------------------+
+|     タイトル      |                          解説                          |
++===================+========================================================+
+| `ファスト教養`_   | 教養とは「結論や用途を先に決めずに学ぶもの」としていた |
++-------------------+--------------------------------------------------------+
+| `実力も運のうち`_ | 社会的に成功しているのは運がよかっただけ               |
++-------------------+--------------------------------------------------------+
+.. _実力も運のうち: https://amzn.to/3GsMgcG
+.. _ファスト教養: https://amzn.to/3VBoXBy
+
+.. rubric:: 関連動画
+* `#190【雑談回】`_
+.. _#190【雑談回】: https://www.youtube.com/watch?v=GO-v6xLxonk
+
+

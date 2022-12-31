@@ -33,7 +33,7 @@ html_last_updated_fmt = '%Y/%m/%d'
 extensions = [
     'sphinx.ext.todo',
     'recommonmark',
-    'sphinx_sitemap',
+    # 'sphinx_sitemap',
     'sphinxnotes.strike',
     'sphinxcontrib.blockdiag',
 ]
@@ -89,8 +89,9 @@ source_suffix = {
     '.md': 'markdown',
 }
 # sphinx-sitemap
-html_baseurl = 'https://yurugengo.mtakagishi.com/'
-html_extra_path = ['robots.txt']
+# html_baseurl = 'https://yurugengo.mtakagishi.com/'
+# html_extra_path = ['robots.txt']
+# sitemap_locales = [None]
 
 # blockdiag
 blockdiag_html_image_format = 'SVG'

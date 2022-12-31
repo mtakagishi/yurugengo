@@ -25,7 +25,7 @@ SM5B
 .. _SM58: https://amzn.to/3lgAoiz
 .. _SM7B: https://amzn.to/3NBR14v
 
-.. rubric:: 
+.. rubric:: 関連リンク
 * `サポーターコミュニティ <https://yurugengo.com/support>`_ 
 
 .. rubric:: 関連ラジオ
