@@ -9,9 +9,10 @@
 .. rubric:: 関連ワード
 * :doc:`赤ちゃん` 
 * :doc:`ヒューリスティクス` 
+* :doc:`アブダクション` 
 
 .. rubric:: 関連リンク
-* `前後即因果の誤謬 <https://ja.wikipedia.org/wiki/前後即因果の誤謬>`_ 
+* `前後即因果の誤謬(Wikipedia) <https://ja.wikipedia.org/wiki/前後即因果の誤謬>`_ 
 
 .. rubric:: 関連ラジオ
 * `【名前はまだ早い】赤ちゃんには「人間」と名乗るべき【赤ちゃんまとめ】#114`_
