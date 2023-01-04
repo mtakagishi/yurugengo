@@ -19,6 +19,12 @@
 .. image:: https://pbs.twimg.com/media/FlKv85DaAAAfO0K?format=jpg&name=large
   :width: 40%
 
+.. image:: https://pbs.twimg.com/media/Flj2VnmakAENCYA?format=jpg&name=large
+  :width: 40%
+
+.. image:: https://pbs.twimg.com/media/Flj2VnmaMAIwEli?format=jpg&name=large
+  :width: 40%
+
 .. rubric:: たなかさんによるイベントレポート
 
 `たなかさん <https://twitter.com/t_n_k_tanaka>`_ 
