@@ -1,0 +1,49 @@
+.. _雑談c54参考文献:
+
+.. :ref:`参考文献:ゆるコンピュータお便り#54 <雑談c54参考文献>`
+
+(コンピュータ#54)ゆるコンピュータお便り
+==================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--SHUREマイクロホンSM7B--><a href="https://www.amazon.co.jp/SHURE-SM7B-%E5%8D%98%E4%B8%80%E6%8C%87%E5%90%91%E6%80%A7%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E5%9E%8B%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%9B%E3%83%B3-%E3%80%90%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E5%93%81%E3%80%91/dp/B0002E4Z8M?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3AKI73SV9OCSO&keywords=SHURE%2BSM7B&qid=1673165802&sprefix=shure%2Bsm7b%2Caps%2C305&sr=8-3&th=1&linkCode=li1&tag=takaoutputblo-22&linkId=aba8128321fd2be06cbdb4df02864b65&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0002E4Z8M&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0002E4Z8M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--Shape of You--><a href="https://amzn.to/3XdWCCB" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/A15CPGYubvL._AC_UL320_.jpg" width="75"></a>
+  <!--ONE OUTS--><a href="https://www.amazon.co.jp/ONE-OUTS-1-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E7%94%B2%E6%96%90%E8%B0%B7%E5%BF%8D-ebook/dp/B00BCY4UJA?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=ONE+OUTS&qid=1672294647&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=79e366f23f4abbad28160b288af65285&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BCY4UJA&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00BCY4UJA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--LIAR GAME--><a href="https://www.amazon.co.jp/LIAR-GAME-1-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E7%94%B2%E6%96%90%E8%B0%B7%E5%BF%8D-ebook/dp/B009GZIU4S?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=SK4UFI538GBV&keywords=%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0&qid=1673166223&sprefix=%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%2Caps%2C167&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=62d81af566b737f7dcf92dbc2478212d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009GZIU4S&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009GZIU4S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--変身--><a href="https://www.amazon.co.jp/%E5%A4%89%E8%BA%AB-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%82%AB%E3%83%95%E3%82%AB/dp/4041092361?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=XB78T7CJD4HR&keywords=%E3%82%AB%E3%83%95%E3%82%AB+%E5%A4%89%E8%BA%AB&qid=1672294809&sprefix=%E3%82%AB%E3%83%95%E3%82%AB+%E5%A4%89%E8%BA%AB%2Caps%2C157&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=52012373d43dc02596b0d2da8d6f2367&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4041092361&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4041092361" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--世界史を変えた詐欺師たち--><a href="https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E5%8F%B2%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E8%A9%90%E6%AC%BA%E5%B8%AB%E3%81%9F%E3%81%A1-%E6%96%87%E6%98%A5%E6%96%B0%E6%9B%B8-%E6%9D%B1%E8%B0%B7-%E6%9A%81/dp/4166611747?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=V1NCN75QSEB8&keywords=%E4%B8%96%E7%95%8C%E5%8F%B2%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E8%A9%90%E6%AC%BA%E5%B8%AB%E3%81%9F%E3%81%A1&qid=1673166509&sprefix=%E4%B8%96%E7%95%8C%E5%8F%B2%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E8%A9%90%E6%AC%BA%E5%B8%AB%E3%81%9F%E3%81%A1%2Caps%2C165&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=50f843669ffc1f16692f419b8d221c78&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4166611747&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4166611747" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+|          タイトル           |                                                   解説                                                   |
++=============================+==========================================================================================================+
+| `SHUREマイクロホンSM7B`_    | ついにマイク新調。エドシーランも使ってるマイクらしい。                                                   |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `Shape of You`_             | エドシーランはこのマイクでShape of You歌ってる。                                                         |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `ONE OUTS`_                 | 「ビュリダンのロバ」の記憶はこの漫画から                                                                 |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `LIAR GAME`_                | 「ONE OUTS」という漫画、ライヤーゲームで有名な甲斐谷忍先生の作品                                         |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `変身`_                     | 不条理こそが人生の本質であるということを文学で書いた。ビュリダンのロバはカフカが書いた、、わけではない。 |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `世界史を変えた詐欺師たち`_ | メルクリウスは、商業の神であり、詐欺師のモチーフ、、、だったのはこの本の記憶？                           |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+.. _世界史を変えた詐欺師たち: https://amzn.to/3vL3D27
+.. _変身: https://amzn.to/3ZjxlZC
+.. _LIAR GAME: https://amzn.to/3Zlrl2n
+.. _ONE OUTS: https://amzn.to/3jQ1EXw
+.. _Shape of You: https://amzn.to/3XdWCCB
+.. _SHUREマイクロホンSM7B: https://amzn.to/3Zjevlg
+
+.. rubric:: 関連動画
+* `C54【おたより回】`_
+
+  .. _C54【おたより回】: https://youtu.be/_boJSEYtOu0
+
+
