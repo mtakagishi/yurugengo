@@ -16,7 +16,18 @@ Spotify協賛、ゆる言語学ラジオのフランチャイズ企画。「知�
 :2022年10月10日: 20時～ #2
 :2022年10月14日: 20時～ #3
 
-以降 毎週金曜日+祝日の20時に毎回公開
+以降 毎週金曜日+祝日の20時に毎回公開　⇒　完
+
+.. rubric:: 最終合格者発表以降の番組
+`しろうさぎさんTweetより <https://twitter.com/_ojimifi/status/1612011399777247232>`_ 
+
+.. image:: https://pbs.twimg.com/media/Fl8D0cDagAAPN6z?format=jpg&name=medium
+  :width: 40%
+
+.. image:: https://pbs.twimg.com/media/Fl8D0tKagAEn-z3?format=jpg&name=medium
+  :width: 40%
+
+
 
 .. rubric:: ゆる学徒ハウス関連リンク
 * :doc:`/videos/yurugackt_house_list` 
