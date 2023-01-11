@@ -25,6 +25,13 @@
 .. image:: https://pbs.twimg.com/media/Flj2VnmaMAIwEli?format=jpg&name=large
   :width: 40%
 
+.. image:: https://pbs.twimg.com/media/FlqZg1ZacAANcBx?format=jpg&name=large
+  :width: 40%
+
+.. image:: https://pbs.twimg.com/media/Flt9-w-akAAKoQ8?format=jpg&name=large
+  :width: 40%
+
+
 .. rubric:: たなかさんによるイベントレポート
 
 `たなかさん <https://twitter.com/t_n_k_tanaka>`_ 
@@ -36,3 +43,8 @@
 * `【大忘年会】700人規模の大会場でリアルイベントやるよ！【告知】#161`_
 
 .. _【大忘年会】700人規模の大会場でリアルイベントやるよ！【告知】#161: https://www.youtube.com/watch?v=OQMHvSyeBUA
+
+.. rubric:: 関連記事
+* `親子で行くゆる言語学ラジオ大忘年会 <https://note.com/nice_dunlin439/n/n0a3a276f41a7>`_ 
+* `「ゆる言語学ラジオ大忘年会、感想」 <https://note.com/tanakaaa_/n/nd4e564a1beb7>`_ 
+* `忘年会の備忘録(ムトウさんの記事) <https://note.com/eureka_muto/n/n7e56b8dc9a86>`_ 
