@@ -1,0 +1,28 @@
+.. _共通試験c55参考文献:
+
+.. :ref:`参考文献:共通試験令和7年情報Ⅰ <共通試験c55参考文献>`
+
+(コンピュータ#55)共通試験令和7年情報Ⅰ
+===================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--令和7年大学共通試験試作問題--><a href="https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r7ikou/r7mondai.html" target="_blank"><img border="0" src="https://www.dnc.ac.jp/albums/component/blockset-sidemenu/abm00000274.png" width="75"></a>
+
++--------------------------------+----------------------------------------------+
+|            タイトル            |                     解説                     |
++================================+==============================================+
+| `令和7年大学共通試験試作問題`_ | 動画で使われた問題などが掲載されているページ |
++--------------------------------+----------------------------------------------+
+.. _令和7年大学共通試験試作問題: https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r7ikou/r7mondai.html
+
+.. rubric:: 関連動画
+* `C55【共通テスト】`_
+
+.. _C55【共通テスト】: https://youtu.be/ZNG4uOnHCPc
+
