@@ -1,0 +1,48 @@
+.. _雑談195参考文献:
+
+.. :ref:`参考文献:インプット奴隷合宿in沖縄 <雑談195参考文献>`
+
+(#195)インプット奴隷合宿in沖縄
+=================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--性倒錯者--><a href="https://www.amazon.co.jp/%E6%80%A7%E5%80%92%E9%8C%AF%E8%80%85-%E3%81%A0%E3%82%8C%E3%82%82%E3%81%8C%E7%A7%98%E3%82%81%E3%82%8B%E6%84%9B%E3%81%AE%E9%80%B8%E8%84%B1-J-Bering/dp/4759818146?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=T2KYWDTZ54BE&keywords=%E6%80%A7%E7%9A%84%E5%80%92%E9%8C%AF&qid=1672483362&sprefix=%E6%80%A7%E7%9A%84%E5%80%92%E9%8C%AF%2Caps%2C339&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=52a2f36dce87744e11b604926c805c68&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4759818146&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4759818146" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--聖なるズー--><a href="https://www.amazon.co.jp/%E8%81%96%E3%81%AA%E3%82%8B%E3%82%BA%E3%83%BC-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%87%E5%BA%AB-%E6%BF%B1%E9%87%8E%E3%81%A1%E3%81%B2%E3%82%8D-ebook/dp/B09P9WZNSL?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3JIE0MLZ2AX47&keywords=%E8%81%96%E3%81%AA%E3%82%8B%E3%82%BA%E3%83%BC&qid=1672483416&sprefix=%E8%81%96%E3%81%AA%E3%82%8B%E3%82%BA%E3%83%BC%2Caps%2C158&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=4656c51559ba0ed6f0a744b326e226ce&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09P9WZNSL&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B09P9WZNSL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--異人論--><a href="https://www.amazon.co.jp/%E7%95%B0%E4%BA%BA%E8%AB%96%E2%80%95%E6%B0%91%E4%BF%97%E7%A4%BE%E4%BC%9A%E3%81%AE%E5%BF%83%E6%80%A7-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E5%B0%8F%E6%9D%BE-%E5%92%8C%E5%BD%A6/dp/4480082182?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E7%95%B0%E4%BA%BA%E8%AB%96&qid=1672483790&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b9d43d20860488deb0774a7f7b2f2310&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480082182&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480082182" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--デカメロン--><a href="https://www.amazon.co.jp/%E3%83%87%E3%82%AB%E3%83%A1%E3%83%AD%E3%83%B3-%E4%B8%8A-%E6%B2%B3%E5%87%BA%E6%96%87%E5%BA%AB-%E3%82%B8%E3%83%A7%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%8B-%E3%83%9C%E3%83%83%E3%82%AB%E3%83%83%E3%83%81%E3%83%A7/dp/4309464378?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3K6K3VVRGXYZW&keywords=%E3%83%87%E3%82%AB%E3%83%A1%E3%83%AD%E3%83%B3&qid=1672483906&sprefix=%E3%83%87%E3%82%AB%E3%83%A1%E3%83%AD%E3%83%B3%2Caps%2C161&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=8b93037fabb1991baf521ecc037b0b67&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4309464378&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4309464378" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--株式会社百戦錬磨--><a href="https://www.hyakuren.org/" target="_blank"><img border="0" src="https://www.hyakuren.org/wp-content/uploads/2014/11/hyaku_logo_s-300x3001.jpg" width="75"></a>
+  <!--インプット奴隷合宿特集 with ゆる言語学ラジオ--><a href="https://stayjapan.com/feature/yurugengo-reading?a8=e.pP1.C9djQlEqpZkE7U.vQmVzoO_ju-fEQiCjTaKiI9djp.8j7uBqf9kLoU0UfQViyqaMpuV.pPws00000023646001" target="_blank"><img border="0" src="https://static.stayjapan.com/room/17f/af3/dd8/240115_thumb.jpeg?1673914339" width="75"></a>
+
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+|                    タイトル                     |                                                    解説                                                     |
++=================================================+=============================================================================================================+
+| `性倒錯者`_                                     | ロバとセックスする男性の話は、初めて聖書に逆らって理性を重視した決定的な事件だった                          |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| `聖なるズー`_                                   | 動物性愛者たちに取材したノンフィクション                                                                    |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| `異人論`_                                       | 異人殺しのフォークロアの話                                                                                  |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| `デカメロン`_                                   | ボッティチェリとボッカチオがイップスになりがち。中身は下ネタのおっさんのたわごと。                          |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| `株式会社百戦錬磨`_                             | 今回のインプット奴隷合宿のスポンサー様                                                                      |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| `インプット奴隷合宿特集 with ゆる言語学ラジオ`_ | 予約時にクーポンコード「yurugengo」を入れるとすべての宿が3%引き、かつゆる言語学ラジオに報酬が入るそうです。 |
++-------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+.. _インプット奴隷合宿特集 with ゆる言語学ラジオ: https://stayjapan.com/feature/yurugengo-reading?a8=e.pP1.C9djQlEqpZkE7U.vQmVzoO_ju-fEQiCjTaKiI9djp.8j7uBqf9kLoU0UfQViyqaMpuV.pPws00000023646001
+.. _株式会社百戦錬磨: https://www.hyakuren.org/
+.. _デカメロン: https://amzn.to/3HbEC6T
+.. _異人論: https://amzn.to/3XzASRL
+.. _聖なるズー: https://amzn.to/3koESGJ
+.. _性倒錯者: https://amzn.to/3ZG9aVu
+
+.. rubric:: 関連動画
+* `#195【インプット奴隷合宿in沖縄】`_
+
+.. _#195【インプット奴隷合宿in沖縄】: https://www.youtube.com/watch?v=CCk0RfL9a1U
+
