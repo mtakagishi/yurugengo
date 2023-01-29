@@ -6,6 +6,13 @@
   :glob:
   
   yurugengo_radio_list
+
+* `動画誤り一覧 <https://yurugengo.com/errata>`_ 
+
+.. toctree::
+  :maxdepth: 1
+  :glob:
+
   yurucomputer_radio_list
   yurugackt_house_list
   collaboration
@@ -13,8 +20,6 @@
   statistics
   /words/index
   /reference/index
-
-* `ゆる言語学ラジオ非公式 Advent Calendar 2022 <https://adventar.org/calendars/7611>`_ 
 
 .. rubric:: 動画リンク一覧
 
