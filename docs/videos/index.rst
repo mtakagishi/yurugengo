@@ -20,6 +20,7 @@
   statistics
   /words/index
   /reference/index
+  anti
 
 .. rubric:: 動画リンク一覧
 
