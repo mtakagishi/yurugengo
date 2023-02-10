@@ -10,6 +10,9 @@
 * 異世界に目を覚まし言葉が分からない状態。赤ちゃんだったら？フィールド学者だったら？
 * 『INDIE Live Expo 2022』で **【実況アワード大賞】【さっさと続きを遊んでほしいで賞】** を受賞
 
+.. tip:: 
+  * 2022年度 :doc:`ゆる言語学ラジオ流行語大賞` ベスト20に登場
+
 .. rubric:: ゲームリンク
 * `steam <https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/>`_ 
 * `ios <https://apps.apple.com/jp/app/7-days-to-end-with-you/id1602772289?platform=iphone>`_ 
