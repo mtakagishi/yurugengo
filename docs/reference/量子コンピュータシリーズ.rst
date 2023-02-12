@@ -58,7 +58,9 @@
 * `C56【量子コンピュータ1】`_
 * `C57【量子コンピュータ2】`_
 * `C58【量子コンピュータ3】`_
+* `C59【量子コンピュータ4】`_
 
 .. _C56【量子コンピュータ1】: https://youtu.be/vkmbLbiLomU
 .. _C57【量子コンピュータ2】: https://youtu.be/-S0JDSDfoh4
 .. _C58【量子コンピュータ3】: https://youtu.be/Uray3ya-fno
+.. _C59【量子コンピュータ4】: https://youtu.be/C4yoA8pXZeo
