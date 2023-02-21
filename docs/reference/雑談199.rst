@@ -90,5 +90,5 @@
 .. rubric:: 関連動画
 * `#199【雑談】`_
 
-.. _#199【雑談】: https://www.youtube.com/watch?v=3lYvzeR7SCU
+.. _#199【雑談】: https://www.youtube.com/watch?v=4EX6b97xcLk
 

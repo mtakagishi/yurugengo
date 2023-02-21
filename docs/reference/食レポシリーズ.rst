@@ -137,10 +137,12 @@
 .. _中華一番！: https://amzn.to/3JZ6fBF
 
 .. rubric:: 関連動画
+* `#205【食レポ4】`_
 * `#204【食レポ3】`_
 * `#203【食レポ2】`_
 * `#202【食レポ1】`_
 
-.. _#204【食レポ3】: https://www.youtube.com/watch?v=3lYvzeR7SCU
-.. _#203【食レポ2】: https://www.youtube.com/watch?v=3lYvzeR7SCU
-.. _#202【食レポ1】: https://www.youtube.com/watch?v=3lYvzeR7SCU
+.. _#205【食レポ4】: https://www.youtube.com/watch?v=jh1NZFTRw_M
+.. _#204【食レポ3】: https://www.youtube.com/watch?v=xAGpNrWDwc4
+.. _#203【食レポ2】: https://www.youtube.com/watch?v=X8LylgC6bdE
+.. _#202【食レポ1】: https://www.youtube.com/watch?v=hADC7RolFh8

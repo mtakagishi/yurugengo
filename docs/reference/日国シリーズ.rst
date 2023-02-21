@@ -151,7 +151,6 @@
 * `#197【辞書物語-日国2】`_
 * `#198【辞書物語-日国3】`_
 
-.. _#196【辞書物語-日国1】: https://www.youtube.com/watch?v=3lYvzeR7SCU
-.. _#197【辞書物語-日国2】: https://www.youtube.com/watch?v=3lYvzeR7SCU
-.. _#198【辞書物語-日国3】: https://www.youtube.com/watch?v=3lYvzeR7SCU
-
+.. _#198【辞書物語-日国3】: https://www.youtube.com/watch?v=vdu2aQ5m7Fo
+.. _#197【辞書物語-日国2】: https://www.youtube.com/watch?v=5vksAhPtvLU
+.. _#196【辞書物語-日国1】: https://www.youtube.com/watch?v=f2caLI2euKs
