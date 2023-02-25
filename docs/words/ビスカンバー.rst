@@ -11,6 +11,7 @@
 * :doc:`アンビピスド` 
 
 .. rubric:: 関連リンク
+* :ref:`OED参考文献 <OED参考文献>`
 * `日本神話とBescumber <https://note.com/takase188/n/ndd1cbaf9f097>`_ 
 
 .. rubric:: 関連ラジオ

@@ -10,6 +10,7 @@
 * :doc:`OED` 
 
 .. rubric:: 関連リンク
+* :ref:`OED参考文献 <OED参考文献>`
 * `堀元氏のアドクソグラフィー <https://note.com/kenhori2>`_ 
 
 .. rubric:: 関連ラジオ

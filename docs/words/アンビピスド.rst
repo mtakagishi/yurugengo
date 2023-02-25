@@ -10,6 +10,9 @@
 .. tip:: 
   我思う、ゆえに、Unbepissed（アンビピスト）あり　（助数詞ーズハイ）
 
+.. rubric:: 関連リンク
+* :ref:`OED参考文献 <OED参考文献>`
+
 
 .. rubric:: 関連ワード
 * :doc:`OED` 
