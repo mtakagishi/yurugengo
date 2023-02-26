@@ -5,6 +5,7 @@
   :maxdepth: 1
   :glob:
   
+  program_list
   yurugengo_radio_list
 
 * `動画誤り一覧 <https://yurugengo.com/errata>`_ 
