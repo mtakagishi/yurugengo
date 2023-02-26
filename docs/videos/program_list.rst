@@ -66,9 +66,8 @@
 
 ----
 
-.. .. rubric:: `番組表：つばめちゃん作 <https://twitter.com/tnmr_xx/status/1629364222797967361>`_ 
+.. rubric:: `番組表：つばめちゃん作 <https://twitter.com/tnmr_xx/status/1629364222797967361>`_ 
 
-.. .. image:: https://pbs.twimg.com/media/FpyqHvUaEAEuHEc?format=jpg&name=large
-..   :width: 40%
-
+.. image:: https://pbs.twimg.com/media/FpyqHvUaEAEuHEc?format=jpg&name=large
+  :width: 40%
 
