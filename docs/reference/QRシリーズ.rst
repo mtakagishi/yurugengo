@@ -14,14 +14,22 @@
 
   <!--QRコードの奇跡--><a href="https://www.amazon.co.jp/QR%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%A5%87%E8%B7%A1-%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%86%E5%9B%A3%E3%81%AE%E7%99%BA%E6%83%B3%E8%BB%A2%E6%8F%9B%E3%81%8C%E9%9D%A9%E6%96%B0%E3%82%92%E7%94%9F%E3%82%93%E3%81%A0-%E5%B0%8F%E5%B7%9D-%E9%80%B2/dp/4492534199?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1ODF9GMHTCMJQ&keywords=QR%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%A5%87%E8%B7%A1&qid=1676699373&sprefix=qr%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E5%A5%87%E8%B7%A1%2Caps%2C177&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=4c5644c78d98b32d0753094d3b93ba6e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4492534199&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4492534199" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--トヨタ生産方式--><a href="https://www.amazon.co.jp/%E3%83%88%E3%83%A8%E3%82%BF%E7%94%9F%E7%94%A3%E6%96%B9%E5%BC%8F%E2%80%95%E2%80%95%E8%84%B1%E8%A6%8F%E6%A8%A1%E3%81%AE%E7%B5%8C%E5%96%B6%E3%82%92%E3%82%81%E3%81%96%E3%81%97%E3%81%A6-%E5%A4%A7%E9%87%8E-%E8%80%90%E4%B8%80/dp/4478460019?keywords=%E3%83%88%E3%83%A8%E3%82%BF%E7%94%9F%E7%94%A3%E6%96%B9%E5%BC%8F&qid=1676699443&sprefix=%E3%83%88%E3%83%A8%E3%82%BF%2Caps%2C193&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=b8e2c11cfbee8321a11d0db132f84ba9&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4478460019&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4478460019" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--符号理論--><a href="https://www.amazon.co.jp/%E7%AC%A6%E5%8F%B7%E7%90%86%E8%AB%96-%E4%BB%8A%E4%BA%95-%E7%A7%80%E6%A8%B9/dp/4885520908?&linkCode=li1&tag=takaoutputblo-22&linkId=334c2fd7af5ec1622ddc1dcb3b151f8c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4885520908&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4885520908" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--チャップリンとヒトラー--><a href="https://www.amazon.co.jp/%E3%83%81%E3%83%A3%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3%E3%81%A8%E3%83%92%E3%83%88%E3%83%A9%E3%83%BC%E2%80%95%E2%80%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%A8%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6-%E5%A4%A7%E9%87%8E-%E8%A3%95%E4%B9%8B/dp/4000238868?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3UKOG415NGQZ9&keywords=%E3%83%81%E3%83%A3%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3%E3%81%A8%E3%83%92%E3%83%88%E3%83%A9%E3%83%BC&qid=1677323900&sprefix=%E3%83%81%E3%83%A3%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3%E3%81%A8%E3%83%92%E3%83%88%E3%83%A9%E3%83%BC%2Caps%2C175&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=25c3397b0438f93f45d5438f0b09ea2c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4000238868&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4000238868" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-+-------------------+------------------------------------------------------------------+
-|     タイトル      |                               解説                               |
-+===================+==================================================================+
-| `QRコードの奇跡`_ | QRシリーズの種本。おとりの野村を派遣し、仲野ら二人で中身を見る！ |
-+-------------------+------------------------------------------------------------------+
-| `トヨタ生産方式`_ | QRシリーズの種本。かんばん、ジャストインタイムなど               |
-+-------------------+------------------------------------------------------------------+
++---------------------------+------------------------------------------------------------------+
+|         タイトル          |                               解説                               |
++===========================+==================================================================+
+| `QRコードの奇跡`_         | QRシリーズの種本。おとりの野村を派遣し、仲野ら二人で中身を見る！ |
++---------------------------+------------------------------------------------------------------+
+| `トヨタ生産方式`_         | QRシリーズの種本。かんばん、ジャストインタイムなど               |
++---------------------------+------------------------------------------------------------------+
+| `符号理論`_               | QRコードの誤り訂正を検討する際に、いちから勉強し直し。           |
++---------------------------+------------------------------------------------------------------+
+| `チャップリンとヒトラー`_ | QRコードの第三回の参考文献として予告された本                     |
++---------------------------+------------------------------------------------------------------+
+.. _チャップリンとヒトラー: https://amzn.to/3Sv5ySW
+.. _符号理論: https://amzn.to/3xW2uGe
 .. _トヨタ生産方式: https://amzn.to/4118Tx7
 .. _QRコードの奇跡: https://amzn.to/3k23sgQ
 
