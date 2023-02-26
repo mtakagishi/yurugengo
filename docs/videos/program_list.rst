@@ -1,6 +1,12 @@
 ゆる○○学ラジオシリーズ番組表
 ========================================
 
+.. rubric:: `ゆる学徒新聞の番組表：つばめちゃん作 <https://twitter.com/tnmr_xx/status/1629364222797967361>`_ 
+
+.. image:: https://pbs.twimg.com/media/FpyqHvUaEAEuHEc?format=jpg&name=large
+  :width: 40%
+
+
 ----
 
 .. image:: https://yt3.googleusercontent.com/sqcPoHsH_ngGs4BCeOOfQ_PZ_QgWGMrF2_V9KPswiV04kK6J-UR-8dDy_ITCRHS2UsBWeFP2aKs=s176-c-k-c0x00ffffff-no-rj-mo
@@ -65,9 +71,4 @@
 :日曜日 20:00 ゆる民俗学ラジオ 黒川・浦下:  `(Youtube) <https://www.youtube.com/@yuruminzoku>`_ `(Spotify) <https://open.spotify.com/show/2OPaWdgRVuUv5jLeFBViDU>`_ 
 
 ----
-
-.. rubric:: `番組表：つばめちゃん作 <https://twitter.com/tnmr_xx/status/1629364222797967361>`_ 
-
-.. image:: https://pbs.twimg.com/media/FpyqHvUaEAEuHEc?format=jpg&name=large
-  :width: 40%
 
