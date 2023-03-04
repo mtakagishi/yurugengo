@@ -22,7 +22,14 @@ Spotify協賛、ゆる言語学ラジオのフランチャイズ企画。「知�
 以降 毎週金曜日+祝日の20時に毎回公開　⇒　完
 
 .. rubric:: 最終合格者発表以降の番組
-`しろうさぎさんTweetより <https://twitter.com/_ojimifi/status/1612011399777247232>`_ 
+
+⇒ :doc:`/videos/program_list` 
+
+.. image:: https://pbs.twimg.com/media/FpyqHvUaEAEuHEc?format=jpg&name=large
+  :width: 40%
+
+`ゆる学徒新聞の番組表（つばめちゃん） <https://twitter.com/tnmr_xx/status/1629364222797967361>`_ 
+
 
 .. image:: https://pbs.twimg.com/media/Fl8D0cDagAAPN6z?format=jpg&name=medium
   :width: 40%
@@ -30,7 +37,14 @@ Spotify協賛、ゆる言語学ラジオのフランチャイズ企画。「知�
 .. image:: https://pbs.twimg.com/media/Fl8D0tKagAEn-z3?format=jpg&name=medium
   :width: 40%
 
+`番組表（しろうさぎさん版） <https://twitter.com/_ojimifi/status/1627595126402093057>`_ 
 
+.. rubric:: その他の学徒コンテンツ
+
+.. image:: https://pbs.twimg.com/media/FpZhI4xakAIARjo?format=jpg&name=medium
+  :width: 40%
+
+`番組表（しろうさぎさん版） <https://twitter.com/_ojimifi/status/1627595126402093057>`_ 
 
 .. rubric:: ゆる学徒ハウス関連リンク
 * :doc:`/videos/yurugackt_house_list` 
