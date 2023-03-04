@@ -5,7 +5,6 @@
   :maxdepth: 1
   :glob:
   
-  program_list
   yurugengo_radio_list
 
 * `動画誤り一覧 <https://yurugengo.com/errata>`_ 
@@ -15,6 +14,7 @@
   :glob:
 
   yurucomputer_radio_list
+  program_list
   yurugackt_house_list
   collaboration
   timeline
