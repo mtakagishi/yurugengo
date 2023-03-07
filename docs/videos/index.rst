@@ -7,6 +7,7 @@
   
   yurugengo_radio_list
 
+* `切り抜き <https://www.youtube.com/@yurugengo_kirinuki>`_ 
 * `動画誤り一覧 <https://yurugengo.com/errata>`_ 
 
 .. toctree::
