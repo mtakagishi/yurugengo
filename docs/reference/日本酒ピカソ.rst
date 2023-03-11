@@ -1,0 +1,55 @@
+.. _日本酒ピカソ雑談回参考文献:
+
+.. :ref:`参考文献:日本酒ピカソ雑談回 <日本酒ピカソ雑談回参考文献>`
+
+(#210)日本酒ピカソ雑談回
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--ピカソ19代（日本酒）--><a href="https://picasso19.base.shop/" target="_blank"><img border="0" src="https://baseec-img-mng.akamaized.net/images/user/logo/097c94094c2242be7bd5267d43acbf9f.jpeg" width="75"></a>
+  <!--美味しんぼ--><a href="https://amzn.to/3ZYmGmB" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/B1H2Gb0CtiS._SY300_.png" width="75"></a>
+  <!--ラーメン発見伝--><a href="https://www.amazon.co.jp/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E7%99%BA%E8%A6%8B%E4%BC%9D%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%B2%B3%E5%90%88%E5%8D%98-ebook/dp/B00BEPE9QG?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=310GWG36BATM6&keywords=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E7%99%BA%E8%A6%8B%E4%BC%9D&qid=1678518237&sprefix=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E7%99%BA%E8%A6%8B%E4%BC%9D%2Caps%2C151&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=d61435b7bf26c0e8cdb550cb28482c5f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BEPE9QG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00BEPE9QG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--課長 島耕作--><a href="https://www.amazon.co.jp/%E8%AA%B2%E9%95%B7-%E5%B3%B6%E8%80%95%E4%BD%9C%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%BC%98%E5%85%BC%E6%86%B2%E5%8F%B2-ebook/dp/B009KWUHDY?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3DARD2CX77WL7&keywords=%E5%B3%B6%E8%80%95%E4%BD%9C&qid=1678518525&sprefix=%E5%B3%B6%E8%80%95%E4%BD%9C+%E5%85%A8%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88%2Caps%2C159&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=35f391fb5f612e5ec4fd79b6289092cc&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009KWUHDY&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009KWUHDY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--世界史をつくった海賊--><a href="https://www.amazon.co.jp/%E4%B8%96%E7%95%8C%E5%8F%B2%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F%E6%B5%B7%E8%B3%8A-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%B0%E6%9B%B8-%E7%AB%B9%E7%94%B0%E3%81%84%E3%81%95%E3%81%BF-ebook/dp/B01ENBV9XI?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E4%B8%96%E7%95%8C%E5%8F%B2%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F%E6%B5%B7%E8%B3%8A&qid=1678518188&s=digital-text&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=4a3005973a26bad98b21ecb04cd5ba6a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ENBV9XI&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01ENBV9XI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--正直不動産--><a href="https://www.amazon.co.jp/%E6%AD%A3%E7%9B%B4%E4%B8%8D%E5%8B%95%E7%94%A3%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%A4%A7%E8%B0%B7%E3%82%A2%E3%82%AD%E3%83%A9-ebook/dp/B078MKQL19?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1P96QW0ZZ2EM5&keywords=%E6%AD%A3%E7%9B%B4%E4%B8%8D%E5%8B%95%E7%94%A3&qid=1678518744&sprefix=%E6%AD%A3%E7%9B%B4%E4%B8%8D%E5%8B%95%E7%94%A3%2Caps%2C144&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=3fb18f9982d3e8ad92dbc9ac2b15a1f2&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078MKQL19&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B078MKQL19" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--官能小説用語表現辞典--><a href="https://www.amazon.co.jp/%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AA%AC%E7%94%A8%E8%AA%9E%E8%A1%A8%E7%8F%BE%E8%BE%9E%E5%85%B8-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%87%E5%BA%AB-%E6%B0%B8%E7%94%B0-%E5%AE%88%E5%BC%98/dp/4480422331?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AA%AC%E7%94%A8%E8%AA%9E%E8%A1%A8%E7%8F%BE%E8%BE%9E%E5%85%B8&qid=1678519359&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=63e1d6b3291e8dabd7fb17bf5cf79ec5&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480422331&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480422331" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-------------------------+------------------------------------------------------------------------------------------------------------+
+|        タイトル         |                                                    解説                                                    |
++=========================+============================================================================================================+
+| `ピカソ19代（日本酒）`_ | 動画スポンサー新都ホールディングス新都ホールディングスの日本酒ブランド。                                   |
++-------------------------+------------------------------------------------------------------------------------------------------------+
+| `美味しんぼ`_           | ゆる言語学ラジオで食レポ回のあとに大人買い                                                                 |
++-------------------------+------------------------------------------------------------------------------------------------------------+
+| `ラーメン発見伝`_       | ラーメンハゲが活躍するこの漫画は、美味しんぼと共通点のあるビジネス書なのか                                 |
++-------------------------+------------------------------------------------------------------------------------------------------------+
+| `課長 島耕作`_          | 仕事以外の能力で出世する構図、島耕作の場合はモテる、人望がある                                             |
++-------------------------+------------------------------------------------------------------------------------------------------------+
+| `世界史をつくった海賊`_ | 保険会社とは無関係なコーヒーハウスが前身で世界的企業になった構図は、美味しんぼとの共通点にするにはムリ筋？ |
++-------------------------+------------------------------------------------------------------------------------------------------------+
+| `正直不動産`_           | 嘘がつけないことで部下の信頼を得られるようになる漫画                                                       |
++-------------------------+------------------------------------------------------------------------------------------------------------+
+| `官能小説用語表現辞典`_ | 絶頂表現は、食レポにも通ずる？                                                                             |
++-------------------------+------------------------------------------------------------------------------------------------------------+
+.. _官能小説用語表現辞典: https://amzn.to/3ytrK6G
+.. _正直不動産: https://amzn.to/3l10cTp
+
+.. _世界史をつくった海賊: https://amzn.to/3JyXQ7H
+.. _課長 島耕作: https://amzn.to/4233cPw
+.. _ラーメン発見伝: https://amzn.to/3ZDbEmV
+
+.. _美味しんぼ: https://amzn.to/3ZYmGmB
+
+.. _ピカソ19代（日本酒）: https://picasso19.base.shop/
+
+.. rubric:: 関連動画
+* `#210【日本酒案件】`_
+
+.. _#210【日本酒案件】: https://www.youtube.com/watch?v=sCXEHbKF4ms
+
