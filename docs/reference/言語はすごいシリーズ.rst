@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:言語はすごいシリーズ <言語はすごいシリーズ参考文献>`
 
-(#1-#3,#212-#213)言語はすごいシリーズ
+(#1-#3,#212-#214)言語はすごいシリーズ
 ===================================================================================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -36,6 +36,10 @@
   <!--シジュウカラの文法研究--><a href="https://www.cell.com/current-biology/fulltext/S0960-9822(17)30766-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982217307662%3Fshowall%3Dtrue" target="_blank"><img border="0" src="https://www.cell.com/cms/attachment/6c0289cd-c494-496f-a10d-7e05bc77a2b2/fx1.jpg" width="75"></a>
   <!--これからの英単語--><a href="https://www.amazon.co.jp/%E3%80%90%E9%9F%B3%E5%A3%B0DL%E4%BB%98%E3%80%91%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E8%8B%B1%E5%8D%98%E8%AA%9E-%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%A2/dp/4757439369?&linkCode=li1&tag=takaoutputblo-22&linkId=7deed4a52716f55b4ab5345dd9f7969d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4757439369&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4757439369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--無頼伝 涯--><a href="https://www.amazon.co.jp/%E7%84%A1%E9%A0%BC%E4%BC%9D-%E6%B6%AF-%EF%BC%91-%E7%A6%8F%E6%9C%AC-%E4%BC%B8%E8%A1%8C-ebook/dp/B00E3R9ZZM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2CWFA0NL0B2NS&keywords=%E7%84%A1%E9%A0%BC%E4%BC%9D%E6%B6%AF&qid=1679324403&s=books&sprefix=%E7%84%A1%E9%A0%BC%E4%BC%9D%E6%B6%AF%2Cstripbooks%2C207&sr=1-2&linkCode=li1&tag=takaoutputblo-22&linkId=28402f772aa3ba648864018b850fe02c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E3R9ZZM&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00E3R9ZZM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ビジュアル音声学--><a href="https://www.amazon.co.jp/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E9%9F%B3%E5%A3%B0%E5%AD%A6-%E5%B7%9D%E5%8E%9F-%E7%B9%81%E4%BA%BA/dp/4385365326?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=6K8HREJKWAST&keywords=%E9%9F%B3%E5%A3%B0%E5%AD%A6&qid=1679120218&s=books&sprefix=%E3%81%8A%E3%82%93%E3%81%9B%E3%81%84%E3%81%8Ck%2Cstripbooks%2C292&sr=1-3&linkCode=li1&tag=takaoutputblo-22&linkId=f838a973a457451b29b1723f2a310f6d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4385365326&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4385365326" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--日経サイエンス2023年1月号--><a href="https://www.amazon.co.jp/%E6%97%A5%E7%B5%8C%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B92023%E5%B9%B41%E6%9C%88%E5%8F%B7-%E9%9B%91%E8%AA%8C-%E6%97%A5%E7%B5%8C%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9-ebook/dp/B0BMZTZVGB?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=N3KG69XYYTLW&keywords=%E6%97%A5%E7%B5%8C%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9&qid=1679120375&s=books&sprefix=%E6%97%A5%E7%B5%8C%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%2Cstripbooks%2C360&sr=1-21&linkCode=li1&tag=takaoutputblo-22&linkId=870493d3a0e6c33ba61e3aa504780c0f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BMZTZVGB&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0BMZTZVGB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--WALS Online--><a href="https://wals.info/" target="_blank"><img border="0" src="https://wals.info/static/header.gif" width="75"></a>
+  <!--動物のお医者さん--><a href="https://www.amazon.co.jp/%E5%8B%95%E7%89%A9%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93-1-%E8%8A%B1%E3%81%A8%E3%82%86%E3%82%81%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%BD%90%E3%80%85%E6%9C%A8%E5%80%AB%E5%AD%90-ebook/dp/B00DMU88WC?crid=1SW5CU6JB9VJW&keywords=%E5%8B%95%E7%89%A9%E3%81%AE%E3%81%8A%E5%8C%BB%E8%80%85%E3%81%95%E3%82%93&qid=1679668775&sprefix=%E5%8B%95%E7%89%A9%E3%81%AE%2Caps%2C178&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b0cd3936c2ee6508c23a5bf2f90e716e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DMU88WC&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00DMU88WC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   
 +-----------------------------------------+----------------------------------------------------------------------------+
 |                タイトル                 |                                    解説                                    |
@@ -88,6 +92,18 @@
 +-----------------------------------------+----------------------------------------------------------------------------+
 | `無頼伝 涯`_                            | 孤立せよ！                                                                 |
 +-----------------------------------------+----------------------------------------------------------------------------+
+| `ビジュアル音声学`_                     | 音声学の基本的な内容はこちら                                               |
++-----------------------------------------+----------------------------------------------------------------------------+
+| `日経サイエンス2023年1月号`_            | 舌の層構造の話                                                             |
++-----------------------------------------+----------------------------------------------------------------------------+
+| `WALS Online`_                          | 言語に関する巨大データベース。ロトカス語やコー語の話はこちら               |
++-----------------------------------------+----------------------------------------------------------------------------+
+| `動物のお医者さん`_                     |                                                                            |
++-----------------------------------------+----------------------------------------------------------------------------+
+.. _動物のお医者さん: https://amzn.to/3K3lnO9
+.. _WALS Online: https://wals.info/
+.. _日経サイエンス2023年1月号: https://amzn.to/3TQ0Ekb
+.. _ビジュアル音声学: https://amzn.to/3nmaJtb
 .. _無頼伝 涯: https://amzn.to/3LAmkPf
 .. _これからの英単語: https://amzn.to/3JXHchW
 .. _シジュウカラの文法研究: https://www.cell.com/current-biology/fulltext/S0960-9822(17)30766-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982217307662%3Fshowall%3Dtrue
@@ -114,12 +130,14 @@
 .. _ソシュール 一般言語学講義: https://amzn.to/3YVbvKI
 
 .. rubric:: 関連動画
+* `#214【リメイク3：音はスゴイ】`_
 * `#213【リメイク2：文法はスゴイ】`_
 * `#212【リメイク1：単語はスゴイ】`_
 * `#3【藤原不比等は「ぷぢぃぱらのぷぴちょ」だった】`_
 * `#2【言語がたくさんある理由】`_
 * `#1【言語学って何？】`_
 
+.. _#214【リメイク3：音はスゴイ】: https://www.youtube.com/watch?v=MP4j-hA8e-U
 .. _#213【リメイク2：文法はスゴイ】: https://www.youtube.com/watch?v=7KrvOHH185A
 .. _#212【リメイク1：単語はスゴイ】: https://www.youtube.com/watch?v=wXfvmSA94NQ
 .. _#3【藤原不比等は「ぷぢぃぱらのぷぴちょ」だった】: https://www.youtube.com/watch?v=KItCvPD86pw
