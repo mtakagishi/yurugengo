@@ -74,7 +74,7 @@ instance/
 # Sphinx documentation
 docs/_build/
 # sitemapをONにすると毎回コンパイルが入るのでローカルでは常にオフにするために管理対象外にする
-docs/conf.py
+conf.py
 
 # PyBuilder
 .pybuilder/
