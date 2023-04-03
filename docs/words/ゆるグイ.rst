@@ -12,10 +12,12 @@
 
 .. rubric:: 関連リンク
 
-* `ゆるグイ`_
+* `ゆるグイ1話`_
+* `ゆるグイ2話`_
 * :ref:`ホーリーランド雑談回考文献 <雑談c19参考文献>`
 
-.. _ゆるグイ: https://www.pixiv.net/artworks/101681307
+.. _ゆるグイ1話: https://www.pixiv.net/artworks/101681307
+.. _ゆるグイ2話: https://www.pixiv.net/artworks/106830590
 
 
 .. rubric:: 関連ラジオ
