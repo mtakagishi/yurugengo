@@ -221,6 +221,7 @@
 * `(2022年6月19日)SPUR8月号にて「ゆるモード言語学」をお届けします <https://spur.hpplus.jp/magazine/topics/202206/19/FomTUFk/>`_ 
 * `(2022年7月30日)バリューブックスアンバサダー <https://www.valuebooks.jp/endpaper/11097/>`_ 
 * `(2022年8月20日)バリューブックスインタビュー記事 <https://www.valuebooks.jp/endpaper/11097/>`_ 
+* `(2023年4月6日)若者を中心に流行！YouTuber『ゆる言語学ラジオ』が生んだ“インプット奴隷合宿”の旅行スタイル「観光をせずに知識を詰め込む」 <https://www.jprime.jp/articles/-/27405>`_ 
 
 .. _ゆる言語学ラジオYoutubeホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists

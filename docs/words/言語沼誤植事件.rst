@@ -17,6 +17,10 @@
 
 など新たなカルチャーを生み出した。
 
+.. tip:: 
+  2023年4月7日、誤植事件を経て修正された正式版（初版2023年4月18日奥付分）が `無事発売 <https://amzn.to/3zJ3u14>`_ された。
+  緊急差し止めもあり、世に出回った誤植バージョン（初版2023年1月21日奥付分）は数百部程度に抑えられていると推定される。手に渡ったとしても、よほどコアなファン層だけと思われる。現物を見ることができたとしたらよほど運がいい。
+
 .. rubric:: Script By `アンジオ点心 <https://twitter.com/angiodianxin>`_ 
 * `解読の詳細＝Night to Laugh with Horimoto RTA記録 <https://yurugengo-adcal-2022-24.s3.ap-northeast-1.amazonaws.com/index.html>`_ 
 
