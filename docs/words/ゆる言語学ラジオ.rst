@@ -222,6 +222,8 @@
 * `(2022年7月30日)バリューブックスアンバサダー <https://www.valuebooks.jp/endpaper/11097/>`_ 
 * `(2022年8月20日)バリューブックスインタビュー記事 <https://www.valuebooks.jp/endpaper/11097/>`_ 
 * `(2023年4月6日)若者を中心に流行！YouTuber『ゆる言語学ラジオ』が生んだ“インプット奴隷合宿”の旅行スタイル「観光をせずに知識を詰め込む」 <https://www.jprime.jp/articles/-/27405>`_ 
+* `(2023年4月7日)利益をすべて還元しますが、「いい会社」ではありません <https://note.com/kyurikko/n/n601ddeef1bd4>`_ 
+* `(2023年4月8日)学問のアウトリーチ―「ゆる言語学ラジオ」と『言語沼』― <https://www.senshu-u.ac.jp/School/nichigo/student/column.html>`_ 
 
 .. _ゆる言語学ラジオYoutubeホーム: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/featured
 .. _再生リスト: https://www.youtube.com/channel/UCmpkIzF3xFzhPez7gXOyhVg/playlists
