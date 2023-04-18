@@ -72,13 +72,15 @@ html_theme_options = {
     "external_links": [
         {"name": "問合せ", "url": "https://forms.gle/WJ3khhqqeNrEr8fv6"},
     ],
+    "primary_sidebar_end": ["ads_top_medium_rectangle.html"],
 }
 html_theme_options["analytics"] = {
     "google_analytics_id": "G-ZQ74H2ZF8F",
 }
 html_sidebars = {
-    "words/*": ["search-field.html", "sidebar-ethical-ads.html"],
-    "reference/*": ["search-field.html", "sidebar-ethical-ads.html"],
+    "words/*": ["search-field.html", "ads_top_medium_rectangle.html"],
+    "reference/*": ["search-field.html", "ads_top_medium_rectangle.html"],
+    "**": ["search-field.html", "ads_top_medium_rectangle.html"],
 }
 
 [extensions]
