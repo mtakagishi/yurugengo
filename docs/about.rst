@@ -21,6 +21,14 @@ Amazonアソシエイト
 --------------------------------------------
 当サイトはamazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、Amazonアソシエイト・プログラムの参加者です。
 
+Google Adsense
+-------------------
+当サイトはGoogleAdsenseに参加しています。
+
+The Moneytizer
+-------------------
+当サイトは `The Moneytizer <https://us.themoneytizer.com/&sponsor=145d85f430008add7c50469cf587a9e9#inscription>`_ の広告プログラムに参加しています。
+
 お問合せ
 -------------------
 * `お問合せ・ご意見・ご要望 <https://forms.gle/WJ3khhqqeNrEr8fv6>`_
