@@ -33,7 +33,7 @@ html_last_updated_fmt = '%Y/%m/%d'
 extensions = [
     'sphinx.ext.todo',
     'recommonmark',
-    # 'sphinx_sitemap',
+    'sphinx_sitemap',
     'sphinxnotes.strike',
     'sphinxcontrib.blockdiag',
 ]
