@@ -66,13 +66,13 @@ html_favicon = "_static/favicon.ico"
 html_theme_options = {
     "github_url": "https://github.com/mtakagishi/yurugengo",
     "twitter_url": "https://twitter.com/mtakagishi",
-    # "google_analytics_id": "UA-183061927-3",
+    "google_analytics_id": "UA-183061927-3",
     "navbar_end": ["navbar-icon-links.html", "search-field.html"],
     "footer_items": ["copyright"],
     "external_links": [
         {"name": "問合せ", "url": "https://forms.gle/WJ3khhqqeNrEr8fv6"},
     ],
-    "primary_sidebar_end": ["ads_top_medium_rectangle.html"],
+    "article_footer_items": ["ads.html", "prev-next.html"],
 }
 html_theme_options["analytics"] = {
     "google_analytics_id": "G-ZQ74H2ZF8F",
