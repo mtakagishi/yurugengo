@@ -33,7 +33,7 @@ html_last_updated_fmt = '%Y/%m/%d'
 extensions = [
     'sphinx.ext.todo',
     'recommonmark',
-    'sphinx_sitemap',
+    # 'sphinx_sitemap',
     'sphinxnotes.strike',
     'sphinxcontrib.blockdiag',
 ]
@@ -78,9 +78,9 @@ html_theme_options["analytics"] = {
     "google_analytics_id": "G-ZQ74H2ZF8F",
 }
 html_sidebars = {
-    "words/*": ["search-field.html", "ads_top_medium_rectangle.html"],
-    "reference/*": ["search-field.html", "ads_top_medium_rectangle.html"],
-    "**": ["search-field.html", "ads_top_medium_rectangle.html"],
+    "words/*": ["search-field.html"],
+    "reference/*": ["search-field.html"],
+    # "**": ["search-field.html", "ads_top_medium_rectangle.html"],
 }
 
 [extensions]
