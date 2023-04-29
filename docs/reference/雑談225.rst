@@ -1,0 +1,129 @@
+.. _あいみょん雑談参考文献:
+
+.. :ref:`参考文献:あいみょん雑談 <あいみょん雑談参考文献>`
+
+(#224)あいみょん雑談
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--Cut 2022年 09 月号--><a href="https://amzn.to/3LFtnFU" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/61jITcFz+AL._SX618_BO1,204,203,200_.jpg" width="75"></a>
+  <!--TV Bros. 2020年10月号 あいみょん特集号--><a href="https://amzn.to/3AFs838" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51ArxQx88mL._SX389_BO1,204,203,200_.jpg" width="75"></a>
+  <!--TV Bros. 2022年11月号あいみょん特集号--><a href="https://amzn.to/40Q3SWS" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51yyWwh9XoL._SX389_BO1,204,203,200_.jpg" width="75"></a>
+  <!--MUSICA(ムジカ) 2021年 05 月号--><a href="https://amzn.to/3nhbcwX" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51q4eOzqaCL._SX387_BO1,204,203,200_.jpg" width="75"></a>
+  <!--官能小説用語表現辞典--><a href="https://www.amazon.co.jp/%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AA%AC%E7%94%A8%E8%AA%9E%E8%A1%A8%E7%8F%BE%E8%BE%9E%E5%85%B8-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%87%E5%BA%AB-%E6%B0%B8%E7%94%B0-%E5%AE%88%E5%BC%98/dp/4480422331?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1GHX3E5NP9PJL&keywords=%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AA%AC%E8%A1%A8%E7%8F%BE&qid=1682614795&s=books&sprefix=%E5%AE%98%E8%83%BD%E5%B0%8F%E8%AA%AC%E8%A1%A8%E7%8F%BE%2Cstripbooks%2C508&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=d705cdbc4fa5ce086d933c91d30a8caf&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480422331&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480422331" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--今夜このまま--><a href="https://www.amazon.co.jp/%E4%BB%8A%E5%A4%9C%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE-%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/dp/B07HHNFYJ2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1A3FNIK3AE903&keywords=%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93+%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0&qid=1682748446&sprefix=%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93+%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%2Caps%2C166&sr=8-26&linkCode=li1&tag=takaoutputblo-22&linkId=d49e8d1b871f98783ae2a65190b12d19&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HHNFYJ2&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07HHNFYJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--吾輩は猫である--><a href="https://www.amazon.co.jp/%E5%90%BE%E8%BC%A9%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E5%A4%8F%E7%9B%AE-%E6%BC%B1%E7%9F%B3-ebook/dp/B00O4QJYPS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E5%90%BE%E8%BC%A9%E3%81%AF%E7%8C%AB%E3%81%A7%E3%81%82%E3%82%8B&qid=1682750182&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1VFJSU0Q2MjUxQjImZW5jcnlwdGVkSWQ9QTAyNzIwODRHQkZNVEVaVkM3WE0mZW5jcnlwdGVkQWRJZD1BMlcyUktKQ00wSE0wTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=li1&tag=takaoutputblo-22&linkId=55cf30e14de25607b3d56c60a9771817&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4QJYPS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00O4QJYPS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--カフカ『変身』--><a href="https://www.amazon.co.jp/%E5%A4%89%E8%BA%AB-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%82%AB%E3%83%95%E3%82%AB/dp/4102071016?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=8522GMS9TJZO&keywords=%E3%82%AB%E3%83%95%E3%82%AB+%E5%A4%89%E8%BA%AB&qid=1682750294&sprefix=%E3%82%AB%E3%83%95%E3%82%AB+%E5%A4%89%E8%BA%AB%2Caps%2C164&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=500faebe8527e35fd43fd72ac2bf63c7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4102071016&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4102071016" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--シグルイ--><a href="https://www.amazon.co.jp/%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4-1-%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3RED%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%B1%B1%E5%8F%A3%E8%B2%B4%E7%94%B1-ebook/dp/B00F3833WG?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=WJQ9ICA6K1RK&keywords=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4&qid=1682750383&sprefix=%E3%82%B7%E3%82%B0%E3%83%AB%E3%82%A4%2Caps%2C166&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=c874b989e13a5e1ea67226d22d79a69c&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F3833WG&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00F3833WG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--おいしいパスタがあると聞いて--><a href="https://www.amazon.co.jp/%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%83%91%E3%82%B9%E3%82%BF%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A8%E8%81%9E%E3%81%84%E3%81%A6-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%9B%A4-%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/dp/B08DDMP74N?keywords=%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93+%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%83%91%E3%82%B9%E3%82%BF%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A8%E8%81%9E%E3%81%84%E3%81%A6&qid=1682750521&sprefix=%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93+%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84%E3%83%91%E3%82%B9%E3%82%BF%2Caps%2C192&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=4084bec0b75d470a67fd402d5ab5942e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08DDMP74N&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08DDMP74N" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--セトウツミ--><a href="https://www.amazon.co.jp/%E3%82%BB%E3%83%88%E3%82%A6%E3%83%84%E3%83%9F-%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF-%E5%85%A88%E5%B7%BB%E3%82%BB%E3%83%83%E3%83%88-%E6%AD%A4%E5%85%83-%E5%92%8C%E6%B4%A5%E4%B9%9F/dp/B078Z74ZTB?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1BFA4OOVHUWO6&keywords=%E3%82%BB%E3%83%88%E3%82%A6%E3%83%84%E3%83%9F&qid=1682750960&sprefix=%E3%82%BB%E3%83%88%E3%82%A6%E3%83%84%E3%83%9F%2Caps%2C260&sr=8-11&linkCode=li1&tag=takaoutputblo-22&linkId=ca306b06085bbb03dc7bac6c46bac762&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078Z74ZTB&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B078Z74ZTB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--小澤實の俳句--><a href="https://amzn.to/40IHpuM" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71FWm3kLqVL._AC_UL400_.jpg" width="75"></a>
+  <!--雪国--><a href="https://www.amazon.co.jp/%E9%9B%AA%E5%9B%BD-%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90-ebook/dp/B00CL6MWXY?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3HX6WK0JAMUO4&keywords=%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90+%E9%9B%AA%E5%9B%BD&qid=1682752894&sprefix=%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90+%E9%9B%AA%E5%9B%BD%2Caps%2C186&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=67a68482c212dfef8162496f6319d223&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CL6MWXY&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00CL6MWXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+|                 タイトル                  |                                                      解説                                                      |
++===========================================+================================================================================================================+
+| `Cut 2022年 09 月号`_                     | この日のために水野さんが予習してきたあいみょんインタビュー記事                                                 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `TV Bros. 2020年10月号 あいみょん特集号`_ | この日のために水野さんが予習してきたあいみょんインタビュー記事                                                 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `TV Bros. 2022年11月号あいみょん特集号`_  | この日のために水野さんが予習してきたあいみょんインタビュー記事                                                 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `MUSICA(ムジカ) 2021年 05 月号`_          | この日のために水野さんが予習してきたあいみょんインタビュー記事                                                 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `官能小説用語表現辞典`_                   | あいみょんも読んでる、「おしりが浮いてくよー」など独特の言い回し、詳細動画は `#130`_                           |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `吾輩は猫である`_                         | 猫になりたいと思う、猫になったんだよな君は、それは「吾輩は猫である」ということか                               |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `カフカ『変身』`_                         | 猫になってしまうなら、どちらかと言えばカフカの変身。毒虫になったほうなんよ                                     |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `シグルイ`_                               | あいみょんの歌は、シグルイのよう。1ページ先が予測できない                                                      |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `おいしいパスタがあると聞いて`_           | チカ、マシマロ、マリーゴールドなどが収録されたあいみょん3rdアルバム                                            |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `セトウツミ`_                             | 岡山弁の転校生が口喧嘩でおされてるから、強めの関西弁で闘いを挑む                                               |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `小澤實の俳句`_                           | 「ふはふはのふくろふの子のふかれをり」という俳句、「ふ」が多い                                                 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+| `雪国`_                                   | 良い書き出しとは、量的に書き過ぎないこと、質的に書き過ぎないこと。「国境の長いトンネルを抜けると雪国であった」 |
++-------------------------------------------+----------------------------------------------------------------------------------------------------------------+
+.. _雪国: https://amzn.to/422yWDy
+.. _小澤實の俳句: https://amzn.to/40IHpuM
+
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+|                     タイトル                     |                                                  解説                                                  |
++==================================================+========================================================================================================+
+| `DISH// (北村匠海) - 猫`_                        | あいみょんさん作詞作曲、明日ってウザいほどくるよな。                                                   |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `YOASOBI - 夜に駆ける`_                          | ありきたりな喜びきっと二人なら見つけられる                                                             |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `THE虎舞竜「ロード」`_                           | 何でもないような事が　幸せだったと思う                                                                 |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん –チカ`_                              | A.P.Cの黒い財布　なくしてしまって海へダイブで始まる。知ってる　レッテル　貼られてるなど韻を踏みまくり  |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `SHE IS SUMMER -とびきりのおしゃれして別れ話を`_ | あいみょんの「チカ」の情景と似ている。最後によく見られたいという気持ち                                 |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん - 裸の心`_                           | ウケないと言われる、イントロが長いバラード、韻を踏んでない                                             |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん - 夢追いベンガル`_                   | エロも今はいらない、その時考えりゃいい、、、いを印象付ける。いの連続がセミの鳴き声とリフレインさせる話 |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `ポルノグラフィティ『アゲハ蝶』`_                | 冷たい水をくださいできたら愛してください、、、JPOPは、水を欲しがるセミの歌？？？                       |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん・マトリョーシカ`_                    | 「あいつの全てを知り尽くし尻に敷いてしまいたいわ」、と「し」の音が多い                                 |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん・ユラユラ`_                          | ブラインド越しに見える月、を「みながらしよう」と言った夜                                               |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `My Hair is Bad - 真赤`_                         | ブラジャーのホックを外す時だけ 心の中までわかった気がした                                              |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `Into the land of Mystery`_                      | あいみょん・神秘の領域へ 、、、歌いだし即セックスの歌                                                  |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん – 桜が降る夜は`_                     | 4月の夜はまだ少し肌寒いね、、微妙な距離はダブルミーニング                                              |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん・ひかりもの（Raw Like Sushi）`_      | 自分の体験を歌詞にすることは少ない、数少ない反例の一曲、ピュアすぎて歌うのが恥ずかしい                 |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん - マシマロ`_                         | あいみょんの歌、エッチに解釈しがち、「目の前にあるマシマロの丘　チョコレイトで汚したい」               |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん - 満月の夜なら`_                     | そんなエロい曲作って…って思ったのなら、「エッチなのはアンタたちの頭の中」                              |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+| `あいみょん - マリーゴールド`_                   | 深読みおじさんたち曰く、方や「楊貴妃の歌」、方や「インテリ悪口」、その心は、、、またいつか！？         |
++--------------------------------------------------+--------------------------------------------------------------------------------------------------------+
+.. _あいみょん - マリーゴールド: https://youtu.be/0xSiBpUdW4E
+.. _あいみょん - マシマロ: https://youtu.be/jq0c35eLyFw
+.. _あいみょん・ひかりもの（Raw Like Sushi）: https://youtu.be/NgAnXUbPqyw
+.. _あいみょん – 桜が降る夜は: https://youtu.be/OIT9LpQKbeg
+.. _Into the land of Mystery: https://youtu.be/CvZvxi-IzlQ
+.. _My Hair is Bad - 真赤: https://youtu.be/0M3HoC2uGhM
+.. _あいみょん・ユラユラ: https://youtu.be/HcSv2B0Rcnc
+.. _あいみょん・マトリョーシカ: https://youtu.be/p6LKnhxpXRQ
+.. _ポルノグラフィティ『アゲハ蝶』: https://youtu.be/VeYrhSSQuzI
+.. _あいみょん - 夢追いベンガル: https://youtu.be/ViG28OU9crI
+.. _あいみょん - 裸の心: https://youtu.be/yOAwvRmVIyo
+.. _SHE IS SUMMER -とびきりのおしゃれして別れ話を: https://youtu.be/w13vejFKsFs
+.. _セトウツミ: https://amzn.to/3Lfc3pL
+.. _あいみょん - 満月の夜なら: https://youtu.be/OVKKtwDReEA
+.. _おいしいパスタがあると聞いて: https://amzn.to/3NjTjbh
+.. _あいみょん –チカ: https://youtu.be/y_sdl_0PQX0
+.. _シグルイ: https://amzn.to/424UQ9o
+.. _カフカ『変身』: https://amzn.to/40SuQwS
+.. _吾輩は猫である: https://amzn.to/41PgVcr
+.. _THE虎舞竜「ロード」: https://youtu.be/kIdd_KVRI98
+.. _YOASOBI - 夜に駆ける: https://youtu.be/j1hft9Wjq9U
+.. _DISH// (北村匠海) - 猫: https://youtu.be/gsT6eKsnT0M
+.. _今夜このまま: https://amzn.to/3Vd6zk9
+.. _官能小説用語表現辞典: https://amzn.to/40SVx4C
+.. _MUSICA(ムジカ) 2021年 05 月号: https://amzn.to/3nhbcwX
+.. _TV Bros. 2022年11月号あいみょん特集号: https://amzn.to/40Q3SWS
+.. _TV Bros. 2020年10月号 あいみょん特集号: https://amzn.to/3AFs838
+.. _Cut 2022年 09 月号: https://amzn.to/3nb3Jzx
+.. _官能小説辞典を読んだら、官能小説みたいな声が出た【官能小説の表現】#130: https://www.youtube.com/watch?v=8FEphvanuHo
+
+.. rubric:: 関連動画
+* `#225【あいみょん雑談】`_
+
+.. _#225【あいみょん雑談】: https://www.youtube.com/watch?v=4vA_5_f-GxI
