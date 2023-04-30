@@ -1,6 +1,5 @@
-sphinx == 4.2
-pydata-sphinx-theme == 0.11.0
-recommonmark
+pydata-sphinx-theme
+myst-parser
 sphinx-sitemap
 sphinxnotes-strike
 sphinxcontrib-blockdiag
