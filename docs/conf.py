@@ -32,7 +32,7 @@ html_last_updated_fmt = '%Y/%m/%d'
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'recommonmark',
+    "myst_parser",
     'sphinx_sitemap',
     'sphinxnotes.strike',
     'sphinxcontrib.blockdiag',
@@ -46,7 +46,7 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-# language = 'ja'
+# language = "ja"
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -63,12 +63,14 @@ html_title = project
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 html_favicon = "_static/favicon.ico"
+html_logo = "_static/logo.png"
 html_theme_options = {
+    "logo": {
+        "text": project,
+    },
     "github_url": "https://github.com/mtakagishi/yurugengo",
     "twitter_url": "https://twitter.com/mtakagishi",
     "google_analytics_id": "UA-183061927-3",
-    "navbar_end": ["navbar-icon-links.html", "search-field.html"],
-    "footer_items": ["copyright"],
     "external_links": [
         {"name": "問合せ", "url": "https://forms.gle/WJ3khhqqeNrEr8fv6"},
     ],
@@ -93,6 +95,7 @@ source_suffix = {
 }
 # sphinx-sitemap
 html_baseurl = 'https://yurugengo.mtakagishi.com/'
+sitemap_url_scheme = "{link}"
 sitemap_locales = [None]
 html_extra_path = ['robots.txt']
 
