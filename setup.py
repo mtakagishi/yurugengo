@@ -15,7 +15,8 @@ class SimpleCommand(Command):
 
 class DocCommand(SimpleCommand):
     def run(self):
-        subprocess.call(["sphinx-autobuild", "docs", "docs/_build"])
+        subprocess.call(["sphinx-autobuild", "docs", "docs/_build",
+                        "--port", "8888", "--open-browser"])
 
 
 setup(
