@@ -3,3 +3,4 @@ myst-parser
 sphinx-sitemap
 sphinxnotes-strike
 sphinxcontrib-blockdiag
+sphinx-git

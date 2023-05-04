@@ -34,7 +34,10 @@ The Moneytizer
 * `お問合せ・ご意見・ご要望 <https://forms.gle/WJ3khhqqeNrEr8fv6>`_
 * `ツイッター <https://twitter.com/mtakagishi>`_  
 
-更新履歴
-------------------
-* `更新履歴 <https://github.com/mtakagishi/yurugengo/commits/main>`_
+更新履歴(直近10件)
+-------------------
+
+.. git_changelog::
+
+`更新履歴詳細 <https://github.com/mtakagishi/yurugengo/commits/main>`_
 

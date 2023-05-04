@@ -36,6 +36,7 @@ extensions = [
     'sphinx_sitemap',
     'sphinxnotes.strike',
     'sphinxcontrib.blockdiag',
+    'sphinx_git',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
