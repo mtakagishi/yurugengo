@@ -34,7 +34,7 @@ The Moneytizer
 * `お問合せ・ご意見・ご要望 <https://forms.gle/WJ3khhqqeNrEr8fv6>`_
 * `ツイッター <https://twitter.com/mtakagishi>`_  
 
-更新履歴(直近10件)
+更新履歴
 -------------------
 
 .. git_changelog::
