@@ -13,12 +13,16 @@
 .. raw:: html
 
   <!--新明解 語源辞典--><a href="https://www.amazon.co.jp/%E6%96%B0%E6%98%8E%E8%A7%A3-%E8%AA%9E%E6%BA%90%E8%BE%9E%E5%85%B8-%E5%B0%8F%E6%9D%BE-%E5%AF%BF%E9%9B%84/dp/4385139903?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1VCDSHMGJXYJY&keywords=%E6%96%B0%E6%98%8E%E8%A7%A3%E5%9B%BD%E8%AA%9E%E8%BE%9E%E5%85%B8&qid=1683273667&sprefix=%E6%96%B0%E6%98%8E%E8%A7%A3%E8%AA%9E%E6%BA%90%E8%BE%9E%E5%85%B8%2Caps%2C153&sr=8-8&linkCode=li1&tag=takaoutputblo-22&linkId=4ccb07ed83d3dd287f6dae5a46567cfa&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4385139903&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4385139903" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--PLUTO--><a href="https://www.amazon.co.jp/PLUTO-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%ABVer-%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%B5%A6%E6%B2%A2%E7%9B%B4%E6%A8%B9%C3%97%E6%89%8B%EF%A8%90%E6%B2%BB%E8%99%AB-ebook/dp/B0BHYJKB5N?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2OYJMR2MC6GF8&keywords=PLUTO&qid=1683638539&sprefix=pluto%2Caps%2C193&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=92e5ccf1579dfd61f64c97728de27596&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BHYJKB5N&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0BHYJKB5N" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-+--------------------+----------------------------------------------------------------------+
-|      タイトル      |                                 解説                                 |
-+====================+======================================================================+
-| `新明解 語源辞典`_ | 英語語源ガチ勢に対し、「これなら通読した」という水野氏との語源トーク |
-+--------------------+----------------------------------------------------------------------+
++--------------------+-------------------------------------------------------------------------------------------------+
+|      タイトル      |                                              解説                                               |
++====================+=================================================================================================+
+| `新明解 語源辞典`_ | 英語語源ガチ勢に対し、「これなら通読した」という水野氏との語源トーク                            |
++--------------------+-------------------------------------------------------------------------------------------------+
+| `PLUTO`_           | 鉄腕アトムのスピンオフ作品。2006年、「Word of the Year」を採ったPluto、こめられた新しい意味は？ |
++--------------------+-------------------------------------------------------------------------------------------------+
+.. _PLUTO: https://amzn.to/3MaC5wg
 .. _新明解 語源辞典: https://amzn.to/3LZJCxA
 
 .. rubric:: 関連動画

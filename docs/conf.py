@@ -33,7 +33,7 @@ html_last_updated_fmt = '%Y/%m/%d'
 extensions = [
     'sphinx.ext.todo',
     "myst_parser",
-    'sphinx_sitemap',
+    # 'sphinx_sitemap',
     'sphinxnotes.strike',
     'sphinxcontrib.blockdiag',
     'sphinx_git',
@@ -71,7 +71,6 @@ html_theme_options = {
     },
     "github_url": "https://github.com/mtakagishi/yurugengo",
     "twitter_url": "https://twitter.com/mtakagishi",
-    "google_analytics_id": "UA-183061927-3",
     "external_links": [
         {"name": "問合せ", "url": "https://forms.gle/WJ3khhqqeNrEr8fv6"},
     ],
@@ -83,6 +82,7 @@ html_theme_options["analytics"] = {
 html_sidebars = {
     "words/*": ["search-field.html"],
     "reference/*": ["search-field.html"],
+    "videos/timeline": [],
     # "**": ["search-field.html", "ads_top_medium_rectangle.html"],
 }
 
