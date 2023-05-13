@@ -1,0 +1,62 @@
+.. _ゾミア参考文献:
+
+.. :ref:`参考文献:ゾミア <ゾミア参考文献>`
+
+(#229)ゾミア
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--ゾミア--><a href="https://www.amazon.co.jp/%E3%82%BE%E3%83%9F%E3%82%A2%E2%80%95%E2%80%95-%E8%84%B1%E5%9B%BD%E5%AE%B6%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2-%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BBC%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88/dp/4622077833?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=115ZXD2JRI4B2&keywords=%E3%82%BE%E3%83%9F%E3%82%A2&qid=1683939264&sprefix=%E3%82%BE%E3%83%9F%E3%82%A2%2Caps%2C179&sr=8-6&linkCode=li1&tag=takaoutputblo-22&linkId=fbd79ac22730fec588e96eeb096bdf93&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4622077833&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4622077833" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ピダハン--><a href="https://www.amazon.co.jp/%E3%83%94%E3%83%80%E3%83%8F%E3%83%B3%E2%80%95%E2%80%95-%E3%80%8C%E8%A8%80%E8%AA%9E%E6%9C%AC%E8%83%BD%E3%80%8D%E3%82%92%E8%B6%85%E3%81%88%E3%82%8B%E6%96%87%E5%8C%96%E3%81%A8%E4%B8%96%E7%95%8C%E8%A6%B3-%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BBL%E3%83%BB%E3%82%A8%E3%83%B4%E3%82%A7%E3%83%AC%E3%83%83%E3%83%88/dp/4622076535?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=144WEZGMIX61S&keywords=%E3%83%94%E3%83%80%E3%83%8F%E3%83%B3&qid=1683939508&sprefix=%E3%83%94%E3%83%80%E3%83%8F%E3%83%B3%2Caps%2C143&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=242d06b36ed9049777b0e372902ae780&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4622076535&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4622076535" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ムラブリ--><a href="https://www.amazon.co.jp/%E3%83%A0%E3%83%A9%E3%83%96%E3%83%AA-%E6%96%87%E5%AD%97%E3%82%82%E6%9A%A6%E3%82%82%E6%8C%81%E3%81%9F%E3%81%AA%E3%81%84%E7%8B%A9%E7%8C%9F%E6%8E%A1%E9%9B%86%E6%B0%91%E3%81%8B%E3%82%89%E8%A8%80%E8%AA%9E%E5%AD%A6%E8%80%85%E3%81%8C%E6%95%99%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8-%E4%BC%8A%E8%97%A4-%E9%9B%84%E9%A6%AC/dp/4797674253?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=38PQ0Y3MDRP1K&keywords=%E3%83%A0%E3%83%A9%E3%83%96%E3%83%AA&qid=1683939513&sprefix=%E3%83%A0%E3%83%A9%E3%83%96%E3%83%AA%2Caps%2C159&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=7ce90cd07eaa3616584293cab57215e7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4797674253&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4797674253" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--オーシャンまなぶ--><a href="https://t-taks.com/comic/omb/?episode=1" target="_blank"><img border="0" src="https://t-taks.com/comic/omb/?episode=1" width="75"></a>
+  <!--フリー--><a href="https://www.amazon.co.jp/%E3%83%95%E3%83%AA%E3%83%BC-%E2%80%95%EF%BC%9C%E7%84%A1%E6%96%99%EF%BC%9E%E3%81%8B%E3%82%89%E3%81%8A%E9%87%91%E3%82%92%E7%94%9F%E3%81%BF%E3%81%A0%E3%81%99%E6%96%B0%E6%88%A6%E7%95%A5-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB-%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3-ebook/dp/B009UVJQMS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3MV485T2BZ7YE&keywords=%EF%BC%9C%E7%84%A1%E6%96%99%EF%BC%9E%E3%81%8B%E3%82%89%E3%81%8A%E9%87%91%E3%82%92%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E6%96%B0%E6%88%A6%E7%95%A5&qid=1683946596&sprefix=%E7%84%A1%E6%96%99+%E3%81%8B%E3%82%89%E3%81%8A%E9%87%91%E3%82%92%E7%94%9F%E3%81%BF%E5%87%BA%E3%81%99%E6%96%B0%E6%88%A6%E7%95%A5%2Caps%2C153&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=1fc8c7c55ed9bd25775d6e4a80e884fd&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009UVJQMS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009UVJQMS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--文化人類学の思考法--><a href="https://www.amazon.co.jp/%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6%E3%81%AE%E6%80%9D%E8%80%83%E6%B3%95-%E6%9D%BE%E6%9D%91-%E5%9C%AD%E4%B8%80%E9%83%8E/dp/479071733X?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=ZEI56VCXTQX1&keywords=%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6%E3%81%AE%E6%80%9D%E8%80%83%E6%B3%95&qid=1683946735&sprefix=%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6%E3%81%AE%E6%80%9D%E8%80%83%E6%B3%95+%2Caps%2C154&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=9828ff697082ab5a53464cd9622327df&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=479071733X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=479071733X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--完全教祖マニュアル--><a href="https://www.amazon.co.jp/%E5%AE%8C%E5%85%A8%E6%95%99%E7%A5%96%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%B0%E6%9B%B8-%E6%9E%B6%E7%A5%9E%E6%81%AD%E4%BB%8B-ebook/dp/B01IT5TZBM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=32FML8CSW6SOV&keywords=%E5%AE%8C%E5%85%A8%E6%95%99%E7%A5%96%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB&qid=1683946832&sprefix=%E5%AE%8C%E5%85%A8%E6%95%99%E7%A5%96%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%2Caps%2C160&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=445fb4457ecaae1ba57ba1873e1b9bf6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01IT5TZBM&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01IT5TZBM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--奴隷のしつけ方--><a href="https://www.amazon.co.jp/%E5%A5%B4%E9%9A%B7%E3%81%AE%E3%81%97%E3%81%A4%E3%81%91%E6%96%B9-%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%88%E3%83%8A%E3%83%BC-%E3%83%9E%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%89%E3%83%8B%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%95%E3%82%A1%E3%83%AB%E3%82%AF%E3%82%B9-ebook/dp/B01DM0NEKM?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=16SPS1X0W5NYD&keywords=%E5%A5%B4%E9%9A%B7%E3%81%AE%E3%81%97%E3%81%A4%E3%81%91%E6%96%B9&qid=1683946958&sprefix=%E5%A5%B4%E9%9A%B7%E3%81%AE%E3%81%97%E3%81%A4%E3%81%91%E6%96%B9%2Caps%2C160&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=cee9b43c9149448006d6562e6aef285a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01DM0NEKM&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B01DM0NEKM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--チ。―地球の運動について―--><a href="https://www.amazon.co.jp/%E3%83%81%E3%80%82%E2%80%95%E5%9C%B0%E7%90%83%E3%81%AE%E9%81%8B%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%95%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E9%AD%9A%E8%B1%8A-ebook/dp/B08P5GG18C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=7WQC1R1HD1GM&keywords=%E3%83%81%E3%80%82&qid=1683947010&sprefix=%E3%83%81+%2Caps%2C167&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=370162f2d6b6ca7eae54617082c9f5a7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08P5GG18C&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08P5GG18C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------------+--------------------------------------------------------------------------------------+
+|          タイトル           |                                         解説                                         |
++=============================+======================================================================================+
+| `ゾミア`_                   | 本シリーズの種本、水野さんこの一か月、ゾミアに取りつかれたような状況に？？           |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `ピダハン`_                 | 彼らは（文明的に？）なぜ遅れているのか、農具を川に投げ捨てる民族ピダハン             |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `ムラブリ`_                 | 彼らは（文明的に？）なぜ遅れているのか、バイクの修理をおぼえようとしない民族ムラブリ |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `オーシャンまなぶ`_         | ゾミアにも通ずるものがある名作漫画、標高がキーワード？                               |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `完全教祖マニュアル`_       | ゾミアの収奪しやすい国家の設計とは、という問い、この手の切り口はおもしろガチ         |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `奴隷のしつけ方`_           | ゾミアの収奪しやすい国家の設計とは、という問い、この手の切り口はおもしろガチ         |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `フリー`_                   | アステカ人はトウモロコシが主食。農作に手間が少なく、結果、好戦的になった             |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `チ。―地球の運動について―`_ | 何年分の叡智を否定している？2000年だ…、では、生まれ育った堀元家の土地は…？？         |
++-----------------------------+--------------------------------------------------------------------------------------+
+| `文化人類学の思考法`_       |                                                                                      |
++-----------------------------+--------------------------------------------------------------------------------------+
+
+.. _チ。―地球の運動について―: https://amzn.to/3BmUsrq
+.. _奴隷のしつけ方: https://amzn.to/44VtJ2M
+.. _完全教祖マニュアル: https://amzn.to/3W1s9bz
+.. _文化人類学の思考法: https://amzn.to/3O7cQfI
+.. _フリー: https://amzn.to/3BjbNBI
+.. _オーシャンまなぶ: https://t-taks.com/comic/omb/?episode=1
+
+.. _ムラブリ: https://amzn.to/3pwcpkJ
+.. _ピダハン: https://amzn.to/42QVfMZ
+.. _ゾミア: https://amzn.to/42VArUN
+
+.. rubric:: 関連動画
+
+* `#229【ゾミア1】`_
+
+.. _#229【ゾミア1】: https://www.youtube.com/watch?v=qHLU49TApZM
