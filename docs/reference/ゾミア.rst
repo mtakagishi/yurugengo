@@ -58,5 +58,7 @@
 .. rubric:: 関連動画
 
 * `#229【ゾミア1】`_
+* `#230【ゾミア2】`_
 
 .. _#229【ゾミア1】: https://www.youtube.com/watch?v=qHLU49TApZM
+.. _#230【ゾミア2】: https://www.youtube.com/watch?v=uBQmbyc2Jv4
