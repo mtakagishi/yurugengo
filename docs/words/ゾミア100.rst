@@ -4,7 +4,12 @@
     ゾミア100% : そ
     じゃがいも100% : し
 
-漫画「いちご100%」は学校という施設から逃れたい標高が高い屋上にいった結果、いちごパンツの少女に出会う。つまり「ゾミア」の民と同じなのである。つまり「いちご100%」は「じゃがいも100%」であり「ゾミア100%」なのである。
+.. raw:: html
+
+  <a href="https://www.amazon.co.jp/%E3%81%84%E3%81%A1%E3%81%94100%EF%BC%85-%E3%82%AB%E3%83%A9%E3%83%BC%E7%89%88-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E6%B2%B3%E4%B8%8B%E6%B0%B4%E5%B8%8C-ebook/dp/B00ATLMA6C?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=24LAJUK7Z9PP0&keywords=%E3%81%84%E3%81%A1%E3%81%94100%25&qid=1684244942&sprefix=%E3%81%84%E3%81%A1%E3%81%94100+%2Caps%2C223&sr=8-1&linkCode=li2&tag=takaoutputblo-22&linkId=df98a62089300949288c0f342de3eda3&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ATLMA6C&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li2&o=9&a=B00ATLMA6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+様々な漫画タイトルに :doc:`ゾミア性` を感じ始めたゆる言語学ラジオパーソナリティによって、もはや漫画「いちご100%」でさえもゾミア性があるという話にぶっとんだ。つまり漫画「いちご100%」は学校という施設から逃れたい標高が高い屋上にいった結果、いちごパンツの少女に出会う。つまり「ゾミア」の民と同じなのであると主張。つまり「いちご100%」は「じゃがいも100%」であり「ゾミア100%」なのだと結論付けている。
 
 .. rubric:: 関連ワード
 * :doc:`ゾミア` 
@@ -15,8 +20,10 @@
 * :ref:`参考文献:ゾミア <ゾミア参考文献>`
 
 .. rubric:: 関連ラジオ
+* `日常の全てがゾミアに見える。派閥に属さない会社員も、あのSFも。【ゾミア3】#231`_
 * `山の民はなぜ自らを野蛮化するのか？【ゾミア2】#230`_
 * `「国民を上手に搾取する方法」が学べる本。作らせるべき穀物は○○【ゾミア1】#229`_
 
+.. _日常の全てがゾミアに見える。派閥に属さない会社員も、あのSFも。【ゾミア3】#231: https://www.youtube.com/watch?v=_TZjEBosTD8
 .. _山の民はなぜ自らを野蛮化するのか？【ゾミア2】#230: https://www.youtube.com/watch?v=uBQmbyc2Jv4
 .. _「国民を上手に搾取する方法」が学べる本。作らせるべき穀物は○○【ゾミア1】#229: https://www.youtube.com/watch?v=qHLU49TApZM
