@@ -1,0 +1,29 @@
+柿の種の喉越し
+==========================================
+.. glossary::
+    柿の種の喉越し : か
+
+.. raw:: html
+
+  <!--亀田の柿の種100%--><a href="https://www.amazon.co.jp/%E4%BA%80%E7%94%B0%E3%81%AE%E6%9F%BF%E3%81%AE%E7%A8%AE-%E4%BA%80%E7%94%B0%E8%A3%BD%E8%8F%93-%E4%BA%80%E7%94%B0%E3%81%AE%E6%9F%BF%E3%81%AE%E7%A8%AE100-130g%C3%9712%E8%A2%8B/dp/B005DP01U6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=55UCGPRLZK4B&keywords=%E6%9F%BF%E3%81%AE%E7%A8%AE100%25&qid=1685267079&sprefix=%E6%9F%BF%E3%81%AE%E7%A8%AE100+%2Caps%2C310&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=95a7180afbd10bc5e8a18b2987f99410&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005DP01U6&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B005DP01U6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+おつまみでお馴染み「柿の種」の楽しみ方の一種。ゆる言語学ラジオの雑談回#232 の「柿の種は喉越しを楽しむために丸呑みする女性」というヤバイ話が語られた。このエピソードに対しコメント欄にて一定数の「柿の種丸呑み界隈」の方がいることが観測されることになる。
+
+* 飲み込む際には快感がある
+* 数回咀嚼してから飲むと違った快感
+* 複数人が「亀田の柿の種100%」を推奨
+* 誤嚥しないよう向きを整えてから丸呑みする
+
+.. warning:: 
+  「柿の種の喉越し」という楽しみ方は誤嚥のリスクがあり、本稿は推奨を促すものではありません。どうしても試したい方は自己責任でお願いします。
+
+.. rubric:: 関連リンク
+* `柿の種の喉越し（ラジオ該当箇所） <https://youtu.be/YK3ZPe8maKU?t=581s>`_ 
+* `【速報】柿の種丸呑み界隈、一定数存在する(水野さんTwitter) <https://twitter.com/yuru_gengo/status/1661334638311227392>`_ 
+* :ref:`参考文献:雑談周囲のヤバイ人 <雑談232参考文献>`
+* `亀田の柿の種100% <https://amzn.to/3IK1rij>`_ 
+
+.. rubric:: 関連ラジオ
+* `周囲のヤバい人について語る。柿の種を丸呑みする人とか、超敏腕CFOとか。【雑談回】#232`_
+
+.. _周囲のヤバい人について語る。柿の種を丸呑みする人とか、超敏腕CFOとか。【雑談回】#232: https://www.youtube.com/watch?v=YK3ZPe8maKU
