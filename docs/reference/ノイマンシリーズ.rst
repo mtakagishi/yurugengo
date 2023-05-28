@@ -1,0 +1,31 @@
+.. _ノイマンシリーズ参考文献:
+
+.. :ref:`参考文献:ノイマンシリーズ <ノイマンシリーズ参考文献>`
+
+(コンピュータ#74)ノイマンシリーズ
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--フォン・ノイマンの哲学--><a href="https://www.amazon.co.jp/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E3%81%AE%E5%93%B2%E5%AD%A6-%E4%BA%BA%E9%96%93%E3%81%AE%E3%83%95%E3%83%AA%E3%82%92%E3%81%97%E3%81%9F%E6%82%AA%E9%AD%94-%E8%AC%9B%E8%AB%87%E7%A4%BE%E7%8F%BE%E4%BB%A3%E6%96%B0%E6%9B%B8-%E9%AB%98%E6%A9%8B-%E6%98%8C%E4%B8%80%E9%83%8E/dp/4065224403?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=16VBWZN9W52PB&keywords=%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E3%81%AE%E5%93%B2%E5%AD%A6&qid=1685094604&sprefix=%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E3%81%AE%E5%93%B2%E5%AD%A6%2Caps%2C166&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=8730dc2dc73fa1d3a3db34183d05e3e6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4065224403&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4065224403" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--フォン・ノイマンの生涯--><a href="https://www.amazon.co.jp/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E3%81%AE%E7%94%9F%E6%B6%AF-%E3%81%A1%E3%81%8F%E3%81%BE%E5%AD%A6%E8%8A%B8%E6%96%87%E5%BA%AB-%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AC%E3%82%A4/dp/4480510435?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2T34QH1TXYQQS&keywords=%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E3%81%AE%E7%94%9F%E6%B6%AF&qid=1685094735&sprefix=%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E3%81%AE%E7%94%9F%E6%B6%AF%2Caps%2C159&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=26e3b7eb17a6a35ae73cd737e25918c3&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4480510435&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4480510435" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++---------------------------+----------------------+
+|         タイトル          |         解説         |
++===========================+======================+
+| `フォン・ノイマンの哲学`_ | ノイマンシリーズ種本 |
++---------------------------+----------------------+
+| `フォン・ノイマンの生涯`_ | ノイマンシリーズ種本 |
++---------------------------+----------------------+
+.. _フォン・ノイマンの生涯: https://amzn.to/43m18SK
+.. _フォン・ノイマンの哲学: https://amzn.to/3N0nkMI
+
+.. rubric:: 関連動画
+* `C74【ノイマン1】`_
+
+.. _C74【ノイマン1】: https://youtu.be/T3ypdIxqVDU
