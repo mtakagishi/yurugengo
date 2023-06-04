@@ -325,3 +325,5 @@
 * 2022年10月28日 `イベント・ワテラスブックフェス <https://waterrasbookfes.com/>`_ にて「出張版！ゆる言語学ラジオ」
 * 2022年11月15日 `BSよしもとさんの番組「ジュニア、伺う」 <https://bsy.co.jp/programs/by0000016004>`_ に水野さんが出演
 * 2022年12月28日 700名規模の :doc:`/words/ゆる言語学ラジオ大忘年会2022` を実施 
+* 2023年03年18日 `第4回 JAPAN PODCAST AWARDS <https://www.japanpodcastawards.com/>`_ にてゆるコンピュータ科学ラジオがリスナーズチョイス7位
+* 2023年06月01日 `ゆる学徒カフェ <https://yurugakuto.studio.site/>`_ 開店！

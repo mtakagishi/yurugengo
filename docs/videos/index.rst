@@ -24,6 +24,8 @@
   /reference/index
   anti
 
+`ゆる学徒カフェ <https://yurugakuto.studio.site/>`_
+
 .. rubric:: 動画リンク一覧
 
 .. raw:: html
