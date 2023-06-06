@@ -1,0 +1,47 @@
+.. _バリューブックス見学参考文献:
+
+.. :ref:`参考文献:バリューブックス見学 <バリューブックス見学参考文献>`
+
+(#235)バリューブックス見学
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--嫌われる勇気--><a href="https://www.amazon.co.jp/%E5%AB%8C%E3%82%8F%E3%82%8C%E3%82%8B%E5%8B%87%E6%B0%97-%E5%B2%B8%E8%A6%8B-%E4%B8%80%E9%83%8E-ebook/dp/B00H7RACY8?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3NKW9MN3KD6MB&keywords=%E5%AB%8C%E3%82%8F%E3%82%8C%E3%82%8B%E5%8B%87%E6%B0%97&qid=1686056514&sprefix=%E5%AB%8C%E3%82%8F%E3%82%8C%E3%82%8B%E5%8B%87%E6%B0%97%2Caps%2C186&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=97ab3092f435b73680401079cd6d0a20&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H7RACY8&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00H7RACY8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--エヴァンゲリオン--><a href="https://amzn.to/43IIkNx" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71qOIB2IO5L._AC_UL320_.jpg" width="75"></a>
+  <!--下剋上算数--><a href="https://amzn.to/43KtuGp" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4819112570&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4819112570" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ストラディヴァリウスを上手に盗む方法--><a href="https://www.amazon.co.jp/%E3%82%B9%E3%83%88%E3%83%A9%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%A6%E3%82%B9%E3%82%92%E4%B8%8A%E6%89%8B%E3%81%AB%E7%9B%97%E3%82%80%E6%96%B9%E6%B3%95-%E6%B7%B1%E6%B0%B4-%E9%BB%8E%E4%B8%80%E9%83%8E/dp/4309025692?&linkCode=li1&tag=takaoutputblo-22&linkId=f157036413fbd1f7fffd004f87b16a33&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4309025692&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4309025692" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--極論で語る○○医学シリーズ--><a href="https://amzn.to/3WOVvdH" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/81xHe86igsL._AC_UY218_.jpg" width="75"></a>
+  <!--一気に上級者になるための麻酔科のテクニック--><a href="https://www.amazon.co.jp/%E4%B8%80%E6%B0%97%E3%81%AB%E4%B8%8A%E7%B4%9A%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E9%BA%BB%E9%85%94%E7%A7%91%E3%81%AE%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E7%AC%AC2%E7%89%88-%E5%9B%9B%E7%B6%AD-%E6%9D%B1%E5%B7%9E/dp/4895903826?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=35E1CYWA8MPDL&keywords=%E4%B8%80%E6%B0%97%E3%81%AB%E4%B8%8A%E7%B4%9A%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E9%BA%BB%E9%85%94%E7%A7%91%E3%81%AE%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF&qid=1686058465&s=books&sprefix=%E4%B8%80%E6%B0%97%E3%81%AB%E4%B8%8A%E7%B4%9A%E8%80%85%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E9%BA%BB%E9%85%94%E7%A7%91%E3%81%AE%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%2Cstripbooks%2C165&sr=1-2&linkCode=li1&tag=takaoutputblo-22&linkId=a438ed09dc08ca76c3ab771f368b3445&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4895903826&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4895903826" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------------------------------+----------------------------------------------------------------------------------+
+|                   タイトル                    |                                       解説                                       |
++===============================================+==================================================================================+
+| `嫌われる勇気`_                               | バリューブックス 清水代表取締役が現場で査定していた名作。あれが人徳！            |
++-----------------------------------------------+----------------------------------------------------------------------------------+
+| `新世紀エヴァンゲリオン`_                     | 日本を100の区分にわける中には、「新東京」も？古書の大半はNERVに届く？            |
++-----------------------------------------------+----------------------------------------------------------------------------------+
+| `下剋上算数`_                                 | 古紙回収に回された本の中から拾われた一冊。                                       |
++-----------------------------------------------+----------------------------------------------------------------------------------+
+| `ストラディヴァリウスを上手に盗む方法`_       | 知らないジャンルの本に出会える、堀元さんがすげぇおもしろそうと思った本           |
++-----------------------------------------------+----------------------------------------------------------------------------------+
+| `極論で語る○○医学シリーズ`_                   | 水野さんが「極論で語る」というタイトルに惹かれてずっと立ち読みしたかったシリーズ |
++-----------------------------------------------+----------------------------------------------------------------------------------+
+| `一気に上級者になるための麻酔科のテクニック`_ | この本を読んでるヤツに麻酔されるの不安                                           |
++-----------------------------------------------+----------------------------------------------------------------------------------+
+.. _一気に上級者になるための麻酔科のテクニック: https://amzn.to/3oTFZ3x
+.. _極論で語る○○医学シリーズ: https://amzn.to/3WOVvdH
+.. _ストラディヴァリウスを上手に盗む方法: https://amzn.to/43pFVYw
+.. _下剋上算数: https://amzn.to/43KtuGp
+.. _新世紀エヴァンゲリオン: https://amzn.to/43IIkNx
+.. _嫌われる勇気: https://amzn.to/45HWlgt
+
+.. rubric:: 関連動画
+* `#235【バリューブックス見学】`_
+
+.. _#235【バリューブックス見学】: https://www.youtube.com/watch?v=rBK_3kz6AXw

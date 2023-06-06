@@ -25,7 +25,7 @@
 .. tip:: 
   お二人の身長の出典：`コンピュータ#49 データ構造2 <https://youtu.be/3CQCBQRq0FA&t=686s>`_
 
-ゲスト（出演順）
+ゲスト（出演回順）
 ------------------------------------------
 
 * 福田純也（ふくたじゅんや）
@@ -59,6 +59,7 @@
   * 同志社大学経済学部経済学科,同志社大学文学部英文学科,大阪大学大学院文学研究科,コネチカット大学言語学科
   * すたでぃはーどあんどぷれいはーど
   * 関連URL:
+
     * `嶋村先生のHP <https://kojilinguist.com/>`_
     * `金沢大学の教員紹介にておすすめの本は？ <https://www.kanazawa-gu.ac.jp/aboutus/teacher/literature-shimamura/>`_ 
 
@@ -101,7 +102,7 @@
 
 * 堀田　隆一 （ほったりゅういち）
 
-  * 出演回 `#227 <https://youtu.be/AcX7J0LZM54>`_ 
+  * 出演回 `#227 <https://youtu.be/AcX7J0LZM54>`_ `#228 <https://www.youtube.com/watch?v=yCxmgySRS20>`_ `#234 <https://www.youtube.com/watch?v=g720dN09fzA>`_ 
   * 慶應義塾大学文学部教授（英米文学専攻）
   * 東京外国語大学 外国語学部 英米語学科卒業
   * 東京大学大学院 総合文化研究科 言語情報科学専攻 修了
@@ -117,6 +118,23 @@
     * `英語の語源が身につくラジオ（Voicy） <https://voicy.jp/channel/1950>`_
     * `Twitter <https://twitter.com/chariderryu>`_
     * `慶応研究者DB <https://k-ris.keio.ac.jp/html/100000223_ja.html>`_ 
+
+出演スポンサー（出演回順）
+------------------------------------------
+
+* 清水 健介 (しみず けんすけ)
+
+  * `バリューブックス <https://www.valuebooks.jp/shelf-items/list/RFZjN2ZJWHV0cFJLTDFLblo4dGtkUT09>`_ 
+  * スタッフでなく代表取締役
+  * 出演回 `#235 <https://www.youtube.com/watch?v=rBK_3kz6AXw>`_ 
+  * `第15期（2021年7月～）役員人事記事 <https://netkeizai.com/articles/detail/4230>`_ 
+
+* 飯田 光平 (いいだ こうへい)
+
+  * `バリューブックス <https://www.valuebooks.jp/shelf-items/list/RFZjN2ZJWHV0cFJLTDFLblo4dGtkUT09>`_ 
+  * ゆる言語学ラジオ専属担当
+  * 出演回 `#235 <https://www.youtube.com/watch?v=rBK_3kz6AXw>`_ 
+  * `プロフィール <https://www.wantedly.com/id/onthehill>`_ ／ `Twitter <https://twitter.com/alpino_kou2>`_ 
 
 
 公式サイト
@@ -246,7 +264,6 @@
 .. _ことばと思考: https://amzn.to/3R5dsS5
 .. _言語が違えば、世界も違って見えるわけ: https://amzn.to/3ykVbrc
 .. _ようすのことば: https://amzn.to/3OE1MnD
-.. _ことばと思考: https://amzn.to/3ajyOKT
 .. _親子で育てる　ことば力と思考力: https://amzn.to/3Rbh8le
 .. _英語独習法: https://amzn.to/3bQNoKh
 .. _学びとは何か: https://amzn.to/3aeYk3Z
