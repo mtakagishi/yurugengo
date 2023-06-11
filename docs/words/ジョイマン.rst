@@ -8,6 +8,9 @@
 
 .. rubric:: 関連ワード
 * :doc:`イップス` 
+* :doc:`真実のトポロジー変体` 
+* :doc:`バロックの大伽藍にこもる` 
+* :doc:`ネビッチ4` 
 
 .. rubric:: 関連リンク
 * `ジョイマン（Wikipedia） <https://ja.wikipedia.org/wiki/ジョイマン_(お笑いコンビ)>`_ 
