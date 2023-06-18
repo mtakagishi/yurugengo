@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:ノイマンシリーズ <ノイマンシリーズ参考文献>`
 
-(コンピュータ#74-#76)ノイマンシリーズ
+(コンピュータ#74-#77)ノイマンシリーズ
 ==============================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -17,20 +17,24 @@
   <!--計算機の歴史--><a href="https://www.amazon.co.jp/%E5%BE%A9%E5%88%8A-%E8%A8%88%E7%AE%97%E6%A9%9F%E3%81%AE%E6%AD%B4%E5%8F%B2-%E2%80%95%E3%83%91%E3%82%B9%E3%82%AB%E3%83%AB%E3%81%8B%E3%82%89%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E3%81%BE%E3%81%A7%E2%80%95-%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3-H-%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3/dp/4320124014?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1EKDPBI473VGN&keywords=%E8%A8%88%E7%AE%97%E6%A9%9F%E3%81%AE%E6%AD%B4%E5%8F%B2&qid=1686271911&sprefix=%E8%A8%88%E7%AE%97%E6%A9%9F%E3%81%AE%E6%AD%B4%E5%8F%B2%2Caps%2C177&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=a9fc122ff49c93c30e7bdfa7874e47e6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4320124014&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4320124014" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--バガヴァッド・ギーター--><a href="https://www.amazon.co.jp/%E3%83%90%E3%82%AC%E3%83%B4%E3%82%A1%E3%83%83%E3%83%89%E3%83%BB%E3%82%AE%E3%83%BC%E3%82%BF%E3%83%BC-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-%E4%B8%8A%E6%9D%91-%E5%8B%9D%E5%BD%A6/dp/4003206819?adgrpid=70201448802&hvadid=658831513426&hvdev=c&hvlocphy=1009343&hvnetw=g&hvqmt=e&hvrand=3536960158571430398&hvtargid=kwd-333729161491&hydadcr=3633_13670539&jp-ad-ap=0&keywords=%E3%83%90%E3%82%AC%E3%83%B4%E3%82%A1%E3%83%83%E3%83%89%E3%83%BB%E3%82%AE%E3%83%BC%E3%82%BF%E3%83%BC&qid=1686448560&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=5bb9ddc4eb3037661e44aa44e3cae710&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003206819&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003206819" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--エニグマ・アラン・チューリング伝--><a href="https://www.amazon.co.jp/%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E-%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E4%BC%9D-%E4%B8%8A-%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BC-%E3%83%9B%E3%83%83%E3%82%B8%E3%82%B9/dp/4326750537?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%82%A8%E3%83%8B%E3%82%B0%E3%83%9E%E3%83%BB%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E4%BC%9D&qid=1686453203&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=58726270acb93cff20544401d509c526&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4326750537&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4326750537" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ゾミア--><a href="https://www.amazon.co.jp/%E3%82%BE%E3%83%9F%E3%82%A2%E2%80%95%E2%80%95-%E8%84%B1%E5%9B%BD%E5%AE%B6%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2-%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BBC%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88/dp/4622077833?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=MGN7GLXPN19W&keywords=%E3%82%BE%E3%83%9F%E3%82%A2&qid=1687052335&sprefix=%E3%82%BE%E3%83%9F%E3%82%A2%2Caps%2C300&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=3b46c48b5a15905078eab8f128adb149&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4622077833&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4622077833" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-+-------------------------------------+------------------------------------------------------------------------------------------+
-|              タイトル               |                                           解説                                           |
-+=====================================+==========================================================================================+
-| `フォン・ノイマンの哲学`_           | ノイマンシリーズ種本                                                                     |
-+-------------------------------------+------------------------------------------------------------------------------------------+
-| `フォン・ノイマンの生涯`_           | ノイマンシリーズ種本                                                                     |
-+-------------------------------------+------------------------------------------------------------------------------------------+
-| `計算機の歴史`_                     | ノイマンシリーズ種本                                                                     |
-+-------------------------------------+------------------------------------------------------------------------------------------+
-| `バガヴァッド・ギーター`_           | 原爆の生みの親、オッペンハイマーのセリフの引用元「いまや我は死神、世界の破壊者となれり」 |
-+-------------------------------------+------------------------------------------------------------------------------------------+
-| `エニグマ・アラン・チューリング伝`_ | 調査の対象者についつい肩入れしたくなる。さすがに過言なのではという表現が多い             |
-+-------------------------------------+------------------------------------------------------------------------------------------+
++-------------------------------------+--------------------------------------------------------------------------------------------------+
+|              タイトル               |                                               解説                                               |
++=====================================+==================================================================================================+
+| `フォン・ノイマンの哲学`_           | ノイマンシリーズ種本                                                                             |
++-------------------------------------+--------------------------------------------------------------------------------------------------+
+| `フォン・ノイマンの生涯`_           | ノイマンシリーズ種本                                                                             |
++-------------------------------------+--------------------------------------------------------------------------------------------------+
+| `計算機の歴史`_                     | ノイマンシリーズ種本                                                                             |
++-------------------------------------+--------------------------------------------------------------------------------------------------+
+| `バガヴァッド・ギーター`_           | 原爆の生みの親、オッペンハイマーのセリフの引用元「いまや我は死神、世界の破壊者となれり」         |
++-------------------------------------+--------------------------------------------------------------------------------------------------+
+| `エニグマ・アラン・チューリング伝`_ | 調査の対象者についつい肩入れしたくなる。さすがに過言なのではという表現が多い                     |
++-------------------------------------+--------------------------------------------------------------------------------------------------+
+| `ゾミア`_                           | 学生の面倒を見ながら長期のフィールド調査は困難。プリンストン高等研究所のビジョンにマッチしそう。 |
++-------------------------------------+--------------------------------------------------------------------------------------------------+
+.. _ゾミア: https://amzn.to/3JhmtoA
 .. _エニグマ・アラン・チューリング伝: https://amzn.to/45XF8PZ
 .. _バガヴァッド・ギーター: https://amzn.to/3WXvEQR
 .. _計算機の歴史: https://amzn.to/3CkFVwY
@@ -41,7 +45,9 @@
 * `C74【ノイマン1】`_
 * `C75【ノイマン2】`_
 * `C76【ノイマン3】`_
+* `C77【ノイマン雑談】`_
 
 .. _C74【ノイマン1】: https://youtu.be/T3ypdIxqVDU
 .. _C75【ノイマン2】: https://youtu.be/cQJdbBU7Btw
 .. _C76【ノイマン3】: https://youtu.be/pZ8VlOeuOGE
+.. _C77【ノイマン雑談】: https://youtu.be/pFQc3oZaGDs
