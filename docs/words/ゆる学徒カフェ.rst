@@ -1,0 +1,13 @@
+ゆる学徒カフェ
+==========================================
+.. glossary::
+    ゆる学徒カフェ : ゆ
+
+2023年6月1日にオープンしたラジオ企画から誕生したカフェ。
+
+.. rubric:: 関連リンク
+* `ゆる学徒カフェ公式ホームページ <https://yurugakuto.studio.site/>`_
+* `ゆる学徒カフェ収録アーカイブ <https://note.com/yurugakuto/>`_ 
+
+.. rubric:: 関連ラジオ
+* `ゆる学徒カフェYoutube <https://www.youtube.com/channel/UCayn-KD-Qjwa8ppQJ50bEAw/videos>`_ 
