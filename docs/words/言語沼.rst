@@ -14,9 +14,23 @@
   <!--言語オタクが友だちに700日間語り続けて引きずり込んだ言語沼--><a href="https://www.valuebooks.jp/bp/VS0058841426" target="_blank"><img border="0" src="https://pbs.twimg.com/media/FjXrz0dagAAZQjP?format=jpg&name=small" width="355"></a>
 
 
+.. rubric:: `こなモンさんファンアート <https://twitter.com/konamon_mon_mon/status/1650154484763615233>`_ 
+.. image:: https://pbs.twimg.com/media/FuaGwaBaIAAqGax?format=jpg&name=large
+  :width: 40%
+
+.. image:: https://pbs.twimg.com/media/FuaGwaGaMAAsrBD?format=jpg&name=large
+  :width: 40%
+
+.. image:: https://pbs.twimg.com/media/FuaGwaHaQAAiDAH?format=jpg&name=large
+  :width: 40%
+
+.. image:: https://pbs.twimg.com/media/FuaGwaGaUAAAXHP?format=jpg&name=large
+  :width: 40%
+
+
 .. rubric:: 関連リンク
 * :ref:`参考文献:執筆裏話 <執筆裏話182参考文献>`
-
+* `こなモンさんツイート <https://twitter.com/konamon_mon_mon/status/1650154484763615233>`_ 
 
 .. rubric:: 関連ワード
 * :doc:`肛門両唇破裂音` 
