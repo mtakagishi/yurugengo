@@ -126,7 +126,7 @@
 .. _3月22日（火）ゲスト：堀元 見さん、水野 太貴さん: https://www.tfm.co.jp/bo/report/2001
 .. _「ゆる言語学ラジオさん、いらっしゃい！」記者サロン×朝ポキ【4月8日(金)】: https://peatix.com/event/3199395
 .. _Podcast Weekend TALK SESSION ：やせいのPodcasterサバイブ会議: https://podcastweekend.zaiko.io/e/talksession20220312
-.. _851 ゆる言語学ラジオの堀元さんに「老い」を突きつけられるゲスト回: https://soundcloud.com/dongurifm/851a
+.. _851 ゆる言語学ラジオの堀元さんに「老い」を突きつけられるゲスト回: https://youtu.be/3QiN4NE_PFg
 .. _箕輪厚介の「珍しく金儲け以外の、なんの意味もない話」ゲスト堀元見（冒頭30分）: https://youtu.be/6IXPq5WkJNQ
 .. _箕輪厚介の「珍しく金儲け以外の、なんの意味もない話」ゲスト堀元見（有料アーカイブ）: https://twitcasting.tv/loftplusone/shopcart/152556
 .. _インターネットの仕組みから学ぶ「死ぬことさえもかすり傷」【ネットワーク3】#18: https://www.youtube.com/watch?v=Pu3g0LBVMFo
