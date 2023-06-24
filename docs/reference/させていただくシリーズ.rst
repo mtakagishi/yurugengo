@@ -2,7 +2,7 @@
 
 .. :ref:`参考文献:させていただくシリーズ <させていただくシリーズ参考文献>`
 
-(#237-#239)させていただくシリーズ
+(#237-#240)させていただくシリーズ
 =============================================================
 
 * `参考文献一覧へ </reference/>`_ 
@@ -23,6 +23,7 @@
   <!--敬語--><a href="https://www.amazon.co.jp/%E6%95%AC%E8%AA%9E-%E8%AC%9B%E8%AB%87%E7%A4%BE%E5%AD%A6%E8%A1%93%E6%96%87%E5%BA%AB-%E8%8F%8A%E5%9C%B0-%E5%BA%B7%E4%BA%BA/dp/4061592688?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2LROIJ423JFIJ&keywords=%E6%95%AC%E8%AA%9E+%E8%8F%8A%E6%B1%A0%E5%BA%B7%E4%BA%BA&qid=1686987989&sprefix=%E6%95%AC%E8%AA%9E+%E8%8F%8A%E6%B1%A0%E5%BA%B7%E4%BA%BA%2Caps%2C177&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=61e4b2b4ee764ba577c99344717d4f2e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4061592688&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4061592688" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--武装錬金--><a href="https://www.amazon.co.jp/%E6%AD%A6%E8%A3%85%E9%8C%AC%E9%87%91-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E5%92%8C%E6%9C%88%E4%BC%B8%E5%AE%8F-ebook/dp/B009PL8264?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%AD%A6%E8%A3%85%E9%8C%AC%E9%87%91&qid=1686990217&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=a7ac9b59c897c033b5c2af76a5f340d6&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009PL8264&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009PL8264" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--ONE PIECE--><a href="https://www.amazon.co.jp/ONE-PIECE-%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E7%89%88-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-ebook/dp/B009GZK2YE?keywords=one+piece&qid=1686990291&sprefix=One%2Caps%2C236&sr=8-17&linkCode=li1&tag=takaoutputblo-22&linkId=13491464e34129da77aedc4fd32cec20&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009GZK2YE&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B009GZK2YE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--日本語存在表現の歴史--><a href="https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%98%E5%9C%A8%E8%A1%A8%E7%8F%BE%E3%81%AE%E6%AD%B4%E5%8F%B2-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%A0%94%E7%A9%B6%E5%8F%A2%E6%9B%B8-%E9%87%91%E6%B0%B4-%E6%95%8F/dp/489476265X?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=HHRXM5H8REQS&keywords=%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%98%E5%9C%A8%E8%A1%A8%E7%8F%BE%E3%81%AE%E6%AD%B4%E5%8F%B2&qid=1686995814&sprefix=%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%AD%98%E5%9C%A8%E8%A1%A8%E7%8F%BE%E3%81%AE%E6%AD%B4%E5%8F%B2%2Caps%2C450&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=199346b64d4c7c7e7e4bce87e2564737&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=489476265X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=489476265X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 +-------------------------------+----------------------------------------------------------------------------------------------------+
 |           タイトル            |                                                解説                                                |
@@ -51,6 +52,9 @@
 +-------------------------------+----------------------------------------------------------------------------------------------------+
 | `ONE PIECE`_                  | ウソップの「この一夜の出来事をウソにする」を思い出させる裏方の活躍、それが「させていただく」       |
 +-------------------------------+----------------------------------------------------------------------------------------------------+
+| `日本語存在表現の歴史`_       | かつて「いる」は「座る」という意味だった。出世して存在詞としての役割になっている                   |
++-------------------------------+----------------------------------------------------------------------------------------------------+
+.. _日本語存在表現の歴史: https://amzn.to/3XnJjRj
 .. _ONE PIECE: https://amzn.to/44rJvBF
 .. _武装錬金: https://amzn.to/3Jn0YD6
 .. _敬語: https://amzn.to/3pg9nBp
@@ -68,7 +72,9 @@
 * `#237【させていただく1】`_
 * `#238【させていただく2】`_
 * `#239【させていただく3】`_
+* `#240【させていただく4】`_
 
 .. _#237【させていただく1】: https://www.youtube.com/watch?v=Y-g5cxcjsU4
 .. _#238【させていただく2】: https://www.youtube.com/watch?v=oBA-zhIsF9Y
 .. _#239【させていただく3】: https://www.youtube.com/watch?v=qCsKE3JBo3Y
+.. _#240【させていただく4】: https://www.youtube.com/watch?v=WYkXGEb-8og
