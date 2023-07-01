@@ -760,6 +760,12 @@
     ;
     group{
       orientation = portrait
+      "23/5/21\n撮影61" ->
+      "23/7/1公開\n言242【紀伊國屋書店コラボ】"
+    }
+    ;
+    group{
+      orientation = portrait
       "23/5/28\n撮影63" ->
       "23/6/25公開\nコ78【ネット失敗談】"
     }
