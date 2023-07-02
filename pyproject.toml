@@ -7,6 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+Pillow = "==9.5"
 pydata-sphinx-theme = "^0.13.3"
 myst-parser = "^1.0.0"
 sphinxcontrib-blockdiag = "^3.0.0"
