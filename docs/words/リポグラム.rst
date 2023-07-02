@@ -20,7 +20,15 @@
 .. rubric:: 関連ワード
 * :doc:`7days_to_end_with_you` 
 
+.. rubric:: 関連リンク
+* :ref:`参考文献:暗号シリーズ <暗号シリーズ参考文献>`
+* :ref:`参考文献:情報理論シリーズ <情報理論シリーズ参考文献>`
+
 .. rubric:: 関連ラジオ
 * `フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120`_
+* `「サクラサク」はシャノン先生ブチギレ符号化。脳はスマホに繋ぐべき【情報理論4】#12`_
+* `暗号の歴史はエモい。言語学や数学だけでなく、◯◯さえも使っている。【暗号1】#79`_
 
 .. _フィールド言語学者の気持ちが分かるゲーム【7days to end with you 実況プレイ】#120: https://www.youtube.com/watch?v=vrBzSXN4MYI
+.. _「サクラサク」はシャノン先生ブチギレ符号化。脳はスマホに繋ぐべき【情報理論4】#12: https://www.youtube.com/watch?v=YSnieUyGRS8
+.. _暗号の歴史はエモい。言語学や数学だけでなく、◯◯さえも使っている。【暗号1】#79: https://www.youtube.com/watch?v=MdEs9oBbc3Q
