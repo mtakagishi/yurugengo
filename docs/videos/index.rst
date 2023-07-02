@@ -27,6 +27,8 @@
 | `ゆる学徒カフェ公式ホームページ <https://yurugakuto.studio.site/>`_
 | `ゆる学徒カフェ収録アーカイブ <https://note.com/yurugakuto/>`_ 
 
+`ゆる言語学ラジオYoutubeチャンネル登録者数確認 <https://subscribercounter.com/channel/UCmpkIzF3xFzhPez7gXOyhVg>`_ 
+
 .. rubric:: 動画リンク一覧
 
 .. raw:: html
