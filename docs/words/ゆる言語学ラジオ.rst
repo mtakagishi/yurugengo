@@ -345,3 +345,4 @@
 * 2023年03年18日 `第4回 JAPAN PODCAST AWARDS <https://www.japanpodcastawards.com/>`_ にてゆるコンピュータ科学ラジオがリスナーズチョイス7位
 * 2023年06月01日 `ゆる学徒カフェ <https://yurugakuto.studio.site/>`_ 開店！
 * 2023年06月09日 ゆるコンピュータ科学ラジオチャンネル登録者6万人
+* 2023年07月01日 `紀伊國屋書店にて『ゆる言語学ラジオが選んだ言語学出版社フォーラムの本フェア』 <https://store.kinokuniya.co.jp/event/1686716534/>`_ 
