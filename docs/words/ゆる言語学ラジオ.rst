@@ -305,45 +305,45 @@
 
 ヒストリー
 ------------------------------------------
-* 2020年12月某日 撮影開始、`衒学チャンネル <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ から順次公開される
-* 2021年03月11日 ゆる言語学ラジオチャンネルとして独立
-* 2021年05月某日 Youtubeチャンネル登録者数1万人
-* 2021年06月19日 Youtubeチャンネル登録者数4.5万人
-* 2021年08月31日 `あきる野市の文教堂書店 ゆる言語学ラジオフェア <https://twitter.com/bunkyodo_akirun/status/1432681979749670915>`_ 
-* 2021年11月14日 サポータコミュニティ開始を発表
-* 2021年12月07日 サポータコミュニティ1000名を突破
-* 2021年12月16日 Youtubeチャンネル登録者数10万人突破
-* 2022年01月01日 姉妹チャンネル『ゆるコンピュータ科学ラジオ』を開始
-* 2022年01月14日 第3回 JAPAN PODCAST AWARDS 大賞 及び ベストナレッジ賞にノミネート
-* 2022年02月27日 サポータコミュニティ1500名を突破
-* 2022年03月12日 Podcast weekend 出店
-* 2022年03月17日 :doc:`JAPAN_PODCAST_AWARDS` （ベストナレッジ賞、リスナーズチョイス1位）
-* 2022年03月31日 `Lineスタンプ公開 <https://store.line.me/stickershop/product/18955892/ja>`_ 
-* 2022年03月31日 `noteコラボ出演 <https://store.line.me/stickershop/product/18955892/ja>`_ 
-* 2022年04月08日 `朝日新聞コラボ出演 <https://open.spotify.com/episode/4TwQ4R3PHXbTY6HAcPgcBm?si=F8TJxQ9oSBOu_Fjm04gDqA>`_ 
-* 2022年04月20日 Voicy総再生回数1万回突破！
-* 2022年05月15日 サポータコミュニティ2000名を突破
-* 2022年05月20日 `ゆる言語学ラジオ大好き芸人に出演 <https://twitcasting.tv/asagayalofta/shopcart/154694>`_ 
-* 2022年05月21日 `女性モードファッション誌SUPR取材（8月号掲載） <https://youtu.be/GwpDnnqkny0>`_ 
-* 2022年05月21日 `インディゲーム実況アワード <https://youtu.be/SRFoQrV_YlI>`_ にて「さっさと続きを遊んでほしいで賞」「大賞」を受賞
-* 2022年06月02日 慶応義塾大学湘南藤沢キャンパスにて今井むつみ先生の講義のゲストとしてゆる言語学ラジオが出演
-* 2022年06月07日 新企画Youtubeチャンネル『ゆる学徒ハウス』を公式オープン
-* 2022年06月25日 `サタデープログラム <https://www.satprogram.net/>`_ 愛知県東海高校「サタデープログラム」の講座へ出演
-* 2022年07月01日 `オリジナルグッズ通販開始 <https://www.valuebooks.jp/shelf-items/folder/4362babbae09d77>`_ 
-* 2022年07月08日 `noteにてシリーズ番組を開始 <https://youtu.be/-c0-kZz9UwU>`_ 
-* 2022年07月12日 コミュニティメンバ参加でのインプット奴隷合宿 in いいかねPalette
-* 2022年07月24日 `にじさんじ黛灰コラボ <https://youtu.be/eeyaMUrWOog>`_ 
-* 2022年07月24日 Youtubeチャンネル登録者数15万人突破
-* 2022年07月29日 `『ゆる異種族言語学ライブ』を開催 <https://www.loft-prj.co.jp/schedule/plusone/217968>`_ 
-* 2022年07月30日 `バリューブックスとアンバサダー契約を締結 <https://www.valuebooks.jp/endpaper/11097/>`_ 
-* 2022年09月02日 Spotify協賛で2泊3日の『ゆる学徒ハウス』を「オーシャンステート鴨川」で開催
-* 2022年10月04日 ゆる言語学ラジオのコミカライズ「`ゆるグイ <https://www.pixiv.net/artworks/101681307>`_ 」連載開始
-* 2022年10月27日 `note番組の第二弾 <https://peatix.com/event/3354945>`_ 
-* 2022年10月28日 `イベント・ワテラスブックフェス <https://waterrasbookfes.com/>`_ にて「出張版！ゆる言語学ラジオ」
-* 2022年11月15日 `BSよしもとさんの番組「ジュニア、伺う」 <https://bsy.co.jp/programs/by0000016004>`_ に水野さんが出演
-* 2022年12月28日 700名規模の :doc:`/words/ゆる言語学ラジオ大忘年会2022` を実施 
-* 2023年03年18日 `第4回 JAPAN PODCAST AWARDS <https://www.japanpodcastawards.com/>`_ にてゆるコンピュータ科学ラジオがリスナーズチョイス7位
-* 2023年06月01日 `ゆる学徒カフェ <https://yurugakuto.studio.site/>`_ 開店！
-* 2023年06月09日 ゆるコンピュータ科学ラジオチャンネル登録者6万人
-* 2023年07月01日 `紀伊國屋書店にて『ゆる言語学ラジオが選んだ言語学出版社フォーラムの本フェア』 <https://store.kinokuniya.co.jp/event/1686716534/>`_ 
 * 2023年07月09日 Youtubeチャンネル登録者数20万人突破
+* 2023年07月01日 `紀伊國屋書店にて『ゆる言語学ラジオが選んだ言語学出版社フォーラムの本フェア』 <https://store.kinokuniya.co.jp/event/1686716534/>`_ 
+* 2023年06月09日 ゆるコンピュータ科学ラジオチャンネル登録者6万人
+* 2023年06月01日 `ゆる学徒カフェ <https://yurugakuto.studio.site/>`_ 開店！
+* 2023年03年18日 `第4回 JAPAN PODCAST AWARDS <https://www.japanpodcastawards.com/>`_ にてゆるコンピュータ科学ラジオがリスナーズチョイス7位
+* 2022年12月28日 700名規模の :doc:`/words/ゆる言語学ラジオ大忘年会2022` を実施 
+* 2022年11月15日 `BSよしもとさんの番組「ジュニア、伺う」 <https://bsy.co.jp/programs/by0000016004>`_ に水野さんが出演
+* 2022年10月28日 `イベント・ワテラスブックフェス <https://waterrasbookfes.com/>`_ にて「出張版！ゆる言語学ラジオ」
+* 2022年10月27日 `note番組の第二弾 <https://peatix.com/event/3354945>`_ 
+* 2022年10月04日 ゆる言語学ラジオのコミカライズ「`ゆるグイ <https://www.pixiv.net/artworks/101681307>`_ 」連載開始
+* 2022年09月02日 Spotify協賛で2泊3日の『ゆる学徒ハウス』を「オーシャンステート鴨川」で開催
+* 2022年07月30日 `バリューブックスとアンバサダー契約を締結 <https://www.valuebooks.jp/endpaper/11097/>`_ 
+* 2022年07月29日 `『ゆる異種族言語学ライブ』を開催 <https://www.loft-prj.co.jp/schedule/plusone/217968>`_ 
+* 2022年07月24日 Youtubeチャンネル登録者数15万人突破
+* 2022年07月24日 `にじさんじ黛灰コラボ <https://youtu.be/eeyaMUrWOog>`_ 
+* 2022年07月12日 コミュニティメンバ参加でのインプット奴隷合宿 in いいかねPalette
+* 2022年07月08日 `noteにてシリーズ番組を開始 <https://youtu.be/-c0-kZz9UwU>`_ 
+* 2022年07月01日 `オリジナルグッズ通販開始 <https://www.valuebooks.jp/shelf-items/folder/4362babbae09d77>`_ 
+* 2022年06月25日 `サタデープログラム <https://www.satprogram.net/>`_ 愛知県東海高校「サタデープログラム」の講座へ出演
+* 2022年06月07日 新企画Youtubeチャンネル『ゆる学徒ハウス』を公式オープン
+* 2022年06月02日 慶応義塾大学湘南藤沢キャンパスにて今井むつみ先生の講義のゲストとしてゆる言語学ラジオが出演
+* 2022年05月21日 `インディゲーム実況アワード <https://youtu.be/SRFoQrV_YlI>`_ にて「さっさと続きを遊んでほしいで賞」「大賞」を受賞
+* 2022年05月21日 `女性モードファッション誌SUPR取材（8月号掲載） <https://youtu.be/GwpDnnqkny0>`_ 
+* 2022年05月20日 `ゆる言語学ラジオ大好き芸人に出演 <https://twitcasting.tv/asagayalofta/shopcart/154694>`_ 
+* 2022年05月15日 サポータコミュニティ2000名を突破
+* 2022年04月20日 Voicy総再生回数1万回突破！
+* 2022年04月08日 `朝日新聞コラボ出演 <https://open.spotify.com/episode/4TwQ4R3PHXbTY6HAcPgcBm?si=F8TJxQ9oSBOu_Fjm04gDqA>`_ 
+* 2022年03月31日 `noteコラボ出演 <https://store.line.me/stickershop/product/18955892/ja>`_ 
+* 2022年03月31日 `Lineスタンプ公開 <https://store.line.me/stickershop/product/18955892/ja>`_ 
+* 2022年03月17日 :doc:`JAPAN_PODCAST_AWARDS` （ベストナレッジ賞、リスナーズチョイス1位）
+* 2022年03月12日 Podcast weekend 出店
+* 2022年02月27日 サポータコミュニティ1500名を突破
+* 2022年01月14日 第3回 JAPAN PODCAST AWARDS 大賞 及び ベストナレッジ賞にノミネート
+* 2022年01月01日 姉妹チャンネル『ゆるコンピュータ科学ラジオ』を開始
+* 2021年12月16日 Youtubeチャンネル登録者数10万人突破
+* 2021年12月07日 サポータコミュニティ1000名を突破
+* 2021年11月14日 サポータコミュニティ開始を発表
+* 2021年08月31日 `あきる野市の文教堂書店 ゆる言語学ラジオフェア <https://twitter.com/bunkyodo_akirun/status/1432681979749670915>`_ 
+* 2021年06月19日 Youtubeチャンネル登録者数4.5万人
+* 2021年05月某日 Youtubeチャンネル登録者数1万人
+* 2021年03月11日 ゆる言語学ラジオチャンネルとして独立
+* 2020年12月某日 撮影開始、`衒学チャンネル <https://www.youtube.com/channel/UCYJ335HO_qLZDr7TywpI0Gg>`_ から順次公開される
