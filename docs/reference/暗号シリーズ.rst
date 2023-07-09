@@ -2,8 +2,8 @@
 
 .. :ref:`参考文献:暗号シリーズ <暗号シリーズ参考文献>`
 
-(コンピュータ#79)暗号シリーズ
-=================================
+(コンピュータ#79-#80)暗号シリーズ
+===========================================================
 
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
@@ -17,20 +17,24 @@
   <!--48手ヨガ--><a href="https://www.amazon.co.jp/48%E6%89%8B%E3%83%A8%E3%82%AC-%E6%B1%9F%E6%88%B8%E9%81%8A%E5%A5%B3%E3%81%AB%E5%AD%A6%E3%81%B6%E5%A5%B3%E6%80%A7%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E3%81%A8%E4%BD%93%E5%8A%9B%E6%B4%BB%E6%80%A7%E6%B3%95-%E9%88%B4%E6%9C%A8-%E3%81%BE%E3%82%8A/dp/4909646078?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2KN85TH00MR8L&keywords=48%E6%89%8B%E3%83%A8%E3%82%AC&qid=1688189885&sprefix=48%E6%89%8B%E3%83%A8%E3%82%AC%2Caps%2C162&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=b7fa81076f89c64825ae7a59a4429384&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4909646078&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4909646078" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--煙滅--><a href="https://www.amazon.co.jp/%E7%85%99%E6%BB%85-%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%BF-%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8%E3%83%A5-%E3%83%9A%E3%83%AC%E3%83%83%E3%82%AF/dp/4891767502?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2FVYZW5EQ99L3&keywords=%E7%85%99%E6%BB%85&qid=1688263515&sprefix=%E7%85%99%E6%BB%85%2Caps%2C153&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=81b066b0bd7345798bb4a1e0a410c4f0&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4891767502&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4891767502" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <!--残像に口紅を--><a href="https://www.amazon.co.jp/%E6%AE%8B%E5%83%8F%E3%81%AB%E5%8F%A3%E7%B4%85%E3%82%92-%E4%B8%AD%E5%85%AC%E6%96%87%E5%BA%AB-%E7%AD%92%E4%BA%95%E5%BA%B7%E9%9A%86-ebook/dp/B07CMZZNPW?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=X6GTUCBFO7RO&keywords=%E6%AE%8B%E5%83%8F%E3%81%AB%E5%8F%A3%E7%B4%85%E3%82%92&qid=1687605863&sprefix=%E6%AE%8B%E5%83%8F%E3%81%AB%E5%8F%A3%E7%B4%85%E3%82%92%2Caps%2C164&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=24282c0115b36279fbc924f45f73cb3a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CMZZNPW&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B07CMZZNPW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--暗号技術入門 第3版　秘密の国のアリス--><a href="https://www.amazon.co.jp/%E6%9A%97%E5%8F%B7%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80-%E7%AC%AC3%E7%89%88-%E7%A7%98%E5%AF%86%E3%81%AE%E5%9B%BD%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9-%E7%B5%90%E5%9F%8E-%E6%B5%A9-ebook/dp/B015643CPE?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1WPCULMHJA2RL&keywords=%E6%9A%97%E5%8F%B7&qid=1688524351&sprefix=%E6%9A%97%E5%8F%B7%2Caps%2C184&sr=8-4&linkCode=li1&tag=takaoutputblo-22&linkId=6f2c56afcf4609253c2d36e137aded96&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015643CPE&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B015643CPE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-+---------------------+---------------------------------------------------------------------------------------------+
-|      タイトル       |                                            解説                                             |
-+=====================+=============================================================================================+
-| `暗号解読`_         | サイモン・シンの名著。                                                                      |
-+---------------------+---------------------------------------------------------------------------------------------+
-| `カーマ・スートラ`_ | ヒンドゥーの性典にも書かれる娼婦が知っておくべきテクニックこそ暗号                          |
-+---------------------+---------------------------------------------------------------------------------------------+
-| `48手ヨガ`_         | カーマ・スートラを参考にされたヨガの本                                                      |
-+---------------------+---------------------------------------------------------------------------------------------+
-| `煙滅`_             | 暗号で登場する頻度分析を逆手に取った小説。:doc:`/words/リポグラム` が使われたぺレックの小説 |
-+---------------------+---------------------------------------------------------------------------------------------+
-| `残像に口紅を`_     | 筒井康隆による :doc:`/words/リポグラム` が使われた小説                                      |
-+---------------------+---------------------------------------------------------------------------------------------+
++-----------------------------------------+---------------------------------------------------------------------------------------------+
+|                タイトル                 |                                            解説                                             |
++=========================================+=============================================================================================+
+| `暗号解読`_                             | サイモン・シンの名著。                                                                      |
++-----------------------------------------+---------------------------------------------------------------------------------------------+
+| `カーマ・スートラ`_                     | ヒンドゥーの性典にも書かれる娼婦が知っておくべきテクニックこそ暗号                          |
++-----------------------------------------+---------------------------------------------------------------------------------------------+
+| `48手ヨガ`_                             | カーマ・スートラを参考にされたヨガの本                                                      |
++-----------------------------------------+---------------------------------------------------------------------------------------------+
+| `煙滅`_                                 | 暗号で登場する頻度分析を逆手に取った小説。:doc:`/words/リポグラム` が使われたぺレックの小説 |
++-----------------------------------------+---------------------------------------------------------------------------------------------+
+| `残像に口紅を`_                         | 筒井康隆による :doc:`/words/リポグラム` が使われた小説                                      |
++-----------------------------------------+---------------------------------------------------------------------------------------------+
+| `暗号技術入門 第3版　秘密の国のアリス`_ | 暗号シリーズ種本                                                                            |
++-----------------------------------------+---------------------------------------------------------------------------------------------+
+.. _暗号技術入門 第3版　秘密の国のアリス: https://amzn.to/3POhKyR
 .. _カーマ・スートラ: https://amzn.to/46tCCRY
 .. _残像に口紅を: https://amzn.to/3NyTnme
 .. _煙滅: https://amzn.to/3pEcIdz
@@ -38,6 +42,9 @@
 .. _暗号解読: https://amzn.to/3CVxTuN
 
 .. rubric:: 関連動画
+
 * `C79【暗号1】`_
+* `C80【暗号2】`_
 
 .. _C79【暗号1】: https://youtu.be/MdEs9oBbc3Q
+.. _C80【暗号2】: https://youtu.be/qVu5T2Xp7Og
