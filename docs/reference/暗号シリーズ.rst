@@ -45,6 +45,8 @@
 
 * `C79【暗号1】`_
 * `C80【暗号2】`_
+* `C81【暗号3】`_
 
 .. _C79【暗号1】: https://youtu.be/MdEs9oBbc3Q
 .. _C80【暗号2】: https://youtu.be/qVu5T2Xp7Og
+.. _C81【暗号3】: https://youtu.be/OTG09aXqBmE
