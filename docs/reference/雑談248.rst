@@ -1,0 +1,29 @@
+.. _雑談248参考文献:
+
+.. :ref:`参考文献:雑談248 <雑談248参考文献>`
+
+(#248)おたより回
+=================================
+
+:doc:`/words/助数詞ーズハイ` さん3作品目が登場するおたより回
+
+:doc:`/words/マック構文` 、や、:doc:`/words/true・false` 、 :doc:`/words/エロイプ兄貴`  についても履修しておくと倍楽しめる。
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
++----------+----------+
+| タイトル |   解説   |
++==========+==========+
+| 特になし | 特になし |
++----------+----------+
+
+.. rubric:: 関連動画
+
+* `#248【OTAYORITOWER】`_
+
+.. _#248【OTAYORITOWER】: https://www.youtube.com/watch?v=xDg-2u1njFI

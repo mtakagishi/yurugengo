@@ -10,6 +10,7 @@
 
   * 第一話： `助数詞回を見てしまった故の悲劇 <https://www.youtube.com/watch?v=DOPj0ObyX-Y&t=2656s>`_ 
   * 第二話： `後日譚 <https://www.youtube.com/watch?v=VdVT4zYSH24&t=2993s>`_ 
+  * 第三話： `女王様とのプレイについて <https://youtu.be/xDg-2u1njFI?t=1798s>`_ 
 
 .. tip:: 
   * 2022年度 :doc:`ゆる言語学ラジオ流行語大賞` ベスト10に登場
@@ -19,10 +20,15 @@
 * :doc:`アンビピスド` 
 * :doc:`ビスカンバー` 
 * :doc:`シコリティ・シコラビリティ` 
+* :doc:`マック構文`
+* :doc:`true・false`
+* :doc:`エロイプ兄貴`
+
 
 .. rubric:: 関連リンク
 * :ref:`雑談96参考文献 <雑談96参考文献>`
 * :ref:`雑談126参考文献 <雑談126参考文献>`
+* :ref:`雑談248参考文献 <雑談248参考文献>`
 * :ref:`助数詞シリーズ参考文献 <助数詞シリーズ参考文献>`
 
 .. rubric:: 関連ラジオ
@@ -30,8 +36,10 @@
 * `強烈なファンアート（石像）が来た【おたより雑談回】#126`_
 * `なぜ「仏の顔も3回まで」は間違いなのか？【助数詞2】#38`_
 * `ジャルジャルのコントは1単語で表せる【OEDおもしろ単語2】#69`_
+* `『クリシェ言いまくる奴』ゆる言語学ラジオのネタのタネ【OTAYORITOWER】#248`_
 
 .. _なぜ「仏の顔も3回まで」は間違いなのか？【助数詞2】#38: https://www.youtube.com/watch?v=K5_ktUB62G0
 .. _四字熟語バトルをしたり、リスナー名を○○に決めたり【おたより雑談回】#96: https://www.youtube.com/watch?v=DOPj0ObyX-Y&t=2656s
 .. _強烈なファンアート（石像）が来た【おたより雑談回】#126: https://www.youtube.com/watch?v=VdVT4zYSH24&t=2993s
 .. _ジャルジャルのコントは1単語で表せる【OEDおもしろ単語2】#69: https://www.youtube.com/watch?v=WffHr9ypGsw
+.. _『クリシェ言いまくる奴』ゆる言語学ラジオのネタのタネ【OTAYORITOWER】#248: https://www.youtube.com/watch?v=xDg-2u1njFI
