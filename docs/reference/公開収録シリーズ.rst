@@ -1,0 +1,19 @@
+公開収録シリーズ
+=========================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. rubric:: 公開収録シリーズ
+.. toctree::
+  :maxdepth: 2
+  :glob:
+
+  公開収録2_141
+  公開収録3_162
+  公開収録4_183
+  公開収録5_221
+  公開収録6_233
+  公開収録7_コ83
