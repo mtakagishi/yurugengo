@@ -803,6 +803,12 @@
     ;
     group{
       orientation = portrait
+      "23/6/24\n撮影66" ->
+      "23/8/1公開\n言251【日本語検定】"
+    }
+    ;
+    group{
+      orientation = portrait
       "23/6/25\n撮影67" ->
       "23/7/30公開\nコ83【公開収録7プロジェクトヘイルメアリー】"
     }
