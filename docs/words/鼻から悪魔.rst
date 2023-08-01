@@ -20,13 +20,16 @@
   | Twitter: `笠なし地蔵さん <https://twitter.com/jizo_pianissimo>`_
 
 .. rubric:: 関連ワード
+
 * :doc:`失敗たとえの森` 
 
 .. rubric:: 関連リンク
+
 * :ref:`参考文献:失敗たとえの森 <失敗たとえの森参考文献>`
 * `未定義動作(Wikipedia) <https://ja.wikipedia.org/wiki/未定義動作>`_ 
 
 .. rubric:: 関連ラジオ
+
 * `C言語コミュニティの失敗たとえ「鼻から悪魔」【失敗たとえの森2】#69`_
 
 .. _C言語コミュニティの失敗たとえ「鼻から悪魔」【失敗たとえの森2】#69: https://www.youtube.com/watch?v=h-R6wQXB6oI
