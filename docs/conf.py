@@ -83,7 +83,7 @@ html_sidebars = {
     "words/*": ["search-field.html"],
     "reference/*": ["search-field.html"],
     "videos/timeline": [],
-    "**": ["search-field.html", "ads_top_medium_rectangle.html"],
+    # "**": ["search-field.html", "ads_top_medium_rectangle.html"],
 }
 
 [extensions]
