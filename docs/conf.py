@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ゆる言語学ラジオ用語集'
+project = 'ゆる言語学ラジオ 用語集'
 copyright = '2023, mtakagishi'
 author = 'mtakagishi'
 
