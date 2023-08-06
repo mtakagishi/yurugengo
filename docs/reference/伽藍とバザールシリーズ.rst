@@ -1,0 +1,42 @@
+.. _伽藍とバザールシリーズ参考文献:
+
+.. :ref:`参考文献:伽藍とバザールシリーズ <伽藍とバザールシリーズ参考文献>`
+
+(コンピュータ#84)伽藍とバザールシリーズ
+===================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--伽藍とバザール(単行本)--><a href="https://www.amazon.co.jp/%E4%BC%BD%E8%97%8D%E3%81%A8%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB-S-Raymond/dp/4904807022?&linkCode=li1&tag=takaoutputblo-22&linkId=4877290301079311054013e9223f9669&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4904807022&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4904807022" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--インターネットポルノ中毒--><a href="https://www.amazon.co.jp/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%9D%E3%83%AB%E3%83%8E%E4%B8%AD%E6%AF%92-%E3%82%84%E3%82%81%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E8%84%B3%E3%81%A8%E4%B8%AD%E6%AF%92%E3%81%AE%E7%A7%91%E5%AD%A6-%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3-ebook/dp/B091Q2MR1G?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=393RS084Y2681&keywords=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%9D%E3%83%AB%E3%83%8E%E4%B8%AD%E6%AF%92&qid=1690850877&sprefix=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%9D%E3%83%AB%E3%83%8E%E4%B8%AD%E6%AF%92%2Caps%2C160&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=29d7c86eedfd44e5db6c3afc1f0957d7&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B091Q2MR1G&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B091Q2MR1G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--人月の神話--><a href="https://www.amazon.co.jp/%E4%BA%BA%E6%9C%88%E3%81%AE%E7%A5%9E%E8%A9%B1-%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BBP%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%8CJr-ebook/dp/B0998ZTVTD?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=17LUEVWGQSTOM&keywords=%E4%BA%BA%E6%9C%88%E3%81%AE%E7%A5%9E%E8%A9%B1&qid=1691291102&sprefix=%E4%BA%BA%E6%9C%88%E3%81%AE%E7%A5%9E%E8%A9%B1%2Caps%2C169&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=ca8d6221255b81be010aa051cad0403d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0998ZTVTD&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0998ZTVTD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+|          タイトル           |                                                   解説                                                   |
++=============================+==========================================================================================================+
+| `伽藍とバザール(単行本)`_   |                                                                                                          |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `伽藍とバザール`_           | 山形浩生訳でネットで無料で読めます                                                                       |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `山形浩生公式ホームページ`_ | 水野さんの好きな翻訳者。『リンク、コピーは黙ってどうぞ。くわしくはこちらを見よ。』に人柄がにじみ出ている |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `インターネットポルノ中毒`_ | 山形浩生訳書のひとつ。翻訳メモを見て読みたいと感じた。                                                   |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+| `人月の神話`_               | 銀の弾丸はない、人月の神話、など                                                                         |
++-----------------------------+----------------------------------------------------------------------------------------------------------+
+.. _人月の神話: https://amzn.to/44Ua4zL
+.. _伽藍とバザール(単行本): https://amzn.to/3KtHP2F
+.. _インターネットポルノ中毒: https://amzn.to/3Kv5ZtX
+.. _山形浩生公式ホームページ: https://cruel.org/jindex.html
+.. _伽藍とバザール: https://cruel.org/freeware/cathedral.pdf
+
+.. rubric:: 関連動画
+
+* `C84【伽藍をバザール1】`_
+
+.. _C84【伽藍をバザール1】: https://youtu.be/w8G839nOIZY
