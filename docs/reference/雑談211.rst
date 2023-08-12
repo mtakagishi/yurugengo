@@ -5,6 +5,8 @@
 (#211)考え事雑談
 =================================
 
+:doc:`/words/人である意味` などの衝撃的なワードが飛び交う雑談回
+
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
 * `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
