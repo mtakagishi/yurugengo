@@ -2,8 +2,10 @@
 
 .. :ref:`参考文献:歳時記シリーズ <歳時記シリーズ参考文献>`
 
-(#253-#254)歳時記シリーズ
+(#253-#255)歳時記シリーズ
 =================================
+
+:doc:`/words/プロこたつer` 等を生み出した俳句の季語シリーズ
 
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
@@ -26,6 +28,8 @@
   <!--ロボティクス・ノーツ--><a href="https://amzn.to/3DIZBvj" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51XPybbK5rL._SY346_.jpg" width="75"></a>
   <!--STEINS;GATE--><a href="https://amzn.to/45hukvc" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/81oUGMq+4mL._AC_UL400_.jpg" width="75"></a>
   <!--綜合日本民俗語彙--><a href="https://www.amazon.co.jp/%E7%B6%9C%E5%90%88%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BF%97%E8%AA%9E%E5%BD%99%E3%80%88%E7%AC%AC1%E5%B7%BB%E3%80%89%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%B3-1955%E5%B9%B4-%E6%B0%91%E4%BF%97%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/dp/B000JBMUNK?crid=2B1L8QJ703PNY&keywords=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BF%97%E8%AA%9E%E5%BD%99&qid=1677848304&sprefix=%2Caps%2C156&sr=8-3&linkCode=li1&tag=takaoutputblo-22&linkId=6df9cab1a07a92227fd6679ea8719405&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000JBMUNK&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B000JBMUNK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--姑獲鳥の夏--><a href="https://www.amazon.co.jp/%E6%96%87%E5%BA%AB%E7%89%88-%E5%A7%91%E7%8D%B2%E9%B3%A5%E3%81%AE%E5%A4%8F-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%96%87%E5%BA%AB-%E4%BA%AC%E6%A5%B5-%E5%A4%8F%E5%BD%A6/dp/4062638878?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=AEOLCD752YBQ&keywords=%E5%A7%91%E7%8D%B2%E9%B3%A5%E3%81%AE%E5%A4%8F&qid=1692112488&sprefix=%E5%A7%91%E7%8D%B2%E9%B3%A5%E3%81%AE%E5%A4%8F%2Caps%2C299&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=2d67a8751714e1eeb7ff0f60c0dbc245&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4062638878&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4062638878" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--変な家--><a href="https://www.amazon.co.jp/%E5%A4%89%E3%81%AA%E5%AE%B6-%E9%9B%A8%E7%A9%B4-ebook/dp/B099WXTY6W?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=X1EG9IO9RW3X&keywords=%E5%A4%89%E3%81%AA%E5%AE%B6&qid=1692112520&sprefix=%E5%A4%89%E3%81%AA%E5%AE%B6%2Caps%2C297&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=0e2d57955d10ddb49c3b47cd5c0657dd&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099WXTY6W&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B099WXTY6W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 +--------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 |                              タイトル                              |                                                                      解説                                                                      |
@@ -58,7 +62,12 @@
 +--------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 | `綜合日本民俗語彙`_                                                | 柳田邦夫が編纂した各地の語彙、シヌグマツリという意味不明な語彙で説明された祭りが載っている                                                     |
 +--------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
-
+| `姑獲鳥の夏`_                                                      | 獅子の爪痕、の話題にて、無名だったころの京極夏彦の原稿が著名な人の文章だと誤解させた                                                           |
++--------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| `変な家`_                                                          | 獅子の爪痕、の話題にて、雨穴さん、腕利きの作家に違いないと思わせた傑作を世に送る                                                               |
++--------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+.. _変な家: https://amzn.to/3QzCISA
+.. _姑獲鳥の夏: https://amzn.to/3KCABtt
 .. _綜合日本民俗語彙: https://amzn.to/3rYOOu7
 .. _STEINS;GATE: https://amzn.to/45hukvc
 .. _ロボティクス・ノーツ: https://amzn.to/3DIZBvj
@@ -78,6 +87,8 @@
 
 * `#253【歳時記1】`_
 * `#254【歳時記2】`_
+* `#255【歳時記3】`_
 
 .. _#253【歳時記1】: https://www.youtube.com/watch?v=CI554nDXSbE
 .. _#254【歳時記2】: https://www.youtube.com/watch?v=QxZWJJFpL9c
+.. _#255【歳時記3】: https://www.youtube.com/watch?v=OiLHkC3PFuk
