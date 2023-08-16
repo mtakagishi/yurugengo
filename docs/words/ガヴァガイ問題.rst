@@ -21,7 +21,8 @@
 * :doc:`赤ちゃん` 
 
 .. rubric:: 関連リンク
-* `入江幸男(大阪大学名誉教授)講義ノート <https://www.let.osaka-u.ac.jp/~irie/KOUGI/kyotsu/2002SS/2002ss01introduction.bak>`_ 
+.. * `入江幸男(大阪大学名誉教授)講義ノート <https://www.let.osaka-u.ac.jp/~irie/KOUGI/kyotsu/2002SS/2002ss01introduction.bak>`_ 
+* * `入江幸男(大阪大学名誉教授)講義ノート <https://www.irieyukio.net/KOUGI/tokusyu/2012SS/2012ss04%20Identity%20sentence.pdf>`_ 
 * :ref:`「赤ちゃん」シリーズの参考文献 <赤ちゃん参考文献>`
 
 .. rubric:: 関連ラジオ
