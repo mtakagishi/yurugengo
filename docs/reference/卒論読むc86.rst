@@ -1,0 +1,32 @@
+.. _卒論読むc86参考文献:
+
+.. :ref:`参考文献:卒論読むc86 <卒論読むc86参考文献>`
+
+(コンピュータ#86)卒論を読む回
+==============================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--情報処理学会巻頭コラム--><a href="https://www.ipsj.or.jp/magazine/kantocolumn.html" target="_blank"><img border="0" src="https://yt3.googleusercontent.com/ytc/AOPolaTJZGW_0IgVSK4V1Pw3I3We0AQ-6VfOY8yta8As=s176-c-k-c0x00ffffff-no-rj" width="75"></a>
+  <!--葉隠--><a href="https://amzn.to/3P0YWvB" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/91iweWq-AvL._AC_UL400_.jpg" width="75"></a>
+
++---------------------------+--------------------------------------------------------------------+
+|         タイトル          |                                解説                                |
++===========================+====================================================================+
+| `情報処理学会巻頭コラム`_ | 堀元さんが依頼されている情報処理学会巻頭コラムの過去分を閲覧できる |
++---------------------------+--------------------------------------------------------------------+
+| `葉隠`_                   | コンピュータサイエンスとは、もぐことと見つけたり                   |
++---------------------------+--------------------------------------------------------------------+
+.. _葉隠: https://amzn.to/3P0YWvB
+.. _情報処理学会巻頭コラム: https://www.ipsj.or.jp/magazine/kantocolumn.html
+
+.. rubric:: 関連動画
+
+* `C86【堀元さんの卒論】`_
+
+.. _C86【堀元さんの卒論】: https://youtu.be/zb7T81z8e2M
