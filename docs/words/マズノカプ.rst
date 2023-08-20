@@ -3,7 +3,7 @@
 .. glossary::
     マズノカプ : ま
 
-歳時記シリーズで俳句デビューした水野さんの俳号。
+歳時記シリーズで俳句デビューした水野さんの俳号。AIが生成しそうな文脈なき俳句という話題の中で発生した造語。マズノカプの原形は「蟷螂（とうろう）枯る」（茶色のカマキリ）からの着想による「水野枯る」であるがもはや原型はない。
 
 .. admonition:: ワクワク感を読んだ初の句
 
@@ -36,4 +36,4 @@
 
 .. _歳時記を読んだだけの素人が俳句を詠むと…？【歳時記2】#254: https://www.youtube.com/watch?v=QxZWJJFpL9c
 .. _俳句は一切詠まないのに、季語が収録された辞典を通読しました【歳時記1】#253: https://www.youtube.com/watch?v=CI554nDXSbE
-https://www.youtube.com/watch?v=OiLHkC3PFuk
+.. _クイズみたいな季語を集めて出題してみました【歳時記3】#255: https://www.youtube.com/watch?v=OiLHkC3PFuk
