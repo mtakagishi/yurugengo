@@ -14,7 +14,7 @@
   * 2022年度 :doc:`ゆる言語学ラジオ流行語大賞` ベスト20に登場
 
 .. tip:: 
-    【さっさと続きを遊んでほしいで賞】を受賞するほどの人気シリーズだったが、2023年8月26日久々にプレイしようと思って起動してデータ消失が発覚、実質 `#185 <https://www.youtube.com/watch?v=pUiOJFc19pg>`_ が最終回となった。
+    【さっさと続きを遊んでほしいで賞】を受賞するほどの人気シリーズだったが、2023年8月26日ゲームデータの消失が発覚、実質 `#185 <https://www.youtube.com/watch?v=pUiOJFc19pg>`_ が最終回となった。
 
 .. rubric:: ゲームリンク
 * `steam <https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/>`_ 
