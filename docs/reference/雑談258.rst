@@ -1,0 +1,64 @@
+.. _ムキムキ周圏論258参考文献:
+
+.. :ref:`参考文献:ムキムキ周圏論雑談回 <ムキムキ周圏論258参考文献>`
+
+(#258)雑談回ムキムキ周圏論
+=================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--さらば青春の光の電マコント--><a href="https://youtu.be/Zs71nTR-U1I" target="_blank"><img border="0" src="https://yt3.googleusercontent.com/2qhq9FYP5LSRsw6YMKNak39NTn3oQUVoEKXDSzUS4UfgxJnSR3QBLc6PdOVWo10MPbqoUpsH2So=s176-c-k-c0x00ffffff-no-rj" width="75"></a>
+  <!--オルガスムの科学--><a href="https://www.amazon.co.jp/%E3%82%AA%E3%83%AB%E3%82%AC%E3%82%B9%E3%83%A0%E3%81%AE%E7%A7%91%E5%AD%A6%E2%80%95%E2%80%95%E6%80%A7%E7%9A%84%E5%BF%AB%E6%A5%BD%E3%81%A8%E8%BA%AB%E4%BD%93%E3%83%BB%E8%84%B3%E3%81%AE%E7%A5%9E%E7%A7%98%E3%81%A8%E8%AC%8E-%E3%83%90%E3%83%AA%E3%83%BC%E3%83%BBR%E3%83%BB%E3%82%B3%E3%83%9F%E3%82%B5%E3%83%AA%E3%83%A5%E3%83%83%E3%82%AF/dp/4861825075?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=24B8RX95XCLKA&keywords=%E3%82%AA%E3%83%AB%E3%82%AC%E3%82%B9%E3%83%A0%E3%81%AE%E7%A7%91%E5%AD%A6&qid=1693050428&sprefix=%E3%82%AA%E3%83%AB%E3%82%AC%E3%82%B9%E3%83%A0%E3%81%AE%E7%A7%91%E5%AD%A6%2Caps%2C228&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=88a1c9277964273be86f47d058067fdc&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4861825075&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4861825075" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--蝸牛考--><a href="https://www.amazon.co.jp/%E8%9D%B8%E7%89%9B%E8%80%83-%E5%B2%A9%E6%B3%A2%E6%96%87%E5%BA%AB-138-7-%E6%9F%B3%E7%94%B0-%E5%9C%8B%E7%94%B7/dp/4003313879?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E8%9D%B8%E7%89%9B%E8%80%83&qid=1693051212&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=1c05fe02b2f6057d63f06b1c1bbf994a&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4003313879&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4003313879" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--選択の科学--><a href="https://www.amazon.co.jp/%E9%81%B8%E6%8A%9E%E3%81%AE%E7%A7%91%E5%AD%A6-%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%A4%A7%E5%AD%A6%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E7%89%B9%E5%88%A5%E8%AC%9B%E7%BE%A9-%E6%96%87%E6%98%A5%E6%96%87%E5%BA%AB-%E3%82%B7%E3%83%BC%E3%83%8A-%E3%82%A2%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%AC%E3%83%BC/dp/4167901552?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2VN2ZF7KZL4W3&keywords=%E9%81%B8%E6%8A%9E%E3%81%AE%E7%A7%91%E5%AD%A6&qid=1693051646&sprefix=%E9%81%B8%E6%8A%9E%E3%81%AE%E7%A7%91%E5%AD%A6%2Caps%2C330&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=05f445bffc8d160258a345209f61dea2&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4167901552&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4167901552" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--Factorio--><a href="https://store.steampowered.com/app/427520/Factorio/?l=japanese" target="_blank"><img border="0" src="https://cdn.akamai.steamstatic.com/steam/apps/427520/header.jpg" width="75"></a>
+  <!--電力会社--><a href="https://bodoge.hoobby.net/games/funkenschlag" target="_blank"><img border="0" src="https://dm0una2imrs80.cloudfront.net/small_light(dw=auto,dh=900,cw=1200,ch=900,da=l,ds=s,q=70,cc=FFFFFF,of=webp)/picture_15c71c82-d231-429c-99c7-5642c34cb8e5.jpg" width="75"></a>
+  <!--Cookie Clicker--><a href="https://store.steampowered.com/app/1454400/Cookie_Clicker/?l=japanese" target="_blank"><img border="0" src="https://cdn.akamai.steamstatic.com/steam/apps/1454400/header.jpg" width="75"></a>
+  <!--ないたあかおに--><a href="https://www.amazon.co.jp/%E8%AC%9B%E8%AB%87%E7%A4%BE%E3%81%AE%E5%90%8D%E4%BD%9C%E7%B5%B5%E6%9C%AC-%E3%81%AA%E3%81%84%E3%81%9F%E3%81%82%E3%81%8B%E3%81%8A%E3%81%AB-%E6%B5%9C%E7%94%B0-%E5%BB%A3%E4%BB%8B/dp/406218656X?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=325CUDJMCJCAR&keywords=%E6%B3%A3%E3%81%84%E3%81%9F%E8%B5%A4%E9%AC%BC&qid=1693052216&sprefix=%E6%B3%A3%E3%81%84%E3%81%9F%E8%B5%A4%E9%AC%BC%2Caps%2C324&sr=8-5&linkCode=li1&tag=takaoutputblo-22&linkId=0f3924deae233145f8203e91b6f38530&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=406218656X&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=406218656X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--愛するということ--><a href="https://www.amazon.co.jp/%E6%84%9B%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8-%E3%82%A8%E3%83%BC%E3%83%AA%E3%83%83%E3%83%92%E3%83%BB%E3%83%95%E3%83%AD%E3%83%A0-ebook/dp/B08JSL89JX?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%84%9B%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8&qid=1693053024&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=d259ad65f173f2b034ba264cc44e9518&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08JSL89JX&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B08JSL89JX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--経営者の孤独。--><a href="https://www.amazon.co.jp/%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AE%E5%AD%A4%E7%8B%AC%E3%80%82-%E5%9C%9F%E9%96%80-%E8%98%AD/dp/4591163385?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3TG5IVR14YBS&keywords=%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AE%E5%AD%A4%E7%8B%AC&qid=1693053140&sprefix=%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AE%E5%AD%A4%E7%8B%AC+%2Caps%2C518&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=a136d253af2884ebf4d79c129b0e0110&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4591163385&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=4591163385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+|           タイトル            |                                                      解説                                                       |
++===============================+=================================================================================================================+
+| `さらば青春の光の電マコント`_ | 健康グッズなのに卑猥なイメージとなってしまった電動マッサージ機に関する名作コント                                |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `オルガスムの科学`_           | 古代ギリシャのヒポクラテスの時代からフロイトに至るまで女性へのマッサージは医療的行為だった！？                  |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `蝸牛考`_                     | 柳田邦夫による考察、かたつむりの周圏論から、エニタイムで運動する人のムキムキ周圏論を語る                        |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `選択の科学`_                 | ジャムの種類が多すぎると選ぶの大変すぎて購入されない、3種類に絞ったら購買が高かったし、購入後の満足感も高かった |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `Factorio`_                   | 世界が最大効率で動いていてほしい、という話題で引き合いに出されたゲームのひとつ                                  |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `電力会社`_                   | 世界が最大効率で動いていてほしい、という話題で引き合いに出されたゲームのひとつ                                  |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `Cookie Clicker`_             | 世界が最大効率で動いていてほしい、という話題で引き合いに出されたゲームのひとつ                                  |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `ないたあかおに`_             | 飯田さんのお話は、青鬼による自己犠牲をすることでことが全て上手くいく話と同じプロット？                          |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `愛するということ`_           | 愛とは決意であり、決断であり、約束である。愛するということについて相手のせいにしがちだけど自分の問題            |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| `経営者の孤独。`_             | 悩むことへのストレス耐性の話題、堀元さんの悩みは経営者特有。                                                    |
++-------------------------------+-----------------------------------------------------------------------------------------------------------------+
+.. _経営者の孤独。: https://amzn.to/3YRn5YM
+.. _愛するということ: https://amzn.to/3OQb7u0
+.. _ないたあかおに: https://amzn.to/3QRHtHl
+.. _Cookie Clicker: https://store.steampowered.com/app/1454400/Cookie_Clicker/?l=japanese
+.. _電力会社: https://bodoge.hoobby.net/games/funkenschlag
+.. _Factorio: https://store.steampowered.com/app/427520/Factorio/?l=japanese
+.. _選択の科学: https://amzn.to/3YOY2FO
+.. _蝸牛考: https://amzn.to/45qbDpw
+.. _オルガスムの科学: https://amzn.to/3R3fLHs
+.. _さらば青春の光の電マコント: https://youtu.be/Zs71nTR-U1I
+
+.. rubric:: 関連動画
+
+* `#258【ムキムキ集圏論】`_
+
+.. _#258【ムキムキ集圏論】: https://www.youtube.com/watch?v=W9I3nfqGlVo
