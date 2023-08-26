@@ -13,6 +13,9 @@
 .. tip:: 
   * 2022年度 :doc:`ゆる言語学ラジオ流行語大賞` ベスト20に登場
 
+.. tip:: 
+    【さっさと続きを遊んでほしいで賞】を受賞するほどの人気シリーズだったが、2023年8月26日久々にプレイしようと思って起動してデータ消失が発覚、実質 `#185 <https://www.youtube.com/watch?v=pUiOJFc19pg>`_ が最終回となった。
+
 .. rubric:: ゲームリンク
 * `steam <https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/>`_ 
 * `ios <https://apps.apple.com/jp/app/7-days-to-end-with-you/id1602772289?platform=iphone>`_ 
@@ -31,6 +34,7 @@
 * `作者Lizardryさんのツイート <https://twitter.com/Lizardry_dev/status/1528374648248750080>`_ 
 * `ゆる言語学ラジオ公式のツイート <https://twitter.com/yuru_gengo/status/1527985918795141125>`_ 
 * :ref:`参考文献:7days_to_end_with_you <7days_to_end_with_you参考文献>`
+* `突然の最終回宣言 <https://twitter.com/yuru_gengo/status/1695428932953309598>`_ 
 
 .. rubric:: 関連ラジオ
 * `【ゲーム実況④】記述言語学者と未知の言語解読ゲーム【7days to end with you】#185`_
