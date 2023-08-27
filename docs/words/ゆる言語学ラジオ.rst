@@ -141,21 +141,23 @@
     * `Twitter <https://twitter.com/sunday_hornist>`_ 
     * `note <https://note.com/sunday_hornist/>`_ 
 
+.. _出演スポンサー:
+
 出演スポンサー（出演回順）
 ------------------------------------------
 
 * 清水 健介 (しみず けんすけ)
 
   * `バリューブックス <https://www.valuebooks.jp/shelf-items/list/RFZjN2ZJWHV0cFJLTDFLblo4dGtkUT09>`_ 
-  * スタッフでなく代表取締役
-  * 出演回 `#235 <https://www.youtube.com/watch?v=rBK_3kz6AXw>`_ 
+  * スタッフでなく、:doc:`/words/チンピラ` でもなく 代表取締役
+  * 出演回 `#235 <https://www.youtube.com/watch?v=rBK_3kz6AXw>`_
   * `第15期（2021年7月～）役員人事記事 <https://netkeizai.com/articles/detail/4230>`_ 
 
 * 飯田 光平 (いいだ こうへい)
 
   * `バリューブックス <https://www.valuebooks.jp/shelf-items/list/RFZjN2ZJWHV0cFJLTDFLblo4dGtkUT09>`_ 
   * ゆる言語学ラジオ専属担当
-  * 出演回 `#235 <https://www.youtube.com/watch?v=rBK_3kz6AXw>`_ 
+  * 出演回 `#235 <https://www.youtube.com/watch?v=rBK_3kz6AXw>`_  `#236 <https://youtu.be/67x291qibT8>`_ `#256 <https://youtu.be/QJYwzzyRMOk>`_ `#257 <https://youtu.be/jdyR8n4jYsI>`_ `#258 <https://youtu.be/W9I3nfqGlVo>`_ 
   * `プロフィール <https://www.wantedly.com/id/onthehill>`_ ／ `Twitter <https://twitter.com/alpino_kou2>`_ 
 
 
