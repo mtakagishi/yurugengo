@@ -9,5 +9,8 @@
 
   一番のウケどころでポーズをつけて
 
+.. rubric:: 関連ワード
+* :doc:`後水尾天皇` 
+
 .. rubric:: 関連ラジオ
 * `水野太貴生誕祭【with バリューブックス飯田さん】 <https://www.youtube.com/live/fLLWHsANHLg?si=arMtSrjaZaH217vw>`_ 
