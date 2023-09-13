@@ -822,7 +822,7 @@
 .. _利用価値のない0ルピー紙幣、なぜ発行された？【うんちくエウレーカクイズ】#262: https://www.youtube.com/watch?v=51oNvrijOKI
 .. _言語学者と広告コピーを読んだら、意外な分析の嵐だった。#263: https://www.youtube.com/watch?v=wnC5-HDO5SY
 
-.. _#262: /reference/広告コピー263.html
+.. _#263: /reference/広告コピー263.html
 .. _#262: /reference/うんちくエウレーカクイズ262.html
 .. _#261: /reference/古文シリーズ.html
 .. _#260: /reference/古文シリーズ.html
