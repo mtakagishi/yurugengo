@@ -74,7 +74,7 @@ html_theme_options = {
     "external_links": [
         {"name": "問合せ", "url": "https://forms.gle/WJ3khhqqeNrEr8fv6"},
     ],
-    "article_footer_items": ["ads_themoneytizer.html", "prev-next.html"],
+    "article_footer_items": ["ads_themoneytizer.html"],
 }
 html_theme_options["analytics"] = {
     "google_analytics_id": "G-ZQ74H2ZF8F",
