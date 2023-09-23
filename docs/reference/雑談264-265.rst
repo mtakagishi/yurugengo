@@ -1,0 +1,52 @@
+.. _雑談264-265参考文献:
+
+.. :ref:`参考文献:雑談264-265 <雑談264-265参考文献>`
+
+(#264-#265)高田先生雑談回
+==================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+  <!--モーツァルト 《レクイエム》--><a href="https://youtu.be/qllREi8QMp4" target="_blank"><img border="0" src="https://i.ytimg.com/vi/qllREi8QMp4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW3ePWHPMR1hR0Mpl9aXM-7dq0VA" width="75"></a>
+  <!--ドヴォルザークチェロ協奏曲--><a href="https://youtu.be/U_yxtaeFuEQ" target="_blank"><img border="0" src="https://i.ytimg.com/vi/U_yxtaeFuEQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPkripkTmArXlVIgNZwkB8kQXmaw" width="75"></a>
+  <!--左ききのエレン--><a href="https://www.amazon.co.jp/%E5%B7%A6%E3%81%8D%E3%81%8D%E3%81%AE%E3%82%A8%E3%83%AC%E3%83%B3-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E3%81%8B%E3%81%A3%E3%81%B4%E3%83%BC-ebook/dp/B076HN94KS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E5%B7%A6%E5%88%A9%E3%81%8D%E3%81%AE%E3%82%A8%E3%83%AC%E3%83%B3&qid=1695476411&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=dc56aa688a845c9cbd8057e67090ea6e&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076HN94KS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B076HN94KS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--映画「イエスマン」--><a href="https://amzn.to/3ZqqspX" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71bUlpJzOaL._AC_UL320_.jpg" width="75"></a>
+  <!--遠野物語--><a href="https://www.amazon.co.jp/%E5%8F%A3%E8%AA%9E%E8%A8%B3-%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E-%E6%B2%B3%E5%87%BA%E6%96%87%E5%BA%AB-%E6%9F%B3%E7%94%B0%E5%9B%BD%E7%94%B7-ebook/dp/B00N0XOPQY?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1W5FLP2ICDGTY&keywords=%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E&qid=1695476738&sprefix=%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E%2Caps%2C452&sr=8-2&linkCode=li1&tag=takaoutputblo-22&linkId=68e40e87cf7f739c24702c97419c1446&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00N0XOPQY&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00N0XOPQY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--ジョジョの奇妙な冒険--><a href="https://www.amazon.co.jp/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA-%E7%AC%AC1%E9%83%A8-%E3%82%AB%E3%83%A9%E3%83%BC%E7%89%88-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-ebook/dp/B00ATLLSNS?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2GOQV5VNYR0HO&keywords=%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA&qid=1695477067&s=books&sprefix=%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA%2Cstripbooks%2C433&sr=1-13&linkCode=li1&tag=takaoutputblo-22&linkId=ffcebbb8ca492220f877a286fb14fc2f&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ATLLSNS&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B00ATLLSNS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++--------------------------------+----------------------------------------------------------------------------------------------------------+
+|            タイトル            |                                                   解説                                                   |
++================================+==========================================================================================================+
+| `モーツァルト 《レクイエム》`_ | 略してモツレク、サポータコミュニティの「業界にしか広まっていない用語」スレッド                           |
++--------------------------------+----------------------------------------------------------------------------------------------------------+
+| `ドヴォルザークチェロ協奏曲`_  | 略してドボコン、非常に美しい曲なのに「ドボコン」はない                                                   |
++--------------------------------+----------------------------------------------------------------------------------------------------------+
+| `左ききのエレン`_              | 佐久間威風、自分を中心に世界が回っている                                                                 |
++--------------------------------+----------------------------------------------------------------------------------------------------------+
+| `映画「イエスマン」`_          | とりあえずイエスと言ってみるマインド。前向きに決断できたときにいい結果につながる                         |
++--------------------------------+----------------------------------------------------------------------------------------------------------+
+| `遠野物語`_                    | 柳田国男の遠野物語でもおなじみ、岩手県の遠野で高田先生どべっこ祭りでどぶろくをたくさん振舞われたお話     |
++--------------------------------+----------------------------------------------------------------------------------------------------------+
+| `ジョジョの奇妙な冒険`_        | ふるえるぞハート！燃え尽きるほどヒート！おおおおっ刻むと血液のビート！サンライトイエローオーバードライブ |
++--------------------------------+----------------------------------------------------------------------------------------------------------+
+.. _ジョジョの奇妙な冒険: https://amzn.to/4622B2l
+.. _遠野物語: https://amzn.to/3PQgj2I
+.. _映画「イエスマン」: https://amzn.to/3ZqqspX
+.. _左ききのエレン: https://amzn.to/46oN3pg
+
+.. _ドヴォルザークチェロ協奏曲: https://youtu.be/U_yxtaeFuEQ
+.. _モーツァルト 《レクイエム》: https://youtu.be/qllREi8QMp4
+
+.. rubric:: 関連動画
+
+* `#265【高田先生雑談回2】`_
+* `#264【高田先生雑談回1】`_
+
+.. _#265【高田先生雑談回2】: https://www.youtube.com/watch?v=RtkggS3g5Mw
+.. _#264【高田先生雑談回1】: https://www.youtube.com/watch?v=SNb5iQB4WIc
+
