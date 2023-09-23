@@ -5,6 +5,8 @@
 (#242)紀伊國屋書店コラボ
 =================================
 
+:doc:`/words/紀伊國屋書店名古屋店` の想い出などが登場する紀伊國屋書店を歩き回るコラボ回
+
 * `参考文献一覧へ </reference/>`_ 
 * `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
 * `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
