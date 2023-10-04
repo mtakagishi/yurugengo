@@ -142,7 +142,7 @@
 * `#214【リメイク3：音はスゴイ】`_
 * `#213【リメイク2：文法はスゴイ】`_
 * `#212【リメイク1：単語はスゴイ】`_
-* `#3【藤原不比等は「ぷぢぃぱらのぷぴちょ」だった】`_
+* `#3【平安時代のなぞなぞで分かる音の変化。昔は「はひふへほ」が発音されていなかった？】`_
 * `#2【言語がたくさんある理由】`_
 * `#1【言語学って何？】`_
 
@@ -150,7 +150,7 @@
 .. _#214【リメイク3：音はスゴイ】: https://www.youtube.com/watch?v=MP4j-hA8e-U
 .. _#213【リメイク2：文法はスゴイ】: https://www.youtube.com/watch?v=7KrvOHH185A
 .. _#212【リメイク1：単語はスゴイ】: https://www.youtube.com/watch?v=wXfvmSA94NQ
-.. _#3【藤原不比等は「ぷぢぃぱらのぷぴちょ」だった】: https://www.youtube.com/watch?v=KItCvPD86pw
+.. _#3【平安時代のなぞなぞで分かる音の変化。昔は「はひふへほ」が発音されていなかった？】: https://www.youtube.com/watch?v=KItCvPD86pw
 .. _#2【言語がたくさんある理由】: https://www.youtube.com/watch?v=-Zo_0_DZrvk
 .. _#1【言語学って何？】: https://www.youtube.com/watch?v=2YY9DT4uDh0
 
