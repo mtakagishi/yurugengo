@@ -1,0 +1,36 @@
+.. _未整理動画参考文献:
+
+.. :ref:`参考文献:未整理動画 <未整理動画参考文献>`
+
+参考文献・コンテンツ未整理の動画一覧
+==================================================================
+
+* `参考文献一覧へ </reference/>`_ 
+* `ゆる言語学ラジオ動画一覧へ </videos/yurugengo_radio_list.html>`_ 
+* `ゆるコンピュータ科学動画一覧へ </videos/yurucomputer_radio_list.html>`_ 
+* `用語索引へ </genindex.html>`_ 
+
+.. raw:: html
+
+.. rubric:: 未整理一覧
+* `#274【芸術偏差値43雑談】`_
+* `#273【カプリティオコラボ3】`_
+* `#272【カプリティオコラボ2】`_
+* `#271【動物言語学者あるある】`_
+* `#270【カプリティオコラボ1】`_
+* `#269【雑談回】`_
+* `#268【エスペラント3】`_
+* `#267【エスペラント2】`_
+* `#266【エスペラント1】`_
+
+.. _#274【芸術偏差値43雑談】: https://www.youtube.com/watch?v=9wkB39DIJWc
+.. _#273【カプリティオコラボ3】: https://www.youtube.com/watch?v=nFM8hV6Obec
+.. _#272【カプリティオコラボ2】: https://www.youtube.com/watch?v=6dr5zU5HA-A
+.. _#271【動物言語学者あるある】: https://www.youtube.com/watch?v=8FGSo_xO1Ks
+.. _#270【カプリティオコラボ1】: https://www.youtube.com/watch?v=r7_XktQ-dUU
+.. _#269【雑談回】: https://www.youtube.com/watch?v=abZ0KF-xSvs
+.. _#268【エスペラント3】: https://www.youtube.com/watch?v=iSi-SHnRJzM
+.. _#267【エスペラント2】: https://www.youtube.com/watch?v=2PGp236lFpU
+.. _#266【エスペラント1】: https://www.youtube.com/watch?v=Mmnv97R91Ns
+
+
