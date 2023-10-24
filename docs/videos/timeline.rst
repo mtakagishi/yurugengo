@@ -815,6 +815,12 @@
     ;
     group{
       orientation = portrait
+      "23/6/1\n撮影65" ->
+      "23/10/24公開\n言275【ちょいガチ言語学1】"
+    }
+    ;
+    group{
+      orientation = portrait
       "23/6/3\n撮影66" ->
       "23/6/3ライブ\nライブ【言語沼オーディオブック】"
     }

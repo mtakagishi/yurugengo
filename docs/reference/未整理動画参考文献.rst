@@ -13,6 +13,7 @@
 .. raw:: html
 
 .. rubric:: 未整理一覧
+* `#275【ちょいガチ言語学1】`_
 * `#274【芸術偏差値43雑談】`_
 * `#273【カプリティオコラボ3】`_
 * `#272【カプリティオコラボ2】`_
@@ -23,6 +24,7 @@
 * `#267【エスペラント2】`_
 * `#266【エスペラント1】`_
 
+.. _#275【ちょいガチ言語学1】: https://www.youtube.com/watch?v=EsyYaoSHXvQ
 .. _#274【芸術偏差値43雑談】: https://www.youtube.com/watch?v=9wkB39DIJWc
 .. _#273【カプリティオコラボ3】: https://www.youtube.com/watch?v=nFM8hV6Obec
 .. _#272【カプリティオコラボ2】: https://www.youtube.com/watch?v=6dr5zU5HA-A

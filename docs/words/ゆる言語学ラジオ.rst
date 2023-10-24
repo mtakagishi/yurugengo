@@ -121,7 +121,7 @@
 
 * 鈴木　俊貴 （すずきとしたか）
 
-  * 出演回 `#246 <https://youtu.be/zC9hUWWjntE>`_
+  * 出演回 `#246 <https://youtu.be/zC9hUWWjntE>`_ `#252 <https://youtu.be/6DRI5Ki71WM>`_ `#271 <https://youtu.be/8FGSo_xO1Ks>`_ 
   * 東京大学先端科学技術研究センター准教授
   * 立教大学大学院理学研究科博士後期課程 修了
   * 1983年生まれ
@@ -141,6 +141,12 @@
 
     * `Twitter <https://twitter.com/sunday_hornist>`_ 
     * `note <https://note.com/sunday_hornist/>`_ 
+
+* 川原 繁人（かわはらしげと）
+
+  * 出演回 `#275 <https://youtu.be/EsyYaoSHXvQ>`_ 
+  * 慶応義塾大学 言語文化研究所
+  * 国際基督教大学を卒業、マサチューセッツ大学で博士課程取得
 
 .. _出演スポンサー:
 
