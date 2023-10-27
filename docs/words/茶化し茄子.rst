@@ -1,0 +1,27 @@
+茶化し茄子
+==========================================
+.. glossary::
+    茶化し茄子 : ち
+
+* ゆる言語学ラジオの動画コメント「茶化し茄子居なくて草」を発祥とする堀元さんの愛称。
+
+.. image:: https://pbs.twimg.com/media/F9eqtEua4AACsW5?format=png&name=small
+  :width: 80%
+
+.. image:: https://pbs.twimg.com/media/F9equsba4AAgUc3?format=png&name=900x900
+  :width: 80%
+
+.. rubric:: 関連ワード
+* :doc:`教養（インテリ）悪口本` 
+* :doc:`シンプル悪口` 
+
+.. rubric:: 関連リンク
+* https://twitter.com/yuru_mizuno/status/1716777255429648771
+* https://twitter.com/yuru_mizuno/status/1717800012007256214
+* https://twitter.com/kenhori2/status/1716812870674272505
+
+.. rubric:: 関連ラジオ
+  
+* `【3時間で全部学ぶ】音韻論の基礎から最適性理論まで【ちょいガチ言語学ラジオ】#275`_
+
+.. _【3時間で全部学ぶ】音韻論の基礎から最適性理論まで【ちょいガチ言語学ラジオ】#275: https://www.youtube.com/watch?v=EsyYaoSHXvQ
