@@ -7,12 +7,6 @@
 
 :月曜日 20:00 ゆる書道学ラジオ 夏生・越山:  `(Youtube) <https://www.youtube.com/@yurushodo>`_ `(Spotify) <https://open.spotify.com/show/03kMZOoIJS9ybknZGv3zXc>`_
 
-----
-
-.. image:: https://yt3.googleusercontent.com/m8S-8S3ZB7HXJKCKSpGKAF793AuQJMn6jsBrzjka1FqTMGfHc42f7UZkyy0JpzUOkUwCqFKTgws=s176-c-k-c0x00ffffff-no-rj
-  :width: 15%
-
-:月曜日 21:00 ゆる哲学ラジオ 平田・よしのぶ:  `(2023/7/17 Youtube上陸) <https://www.youtube.com/@yurutetsugaku>`_
 
 ----
 
@@ -31,13 +25,6 @@
 
 ----
 
-.. image:: https://yt3.googleusercontent.com/m8S-8S3ZB7HXJKCKSpGKAF793AuQJMn6jsBrzjka1FqTMGfHc42f7UZkyy0JpzUOkUwCqFKTgws=s176-c-k-c0x00ffffff-no-rj
-  :width: 15%
-
-:水曜日 21:00 ゆる哲学ラジオ 平田・よしのぶ:  `(2023/7/17 Youtube上陸) <https://www.youtube.com/@yurutetsugaku>`_
-
-----
-
 .. image:: https://yt3.googleusercontent.com/-XqEWKloLA9eZMWiVstaFNuJplN_kHAWjSegZDcvwaLsAzJ034Ic_ot_oaWBmiiRNLGmPQ8swg=s176-c-k-c0x00ffffff-no-rj-mo
   :width: 15%
 
@@ -52,12 +39,6 @@
 
 ----
 
-.. image:: https://yt3.googleusercontent.com/m8S-8S3ZB7HXJKCKSpGKAF793AuQJMn6jsBrzjka1FqTMGfHc42f7UZkyy0JpzUOkUwCqFKTgws=s176-c-k-c0x00ffffff-no-rj
-  :width: 15%
-
-:金曜日 21:00 ゆる哲学ラジオ 平田・よしのぶ:  `(2023/7/17 Youtube上陸) <https://www.youtube.com/@yurutetsugaku>`_
-
-----
 
 .. image:: https://yt3.googleusercontent.com/ytc/AL5GRJVShqVAxQHHtePD96yUOGgBQwiTm9LC0Qzw95rZ=s176-c-k-c0x00ffffff-no-rj-mo
   :width: 15%
@@ -66,10 +47,10 @@
 
 ----
 
-.. image:: https://i.scdn.co/image/ab67656300005f1f9a606286627c3b3ecd930503
+.. image:: https://yt3.googleusercontent.com/m8S-8S3ZB7HXJKCKSpGKAF793AuQJMn6jsBrzjka1FqTMGfHc42f7UZkyy0JpzUOkUwCqFKTgws=s176-c-k-c0x00ffffff-no-rj
   :width: 15%
 
-:土曜日 20:00 ゆる哲学ラジオ 平田・よしのぶ:  `(Spotify独占) <https://open.spotify.com/show/7t8NNVqRiisEHL4HG9tArT>`_
+:土曜日 20:00 ゆる哲学ラジオ 平田・よしのぶ:  `(Youtube) <https://www.youtube.com/@yurutetsugaku>`_ `(Spotify) <https://open.spotify.com/show/7t8NNVqRiisEHL4HG9tArT>`_
 
 ----
 
