@@ -24,6 +24,12 @@
 * `#268【エスペラント3】`_
 * `#267【エスペラント2】`_
 * `#266【エスペラント1】`_
+* `C91【カフェで出会った人】`_
+* `C92【文字コード1】`_
+* `C93【文字コード2】`_
+* `C94【文字コード3】`_
+* `C95【文字コード4】`_
+* `C96【雑談】`_
 
 .. _#276【ちょいガチ言語学1の翻訳】: https://www.youtube.com/watch?v=q5X-wVMQjFk
 .. _#275【ちょいガチ言語学1】: https://www.youtube.com/watch?v=EsyYaoSHXvQ
@@ -36,5 +42,9 @@
 .. _#268【エスペラント3】: https://www.youtube.com/watch?v=iSi-SHnRJzM
 .. _#267【エスペラント2】: https://www.youtube.com/watch?v=2PGp236lFpU
 .. _#266【エスペラント1】: https://www.youtube.com/watch?v=Mmnv97R91Ns
-
-
+.. _C91【カフェで出会った人】: https://youtu.be/PXWjU4tbFHY
+.. _C92【文字コード1】: https://youtu.be/ZlTKt50MTgE
+.. _C93【文字コード2】: https://youtu.be/ndt6CBFH6DQ
+.. _C94【文字コード3】: https://youtu.be/SC48k-KIT-U
+.. _C95【文字コード4】: https://youtu.be/zSuD9DRzxYk
+.. _C96【雑談】: https://youtu.be/6UCjA-5PPlQ
