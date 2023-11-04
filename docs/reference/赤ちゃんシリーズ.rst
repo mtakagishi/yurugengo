@@ -281,7 +281,7 @@
 * `#149【今井先生雑談】`_
 * `#150【赤ちゃんミステイクアワードwith今井先生】`_
 * `#191【赤ちゃんミステイクアワードwith今井先生2】`_
-
+* `#278【赤ちゃんミステイクアワードwith川原先生】`_
 
 .. _#114【赤ちゃんまとめ】: https://www.youtube.com/watch?v=iNAC58puA6w
 .. _#113【赤ちゃんと創作2】: https://www.youtube.com/watch?v=zeGChbd9RA0
@@ -303,3 +303,4 @@
 .. _#149【今井先生雑談】: https://www.youtube.com/watch?v=6AO_a9H5gTY
 .. _#150【赤ちゃんミステイクアワードwith今井先生】: https://www.youtube.com/watch?v=ivG_fbmuV5M
 .. _#191【赤ちゃんミステイクアワードwith今井先生2】: https://www.youtube.com/watch?v=hNULhZPWmD8
+.. _#278【赤ちゃんミステイクアワードwith川原先生】: https://www.youtube.com/watch?v=i3I8hbNMjwg
