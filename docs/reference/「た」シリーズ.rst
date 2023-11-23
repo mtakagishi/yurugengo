@@ -99,6 +99,7 @@
 
 
 .. rubric:: 関連動画
+* `まとめ <https://youtu.be/Qnb7Bo7AWhI>`_ 
 * `#89【「た」1】`_
 * `#90【「た」2】`_
 * `#91【「た」3】`_
@@ -108,7 +109,6 @@
 * `#95【「た」疲れた】`_
 * `#249【「た」と東北方言1】`_
 * `#250【「た」と東北方言2】`_
-
 
 .. _#95【「た」疲れた】: https://www.youtube.com/watch?v=TLFxYRB0uBI
 .. _#94【「た」6】: https://www.youtube.com/watch?v=drXeWP6Smlc
