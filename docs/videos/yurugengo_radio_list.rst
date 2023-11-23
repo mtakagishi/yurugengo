@@ -887,7 +887,7 @@
 .. _#282: /reference/未整理動画参考文献.html
 .. _#281: /reference/未整理動画参考文献.html
 .. _#280: /reference/カタルシス英文法シリーズ.html
-.. _#279: /reference/未整理動画参考文献.html
+.. _#279: /reference/講談社コラボ.html
 .. _#278: /reference/赤ちゃんシリーズ.html
 .. _#277: /reference/未整理動画参考文献.html
 .. _#276: /reference/未整理動画参考文献.html
@@ -897,7 +897,7 @@
 .. _#272: /reference/未整理動画参考文献.html
 .. _#271: /reference/未整理動画参考文献.html
 .. _#270: /reference/未整理動画参考文献.html
-.. _#269: /reference/未整理動画参考文献.html
+.. _#269: /reference/雑談269.html
 .. _#268: /reference/エスペラントシリーズ.html
 .. _#267: /reference/エスペラントシリーズ.html
 .. _#266: /reference/エスペラントシリーズ.html
