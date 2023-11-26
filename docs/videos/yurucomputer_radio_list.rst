@@ -309,10 +309,10 @@
 .. _極上のセキュリティ本について話してたら、引用ポイントを稼ぐバトルが始まった【雑談回】#100: https://www.youtube.com/watch?v=QR2HiWYHhK8
 
 .. _#999: /reference/未整理動画参考文献.html
-.. _#100: /reference/未整理動画参考文献.html
-.. _#99: /reference/未整理動画参考文献.html
-.. _#98: /reference/未整理動画参考文献.html
-.. _#97: /reference/未整理動画参考文献.html
+.. _#100: /reference/セキュリティシリーズ.html
+.. _#99: /reference/セキュリティシリーズ.html
+.. _#98: /reference/セキュリティシリーズ.html
+.. _#97: /reference/セキュリティシリーズ.html
 .. _#96: /reference/未整理動画参考文献.html
 .. _#95: /reference/未整理動画参考文献.html
 .. _#94: /reference/未整理動画参考文献.html
