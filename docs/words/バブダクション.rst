@@ -1,0 +1,20 @@
+バブダクション
+==========================================
+.. glossary::
+    バブダクション : は
+    babduction : A-Z
+
+baby-production または baby-abductionの略。赤ちゃんの言い間違いは「間違い」ではなく子供たちが生み出した推論の結果であり尊い。英語ではchild specific phonology(子供特有の音韻変化)と呼ぶこれらの現象に日本語として命名したい川原先生が生み出した造語。
+
+.. rubric:: 関連ワード
+* :doc:`40ミリ秒` 
+* :doc:`アブダクション` 
+* :doc:`赤ちゃん` 
+
+.. rubric:: 関連リンク
+* `赤ちゃんの言い間違いはbabductionが秀逸 <https://twitter.com/PhoneticsKeio/status/1720943165799317847>`_ 
+
+.. rubric:: 関連ラジオ
+* `子どもはなぜ「き」を「ち」にする？ 音声学者と子どもの間違いを楽しむ回 #278`_
+
+.. _子どもはなぜ「き」を「ち」にする？ 音声学者と子どもの間違いを楽しむ回 #278: https://www.youtube.com/watch?v=i3I8hbNMjwg

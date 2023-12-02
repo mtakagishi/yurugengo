@@ -314,10 +314,10 @@
 .. _#98: /reference/セキュリティシリーズ.html
 .. _#97: /reference/セキュリティシリーズ.html
 .. _#96: /reference/未整理動画参考文献.html
-.. _#95: /reference/未整理動画参考文献.html
-.. _#94: /reference/未整理動画参考文献.html
-.. _#93: /reference/未整理動画参考文献.html
-.. _#92: /reference/未整理動画参考文献.html
+.. _#95: /reference/文字コードシリーズ.html
+.. _#94: /reference/文字コードシリーズ.html
+.. _#93: /reference/文字コードシリーズ.html
+.. _#92: /reference/文字コードシリーズ.html
 .. _#91: /reference/未整理動画参考文献.html
 .. _#90: /reference/データベースシリーズ.html
 .. _#90: /reference/データベースシリーズ.html
