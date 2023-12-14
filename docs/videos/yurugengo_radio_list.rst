@@ -791,6 +791,7 @@
 .. _宇宙人は手話で会話をしているかもしれない【手話2】#188: https://www.youtube.com/watch?v=6mZWR7GV0is
 .. _熊本の方言「しこった」は下ネタじゃない【ベスト方言グランプリ3】#189: https://www.youtube.com/watch?v=1dY8Uy7YB9s
 .. _年末だから、夢を語っても許されるよね？【雑談回】#190: https://www.youtube.com/watch?v=GO-v6xLxonk
+.. _【著書について緊急報告2】『言語沼』を再度、発売延期にしました。たいへん申し訳ございません。: https://www.youtube.com/watch?v=K5wXfr1SU4U
 .. _認知心理学者が語る、言語を習得する鍵は「アブダクション」#191: https://www.youtube.com/watch?v=hNULhZPWmD8
 .. _無声映画から音声映画への移行で発生した深刻な悩みとは？【うんちくエウレーカクイズ】#192: https://www.youtube.com/watch?v=YN9cCYdDo7Q
 .. _ghotiと書いてフィッシュと読む？英語学ジョークを徹底解剖【発音1】 #193: https://www.youtube.com/watch?v=iD3VJeu2Roo
