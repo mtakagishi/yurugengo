@@ -14,6 +14,7 @@
 .. rubric:: 関連ワード
 * :doc:`教養（インテリ）悪口本` 
 * :doc:`シンプル悪口` 
+* :doc:`バルバス・バウ` 
 
 .. rubric:: 関連リンク
 * https://twitter.com/yuru_mizuno/status/1716777255429648771
