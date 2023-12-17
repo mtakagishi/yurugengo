@@ -8,11 +8,14 @@
 .. image:: https://pbs.twimg.com/media/GBeETvZbgAA3YMe?format=jpg&name=4096x4096
   :width: 60%
 
+`by Anliy Sikolsky@androidlinux1さん <https://twitter.com/androidlinux1>`_ 
+
 .. rubric:: 関連ワード
 * :doc:`茶化し茄子` 
 
 .. rubric:: 関連リンク
 * `バルバス・バウ(Wikipedia) <https://ja.wikipedia.org/wiki/バルバス・バウ>`_ 
+* `画像引用 <https://twitter.com/androidlinux1/status/1736001658734387654>`_ 
 * :ref:`参考文献:うんちくエウレーカクイズ乗り物編 <うんちくエウレーカクイズ乗り物編参考文献>`
 * :ref:`うんちくエウレーカクイズ14(乗り物編)<うんちくエウレーカクイズ乗り物編問題>`
 
