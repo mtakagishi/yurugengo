@@ -16,6 +16,7 @@
 * :doc:`積本精霊流し` 
 * :doc:`チンピラ` 
 * :doc:`ながの` 
+* :doc:`DAIPONMAJIKANSHA` 
 
 .. rubric:: 関連リンク
 * `積み本を売って「ゆる言語学ラジオ」グッズを手に入れよう！ <https://www.valuebooks.jp/endpaper/11102/>`_ 
