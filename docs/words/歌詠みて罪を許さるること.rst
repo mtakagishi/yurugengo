@@ -3,12 +3,23 @@
 .. glossary::
     歌詠みて罪を許さるること : う
 
-宇治拾遺物語の一節、クリエイティブは身を助けるという意味を込めて、堀元さんが結婚指輪の刻印として採用された。
+宇治拾遺物語の一節、クリエイティブは身を助けるという意味を込めて、堀元さんが結婚指輪の刻印として採用された。ちなみに、お相手の方の刻印は「手裏剣のこども」
+
+.. image:: https://pbs.twimg.com/media/GCLjEesaYAAY2VD?format=jpg&name=4096x4096
+    :width: 50%
+
+.. image:: https://pbs.twimg.com/media/GCLjE9caQAAMOJJ?format=jpg&name=4096x4096
+    :width: 50%
+
 
 .. rubric:: 関連ワード
 * `指輪に刻んだあのワード <https://www.youtube.com/live/1gDFJH7W1Gw?si=DRJqEKgtANDKcKwY&t=35323>`_ 
 * :doc:`DAIPONサービスタイム` 
 * :doc:`ゆる言語学ラジオ流行語大賞` 
+
+.. rubric:: 関連リンク
+* `刻印公開ツイート <https://twitter.com/kenhori2/status/1739202151929511968>`_ 
+
 
 .. rubric:: 関連ラジオ
 * `第1回ゆる学徒フェス【パーソナリティが入り乱れる10時間半】`_
