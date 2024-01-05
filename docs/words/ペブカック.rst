@@ -2,7 +2,7 @@
 ==========================================
 .. glossary::
     ペブカック : へ
-    PEGCAK : A-Z
+    PEBCAK : A-Z
 
 Problem Exists Between Chair and Keyboard の略で、パソコンの故障やセキュリティ問題において原因が機器側でなくユーザ側に問題があることを指す隠語。
 
