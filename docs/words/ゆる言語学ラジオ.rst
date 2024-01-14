@@ -30,7 +30,11 @@
 
 * 福田純也（ふくたじゅんや）
 
-  * 出演回 `#76 <https://youtu.be/4oKTEuDgO3s>`_ `#77 <https://youtu.be/SmH9EbH0x0c>`_ `#78 <https://youtu.be/0nmVZ6Up__k>`_ `#80 <https://youtu.be/sSvxP5cUASM>`_ `#81 <https://youtu.be/75HsFDb3HLI>`_ `#172 <https://youtu.be/fLcTo6Kstao>`_ `#173 <https://youtu.be/cQIJCLKIh18>`_ 
+  * 出演回
+
+    * 第二言語習得 `#76 <https://youtu.be/4oKTEuDgO3s>`_ `#77 <https://youtu.be/SmH9EbH0x0c>`_ `#78 <https://youtu.be/0nmVZ6Up__k>`_ `#80 <https://youtu.be/sSvxP5cUASM>`_ `#81 <https://youtu.be/75HsFDb3HLI>`_
+    * 共著論文 `#172 <https://youtu.be/fLcTo6Kstao>`_ `#173 <https://youtu.be/cQIJCLKIh18>`_ 
+
   * 中央大学 理工学部 准教授、ゆる言語学ラジオ監修者の一人
   * 名古屋大学大学院国際開発研究科博士課程修了
   * 1988年生まれ
@@ -41,7 +45,11 @@
 
 * 今井むつみ（いまいむつみ） 
 
-  * 出演回 `#137 <https://youtu.be/NinaUFNul8E>`_ `#138 <https://youtu.be/Jp2MfGQZ7F0>`_ `#148 <https://youtu.be/nh6Ru3TQMzo>`_ `#149 <https://youtu.be/6AO_a9H5gTY>`_ `#150 <https://youtu.be/ivG_fbmuV5M>`_ `#191 <https://youtu.be/hNULhZPWmD8>`_ 
+  * 出演回
+  
+    * 赤ちゃん言語習得: `#137 <https://youtu.be/NinaUFNul8E>`_ `#138 <https://youtu.be/Jp2MfGQZ7F0>`_  `#149 <https://youtu.be/6AO_a9H5gTY>`_ `#150 <https://youtu.be/ivG_fbmuV5M>`_ `#191 <https://youtu.be/hNULhZPWmD8>`_ 
+    * SFC出張: `#148 <https://youtu.be/nh6Ru3TQMzo>`_
+
   * 慶應義塾大学環境情報学部教授、ゆる言語学ラジオの種本を多数執筆
   * 慶應義塾大学大学院社会学研究科博士課程修了
   * ノースウェスタン大学心理学部博士課程修了
@@ -54,7 +62,11 @@
 
 * 嶋村貢志（しまむらこうじ）
 
-  * 出演回 `#167 <https://youtu.be/E49cMz_QwO8>`_ `#168 <https://youtu.be/_xvgxuvfcts>`_ `#169 <https://youtu.be/CYxGKxBZApE>`_ `#170 <https://youtu.be/5Y-nTXVT9hk>`_ `#171 <https://youtu.be/OK-a6R0wa0o>`_ `#172 <https://youtu.be/fLcTo6Kstao>`_ `#173 <https://youtu.be/cQIJCLKIh18>`_ 
+  * 出演回
+  
+    * 生成文法： `#167 <https://youtu.be/E49cMz_QwO8>`_ `#168 <https://youtu.be/_xvgxuvfcts>`_ `#169 <https://youtu.be/CYxGKxBZApE>`_ `#170 <https://youtu.be/5Y-nTXVT9hk>`_ `#171 <https://youtu.be/OK-a6R0wa0o>`_
+    * 共著論文: `#172 <https://youtu.be/fLcTo6Kstao>`_ `#173 <https://youtu.be/cQIJCLKIh18>`_ 
+  
   * 金沢学院大学文学部講師、神戸市外国語大学客員研究員、ゆる言語学ラジオ監修者の一人
   * 同志社大学経済学部経済学科,同志社大学文学部英文学科,大阪大学大学院文学研究科,コネチカット大学言語学科
   * すたでぃはーどあんどぷれいはーど
@@ -65,7 +77,13 @@
 
 * 黒島 規史（くろしまのりふみ）
 
-  * 出演回 `#177 <https://youtu.be/IR0iK5D1xlE>`_ `#178 <https://youtu.be/_Mis8HokuhQ>`_ `#180 <https://youtu.be/tvqAcsay9qA>`_ `#181 <https://youtu.be/9NZPwACPpbQ>`_  `#185 <https://youtu.be/pUiOJFc19pg>`_ 
+  * 出演回
+  
+    * 記述言語からみた言語 `#177 <https://youtu.be/IR0iK5D1xlE>`_ `#178 <https://youtu.be/_Mis8HokuhQ>`_
+    * 言語10選: `#180 <https://youtu.be/tvqAcsay9qA>`_
+    * おしゃれ論文:  `#181 <https://youtu.be/9NZPwACPpbQ>`_
+    * 実況プレイ: `#185 <https://youtu.be/pUiOJFc19pg>`_ 
+    
   * 熊本学園大学 外国語学部 東アジア学科 講師 、ゆる言語学ラジオ監修者の一人
   * 東京外国語大学博士
   * あまのじゃくくろしま
@@ -77,7 +95,10 @@
 
 * 高野 秀行（たかのひでゆき）
 
-  * 出演回 `#179 <https://youtu.be/QYJgtpVVu-I>`_ 
+  * 出演回
+
+    * 語学体験 `#179 <https://youtu.be/QYJgtpVVu-I>`_ 
+ 
   * ノンフィクション作家
   * 早稲田大学第一文学部仏文科卒業
   * 女子大生に囲まれてタイ語、麻薬王のアジトでビルマ語
@@ -89,7 +110,10 @@
 
 * 伊藤 雄馬（いとうゆうま）
 
-  * 出演回 `#224 <https://youtu.be/pkIPFcjWtWc>`_ 
+  * 出演回
+  
+    * ムラブリ： `#224 <https://youtu.be/pkIPFcjWtWc>`_ 
+
   * 独立研究者 ／ 横浜市立大学 客員研究員
   * 富山大学 人文学部 人文学科 (言語学) 卒業
   * `伊藤先生のresearchmap <https://researchmap.jp/yuma1986>`_ ／ `伊藤先生Twitter <https://twitter.com/yuma__ito>`_ ／ `伊藤先生note <https://note.com/yuma__ito/>`_ 
@@ -100,9 +124,14 @@
     * `森のムラブリ(映画.com) <https://eiga.com/movie/96412/>`_ 
 
 
-* 堀田　隆一 （ほったりゅういち）
+* 堀田 隆一 （ほったりゅういち）
 
-  * 出演回 `#227 <https://youtu.be/AcX7J0LZM54>`_ `#228 <https://www.youtube.com/watch?v=yCxmgySRS20>`_ `#234 <https://www.youtube.com/watch?v=g720dN09fzA>`_ `#247 <https://youtu.be/ZA2gRo3F7pM>`_ 
+  * 出演回
+
+    * 喜怒哀楽英単語: `#227 <https://youtu.be/AcX7J0LZM54>`_ `#228 <https://www.youtube.com/watch?v=yCxmgySRS20>`_
+    * 辞書を読む： `#234 <https://www.youtube.com/watch?v=g720dN09fzA>`_
+    * ターゲット1900: `#247 <https://youtu.be/ZA2gRo3F7pM>`_ 
+  
   * 慶應義塾大学文学部教授（英米文学専攻）
   * 東京外国語大学 外国語学部 英米語学科卒業
   * 東京大学大学院 総合文化研究科 言語情報科学専攻 修了
@@ -119,9 +148,12 @@
     * `堀田先生Twitter <https://twitter.com/chariderryu>`_
     * `慶応研究者DB <https://k-ris.keio.ac.jp/html/100000223_ja.html>`_ 
 
-* 鈴木　俊貴 （すずきとしたか）
+* 鈴木 俊貴 （すずきとしたか）
 
-  * 出演回 `#246 <https://youtu.be/zC9hUWWjntE>`_ `#252 <https://youtu.be/6DRI5Ki71WM>`_ `#271 <https://youtu.be/8FGSo_xO1Ks>`_ 
+  * 出演回
+
+    *  動物言語学： `#246 <https://youtu.be/zC9hUWWjntE>`_ `#252 <https://youtu.be/6DRI5Ki71WM>`_ `#271 <https://youtu.be/8FGSo_xO1Ks>`_
+   
   * 東京大学先端科学技術研究センター准教授
   * 立教大学大学院理学研究科博士後期課程 修了
   * 1983年生まれ
@@ -133,7 +165,13 @@
 
 * 高田 祥司（たかたしょうじ）
 
-  * 出演回 `#249 <https://youtu.be/jAivL3t3FeM>`_ `#250 <https://www.youtube.com/watch?v=LDuN7Ilon8Y>`_ `#259 <https://youtu.be/W234JLB3t8w>`_ `#260 <https://youtu.be/qcceIZPosSo>`_ `#261 <https://youtu.be/mf_5q6AjlCs>`_ `#263 <https://youtu.be/wnC5-HDO5SY>`_ `#264 <https://youtu.be/SNb5iQB4WIc>`_ `#265 <https://youtu.be/RtkggS3g5Mw>`_ 
+  * 出演回
+
+    * 「た」と東北方言： `#249 <https://youtu.be/jAivL3t3FeM>`_ `#250 <https://www.youtube.com/watch?v=LDuN7Ilon8Y>`_
+    * カタルシス古典文法： `#259 <https://youtu.be/W234JLB3t8w>`_ `#260 <https://youtu.be/qcceIZPosSo>`_ `#261 <https://youtu.be/mf_5q6AjlCs>`_
+    * キャッチコピー: `#263 <https://youtu.be/wnC5-HDO5SY>`_
+    * 雑談: `#264 <https://youtu.be/SNb5iQB4WIc>`_ `#265 <https://youtu.be/RtkggS3g5Mw>`_ 
+
   * 大阪大学 文学研究科 、ゆる言語学ラジオ監修者の一人
   * 大阪大学大学院文学研究科
   * 目からビームで焼き尽くす
@@ -144,18 +182,39 @@
 
 * 川原 繁人（かわはらしげと）
 
-  * 出演回 `#275 <https://youtu.be/EsyYaoSHXvQ>`_ `#276 <https://youtu.be/q5X-wVMQjFk>`_ `#277 <https://youtu.be/nQzKZ6VidAg>`_ `#278 <https://youtu.be/i3I8hbNMjwg>`_ 
+  * 出演回
+
+    * ガチ言語学(最適性理論)：`#275 <https://youtu.be/EsyYaoSHXvQ>`_ `#276 <https://youtu.be/q5X-wVMQjFk>`_ `#277 <https://youtu.be/nQzKZ6VidAg>`_
+    * 赤ちゃんミステイクアワード: `#278 <https://youtu.be/i3I8hbNMjwg>`_ 
+  
   * 慶応義塾大学 言語文化研究所
   * 国際基督教大学を卒業、マサチューセッツ大学で博士課程取得
   
 * 江崎 貴裕(えざきたかひろ)
 
-  * 出演回 `コンピュータ科学#101 <https://youtu.be/fn4AfnQY9RM>`_ `コンピュータ科学#102 <https://youtu.be/-m2nhjdzp1U>`_ `コンピュータ科学#103 <https://youtu.be/HvOJCU_oSqQ>`_ `コンピュータ科学#104 <https://youtu.be/kZz4UUfp2-8>`_ 
+  * 出演回
+
+    * 数理モデル: `コ#101 <https://youtu.be/fn4AfnQY9RM>`_ `コ#102 <https://youtu.be/-m2nhjdzp1U>`_ `コ#103 <https://youtu.be/HvOJCU_oSqQ>`_ `コ#104 <https://youtu.be/kZz4UUfp2-8>`_ 
+
   * 東京大学 先端科学技術研究センター  先端物流科学寄付研究部門 特任講師
   * `経歴詳細 <https://sites.google.com/site/ezakitakahiro/home>`_ 
   * 関連URL
 
     * `Takahiro Ezaki <https://sites.google.com/site/ezakitakahiro/top>`_ 
+
+* 丸山 岳彦(まるやま たけひこ)
+
+  * 出演回
+
+    *  コーパス：`#293 <https://youtu.be/60SQzKRdPDI>`_ `#294 <https://youtu.be/k2UwwyyGxZ8>`_ `#295 <https://youtu.be/_CJf4iJmhAk>`_ `#296 <https://youtu.be/QCDdVmqwZME>`_ 
+
+  * 専修大学国際コミュニケーション学部 教授 ゆる言語学ラジオ監修者の一人
+  * 神戸市外国語大学 大学院外国語学研究科 修了
+  * 関連URL
+
+    * `丸山先生researchmap <https://researchmap.jp/MARUYAMA_Takehiko>`_ 
+    * `丸山先生Twitter <https://twitter.com/maruyama_take>`_ 
+
 
 .. _出演スポンサー:
 
