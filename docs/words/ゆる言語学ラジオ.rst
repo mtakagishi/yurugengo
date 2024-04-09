@@ -236,6 +236,11 @@
 
   * 千葉大学名誉教授
   * 漫画  `ゴールデンカムイ`_ の監修をご担当
+  * `漫画家中川いさみ先生のお兄様 <https://isaminakagawaoffice.com/>`_ 
+  * 関連URL
+
+    * `中川先生(Wikipedia) <https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E8%A3%95_(%E3%82%A2%E3%82%A4%E3%83%8C%E8%AA%9E%E7%A0%94%E7%A9%B6%E8%80%85)>`_ 
+  
   
 .. _ゴールデンカムイ: https://amzn.to/3vRHzGE
 
