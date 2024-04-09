@@ -65,7 +65,8 @@
   * 出演回
   
     * 生成文法： `#167 <https://youtu.be/E49cMz_QwO8>`_ `#168 <https://youtu.be/_xvgxuvfcts>`_ `#169 <https://youtu.be/CYxGKxBZApE>`_ `#170 <https://youtu.be/5Y-nTXVT9hk>`_ `#171 <https://youtu.be/OK-a6R0wa0o>`_
-    * 共著論文: `#172 <https://youtu.be/fLcTo6Kstao>`_ `#173 <https://youtu.be/cQIJCLKIh18>`_ 
+    * 共著論文: `#172 <https://youtu.be/fLcTo6Kstao>`_ `#173 <https://youtu.be/cQIJCLKIh18>`_
+    * ガチ言語学(統語)： `#304 <https://youtu.be/UkI4XeiNsAU>`_ `#305 <https://youtu.be/r5qHw7kRyh0>`_ 
   
   * 金沢学院大学文学部講師、神戸市外国語大学客員研究員、ゆる言語学ラジオ監修者の一人
   * 同志社大学経済学部経済学科,同志社大学文学部英文学科,大阪大学大学院文学研究科,コネチカット大学言語学科
@@ -226,6 +227,17 @@
 
     * `丸山先生researchmap <https://researchmap.jp/MARUYAMA_Takehiko>`_ 
     * `丸山先生Twitter <https://twitter.com/maruyama_take>`_ 
+
+* 中川　裕(なかがわ　ひろし)
+
+  * 出演回
+
+    * ゴールデンカムイ回： `#321 <https://youtu.be/uwpjeZJCW3k>`_ 
+
+  * 千葉大学名誉教授
+  * 漫画  `ゴールデンカムイ`_ の監修をご担当
+  
+.. _ゴールデンカムイ: https://amzn.to/3vRHzGE
 
 
 .. _出演スポンサー:
