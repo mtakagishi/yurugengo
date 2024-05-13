@@ -5,7 +5,7 @@
 .. image:: https://yt3.googleusercontent.com/sqcPoHsH_ngGs4BCeOOfQ_PZ_QgWGMrF2_V9KPswiV04kK6J-UR-8dDy_ITCRHS2UsBWeFP2aKs=s176-c-k-c0x00ffffff-no-rj-mo
   :width: 15%
 
-:月曜日 20:00 ゆる書道学ラジオ 夏生・越山:  `(Youtube) <https://www.youtube.com/@yurushodo>`_ `(Spotify) <https://open.spotify.com/show/03kMZOoIJS9ybknZGv3zXc>`_
+:月曜日 20:00 ゆる書道学ラジオ 夏生・LEO(2024/05/13終了):  `(Youtube) <https://www.youtube.com/@yurushodo>`_ `(Spotify) <https://open.spotify.com/show/03kMZOoIJS9ybknZGv3zXc>`_
 
 
 ----
@@ -28,7 +28,7 @@
 .. image:: https://yt3.googleusercontent.com/-XqEWKloLA9eZMWiVstaFNuJplN_kHAWjSegZDcvwaLsAzJ034Ic_ot_oaWBmiiRNLGmPQ8swg=s176-c-k-c0x00ffffff-no-rj-mo
   :width: 15%
 
-:木曜日 20:00 ゆる天文学ラジオ 越山・夏生:  `(Youtube) <https://www.youtube.com/@yurutenmon>`_ `(Spotify) <https://open.spotify.com/show/6CGctNRBpOJmNPPSbvGV51>`_
+:木曜日 20:00 ゆる天文学ラジオ 越山・藤井:  `(Youtube) <https://www.youtube.com/@yurutenmon>`_ `(Spotify) <https://open.spotify.com/show/6CGctNRBpOJmNPPSbvGV51>`_
 
 ----
 
