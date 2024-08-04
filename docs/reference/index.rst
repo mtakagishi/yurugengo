@@ -9,7 +9,6 @@
 * `用語索引へ </genindex.html>`_ 
 * 『:ref:`パーソナリティ(著) <パーソナリティ・ゲスト著書>` 』
 * 『`バリューブックス！ <https://www.valuebooks.jp/shelf-items/list/RFZjN2ZJWHV0cFJLTDFLblo4dGtkUT09>`_ 』にてゆる言語学ラジオ書店やグッズ販売！
-* 『`つみぼん <https://www.tsumibon.tamari-b.com/>`_』というサイトにポッドキャスト系の参考文献がまとまっててオススメ。
 * `サポータコミュニティ <https://yurugengo.com/support>`_ にもまとめサイトがあるので課金もオススメ
 .. * ラジオで公開された選書リスト ⇒ `選書リスト(2021/10/04) <https://docs.google.com/spreadsheets/d/13jLKHNhFGSL_FvCPjkCZBDDnaaHa-0D0rFyWozvgQNQ/edit#gid=0>`_ 
 
