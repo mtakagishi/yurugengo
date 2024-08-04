@@ -1,0 +1,25 @@
+サラミ・スライス戦略
+==========================================
+.. glossary::
+    サラミ・スライス戦略 : さ
+
+* 論文を分割して本数を出して、論文を粗製乱造する技術
+
+.. rubric:: 関連ワード
+* :doc:`おもしろ単語カーニバル` 
+* :doc:`カルサリカンニッ` 
+* :doc:`ウェッジ―` 
+
+.. rubric:: 関連リンク
+
+.. raw:: html
+
+  <!--Science Fictions　あなたが知らない科学の真実--><a href="https://amzn.to/3WQJYMH" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71yi5nFJBXL._SY466_.jpg" width="75"></a>
+
+* `Science Fictions　あなたが知らない科学の真実`_ 
+.. _Science Fictions　あなたが知らない科学の真実: https://amzn.to/3WQJYMH
+
+.. rubric:: 関連ラジオ
+* `古今東西のおもしろ単語を集めました#330`_
+
+.. _古今東西のおもしろ単語を集めました#330: https://www.youtube.com/watch?v=4Q1CZr3rj-s
