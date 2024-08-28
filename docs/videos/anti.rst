@@ -24,6 +24,7 @@
   * 批判の元となった堀元さんの活動１ `あるインターネット芸人の凋落 <https://note.com/kenhori2/n/nc80fbabe43b8>`_ 
   * 批判の元となった堀元さんの活動２ `例の件について <https://note.com/kenhori2/n/n5629b4307586>`_ 
   * 批判へのアンサー記事 `落合陽一さんへ <https://note.com/kenhori2/n/n314a26de7a7e>`_ 
+  * 手打ちへのアンサー `落合先生 <https://x.com/kenhori2/status/1828824357864603826?s=46&t=nw82c-bbpB8XC56CJFYfVg>`_ 
   * 批判の元となった堀元さんの活動０ `サバ <https://ken-horimoto.com/20181228115315>`_ 
 
 中村明裕さん
