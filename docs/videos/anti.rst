@@ -16,6 +16,7 @@
 
   * `(2024/08/31)けんすうさん さん <https://kensuu.com/n/na6ca1ced8f65?sub_rt=share_pb>`_ 
   * `(2024/08/29)佐藤未悠@miyou_satou さん <https://togetter.com/li/2425778>`_ 
+  * `(2024/08/29)モノノフ２１さん <https://note.com/mononofu21/n/n11b3f41ef4f5>`_ 
   * `(2024/08/29)えらてんさん さん <https://youtu.be/0JJ2piHAvOk>`_ 
 
 堀元さんが書いた記事
