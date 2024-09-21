@@ -249,6 +249,45 @@
   
 .. _ゴールデンカムイ: https://amzn.to/3vRHzGE
 
+* ことラボりょ
+
+  * 出演回
+
+    * 大規模言語モデルシリーズ： `#129 <https://youtu.be/1sKCKo_p75A>`_ `#130 <https://youtu.be/dEeMCIgpfwo>`_ `#131 <https://youtu.be/HdFi9Sjh18Q>`_ `#132 <https://youtu.be/RfABYFlcq0>`_ `#133 <https://youtu.be/CTEWbT5VVtE>`_ 
+
+  * `ことラボ <https://www.youtube.com/@kotolabo>`_ の人
+
+  * 関連URL
+
+    * Twitter → https://x.com/KotoLaboRyo
+    * YouTube → https://www.youtube.com/@kotolabo
+
+
+* 樋口　聖典(ひぐち　きよのり)
+
+  * 出演回
+
+    * 読書回： `#354 <https://youtu.be/TUu-XVmAUSQ>`_ `#355 <https://youtu.be/Sxo5vpoJGnM>`_ 
+
+  * 株式会社BOOK代表取締役 企業家・実業家
+  * `COTEN RADIO <https://coten.co.jp/services/cotenradio/>`_ パーソナリティ
+
+  * 関連URL
+
+    * `樋口聖典(wikipedia) <https://ja.wikipedia.org/wiki/%E6%A8%8B%E5%8F%A3%E8%81%96%E5%85%B8>`_ 
+    * `樋口聖典さんtwitter <https://x.com/HiguchiKi>`_ 
+
+* 蔦　清行(つた　きよゆき)
+
+  * 出演回
+
+    * 係り結び回： `#368 <https://youtu.be/mERvFWc67xM>`_ 
+
+  * 北海道大学文学部准教授
+  * 関連URL:
+
+    * `プロフィールなど <https://www.let.hokudai.ac.jp/staff/tsuta-kiyoyuki>`_ 
+
 
 .. _出演スポンサー:
 
