@@ -10,7 +10,7 @@
 .. tip:: 調子がいい時は「あきら100%」、調子が悪ければ「あきら0%」
 
 .. rubric:: 関連ワード
-* :doc:`/係り結び` 
+* :doc:`係り結び` 
 
 .. rubric:: 関連リンク
 * `富士谷成章(wikipedia) <https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%A3%AB%E8%B0%B7%E6%88%90%E7%AB%A0>`_ 
