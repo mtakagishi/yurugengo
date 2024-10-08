@@ -289,6 +289,22 @@
 
     * `プロフィールなど <https://www.let.hokudai.ac.jp/staff/tsuta-kiyoyuki>`_ 
 
+.. _室越さん:
+
+* 室越　龍之介（むろこし　りゅうのすけ）
+
+  * 出演回
+
+    * 論理的思考： `#373 <https://youtu.be/HmClYAes144>`_ 
+
+  * 文化人類学専攻 
+  * 九州大学文学部人文学科卒
+  * 九州大学人間環境学府博士課程入学
+  * 個人ゼミ「le Tonneau」を主宰
+  * :doc:`人である意味` 
+  * 関連URL:
+
+    * `室越さんのlinktree <https://linktr.ee/ryunosukemuro?utm_source=linktree_profile_share&ltsid=600da41f-a8cd-4153-8f9c-25097256f5d2>`_ 
 
 .. _出演スポンサー:
 
