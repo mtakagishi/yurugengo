@@ -45,6 +45,9 @@
 
 :土曜日 09:45 ゆる言語学ラジオ 水野・堀元:  `(Youtube) <https://www.youtube.com/@yurugengo>`_ `(Spotify) <https://open.spotify.com/show/3nBZ3AgBAfSYdHbpJflIHZ>`_ 
 
+.. tip::  `2024年10月12日(土)放送回 <https://youtu.be/Ui0nA0CHfcs>`_ にて週2回更新から週1回更新への変更を宣言。土曜日更新は廃止された。
+
+
 ----
 
 .. image:: https://yt3.googleusercontent.com/m8S-8S3ZB7HXJKCKSpGKAF793AuQJMn6jsBrzjka1FqTMGfHc42f7UZkyy0JpzUOkUwCqFKTgws=s176-c-k-c0x00ffffff-no-rj
