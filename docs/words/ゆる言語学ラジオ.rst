@@ -33,7 +33,7 @@
 ゲスト（出演回順）
 ------------------------------------------
 
-* 福田純也（ふくたじゅんや）
+* 福田純也（ふくた じゅんや）
 
   * 出演回
 
@@ -48,7 +48,7 @@
     
     * `Fukuta's Lab <https://jfukuta24.wixsite.com/home>`_ 
 
-* 今井むつみ（いまいむつみ） 
+* 今井むつみ（いまい むつみ） 
 
   * 出演回
   
@@ -65,7 +65,7 @@
     * `今井むつみ研究室 <https://cogpsy.sfc.keio.ac.jp/imailab/>`_
     * `今井むつみ（Wikipedia） <https://ja.wikipedia.org/wiki/今井むつみ>`_ 
 
-* 嶋村貢志（しまむらこうじ）
+* 嶋村貢志（しまむら こうじ）
 
   * 出演回
   
@@ -81,7 +81,7 @@
     * `嶋村先生のHP <https://kojilinguist.com/>`_
     * `金沢大学の教員紹介にておすすめの本は？ <https://www.kanazawa-gu.ac.jp/aboutus/teacher/literature-shimamura/>`_ 
 
-* 黒島 規史（くろしまのりふみ）
+* 黒島 規史（くろしま のりふみ）
 
   * 出演回
   
@@ -99,7 +99,7 @@
     * `J-GLOBAL <https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201401028613554823>`_  
     * `ある言語研究者の4月 <https://amzn.to/3Gf16DS>`_ 
 
-* 高野 秀行（たかのひでゆき）
+* 高野 秀行（たかの ひでゆき）
 
   * 出演回
 
@@ -114,7 +114,7 @@
     * `語学の天才まで1億光年 <https://amzn.to/3gpjIGS>`_
     * `謎の独立国家ソマリランド <https://amzn.to/3gsU4AU>`_ 
 
-* 伊藤 雄馬（いとうゆうま）
+* 伊藤 雄馬（いとう ゆうま）
 
   * 出演回
   
@@ -130,7 +130,7 @@
     * `森のムラブリ(映画.com) <https://eiga.com/movie/96412/>`_ 
 
 
-* 堀田 隆一 （ほったりゅういち）
+* 堀田 隆一 （ほった りゅういち）
 
   * 出演回
 
@@ -154,7 +154,7 @@
     * `堀田先生Twitter <https://twitter.com/chariderryu>`_
     * `慶応研究者DB <https://k-ris.keio.ac.jp/html/100000223_ja.html>`_ 
 
-* 鈴木 俊貴 （すずきとしたか）
+* 鈴木 俊貴 （すずき としたか）
 
   * 出演回
 
@@ -169,7 +169,7 @@
 
     * `ANIMAL LINGUISTICS <https://www.toshitakasuzuki.com/>`_ 
 
-* 高田 祥司（たかたしょうじ）
+* 高田 祥司（たかた しょうじ）
 
   * 出演回
 
@@ -186,7 +186,7 @@
     * `高田先生Twitter <https://twitter.com/sunday_hornist>`_ 
     * `高田先生note <https://note.com/sunday_hornist/>`_ 
 
-* 川原 繁人（かわはらしげと）
+* 川原 繁人（かわはら しげと）
 
   * 出演回
 
@@ -233,7 +233,7 @@
     * `丸山先生researchmap <https://researchmap.jp/MARUYAMA_Takehiko>`_ 
     * `丸山先生Twitter <https://twitter.com/maruyama_take>`_ 
 
-* 中川　裕(なかがわ　ひろし)
+* 中川 裕(なかがわ ひろし)
 
   * 出演回
 
@@ -263,7 +263,7 @@
     * YouTube → https://www.youtube.com/@kotolabo
 
 
-* 樋口　聖典(ひぐち　きよのり)
+* 樋口 聖典(ひぐち きよのり)
 
   * 出演回
 
@@ -277,7 +277,7 @@
     * `樋口聖典(wikipedia) <https://ja.wikipedia.org/wiki/%E6%A8%8B%E5%8F%A3%E8%81%96%E5%85%B8>`_ 
     * `樋口聖典さんtwitter <https://x.com/HiguchiKi>`_ 
 
-* 蔦　清行(つた　きよゆき)
+* 蔦 清行(つた きよゆき)
 
   * 出演回
 
@@ -291,7 +291,7 @@
 
 .. _室越さん:
 
-* 室越　龍之介（むろこし　りゅうのすけ）
+* 室越 龍之介（むろこし りゅうのすけ）
 
   * 出演回
 
@@ -305,6 +305,24 @@
   * 関連URL:
 
     * `室越さんのlinktree <https://linktr.ee/ryunosukemuro?utm_source=linktree_profile_share&ltsid=600da41f-a8cd-4153-8f9c-25097256f5d2>`_ 
+
+* 和泉 悠（いずみ ゆう）
+
+  * 出演回
+  
+    * ガチ言語学（意味論）： `#375 <https://youtu.be/fe5kdBLS8wM>`_ 
+
+  * 南山大学人文学部人類文化学科 准教授
+  * 南山大学衒学センター センター長
+  * 京都"府"出身
+
+    * 京田辺市出身、あれ？それって京都でしたっけ？
+
+  * 大阪大学哲学学科卒
+  * メリーランド大学哲学博士課程卒
+  * 研究・関心は、言語哲学と形式意味論、特に名詞表現
+  * 著書 `悪い哲学入門 <https://amzn.to/4h3d0AL>`_  `悪口ってなんだろう <https://amzn.to/406Kqs6>`_ 
+
 
 .. _出演スポンサー:
 
