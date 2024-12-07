@@ -55,6 +55,8 @@
   
     * 赤ちゃん言語習得: `#137 <https://youtu.be/NinaUFNul8E>`_ `#138 <https://youtu.be/Jp2MfGQZ7F0>`_  `#149 <https://youtu.be/6AO_a9H5gTY>`_ `#150 <https://youtu.be/ivG_fbmuV5M>`_ `#191 <https://youtu.be/hNULhZPWmD8>`_ `#353 <https://youtu.be/_6SoIktBgX4>`_ `#363 <https://youtu.be/8Wpli2n6wAE>`_ 
     * SFC出張: `#148 <https://youtu.be/nh6Ru3TQMzo>`_
+    * 学校教育アハ体験: `#381 <https://youtu.be/oWBznhMApjY>`_ 
+    * 大人の間違い: `#382 <https://youtu.be/a_qAlQtFZgo>`_ 
 
   * 慶應義塾大学環境情報学部教授、ゆる言語学ラジオの種本を多数執筆
   * 慶應義塾大学大学院社会学研究科博士課程修了
