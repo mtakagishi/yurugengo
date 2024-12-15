@@ -413,18 +413,21 @@
   <!--PGA58-XLR--><a href="https://amzn.to/3A1MvdU" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51KDXIkfXAL._AC_SX679_.jpg" width="75"></a>
   <!--Zoom L-8--><a href="https://amzn.to/3A1z2D1" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51+sAJBFJpL._AC_SY879_.jpg" width="75"></a>
   <a href="https://amzn.to/4c4k24v" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71x72JNWQvL._AC_SX679_.jpg" width="75"></a>
+  <a href="https://amzn.to/4gCqtOK" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/612L0rd+WjL._AC_SX679_.jpg" width="75"></a>
   
 :`SM58`_: SHURE製マイク
 :`SM7B`_: SHURE製マイク(22年12月よりランクアップ)
 :`PGA58-XLR`_: SHURE製マイク
 :`プリアンプ`_: TRITON AUDIOのプリアンプ
 :`Zoom L-8`_: ZOOM ズーム デジタルミキサー 8ch
+:`FX3`_: FX3 (カフェのカメラ)
 
 .. _SM58: https://amzn.to/3XgU7PW
 .. _SM7B: https://amzn.to/3NBR14v
 .. _PGA58-XLR: https://amzn.to/3vKDvof
 .. _Zoom L-8: https://amzn.to/3Gk6HXU
 .. _プリアンプ: https://amzn.to/3CuV4w0
+.. _FX3: https://amzn.to/4fjxJhD
 
 音源
 ------------------------------------------
