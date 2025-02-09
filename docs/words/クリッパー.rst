@@ -1,0 +1,25 @@
+クリッパー(Clippy)
+==========================================
+.. glossary::
+    クリッパー : く
+    Clippy : A-Z
+
+堀元さんそっくりのクリップのキャラクター。かつてのMS Office英語圏で利用され、世界中のユーザのヘイトを集めた存在。
+
+.. image:: https://pbs.twimg.com/media/GjV0eD9bMAApIP5?format=jpg&name=small
+  :width: 15%
+.. image:: https://pbs.twimg.com/media/GjV93smbUAEsf3j?format=png&name=small
+  :width: 15%
+
+引用：https://x.com/MAGTAKO/status/1888554062150500627
+
+.. tip:: セリフは「調子はどう？相変わらず仕事ばかりの毎日？」
+
+
+.. rubric:: 関連ワード
+* :doc:`茶化し茄子` 
+* :doc:`バルバス・バウ` 
+
+.. rubric:: 関連ラジオ
+* `最悪のデザインを暴露します。#162`_
+.. _最悪のデザインを暴露します。#162: https://www.youtube.com/watch?v=o5S5_AMBA58

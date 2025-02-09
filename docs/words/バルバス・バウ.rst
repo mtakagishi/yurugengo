@@ -12,6 +12,7 @@
 
 .. rubric:: 関連ワード
 * :doc:`茶化し茄子` 
+* :doc:`クリッパー` 
 
 .. rubric:: 関連リンク
 * `バルバス・バウ(Wikipedia) <https://ja.wikipedia.org/wiki/バルバス・バウ>`_ 
