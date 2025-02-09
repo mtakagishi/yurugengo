@@ -11,6 +11,11 @@
 :ヘク: 自動詞・他動詞を調べる際に用いられたナンセンス語。AさんがBさんをヘクっているのはどっち？AさんとBさんがヘクっているのはどっち？
 :eelie: 存在しない英語の動詞を用いた文、"I eelied Jim a Martin." を母語話者はほぼ意味が捉えられる。
 
+.. rubric:: 関連スタンプ
+* `Lineネケスタンプ <https://store.line.me/stickershop/product/24118981/ja>`_ 
+.. image:: https://stickershop.line-scdn.net/stickershop/v1/product/24118981/LINEStorePC/main.png?v=1
+  :width: 15%
+
 .. rubric:: 関連ワード
 * :doc:`イップス` 
 
