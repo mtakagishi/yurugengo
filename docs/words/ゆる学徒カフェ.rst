@@ -5,6 +5,9 @@
 
 2023年6月1日にオープンしたラジオ企画から誕生したカフェ。
 
+.. rubric:: 関連ワード
+:doc:`ゆる学徒カフェの歌` 
+
 .. rubric:: 関連リンク
 * `ゆる学徒カフェ公式ホームページ <https://yurugakuto.studio.site/>`_
 * `ゆる学徒カフェ収録アーカイブ <https://note.com/yurugakuto/>`_ 
