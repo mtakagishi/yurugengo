@@ -78,6 +78,7 @@ html_theme_options = {
 }
 html_theme_options["analytics"] = {
     "google_analytics_id": "G-ZQ74H2ZF8F",
+    "includehidden": True,
 }
 html_sidebars = {
     # "words/*": ["search-field.html","ads_google.html"],
@@ -85,8 +86,6 @@ html_sidebars = {
     # "videos/timeline": ["ads_google.html"],
     # "**": ["search-field.html", "ads_top_medium_rectangle.html"],
     "**": ["search-field.html", "ads_google.html"],
-    "*": ["search-field.html", "ads_google.html"],
-    "*/*": ["search-field.html", "ads_google.html"],
 }
 
 [extensions]
