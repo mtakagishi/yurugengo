@@ -85,7 +85,8 @@ html_sidebars = {
     # "reference/*": ["search-field.html","ads_google.html"],
     # "videos/timeline": ["ads_google.html"],
     # "**": ["search-field.html", "ads_top_medium_rectangle.html"],
-    "**": ["search-field.html", "ads_google.html"],
+    # "**": ["search-field.html", "ads_google.html"],
+    "**": ["search-field.html"],
 }
 
 [extensions]
