@@ -74,19 +74,16 @@ html_theme_options = {
     "external_links": [
         {"name": "問合せ", "url": "https://forms.gle/WJ3khhqqeNrEr8fv6"},
     ],
-    "article_footer_items": ["ads_google.html","ads_themoneytizer.html"],
+    "article_footer_items": ["ads_themoneytizer.html"],
 }
 html_theme_options["analytics"] = {
     "google_analytics_id": "G-ZQ74H2ZF8F",
-    "includehidden": True,
 }
 html_sidebars = {
-    # "words/*": ["search-field.html","ads_google.html"],
-    # "reference/*": ["search-field.html","ads_google.html"],
-    # "videos/timeline": ["ads_google.html"],
+    "words/*": ["search-field.html"],
+    "reference/*": ["search-field.html"],
+    "videos/timeline": [],
     # "**": ["search-field.html", "ads_top_medium_rectangle.html"],
-    # "**": ["search-field.html", "ads_google.html"],
-    "**": ["search-field.html"],
 }
 
 [extensions]
