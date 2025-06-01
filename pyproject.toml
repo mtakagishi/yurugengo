@@ -7,7 +7,6 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Pillow = "==9.5"
 pydata-sphinx-theme = "^0.13.3"
 myst-parser = "^1.0.0"
 sphinxcontrib-blockdiag = "^3.0.0"
@@ -15,10 +14,11 @@ sphinx-sitemap = "^2.5.0"
 sphinxnotes-strike = "^1.2"
 sphinx-git = "^11.0.0"
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 sphinx-autobuild = "^2021.3.14"
 autopep8 = "^2.0.2"
 poethepoet = "^0.19.0"
+doit = "^0.36.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

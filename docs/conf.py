@@ -35,7 +35,6 @@ extensions = [
     "myst_parser",
     # 'sphinx_sitemap',
     'sphinxnotes.strike',
-    'sphinxcontrib.blockdiag',
     'sphinx_git',
 ]
 
