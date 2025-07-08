@@ -451,6 +451,7 @@
 
 .. raw:: html
 
+  <!--会話の0.2秒を言語学する--><a href="https://amzn.to/3GwjEC5" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/81HkczO8LhL._SY466_.jpg" width="75"></a> 
   <!--言語オタクが友だちに700日間語り続けて引きずり込んだ言語沼--><a href="https://www.valuebooks.jp/%E3%80%90%E4%BA%88%E7%B4%84%E6%9C%AC%E3%80%91%E8%A8%80%E8%AA%9E%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%8C%E5%8F%8B%E3%81%A0%E3%81%A1%E3%81%AB700%E6%97%A5%E9%96%93%E8%AA%9E%E3%82%8A%E7%B6%9A%E3%81%91%E3%81%A6%E5%BC%95%E3%81%8D%E3%81%9A%E3%82%8A%E8%BE%BC.../bp/VS0065590238" target="_blank"><img border="0" src="https://wcdn.valuebooks.jp/endpaper/upload/1669085404380-scaled.jpg" width="75"></a>
   <!--教養悪口--><a href="https://amzn.to/3WGYhDn" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/711Zgi2Cs+L._SY466_.jpg" width="75"></a>
   <!--ビジネス書100--><a href="https://amzn.to/3SvVcn7" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/71hc-lSdjTL._SY466_.jpg" width="75"></a>
@@ -473,8 +474,9 @@
   <!--数理モデル思考で紐解くRULE DESIGN--><a href="https://amzn.to/4c4n74y" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/81CHmVd1N5L._SY466_.jpg" width="75"></a>
   </br>
   <!--川原先生--><a href="https://amzn.to/4c0Ok8l" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51QRyrS3VGL._SY445_SX342_.jpg" width="75"></a>
-  
 
+  
+* `会話の0.2秒を言語学する <https://amzn.to/3GwjEC5>`_ 水野太貴（著）
 * `言語沼 <https://www.valuebooks.jp/%E3%80%90%E4%BA%88%E7%B4%84%E6%9C%AC%E3%80%91%E8%A8%80%E8%AA%9E%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%8C%E5%8F%8B%E3%81%A0%E3%81%A1%E3%81%AB700%E6%97%A5%E9%96%93%E8%AA%9E%E3%82%8A%E7%B6%9A%E3%81%91%E3%81%A6%E5%BC%95%E3%81%8D%E3%81%9A%E3%82%8A%E8%BE%BC.../bp/VS0065590238>`_ 堀元見・水野太貴（著）
 * `教養（インテリ）悪口本 (Kindle) <https://amzn.to/32DleO2>`_ 堀元 見 (著)
 * `教養（インテリ）悪口本 (単行本) <https://amzn.to/3Jj42hL>`_ 堀元 見 (著)
