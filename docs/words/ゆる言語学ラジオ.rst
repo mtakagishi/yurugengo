@@ -24,7 +24,7 @@
 * 水野太貴（みずのだいき）
 
   * 名古屋大学文学部 言語学出身
-  * `某大手出版社 <https://www.shueisha.co.jp/2024saiyo/people/staff/02/>`_ のサラリーマン
+  * 某大手出版社のサラリーマン
   * 1995年8月31日生まれ、身長178cm
   * たいきでなくだいき
 
@@ -145,6 +145,7 @@
     * 喜怒哀楽英単語: `#227 <https://youtu.be/AcX7J0LZM54>`_ `#228 <https://www.youtube.com/watch?v=yCxmgySRS20>`_
     * 辞書を読む： `#234 <https://www.youtube.com/watch?v=g720dN09fzA>`_
     * ターゲット1900: `#247 <https://youtu.be/ZA2gRo3F7pM>`_ 
+    * `うんちくしりとりパンクラチオン <https://youtu.be/pWSf-2bez84>`_ 
   
   * 慶應義塾大学文学部教授（英米文学専攻）
   * 東京外国語大学 外国語学部 英米語学科卒業
@@ -331,6 +332,26 @@
   * 研究・関心は、言語哲学と形式意味論、特に名詞表現
   * 著書 `悪い哲学入門 <https://amzn.to/4h3d0AL>`_  `悪口ってなんだろう <https://amzn.to/406Kqs6>`_ 
 
+* 松原 由幸（まつばら よしゆき）
+
+  * 出演回
+
+    * 図鑑に溺れようぜ！！！！！： `#2025/07/15 <https://youtu.be/eNxaoYVFPew>`_ 
+
+  * 名古屋大学理学部卒
+  * 学研の図鑑LIVE編集長
+
+* 久保（川合）南海子(くぼ みなこ)
+
+  * 出演回
+
+    * `プロジェクション <https://youtu.be/X7JpfLAb1Xs>`_ 
+  
+  * 愛知淑徳大学 心理学部 教授
+  * 日本女子大学大学院, 人間社会研究科, 心理学専攻博士課程
+  * 関連URL
+
+    * `久保南海子先生researchmap <https://researchmap.jp/kubokawainamiko>`_ 
 
 .. _出演スポンサー:
 
@@ -546,7 +567,10 @@
 
 ヒストリー
 ------------------------------------------
+* 2025年12月14日 `『会話の0.2秒を言語学する』印税100万円贈呈式 <https://youtu.be/-9wD0wTJuYs>`_ ／ `水野太貴×新潮社担当編集者、100万円受賞者言語学徒の大塚日花里さんも登場 <https://youtu.be/I6QNF0UvyQU>`_ 
+* 2025年11月28日 水野さんMCのPodcast番組 `Podcast番組「神保町で会いましょう」 <https://open.spotify.com/episode/3fr2tFi9v8c1vhHwEp3c8E>`_ 開始
 * 2025年10月05日 `ゆる言語学ラジオYoutubeチャンネル登録者数40万人、ゆるコンピュータ科学ラジオ登録者数20万人 <https://x.com/mtakagishi/status/1975045347568480436>`_ 
+* 2025年08月27日 水野さんの初単著 `会話の0.2秒を言語学する <https://amzn.to/3Y9ZjI2>`_ 出版
 * 2024年09月30日 ゆる言語学ラジオYoutubeチャンネル登録者数30万人
 * 2024年08月06日 ゆるコンピュータ科学ラジオYoutubeチャンネル登録者数10万人
 * 2024年08月03日 `Lineスタンプ第三弾公開 <https://store.line.me/stickershop/product/27456535/ja>`_ 
