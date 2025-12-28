@@ -32,7 +32,7 @@ The Moneytizer
 お問合せ
 -------------------
 * `お問合せ・ご意見・ご要望 <https://forms.gle/WJ3khhqqeNrEr8fv6>`_
-* `ツイッター <https://twitter.com/mtakagishi>`_  
+* `X（旧twitter） <https://twitter.com/mtakagishi>`_  
 
 更新履歴
 -------------------
