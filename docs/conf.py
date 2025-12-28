@@ -68,18 +68,16 @@ html_theme_options = {
     "logo": {
         "text": project,
     },
-    # "github_url": "https://github.com/mtakagishi/yurugengo",
-    # "twitter_url": "https://twitter.com/mtakagishi",
     "icon_links": [
-        {
-             "name": "Github",
-             "url": "https://github.com/mtakagishi/yurugengo",
-             "icon": "fa-brands fa-github",
-        },
         {
             "name": "X",
             "url": "https://x.com/mtakagishi",
             "icon": "fa-brands fa-x-twitter",
+        },
+        {
+             "name": "Github",
+             "url": "https://github.com/mtakagishi/yurugengo",
+             "icon": "fa-brands fa-github",
         },
     ],
     "external_links": [

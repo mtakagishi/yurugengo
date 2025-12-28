@@ -199,3 +199,5 @@
 .. _水野太貴生誕祭【with バリューブックス飯田さん】: https://www.youtube.com/live/fLLWHsANHLg?si=PAHCSa5BOEQGNRv_
 .. _【ゆる言語学ラジオコラボ】日本語クイズで言語オタクに勝てるのか？: https://youtu.be/qqSlM5rVWcw
 .. _うんちくエウレーカウミガメのスープ【ゆる言語学ラジオコラボ】: https://youtu.be/qZD-uBFb8R4
+.. _144「なぜ『頭がいい』が流行るのか。ゆる言語学ラジオの二人と探る現代の知性観」（ゲスト： #ゆる言語学ラジオ ・堀元見、水野太貴）: https://youtu.be/CqVYCtqJprI
+.. _145「『頭が悪い』という言葉を紐解く。ゆる言語学ラジオの二人と考える言葉の多層構造」（ゲスト： #ゆる言語学ラジオ ・堀元見、水野太貴）: https://youtu.be/U-VU0XNR0-o

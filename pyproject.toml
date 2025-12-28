@@ -6,8 +6,8 @@ authors = ["mtakagishi <mtakagishi+github@gimail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
-pydata-sphinx-theme = "^0.14.4"
+python = ">=3.9"
+pydata-sphinx-theme = "^0.16.1"
 myst-parser = "^1.0.0"
 sphinxcontrib-blockdiag = "^3.0.0"
 sphinx-sitemap = "^2.5.0"
