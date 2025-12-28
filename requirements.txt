@@ -1,4 +1,4 @@
-Pillow==9.5
+Pillow
 pydata-sphinx-theme
 myst-parser
 sphinx-sitemap
