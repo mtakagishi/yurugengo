@@ -8,23 +8,29 @@ JAPAN PODCAST AWARDS
 * 水野氏からは何を絵空事を？と正気を疑われた目標の結果は果たして！？
 
 .. tip:: 
-  『ベストナレッジ賞』『リスナーズチョイス1位』、大賞は肉薄しながらも逃す。 [#t3]_
+  2021年度 第3回 JAPAN PODCAST AWARDS ゆる言語学ラジオが『ベストナレッジ賞』『リスナーズチョイス1位』、大賞は肉薄しながらも逃す。 [#t3]_
 
-.. rubric:: 受賞時の様子
+.. tip:: 
+  2022年度 第4回 JAPAN PODCAST AWARDS ゆるコンピュータ科学ラジオが 『リスナーズチョイス7位』 を受賞。 [#t5]_
+
+.. tip:: 
+  | 2025年度 第7回 JAPAN PODCAST AWARDS ゆる言語学ラジオが 『大賞』 を受賞。 [#t6]_
+  | こちらのNote `Podcastアワードを受賞したので、業界についての本音を書くよ。 <https://note.com/kenhori2/n/n512643f13d95>`_ で受賞の本音が語られてる
+
+
+.. rubric:: 第7回　『大賞』受賞時の様子
+
+.. image:: https://pbs.twimg.com/media/HDsH7i7aIAA79gp?format=jpg&name=small
+  :width: 40%
+
+.. rubric:: 第3回　『ベストナレッジ賞』『リスナーズチョイス1位』受賞時の様子
+
 .. image:: https://pbs.twimg.com/media/FODBLgOagAIeyP4?format=jpg&name=small
   :width: 40%
 
 .. tip:: 
-  `2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞にノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
+  `2021年度 第3回 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞にノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
 
- 
-.. rubric:: 大賞ノミネート
-.. image:: /_static/podcast_awards_of_the_year_nominations2021.png
-  :width: 40%
-
-.. rubric:: ベストナレッジ賞ノミネート
-.. image:: /_static/podcast_awards_best_knowledge_nominations2021.png
-  :width: 40%
 
 .. rubric:: 関連ワード
 * :doc:`Podcast_weekend_podcast` 
@@ -33,6 +39,9 @@ JAPAN PODCAST AWARDS
 
 .. rubric:: 関連リンク
 * `JAPAN PODCAST AWARDS(公式) <https://japanpodcastawards.com/>`_ 
+* .. [#t6]  `2025年度 JAPAN PODCAST AWARDS アーカイブ <https://www.japanpodcastawards.com/judges/07/index.html>`_ 
+* .. [#t5]  `2022年度 JAPAN PODCAST AWARDS アーカイブ <https://www.japanpodcastawards.com/archives/04/index.html>`_ 
+* .. [#t4]  `2021年度 JAPAN PODCAST AWARDS アーカイブ <https://www.japanpodcastawards.com/archives/03/index.html>`_ 
 * .. [#t3]  `2021年度 JAPAN PODCAST AWARDS 採点詳細 <https://twitter.com/kanda_daisuke/status/1504461018776637444>`_ 
 * `祝！2021年度 JAPAN PODCAST AWARDS 大賞とベストナレッジ賞の２部門ノミネート！ <https://www.japanpodcastawards.com/nominations/>`_ 
 * .. [#t1] `Twitter「Podcastアワード2021を取る」： <https://twitter.com/kenhori2/status/1481855178592894976>`_ 
