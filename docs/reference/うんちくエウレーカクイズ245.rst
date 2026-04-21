@@ -14,7 +14,7 @@
 
 .. raw:: html
 
-  <!--マチズモを削り取れ--><a href="https://www.amazon.co.jp/%E3%83%9E%E3%83%81%E3%82%BA%E3%83%A2%E3%82%92%E5%89%8A%E3%82%8A%E5%8F%96%E3%82%8C-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%87%E8%8A%B8%E5%8D%98%E8%A1%8C%E6%9C%AC-%E6%AD%A6%E7%94%B0%E7%A0%82%E9%89%84-ebook/dp/B098DTHW93?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3PH6AWBCU9G0I&keywords=%E3%83%9E%E3%83%81%E3%82%BA%E3%83%A2%E3%82%92%E5%89%8A%E3%82%8A%E5%8F%96%E3%82%8C&qid=1689162949&sprefix=%E3%83%9E%E3%83%81%E3%82%BA%E3%83%A2%E3%82%92%E5%89%8A%E3%82%8A%E5%8F%96%E3%82%8C%2Caps%2C168&sr=8-1&linkCode=li1&tag=takaoutputblo-22&linkId=fd942a48bf989466e2306f70c461f994&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B098DTHW93&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B098DTHW93" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--マチズモを削り取れ--><a href="https://amzn.to/44Dq0Gf" target="_blank"><img border="0" src="https://images-na.ssl-images-amazon.com/images/P/B098DTHW93.09._SCLZZZZZZZ_.jpg" width="75"></a>
 
 +-----------------------+--------------------------------------------------------------------------------------------------------------------------------------+
 |       タイトル        |                                                                 解説                                                                 |

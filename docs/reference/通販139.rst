@@ -13,7 +13,7 @@
 .. raw:: html
 
   <!--ファミ通--><a href="https://amzn.to/3nG2EfE" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/514bYB7+2zL._AC_UY218_.jpg" width="100"></a>
-  <!--SPUR 2022年8月号--><a href="https://www.amazon.co.jp/SPUR-%E3%82%B7%E3%83%A5%E3%83%97%E3%83%BC%E3%83%AB-2022%E5%B9%B48%E6%9C%88%E5%8F%B7-%E9%9B%91%E8%AA%8C-%E9%9B%86%E8%8B%B1%E7%A4%BE-ebook/dp/B0B2WGGVHK?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=spur+8%E6%9C%88%E5%8F%B7&qid=1656679455&s=books&sr=1-1&linkCode=li1&tag=takaoutputblo-22&linkId=a0f079047aaacb4923a8f05ff99ea58d&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B2WGGVHK&Format=_SL110_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=takaoutputblo-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=takaoutputblo-22&language=ja_JP&l=li1&o=9&a=B0B2WGGVHK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <!--SPUR 2022年8月号--><a href="https://amzn.to/3ORf1la" target="_blank"><img border="0" src="https://images-na.ssl-images-amazon.com/images/P/B0B2WGGVHK.09._SCLZZZZZZZ_.jpg" width="75"></a>
   <!--シュプールTVコラボ動画--><a href="https://youtu.be/GwpDnnqkny0" target="_blank"><img border="0" src="https://i.ytimg.com/vi/GwpDnnqkny0/hqdefault.jpg" width="100"></a>
   <br>
   <!--ゆる言語学ラジオ 公式グッズ--><a href="https://www.valuebooks.jp/shelf-items/folder/4362babbae09d77" target="_blank"><img border="0" src="https://yurugengo.com/_next/image?url=%2Fimages%2Flogo.png&w=1920&q=75" width="100"></a>
