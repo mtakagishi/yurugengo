@@ -6,12 +6,16 @@
 1. 助数詞回を聴くと得られる助数詞を知れは知るほどに得られる高揚感
 2. リスナーのペンネーム。文才溢れる「尾籠な話」に定評がある。
 
-.. admonition:: 尾籠な話
+.. admonition:: 助数詞ーズハイさんの尾籠な話
 
   * 第一話： `助数詞回を見てしまった故の悲劇 <https://www.youtube.com/watch?v=DOPj0ObyX-Y&t=2656s>`_ 
   * 第二話： `後日譚 <https://www.youtube.com/watch?v=VdVT4zYSH24&t=2993s>`_ 
   * 第三話： `女王様とのプレイについて <https://youtu.be/xDg-2u1njFI?t=1798s>`_ 
   * 第四話： `臭いの記憶 <https://youtu.be/ocIOoXuc0Cs&t=1656s>`_ 
+
+.. admonition:: 助数詞ーズハイの意思を継ぐもの
+
+  * :doc:`i_grec`
 
 .. tip:: 
   * 2022年度 :doc:`ゆる言語学ラジオ流行語大賞` ベスト10に登場
@@ -24,6 +28,7 @@
 * :doc:`マック構文`
 * :doc:`true・false`
 * :doc:`エロイプ兄貴`
+* :doc:`i_grec`
 
 
 .. rubric:: 関連リンク
