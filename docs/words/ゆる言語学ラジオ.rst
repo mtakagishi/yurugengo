@@ -186,6 +186,8 @@
     * カタルシス古典文法： `#259 <https://youtu.be/W234JLB3t8w>`_ `#260 <https://youtu.be/qcceIZPosSo>`_ `#261 <https://youtu.be/mf_5q6AjlCs>`_
     * キャッチコピー: `#263 <https://youtu.be/wnC5-HDO5SY>`_
     * 雑談: `#264 <https://youtu.be/SNb5iQB4WIc>`_ `#265 <https://youtu.be/RtkggS3g5Mw>`_ 
+    * `結局、日本語は乱れているのか？ <https://youtu.be/q0IMJI6emLE>`_ 
+
 
   * 大阪大学 文学研究科 、ゆる言語学ラジオ監修者の一人
   * 大阪大学大学院文学研究科
@@ -495,7 +497,9 @@
   <!--数理モデル思考で紐解くRULE DESIGN--><a href="https://amzn.to/4c4n74y" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/81CHmVd1N5L._SY466_.jpg" width="75"></a>
   </br>
   <!--川原先生--><a href="https://amzn.to/4c0Ok8l" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/51QRyrS3VGL._SY445_SX342_.jpg" width="75"></a>
-
+  </br>
+  <!--高田先生--><a href="https://amzn.to/4wSq5ER" target="_blank"><img border="0" src="https://m.media-amazon.com/images/I/81cEikZikuL._AC_UL320_.jpg" width="75"></a>
+  
   
 * `会話の0.2秒を言語学する <https://amzn.to/3GwjEC5>`_ 水野太貴（著）
 * `言語沼 <https://www.valuebooks.jp/%E3%80%90%E4%BA%88%E7%B4%84%E6%9C%AC%E3%80%91%E8%A8%80%E8%AA%9E%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%8C%E5%8F%8B%E3%81%A0%E3%81%A1%E3%81%AB700%E6%97%A5%E9%96%93%E8%AA%9E%E3%82%8A%E7%B6%9A%E3%81%91%E3%81%A6%E5%BC%95%E3%81%8D%E3%81%9A%E3%82%8A%E8%BE%BC.../bp/VS0065590238>`_ 堀元見・水野太貴（著）
@@ -514,6 +518,7 @@
 * `親子で育てる　ことば力と思考力`_ 今井 むつみ (著)
 * `データ分析のための数理モデル入門`_ 
 * `数理モデル思考で紐解くRULE DESIGN`_
+* `文法、どこにありますか?(高田 祥司 (著)) <https://amzn.to/4nNRO5D>`_ 
 
 
 `今井先生関連の書籍はこちら <https://amzn.to/3P6hI1G>`_ 
